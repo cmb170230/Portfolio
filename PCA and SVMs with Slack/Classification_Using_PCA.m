@@ -1,3 +1,4 @@
+%%Read in and Preprocess Data
 wholedata_train = importdata("C:\Users\benne\Google Drive\Laptop Sync\UTD\Old\Fall 2022\CS 4375\Homeworks\Problem Set 4\sonar_train.data");
 wholedata_validate = importdata("C:\Users\benne\Google Drive\Laptop Sync\UTD\Old\Fall 2022\CS 4375\Homeworks\Problem Set 4\sonar_valid.data"); 
 wholedata_test = importdata("C:\Users\benne\Google Drive\Laptop Sync\UTD\Old\Fall 2022\CS 4375\Homeworks\Problem Set 4\sonar_test.data");
@@ -29,7 +30,7 @@ for i = 1:size(wholedata_test,1)
     end
 end
 
-%%construct W matrix
+%%construct W matrix for covariance matrix calculation
 w = ones(size(x_train,2),size(x_train,1));
 datamean = 0;
 for j = 1:size(w,2)
