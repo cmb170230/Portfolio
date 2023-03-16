@@ -1,4 +1,4 @@
-%%Read in and Preprocess Data
+%% Read in and Preprocess Data
 wholedata_train = importdata("C:\Users\benne\Google Drive\Laptop Sync\UTD\Old\Fall 2022\CS 4375\Homeworks\Problem Set 4\sonar_train.data");
 wholedata_validate = importdata("C:\Users\benne\Google Drive\Laptop Sync\UTD\Old\Fall 2022\CS 4375\Homeworks\Problem Set 4\sonar_valid.data"); 
 wholedata_test = importdata("C:\Users\benne\Google Drive\Laptop Sync\UTD\Old\Fall 2022\CS 4375\Homeworks\Problem Set 4\sonar_test.data");
@@ -30,64 +30,81 @@ for i = 1:size(wholedata_test,1)
     end
 end
 
-%%construct W matrix for covariance matrix calculation
-w = ones(size(x_train,2),size(x_train,1));
+
+%% construct W matrix for covariance matrix calculation
+W = ones(size(x_train,2),size(x_train,1));
 datamean = 0;
-for j = 1:size(w,2)
+for j = 1:size(W,2)
         datamean = datamean + x_train(j,:);
 end
-datamean = datamean/size(w,2);
-for i = 1:size(w,2)
-    w(:,i) = x_train(i,:)-datamean;
+datamean = datamean/size(W,2);
+for i = 1:size(W,2)
+    W(:,i) = x_train(i,:)-datamean;
 end
 
-cov = w*w';
+cov = W*W';
 
+%compute eigenvectors and eigenvalues
 [evect, evals] = eig(cov);
 
+%for curiosity/experimentation, find total eigenvalue mass to be able to
+%calculate how much of the variance can be explained by a direction given 
+%by an eigenvector, not used/relevant to script functioning
 esum = 0;
 for i = 1:size(evals,1)
     esum = esum + evals(i,i);
 end
 
+%% Main Execution Body
+
+%initialize range of values for slack 
 C = [1, 10, 10^2, 10^3];
 rankArr = [1, 2, 3, 4, 5, 6];
 accuracyArr = zeros(24,4);
 
-initC = 1;
-initRank = 1;
+cSlack = 1;
+rank = 1;
 for i = 1:24
+    %controls combination of values
     if(mod(i-1,6) == 0 && i ~= 1)
-        initC = initC + 1;
-        initRank = initRank - 6;
+        cSlack = cSlack + 1;
+        rank = rank - 6;
     end
-    reducedDim = projectData(initRank, evect, evals);
+
+    %reduce the dimensionality of the data according to the rank argument
+    reducedDim = projectData(rank, evect, evals);
     projectedData_train = x_train * reducedDim;
     projectedData_valid = x_valid * reducedDim;
-    [a, b, c, d] = descendGradient(C(initC), projectedData_train, projectedData_valid, y_train, y_valid, 30000);
-    accuracyArr(i,1) = 1 - a / size(x_train, 1); 
-    accuracyArr(i,2) = 1 - b / size(x_valid, 1); 
-    accuracyArr(i,3) = C(initC);
-    accuracyArr(i,4) = initRank;
-    initRank = initRank + 1;
+
+    %learn a classifier for the projected data
+    [itrain, itest, w, b] = descendGradient(C(cSlack), projectedData_train, projectedData_valid, y_train, y_valid, 30000);
+
+    %store the results on the training and test data along with input
+    %parameters
+    accuracyArr(i,1) = 1 - itrain / size(x_train, 1); 
+    accuracyArr(i,2) = 1 - itest / size(x_valid, 1); 
+    accuracyArr(i,3) = C(cSlack);
+    accuracyArr(i,4) = rank;
+
+    %increment the rank
+    rank = rank + 1;
 end
-%test
+
+%using the results from the above trials, run again using the optimal
+%hyperparameters
 testdim = projectData(6, evect, evals);
 projectedData_train = x_train * testdim;
 projectedData_test = x_test * testdim;
-[inctr, inctst, testw, testb] = descendGradient(C(3), projectedData_train, projectedData_test, y_train, y_test, 100000);
-function projected = projectData(rankproj, evect, evals)
-    Q = evect(:,size(evect,1)-rankproj:size(evect,1));
-    D = evals(size(evect,1)-rankproj:size(evect,1),size(evect,1)-rankproj:size(evect,1));
-    projected = Q;
-%     reduced = Q*D*Q';
-%     projected = zeros(size(x_data,1), size(x_data,2));
-%     for i = 1:size(x_data,1)
-%         for j = 1:size(evect,1)
-%             projected(i,j) = dot(evect(j,:), x_data(i,:));
-%         end
-%     end
+[inctr, inctst, testw, testb] = descendGradient(C(3), projectedData_train, projectedData_test, y_train, y_test, 30000);
+
+%% Function Definitions
+
+%projects data down to the specified dimension
+function projected = projectData(rankproj, evect, ~)
+    projected = evect(:,size(evect,1)-rankproj:size(evect,1));
 end
+
+% Support Vector Machine allowing for Slack calculated via Gradient Descent
 function [incorrect_train, incorrect_test, w, b] = descendGradient(c, x_train, x_test, y_train, y_test, max_iter)
     %set initial conditions for gradient descent
     w = zeros(1,size(x_train,2));
@@ -100,7 +117,8 @@ function [incorrect_train, incorrect_test, w, b] = descendGradient(c, x_train, x
     tol = 0.1;
     dfdw = inf;
     dfdb = inf;
-    %
+    
+    %begin descending the gradient
     while((abs(norm(dfdw)) > tol || abs(dfdb) > tol) && epoch <= max_iter)
         wSum = 0;
         bSum = 0;
@@ -113,68 +131,41 @@ function [incorrect_train, incorrect_test, w, b] = descendGradient(c, x_train, x
                 indicator = 0;
             end
             if(indicator > 0)
-            wSum = wSum + y_train(i)*x_train(i,:)*indicator;
-            bSum = bSum + y_train(i)*indicator;
+                wSum = wSum + y_train(i)*x_train(i,:)*indicator;
+                bSum = bSum + y_train(i)*indicator;
             end
         end
-    
+        
         dfdw = (1/numData)*wSum;
         dfdb = (1/numData)*bSum;
         
         w = w + dfdw*gamma;
         b = b + dfdb*gamma;
-    
-        %check if classifier is perfect
-        incorrect_train = 0;
-        for i = 1:numData
-        classify = sign(dot(w,x_train(i,:))+b);
-            if y_train(i) ~= classify && classify ~= 0
-                incorrect_train = incorrect_train + 1;
-            end
-        end
         
-        %print first three iterations and last two if max iterations is reached
-        %if(epoch <= 0 || epoch == max_iter)
-        %    fprintf("Iteration %i\nw = ", epoch)
-        %    disp(w)
-        %    fprintf("b = ")
-        %    disp(b)
-        %    fprintf("________\n")
-        %end
         epoch = epoch + 1;
-        
     end
-    %print final iteration
-    %fprintf("Iteration %i\nw = ", epoch-1)
-    %        disp(w)
-    %        fprintf("b = ")
-    %        disp(b)
-    %        fprintf("________\n")
+    
     fprintf("C = %d\nIterations = %i\n", c, epoch-1)
-    %recheck classifier
+
+    %check classifier performance on the training data
     incorrect_train = 0;
         for i = 1:numData
         classify = sign(dot(w,x_train(i,:))+b);
             if (y_train(i) ~= classify || classify == 0)
                 incorrect_train = incorrect_train + 1;
-                %disp(i)
             end
         end
         fprintf("# of misclassified train points: ")
         disp(incorrect_train)
         
-        %recheck classifier
+    %check classifier performance on the test data
     incorrect_test = 0;
         for i = 1:size(x_test,1)
         classify = sign(dot(w,x_test(i,:))+b);
             if (y_test(i) ~= classify || classify == 0)
                 incorrect_test = incorrect_test + 1;
-                %disp(i)
             end
         end
         fprintf("# of misclassified test points: ")
         disp(incorrect_test)
-
-        %disp(dfdw)
-        %disp(dfdb)
 end

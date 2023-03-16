@@ -1,4 +1,4 @@
-%%Read in data and Preprocess
+%% Read in and Preprocess Data
 wholedata_train = importdata("C:\Users\benne\Google Drive\Laptop Sync\UTD\Old\Fall 2022\CS 4375\Homeworks\Problem Set 4\sonar_train.data");
 wholedata_validate = importdata("C:\Users\benne\Google Drive\Laptop Sync\UTD\Old\Fall 2022\CS 4375\Homeworks\Problem Set 4\sonar_valid.data"); 
 wholedata_test = importdata("C:\Users\benne\Google Drive\Laptop Sync\UTD\Old\Fall 2022\CS 4375\Homeworks\Problem Set 4\sonar_test.data");
@@ -30,7 +30,7 @@ for i = 1:size(wholedata_test,1)
     end
 end
 
-%%construct W matrix
+%% construct W matrix, covariance matrix, and find eigenvals/vects
 w = ones(size(x_train,2),size(x_train,1));
 datamean = 0;
 for j = 1:size(w,2)
@@ -56,10 +56,11 @@ cov = w*w';
 
 %testsampledata = datagen(testsamp, x_train);
 
-%%main execution section- for the range of top k eigenvectors to try, try
-%%sampling 1-20 features from the corresponding pi distribution- for each
-%%eigenvector/sampling pair, take the average of 100 trials to better 
-%%capture accuracy of this technique
+%% main execution section- for the range of top k eigenvectors to try, try
+%  sampling 1-20 features from the corresponding pi distribution- for each
+%  eigenvector/sampling pair, take the average of 100 trials to better 
+%  capture accuracy of this technique
+
 accuracyArr = zeros(10,20,2);
 for k = 1:10
     pidist = createpidist(k, evect);
@@ -80,7 +81,7 @@ for k = 1:10
 end
 
 
-%grab the data corresponding to the selected features
+%% grab the data corresponding to the selected features
 function sampledata = datagen(samplecols, x_data)
     sampledata = zeros(size(x_data,1), size(samplecols,1));
     for i = 1:size(samplecols,1)
@@ -88,7 +89,7 @@ function sampledata = datagen(samplecols, x_data)
     end
 end
 
-%sample features based on generated pi distribution
+%% sample features based on generated pi distribution
 function samplecols = samplepi(s, pidist)
     %generate cumulative distribution based on pi probability distribution
     picdf = zeros(size(pidist,1),1);
@@ -122,10 +123,10 @@ function samplecols = samplepi(s, pidist)
     end
 end
 
-%create a probability distribution that maps a given feature's importance
-%based off the magnitude of the corresponding element across k eigenvectors
-%to a probability, allowing features with more magnitude across all
-%eigenvectors to be more likely to be sampled
+%% create a probability distribution that maps a given feature's importance
+%  based off the magnitude of the corresponding element across k eigenvectors
+%  to a probability, allowing features with more magnitude across all
+%  eigenvectors to be more likely to be sampled
 function pidist = createpidist(k, evect)
     pidist = zeros(size(evect,2),1);
     evect_k = evect(:, size(evect,1)-k+1:size(evect,1));
@@ -138,7 +139,7 @@ function pidist = createpidist(k, evect)
     end
 end
 
-%performs gradient descent
+%% SVM
 function [incorrect_train, incorrect_test, w, b] = descendGradient(c, x_train, x_test, y_train, y_test, max_iter)
     %set initial conditions for gradient descent
     w = zeros(1,size(x_train,2));
@@ -151,6 +152,7 @@ function [incorrect_train, incorrect_test, w, b] = descendGradient(c, x_train, x
     tol = 0.01;
     dfdw = inf;
     dfdb = inf;
+
     %while gradient descent not close enough to minima and under iteration
     %cap, keep descending the gradient
     while((abs(norm(dfdw)) > tol && abs(dfdb) > tol) && epoch <= max_iter)
@@ -175,35 +177,14 @@ function [incorrect_train, incorrect_test, w, b] = descendGradient(c, x_train, x
         
         w = w + dfdw*gamma;
         b = b + dfdb*gamma;
-    
-        %check classifier accuracy
-        incorrect_train = 0;
-        for i = 1:numData
-        classify = sign(dot(w,x_train(i,:))+b);
-            if y_train(i) ~= classify && classify ~= 0
-                incorrect_train = incorrect_train + 1;
-            end
-        end
-        
-        %print first three iterations and last two if max iterations is reached
-        %if(epoch <= 0 || epoch == max_iter)
-        %    fprintf("Iteration %i\nw = ", epoch)
-        %    disp(w)
-        %    fprintf("b = ")
-        %    disp(b)
-        %    fprintf("________\n")
-        %end
+
         epoch = epoch + 1;
         
     end
-    %print final iteration
-    %fprintf("Iteration %i\nw = ", epoch-1)
-    %        disp(w)
-    %        fprintf("b = ")
-    %        disp(b)
-    %        fprintf("________\n")
+   
     fprintf("C = %d\nIterations = %i\n", c, epoch-1)
-    %recheck classifier
+
+    %check classifier performance on the training data
     incorrect_train = 0;
         for i = 1:numData
         classify = sign(dot(w,x_train(i,:))+b);
@@ -215,7 +196,7 @@ function [incorrect_train, incorrect_test, w, b] = descendGradient(c, x_train, x
         fprintf("# of misclassified train points: ")
         disp(incorrect_train)
         
-        %recheck classifier
+    %check classifier performance on the test data
     incorrect_test = 0;
         for i = 1:size(x_test,1)
         classify = sign(dot(w,x_test(i,:))+b);
@@ -226,7 +207,4 @@ function [incorrect_train, incorrect_test, w, b] = descendGradient(c, x_train, x
         end
         fprintf("# of misclassified test points: ")
         disp(incorrect_test)
-
-        %disp(dfdw)
-        %disp(dfdb)
 end
