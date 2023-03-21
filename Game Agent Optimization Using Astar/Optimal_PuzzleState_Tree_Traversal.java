@@ -79,20 +79,20 @@ class Optimal_PuzzleState_Tree_Traversal {
 			}
 			//Implementation of A* Search Algorithm
 			else if(algo == 3) {
-				//prompt user for hueristic selection
-				System.out.println("Please select hueristic 1 (Manhattan Distance) or 2 (# of Misplaced) by typing 1 or 2.");
-				int huer = userIn.nextInt();
+				//prompt user for heuristic selection
+				System.out.println("Please select heuristic 1 (Manhattan Distance) or 2 (# of Misplaced) by typing 1 or 2.");
+				int heur = userIn.nextInt();
 
-				//if an invalid value is selected for the hueristic, indicate and exit
-				if(huer != 1 && huer != 2){
-					System.out.println("Please enter a valid value for hueristic selection.");
+				//if an invalid value is selected for the heuristic, indicate and exit
+				if(heur != 1 && heur != 2){
+					System.out.println("Please enter a valid value for heuristic selection.");
 					userIn.close();
 					return;
 				}
 
 				//initialize all necessary variables for A* search
 				int counter = 0;
-				AstarNode astInit = new AstarNode(initialNode, AstarNode.calcDist(initialNode, goalNode, huer));
+				AstarNode astInit = new AstarNode(initialNode, AstarNode.calcDist(initialNode, goalNode, heur));
 				PriorityQueue<AstarNode> frontier = new PriorityQueue<>();
 				Stack<AstarNode> expanded = new Stack<>();
 
@@ -105,7 +105,7 @@ class Optimal_PuzzleState_Tree_Traversal {
 					//pop the closest node to the goal off the frontier, push it to the stack, and expand it
 					AstarNode temp = frontier.remove();
 					expanded.push(temp);
-					AstarNode[] tempch = AstarNode.aChildrenGen(temp, goalNode, huer);
+					AstarNode[] tempch = AstarNode.aChildrenGen(temp, goalNode, heur);
 					//for all of the possible children
 					for(int i = 0; i < 4; i++)
 						//if the child exists, add it to the frontier
@@ -133,9 +133,9 @@ class Optimal_PuzzleState_Tree_Traversal {
 
 				System.out.println("States Enqueued:" + counter);
 
-				/*Old Version using separate function for the two different hueristics
+				/*Old Version using separate function for the two different heuristics
 				//Manhattan Distance
-				if(huer == 1) {
+				if(heur == 1) {
 					int counter = 0;
 					AstarNode astInit = new AstarNode(initialNode, AstarNode.manndist(initialNode, goalNode));
 					PriorityQueue<AstarNode> frontier = new PriorityQueue<>();
@@ -166,7 +166,7 @@ class Optimal_PuzzleState_Tree_Traversal {
 					System.out.println("States Enqueued:" + counter);
 				}
 				//Raw number of incorrectly placed nodes
-				else if(huer == 2) {
+				else if(heur == 2) {
 					int counter = 0;
 					AstarNode astInit = new AstarNode(initialNode, AstarNode.misplacedist(initialNode, goalNode));
 					PriorityQueue<AstarNode> frontier = new PriorityQueue<>();
@@ -197,7 +197,7 @@ class Optimal_PuzzleState_Tree_Traversal {
 					System.out.println("States Enqueued: " + counter);
 				}
 				else
-					System.out.println("Not a valid hueristic.");*/
+					System.out.println("Not a valid heuristic.");*/
 			}
 			else
 				System.out.println("Error: no algorithm matching that input.");
@@ -254,8 +254,8 @@ class AstarNode extends Node implements Comparable<AstarNode>{
 	}
 
 	//addition to allow for two different A* Child Generator methods to be merged
-	public static int calcDist(Node n, Node goal, int huer) {
-		if(huer == 1)
+	public static int calcDist(Node n, Node goal, int heur) {
+		if(heur == 1)
 			return manndist(n, goal);
 		else
 			return misplacedist(n, goal);
@@ -287,7 +287,7 @@ class AstarNode extends Node implements Comparable<AstarNode>{
 		return dist;
 	}
 
-	//generate children with distances calculated with hueristic 1: Manhattan Distance
+	//generate children with distances calculated with heuristic 1: Manhattan Distance
 	public static AstarNode[] a1ChildrenGen(AstarNode node, Node goal){
 		//leverage the logic of the children generation in the DFStree class to do the majority of the work
 		DFStree temp = new DFStree();
@@ -322,7 +322,7 @@ class AstarNode extends Node implements Comparable<AstarNode>{
 		return retArr;
 	}
 
-	//generate children with distances calculated with hueristic 2: Misplaced Values
+	//generate children with distances calculated with heuristic 2: Misplaced Values
 	public static AstarNode[] a2ChildrenGen(AstarNode node, Node goal){
 		DFStree temp = new DFStree();
 		Node[] nodeChildren = temp.childrenGen(node.node);
@@ -354,14 +354,14 @@ class AstarNode extends Node implements Comparable<AstarNode>{
 	}
 
 	//added method to clean up how children are generated in A* approach
-	public static AstarNode[] aChildrenGen(AstarNode node, Node goal, int huer){
+	public static AstarNode[] aChildrenGen(AstarNode node, Node goal, int heur){
 		DFStree temp = new DFStree();
 		Node[] nodeChildren = temp.childrenGen(node.node);
 
 		AstarNode[] retArr = {null, null, null, null};
 		for(int i = 0; i < 4; i++){
 			if(nodeChildren[i] != null)
-			retArr[i] = new AstarNode(nodeChildren[i], calcDist(nodeChildren[i], goal, huer));
+			retArr[i] = new AstarNode(nodeChildren[i], calcDist(nodeChildren[i], goal, heur));
 		}
 		return retArr;
 	}
