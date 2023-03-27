@@ -1,0 +1,388 @@
+,"name": "Chef John&#39;s Salmon Loaf"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "29"
+}
+,"cookTime": "PT50M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "362 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "213 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "29 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "880 mg"
+,"sugarContent": "1 g"
+,"fatContent": "23 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.25 cup salted butter",
+"0.33333334326744 cup diced onion",
+"2 (7 ounce) cans red salmon, drained",
+"0.5 cup finely crushed saltine cracker crumbs",
+"0.5 teaspoon kosher salt, or to taste",
+"0.125 teaspoon cayenne pepper",
+"0.25 teaspoon Worcestershire sauce",
+"2 teaspoons rice vinegar",
+"3 large eggs" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 325 degrees F (165 degrees C). Generously butter a loaf pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt butter over medium heat in a saute pan until bubbling. Toss in onion, give the pan a quick shake, and stir with a wooden spoon; cook for 1 minute. Turn off the heat and allow to cool."
+} ,{
+"@type": "HowToStep"
+,"text": "Place salmon in a large mixing bowl and mash with a fork. Add cracker crumbs, salt, cayenne pepper, Worcestershire sauce, rice vinegar, butter, and onions; mix and mash with a spatula or spoon until smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Separate eggs, adding whites to a clean glass, metal, or ceramic bowl and adding yolks to salmon mixture. Mix egg yolks and salmon until well combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk whites to medium stiff peaks. Gently fold into salmon mixture in 2 additions."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer salmon mixture into the prepared loaf pan. Smooth the top with a spatula to even it out and shake and tap the pan to remove any air bubbles."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/glvykzGZLTIY2vEYEyXz0eAFrFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7849560-65247549ca394d91b09275bc3c140c5d.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until a toothpick comes out clean, about 45 minutes. Let rest for 5 minutes, then carefully turn loaf out onto a cutting board. Slice and serve."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I did use this recipe, and I am sure it is tasty just as written, but I did throw a few additions in there. ;) First, along with the onion, I put a minced clove of garlic. As I let that cool, I added the seasonings TO the buttered onions, thinking it might blend with the salmon better. I used the cayenne, Worcestershire, and lemon juice- PLUS some dill, lemon pepper, lemon zest, and @ 3 T of dijon mustard. After adding the cracker crumbs ( I used Ritz since that is what I had) and mixing well, I added the butter blend and mixed thoroughly again. Whipping the egg whites definitely gives this a light and airy texture which I loved about it! I baked 2 mini loaves, but also tested using this for a salmon cake that was crispy and delicious. I served the loaves with a mango, pineapple, avacado, and diced spring onion salsa. That light tropical topping went perfectly with it. I will definitely make this again.... and SOON! --- THANKS for your great videos, Chef John!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JED901"
+},
+"reviewBody": "Excellent salmon loaf . I omitted the cayenne. Even with combining whole eggs instead of separating them, the texture was very good. The next time, I'll spend more for red salmon instead of pink, though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gypsyroad"
+},
+"reviewBody": "I was a bit scared of making salmon loaf again because a recipe I used years ago came out very dry. I was so relieved this loaf was moist! It was easy to put together (I didn't even separate the eggs), and my husband and I both loved it. I'm so glad I now have something to make with convenient cans of salmon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kbecker18"
+},
+"reviewBody": "I made this recipe for dinner on the weekend with some potatoes and a salad. We all really enjoyed it - even my 11 year old son. I did substitute the crackers for bread crumbs since I already had them in my pantry. Thank you Chef John for another delicious meal idea!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Miranda"
+},
+"reviewBody": "Loved this recipe! My husband is from the south and loves salmon cakes. This had the same great flavor without the mess or smell of pan frying. I doubled the recipe and added celery with the onions. I also added a little old bay! It was really good. I did the whole egg white folding in, and probably won't next time. I'll add the eggs in scrambled like I do with most meat loaves."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BakingBot"
+},
+"reviewBody": "This was great and very easy. Best part - no need to shape patties and stand over a stovetop like you do for salmon patties. I really enjoyed the taste and my toddlers enjoyed it as well (with ketchup)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "Followed the recipe, definitely beat the whites! Makes a world of difference from the salmon loaves I have made in the past. The seasoning in this is mild, its the salmon you want to taste, but can see easily adding whatever you like to make it your own thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pat Doughty"
+},
+"reviewBody": "We used to eat this a lot growing up, so this recipe brings back all those special memories. I added some dill and lemon zest and it was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "grannygo"
+},
+"reviewBody": "added dried parsley for color. delicious n light texture was a hit. thanks chef john"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "RateRecipesAsTheyAreWritten"
+},
+"reviewBody": "In my quest for good recipes involving canned salmon i thought i'd try this one.\n\nI love almost any chef John recipe I try, but the texture of this one just didn't jive for me. \n I find seafood is affected more by personal taste than other foods, likely the case here.\nI'll stick to his recipe for salmon patties"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robino"
+},
+"reviewBody": "I didn’t change a thing. This recipe was delicious!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom H"
+},
+"reviewBody": "This was very good, as are many of Chef John’s recipes (I love his pasta with sardines, and tuna pasta and tomato soup). I tweaked the recipe, opting for less saturated fats by using olive oil instead of butter. This will be on my regular dinner rotation. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie Waters"
+},
+"reviewBody": "Made it exactly as written. served with homemade tartar sauce. We really enjoyed it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole"
+},
+"reviewBody": "We like salmon patties, so I was looking for a non-fried recipe and came across this one. It's honestly very similar to the salmon patties, just instead of frying, you put the mixture in a pan and bake. As I do with salmon patties, I sautéed as many veggies as I could get away with and added them to the mixture--spinach, mushroom, garlic, onion, bell pepper, squash. I didn't bother to separate the yolks from the whites--just mixed it all together. Kids loved it and I did, too. However, I wasn't a fan of the left overs the next day. The kids still liked it reheated, though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gerris2"
+},
+"reviewBody": "Easy and yummy, we loved every bite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy Smith"
+},
+"reviewBody": "I left out the rice vinegar (didn't have any, and forgot to add the white wine vinegar I did have). I also reconstitued the Worcestershire sauce from a powder a local spice merchant carries, using a roughly 1.5:1 ratio of water to powder. And instead of saltine crumbs, I used crumbs from pieces of Cheez-It crackers.\n\nI don't understand what the problem with looks is; the loaf looked fine and tasted great. Another excellent recipe from Chef John, who is a real fount of great recipes here on AllRecipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Beverly"
+},
+"reviewBody": "I love this recipe. My Mom used to make salmon loaf back in he 70s. As always with Chef John Recipes, this is a huge improvement. I made a few substitutions (nothing big). My husband and I live with my parents to help care for my Mom who has Alzheimer's. I made a couple substitutions to accommodate my Dad. (He suffers from old-man curmudgeon disorder and lifelong inflexible personality disorder.) Also, my 21 year-old son is sheltering with us, so I doubled the recipe. That worked out fine. My substitutions:\nI only had one small onion (and it was beginning to sprout)! I used that and some freshly minced garlic. I added a little dried parsley \"for color.\"\nMy Dad refuses to eat canned food. Also, Because of the meat plant issues, my husband loaded up on ground meats this past weekend (and left it all in the refrigerator instead of freezing some). So, I substituted 2 pounds of ground pork for the canned salmon. (My son refuses to eat fish, so that worked out well.\nFor a little \"flavor boost,\" I replaced some of the crushed saltines with grated parmesan cheese (the kind in the green bottle).\nI didn't have vinegar or lemon juice, so I left those out.\nThe menfolk pour catsup over everything, so I didn't bother with cocktail sauce.\nThe salmon loaf was a HUGE hit. I will DEFINITELY make it again. It's. literally. fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LEB"
+},
+"reviewBody": "This recipe turned out great and was a nice change! I followed it exactly. Next time I will spray the loaf pan with PAM because for some reason the butter made the loaf stick even though I waited the 5 minutes to turn it over on the plate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Victoria Hayhurst"
+},
+"reviewBody": "I used tuna &amp; didn't separate the eggs, just mixed them in. Turned out great though I'm sure not as close to fluffy as the original"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharyl"
+},
+"reviewBody": "This is a keeper. Lovely texture and great flavour. Made a half recipe with 2 eggs for my husband and myself. Highly recommend for a quick meat dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "charleta"
+},
+"reviewBody": "We love Chef John's Salmon cakes, so I figured I would give this recipe a try for a change of pace (especially since we have been eating quite a bit of canned salmon recently! ). Once again, Chef John did not disappoint! This salmon loaf was really delicious. I made the recipe just as written, using lemon juice in place of the rice vinegar (since that type of vinegar is not a staple in my pantry). The loaf turned out perfectly and had a very nice texture. I served it with a dill &amp; caper white sauce, which complimented the salmon flavor quite well. Chef John's video is also well worth watching - the tips are very helpful, and you can't help but chuckle at his humor. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Hoosiermama"
+},
+"reviewBody": "This is good enough to make even when you're not sheltering in place. The only other time I ever opened a can of salmon, I was so appalled by the bones and skin, I spent a long time picking them out. This time, thanks to Chef John, I mashed them right in and he's right--you cannot tell they're in there. The only change I made was to limit the butter to 2 tablespoons instead of 4. Per Chef John's suggestion, I served it with a white sauce. I goosed the flavor of the sauce by heating the milk with a slice of onion and a bay leaf, then strained it into the roux. Added salt, pepper, cayenne and a dash of nutmeg. Oh, and because I was interrupted, after it finished baking, the loaf sat in the oven for probably about 15 minutes with the heat turned off, which may have contributed to the lovely delicate crust it had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda B"
+},
+"reviewBody": "Besides Salmon, the recipe is excellent to adapt for Tuna Loaf with savory additions like capers, celery, and red bell pepper. And be sure to use Chef John's technique of separating the eggs to whip the egg white and fold it into the mixture. It makes a really wonderful textural difference in the finished product!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tea-ah"
+},
+"reviewBody": "We used green onions rather than regular onion, because we had fresh green onions that needed to be used AND we doubled the recipe. We will definitely make this again, probably adding some spicy corn relish and more cayenne!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pcgirl"
+},
+"reviewBody": "Very good!"
+}
+]

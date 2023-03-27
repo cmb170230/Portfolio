@@ -1,0 +1,141 @@
+,"name": "Naked Shrimp Dumplings in Dashi"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "6"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "249 kcal"
+,"carbohydrateContent": "13 g"
+,"cholesterolContent": "98 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "20 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "1165 mg"
+,"sugarContent": "1 g"
+,"fatContent": "12 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"6 (3 inch) pieces kombu (dried kelp)",
+"6 cups cold water",
+"4 cups lightly packed shaved bonito flakes (katsuobushi)",
+"1 pound medium raw shrimp, peeled and deveined",
+"8 ounces Burrata cheese",
+"1.5 teaspoons kosher salt",
+"0.5 teaspoon paprika",
+"1 pinch cayenne pepper",
+"0.5 teaspoon finely grated ginger root",
+"0.25 teaspoon sesame oil",
+"2 tablespoons soy sauce",
+"2 tablespoons mirin" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place kombu into a pan and pour in cold water. Let soak for 30 minutes to an hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the pan of kombu over medium-high heat and wait, stirring once, until water almost starts to simmer and you see bubbles just start to rise to the surface. Immediately turn off heat and remove kombu from the broth into a bowl. Allow broth to cool down to about 150 degrees F (66 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir bonito flakes into the hot kombu broth and bring to a gentle simmer over medium-high heat. Let simmer for 5 minutes. Remove from heat and strain into a container."
+} ,{
+"@type": "HowToStep"
+,"text": "Place shrimp, Burrata cheese, salt, paprika, cayenne, ginger, and sesame oil into the bowl of a food processor. Pulse on and off until a smooth paste forms, scraping the bowl with a spatula as needed. Transfer to a bowl, wrap in plastic, and chill in the refrigerator for 1 hour, to overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer 2 cups of dashi back into the pan; add soy sauce and mirin. Bring to a gentle simmer over medium heat. Taste and adjust with more soy and/or mirin as needed."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/p7E76V76xDITcUS7EzDqHc97Lxs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7711645-9d0deff501444facb5cdf81f8a5f1b64.jpg"
+}
+]
+,"text": "Scoop about 1 1/2 tablespoons of the chilled dumpling mixture into a football shape using two large spoons. Repeat with remaining dumpling mixture and carefully transfer 6 to 12 at a time into the simmering broth. Cook until dumplings turn over in the water, about 2 minutes per batch. Ladle about 1/2 cup dashi into warm serving bowls; remove dumplings with a strainer into the bowls (3 per serving)."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT130M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lacyanne"
+},
+"reviewBody": "Delicious! I made as written and was impressed with how well this turned out. The texture of the dumplings was excellent with the smooth burrata. The flavor was unique and perfectly paired with the seasoned broth. I will definitely be making this again. Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Clandactu"
+},
+"reviewBody": "I have made this several times and I don't change anything. I use the notes for mozz cheese and season the dashi to my tastes. It is terrific and also the directions are easy to follow. If you are okay with diffrent textures give it a try."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Hanna"
+},
+"reviewBody": "While the Dash was great, the overall recipe and ingredients list was poorly structured which made the cooking process painful. Had it for a party and everyone was very disappointed with dumplings flavor and texture.\n\nIf are going to make it, try reworking the recipe first. I would also work on the texture profile to give a more diverse mouth feel."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "H. Goad"
+},
+"reviewBody": "I made this for a special dinner. It worked out great. The flavor was amazing.\nAnd, by the way, I learned why my dashi never quite met expectations. All these years I have been way too skimpy adding the bonito flakes. That problem is now solved. My family can now enjoy a proper serving of dashi and miso soup.\nSo glad I tried this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bingingwithbenzos"
+},
+"reviewBody": "Amazing! This was my first time making a proper dashi broth, but definitely not the last. Perfect appetizer for a Valentine’s Day dinner. I definitely got a ton of ...compliments... Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Leigh"
+},
+"reviewBody": "Savory, sweet, and very sexy. I added mirin, soy sauce, and rice wine vinegar to the broth."
+}
+]

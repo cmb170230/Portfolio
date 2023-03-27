@@ -1,0 +1,374 @@
+,"name": "Greek Chicken and Potato Bowl"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "22"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "909 kcal"
+,"carbohydrateContent": "38 g"
+,"cholesterolContent": "196 mg"
+,"fiberContent": "8 g"
+,"proteinContent": "52 g"
+,"saturatedFatContent": "19 g"
+,"sodiumContent": "1926 mg"
+,"sugarContent": "5 g"
+,"fatContent": "63 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 pounds boneless, skinless chicken thighs",
+"2 teaspoons kosher salt",
+"2 teaspoons freshly ground black pepper",
+"1 teaspoon dried rosemary",
+"1 teaspoon dried thyme",
+"2 teaspoons dried oregano",
+"0.25 teaspoon red pepper flakes",
+"1 pinch cayenne pepper",
+"4 cloves garlic, minced",
+"1 large lemon, juiced",
+"0.25 cup olive oil",
+"2 medium russet potatoes, peeled and cut into 1-inch cubes",
+"1 pinch kosher salt",
+"1 splash olive oil",
+"0.25 cup red wine vinegar",
+"0.33333334326744 cup olive oil, or to taste",
+"1 large lemon, juiced",
+"salt and freshly ground black pepper to taste",
+"2 tablespoons chopped flat-leaf (Italian) parsley",
+"2 tablespoons chopped fresh oregano",
+"2 cups cubed English cucumber",
+"2 cups halved cherry tomatoes",
+"0.5 cup sliced red onion",
+"1 cup cubed feta cheese",
+"4 cups mixed salad greens" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine chicken thighs, 2 teaspoons kosher salt, pepper, rosemary, thyme, oregano, red pepper flakes, cayenne, garlic, lemon juice, and 1/4 cup olive oil in a large mixing bowl. Toss very thoroughly to combine, making sure the chicken thighs are completely and evenly coated with the marinade."
+} ,{
+"@type": "HowToStep"
+,"text": "Wrap in plastic and marinate in the refrigerator for 6 to 12 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 475 degrees F (245 degrees C). Line a baking sheet with foil and grease generously with olive oil."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, halve potatoes lengthwise; slice each half into 3 equal pieces. Dice into cubes and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer chicken thighs to the prepared sheet pan smooth-side up, spacing evenly. Reserve any excess marinade in the bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Add the potatoes to the bowl the chicken was in, along with a splash of olive oil and a large pinch of salt. Toss well to coat evenly. Scatter potatoes onto the chicken and distribute as evenly as possible in between the chicken thighs to fill any empty spaces."
+} ,{
+"@type": "HowToStep"
+,"text": "Roast in the center of the preheated oven until the chicken is cooked through, about 35 minutes. Remove chicken to a plate or dish and cover. Chicken can be cut into bite-sized pieces if desired."
+} ,{
+"@type": "HowToStep"
+,"text": "While chicken and potatoes are cooking, whisk red wine vinegar, olive oil, lemon juice, salt, and pepper together for dressing. Taste and adjust vinegar or oil as needed. Whisk in parsley and oregano."
+} ,{
+"@type": "HowToStep"
+,"text": "Toss the potatoes in the chicken fat and pan drippings, and return to the oven until well browned and crusty, 10 to 15 minutes. Let potatoes rest for a few minutes before removing them with a spatula."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/XJ1Bg1ggU2HUZ-g3KTLwzghueTY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-462-37c3df80797347a3ac94f0982eb6d68e.jpg"
+}
+]
+,"text": "To make bowls, toss together cucumbers, tomatoes, red onions, feta cheese, chicken, potatoes, and dressing until evenly combined. Serve on top of a bowl of greens."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT425M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Excellent"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dee Hayes"
+},
+"reviewBody": "Perfect for a hot, summer evening meal. I made the chicken and potatoes in the cooler morning hours. I warmed them slightly in the microwave just before tossing them with the salad dressing, cucumbers, tomatoes, and feta. Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ilovemykids99"
+},
+"reviewBody": "Mmmmm good! Another Chef John recipe that knocks it out of the park! Followed it other than not flat leaf parsley, curly, and a little extra lemon (probably shouldn't do that next time). Divine!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Fantastic recipe! Easy enough that even I can make it and impress my family! It has become a family favorite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cdeems88"
+},
+"reviewBody": "Fantastic. Could eat this every day. I used the miniature potatoes instead though"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharyl"
+},
+"reviewBody": "Enjoyed this summer meal with my mom. A wonderful fresh flavour with the garden herbs. Just as good the next day for leftovers too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "crvail"
+},
+"reviewBody": "This was fantastic!! We always love our Chef John recipes, but this one was exceptionally good! Every member of the family and all of our guests kept raving about it and have either asked for the recipe or asked me to make it again. It was especially wonderful as we had vegetarian guests, and serving this family style in separate dishes (lettuce, chicken, potatoes, Greek salad components, and dressing) with a side of garlic bread to help bulk it out just a little more for the vegetarians in the party made this a wonderful dish we could all share! I didn’t change a thing except to set some of the marinade aside for coating the potatoes of the non-meat-eaters and baking said potatoes on a separate pan sheet. Yes, the potatoes cooked in with the chicken taste WAY better, but this was an easy accommodation to make for them and still tasted delicious! Thank you once again, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aerich Rea"
+},
+"reviewBody": "Added Kalamata Olives."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "seipmoney"
+},
+"reviewBody": "Honestly, this was my least favorite Chef John recipe yet. This bowl was fine...but most of the time, his recipes are Excellent, that's all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carmen Swain"
+},
+"reviewBody": "It was delicious! Next time I will not use tinfoil for the potatoes. Too much work and they got stuck to it anyway"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jojo"
+},
+"reviewBody": "Been making Chef Jon recipes since my son introduced me to him years ago. This man can take a recipe i thought i knew how to make and take it to the next level. My daughter says best greek salad / chicken shes ever eaten. Excellent"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MOOPEY"
+},
+"reviewBody": "My family really liked it. I followed the recipe exactly and it was yum. Next time, I will make more potatoes as my teens loved them and I will put less salt in the marinade."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Hixon"
+},
+"reviewBody": "I NEVER leave ratings but this recipe was too good not to. I'm currently doing Noom and I didn't have to change a thing to make it fit in my plan. So many green foods! And just enough potatoes to feel like a real treat!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Conwell"
+},
+"reviewBody": "lOVE LOVE LOVE"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Brennan"
+},
+"reviewBody": "so full of flavor"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Hartman Oesterling"
+},
+"reviewBody": "This was excellent! I made it almost as directed, except I only used a very small amount of mixed greens ( I used kale) and doubled the feta cheese because we love it so much! I used one HUGE golden potato and didn’t put it all in the bowl because it made so much.....hubby finished them up way before dish doing time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lora Wade McKinney"
+},
+"reviewBody": "I knew this was a new recipe here but added it to my recipes right away because I have faith in Chef John. It was delicious and I didn’t change it much. The hubby doesn’t care for dark meat so I used breasts and butterflied them and marinated for about 12 hours. I did not line the pan with foil as I have an easy to clean dish. It was a hit and we will definitely keep it in our arsenal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeannette"
+},
+"reviewBody": "Made it exactly as written. As Chef John states, chicken thighs are forgiving - a little too long in the oven won't dry them out - still tender and moist. Very tasty. Thank you Chef John for all your great recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kayla King"
+},
+"reviewBody": "This was delicious! I swapped in basil instead of thyme and it worked perfectly. I wouldn't change a thing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mel K"
+},
+"reviewBody": "Delicious! I only put the chicken in the marinade for about 4 hours but it was delicious! Made the recipe as stated but didn’t add the red pepper flakes. Highly recommend. Ps. My kids loved the chicken!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lydia Riese"
+},
+"reviewBody": "Just made this today, pretty simple steps and ingredients but the result was restaurant quality, highly delicious, such a nice mix of flavors and textures. I only let the chicken marinate for an hour and I think that's just fine since it all ends up in the pan and on the potatoes in the end anyway. Will definitely be adding this to the dinner rotation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CathyandRob Smith"
+},
+"reviewBody": "My family LOVED this! The only thing I did differently was not add lettuce. My husband went back for more several times! Very impressed! It reminds us of the time we were in Greece, eating at the delicious Greek restaurants!"
+}
+]

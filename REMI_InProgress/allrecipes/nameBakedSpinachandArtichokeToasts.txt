@@ -1,0 +1,130 @@
+,"name": "Baked Spinach and Artichoke Toasts"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "8"
+}
+,"cookTime": "PT55M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "191 kcal"
+,"carbohydrateContent": "17 g"
+,"cholesterolContent": "28 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "393 mg"
+,"sugarContent": "1 g"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 loaf French bread",
+"0.25 cup unsalted butter, melted",
+"1 (8 ounce) package cream cheese, at room temperature",
+"0.5 cup grated Gruyere cheese",
+"0.5 cup grated provolone cheese",
+"0.25 cup finely grated Parmigiano-Reggiano cheese, plus more for topping",
+"3 cloves garlic, finely minced",
+"0.33333334326744 cup thinly sliced green onion, white and light green parts only",
+"0.5 teaspoon salt, or to taste",
+"freshly ground black pepper to taste",
+"1 pinch cayenne pepper",
+"1 pinch freshly grated nutmeg",
+"1 (10 ounce) package frozen chopped spinach - thawed, drained, and chopped",
+"2 cups chopped marinated artichoke hearts" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Line a sheet pan with parchment paper or a silicone baking mat (such as Silpat)."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut bread into 1/2-inch slices. Transfer onto the prepared sheet and brush very generously with melted butter until well soaked."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until light golden brown, about 30 minutes. Remove from the oven and let cool before topping. Increase the oven temperature to 450 degrees F (230 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Add cream cheese, Gruyere, provolone, 1/4 cup Parmigiano-Reggiano, garlic, green onion, pepper, salt, cayenne, nutmeg, spinach, and artichokes to a mixing bowl and mix until thoroughly combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Use a spoon to top each piece of toast with at least a 1/2-inch thick layer of the cheese, artichoke, and spinach mixture. Grate some extra Parmigiano-Reggiano on top of each toast if desired."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/5k22EofycLl4KDcTcC4_YJ5HXKk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-424-3ef68fd3aae440f59ad8f6c395f4ff02.jpg"
+}
+]
+,"text": "Bake in the preheated oven until the tops and bottoms are nicely browned, about 25 minutes. Serve warm or at room temperature."
+} ]
+,"recipeYield": ["18"]
+,"totalTime": "PT75M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura"
+},
+"reviewBody": "Chef John! I love you! Been making as many of your recipes as I can. not one has disappointed. Thank you for sharing!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jim Rendek"
+},
+"reviewBody": "Very easy and so delicious. Came out just like Chef John’s. Making it for the third time for the Super Bowl."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ila"
+},
+"reviewBody": "An absolute hit! The combination of the crunchy, toasted bread and the creamy, savory dip topping was spot on! Will be a go-to recipe for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Abougadaba"
+},
+"reviewBody": "I've followed the recipe but decided to cut the time of cooking by 5 minutes each step (felt that would've been too long for toast) , but unfortunately the toast ended up burning. Still managed to save them by scrapping all the burnt stuff off.\nAside from that, they were really good, but I'd suggest maybe tasting the bread for 15 minutes instead of 30.\nWill definitely try it again though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ericbm2"
+},
+"reviewBody": "Just so so good. Perfect combination of flavors. Hard to stop eating them, haha! The baking times were a little long for my oven, so just keep an eye on the toasts when they’re baking."
+}
+]

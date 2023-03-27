@@ -1,0 +1,433 @@
+,"name": "Chocolate Puddino"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "30"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "561 kcal"
+,"carbohydrateContent": "43 g"
+,"cholesterolContent": "277 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "25 g"
+,"sodiumContent": "138 mg"
+,"sugarContent": "28 g"
+,"fatContent": "42 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"8 ounces dark chocolate chips",
+"1 pinch salt",
+"1 pinch cayenne pepper",
+"6 large eggs",
+"0.33333334326744 cup white sugar",
+"1 cup whole milk",
+"1.25 cups heavy cream",
+"0.25 teaspoon vanilla extract",
+"1 tablespoon unsalted butter",
+"0.25 cup heavy cream, or to taste",
+"0.125 teaspoon vanilla extract, or to taste",
+"2 tablespoons shaved dark chocolate, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine chocolate chips, salt, and cayenne in a heat-proof measuring cup; set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Separate eggs by cracking one egg into your hand over a bowl. Open your fingers slightly and gently jiggle your hand until the egg white falls into the bowl below. Transfer the yolk to a skillet. Repeat with remaining eggs. Reserve egg whites for another use."
+} ,{
+"@type": "HowToStep"
+,"text": "Add sugar, milk, and cream to egg yolks. Whisk thoroughly, breaking egg yolks first, until well combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Place skillet on the stove over medium or medium-low heat. Cook, stirring constantly with a silicone spoon, until very hot and thick enough to coat the back of the spoon, about 5 minutes. An instant-read thermometer should read at least 175 degrees F (79 degrees C). Remove from the heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Set a fine sieve over the bowl of reserved chocolate. Strain the custard sauce into the chocolate and let sit for 2 minutes. Whisk until chocolate has melted and custard sauce is smooth and shiny, about 2 minutes. Add vanilla and butter; stir until butter has melted, about 1 minute."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour warm custard sauce into 6 serving glasses. Tilt each glass and rotate it around so the warm chocolate coats another 1/2 inch of the glass. Cover with plastic and place in the refrigerator until completely chilled, at least 3 to 4 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine cream and vanilla extract for topping in a metal bowl and whisk until thickened; make sure no peaks form. Spoon cream into the glasses, then tilt and twirl to coat the sides a bit."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/xNnxo_OxDOL2bxqZAgUOc0y6c0c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-638-99036394301749eeb46f9de8ccdfc615.jpg"
+}
+]
+,"text": "Garnish with shaved chocolate and serve."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT210M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TonyValenzuela"
+},
+"reviewBody": "I followed the recipe but made it into 4 servings instead of 6 (which I admit was very rich, but my husband ate two of them)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "stphmoreno1216"
+},
+"reviewBody": "I made this once and loved it! Could this work as a chocolate cream pie? If I made a crust cooled it then poured this in at room temp and chilled?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Pat"
+},
+"reviewBody": "a waste of my time and money, made the chocolate puddin part and I just tasted it to make it sure if had a good flavor, my heart raced so fast. If you can handle pure chocolate then you would like this dessert but for me it was not worth it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "schwennjen"
+},
+"reviewBody": "It was absolutely great! Turned out exactly as presented. It’s pretty rich given the 8 oz of dark chocolate so you definitely need the unsweetened whip topping to cut the richness a bit. Definitely serve in at least six serving cups if not 7 or 8. A little goes a long way. Also don’t skip turning the sauce out into a sieve. That’s what ensures it comes out smooth as silk. Trying to think now how to make it for my husband who loves pudding but not rich chocolate… more pudding sauce and less chocolate maybe? Different chocolate altogether? Both? Will figure it out. Thanks Chef John! This was a hit and easy and fun to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lizzie Galleta-Swaffles"
+},
+"reviewBody": "Me and my husband both loved how creamy the recipe turned out. We added banana slices one of the nights we ate it as well. Great pudding and I’ll be making it again. I’m sad we finished it off and there is no more in the fridge."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AR Kleiman"
+},
+"reviewBody": "70% cacao and a pinch of cinnamon makes this pudding -ganache hybrid my favorite dessert dish. It is a whopping 600 calories/serving, so let it settle a bit before going for seconds"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melanie Fletcher"
+},
+"reviewBody": "I made this recipe, but used all heavy cream, sugar free dark chocolate chips, and Wholesome Provisions sugar free sweetener. It was AMAZING. Only issue was that it turned out very thick, but it was still incredible!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Dalling"
+},
+"reviewBody": "Loved it. Well done Ladd"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chicken_hugger"
+},
+"reviewBody": "I really liked this recipe! Even though it was rich (to make sure you don't eat too much!) it wasn't too sweet.\nThe whipped cream topping only called for 1/4 cup of cream which was not enough to cover six servings, though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy"
+},
+"reviewBody": "Made this after watching the video. The video shows a quick and easy way to separate eggs, but be careful if your eggs are at room temperature as the yolks tend to break apart easier than if chilled. I didn't have dark chocolate chips so substituted semi-sweet chocolate chips. I ended up with about 3 cups of puddino, so filled each of six glasses with about 1/2 cup. All was fairly easy *except* tilting to coat the side of the glass an extra 1/2\" -- definitely not as easy for me as it was for Chef John! My filling was too warm and thin, so the coating on the glasses looked kind of like I was just sloppy while I was filling them and the level wasn't even on all sides. I re-tilted after the glasses had been in the refrigerator about 10 minutes and the puddino had a chance to thicken up a little and they looked much better, but the level still wasn't even. Because of that, I decided to whip my topping. I topped all with miniature chocolate chips. Taking Chef John's suggestion, I made meringue cookies and folded one cup of Andes Mint chips into the batter and served those on the side. Delicious and everyone loved it! These would make great dessert \"shooters\" if prepared in shot glasses. Thanks for another great recipe, Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mme Magoo"
+},
+"reviewBody": "As delicious as Chef says. Easy and elegant."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BJB"
+},
+"reviewBody": "Chef John comes through again, love love love this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Greg Moore"
+},
+"reviewBody": "It’s okay, but had a gritty texture that distracted from the flavor. Not sure why, but something tells me that Bakers 100% cacao and semi-sweet mix of chocolate might have not been the culprit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John M."
+},
+"reviewBody": "First attempt came out perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alex Alabiso"
+},
+"reviewBody": "I used dark chocolate chips and a half of a raspberry dark chocolate bar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BenzMD"
+},
+"reviewBody": "Made this for Valentine’s Day. Followed the instructions exactly and it was delicious. Thank you Chef John. I also made the Coq au Vin as the main dish and it was perfect too! My husband and I love trying your recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dani"
+},
+"reviewBody": "Hi Chef John, I loved this recipe for Valentine’s Day! I made it and it was so easy and fun! :) I used 70% cacao instead of 60% and it turned out well still!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jameson"
+},
+"reviewBody": "My girlfriend and I made this on Valentine's day and it was so easy and fun! It was so rich and smooth, definitely the best pudding I've ever had!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "His Dudeness"
+},
+"reviewBody": "Super good! \nHe is not kidding about the serving size being adequate, it is very rich and delicious.\nWill definitely make this one again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "VogueSense"
+},
+"reviewBody": "Delicious rich and thick chocolatey dessert. I used bittersweet Ghirardelli morals, which are in the 60% range. Be careful when heating the egg mixture. Just a few seconds too long and you could end up with scamebbled eggs (I almost did this). This is very rich so dividing it in 6 portion is just enough for one person. Don't forget the whipped cream either. It adds just the right amount of airy cream to offset the dense chocolate. I made this for Valentine's Day, but it's an easy recipe for any special event or chocolate craving."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brendalee Jackson"
+},
+"reviewBody": "Excellent...thumbs up for out family and so easy to make. We also discussed how we could use this with other desserts. I am thinking of using this recipe as a topping for my Fannie Farm cheese cake. \nI would also like to thank you Chef John for the way you explain things in your videos. I have made many recipes from you and all have turned out great thanks to your instructions in your videos."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Randy Suchcicki"
+},
+"reviewBody": "Followed the recipe but used 1% milk and heavy cream instead of whole milk. I used semi-sweet backing chips and this came out great. Excellent flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharyl"
+},
+"reviewBody": "Halfed the recipe and got 4 servings. Very easy. Added a cinnamon heart for valentines theme."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mike Radcliffe"
+},
+"reviewBody": "I’ve been making this exact recipe since I saw it now on YouTube just 1 day ago. Feb 14 2021. My only complaint is that I really destroyed my kitchen making this beauty because that’s just how I cook.. not chef John’s fault but still annoying for my wife. Not that she’s cleaning my mess or anything, that’s up to me. Now time to make an egg white omelet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim Marshall"
+},
+"reviewBody": "Wonderful &amp; decadent dessert!!! Precise instructions help ensure success. This would also be a great make-ahead dessert for a casual event - just use small jelly jars with lids instead of dishes (replace solid disks in lids with circles cut from clear plastic plates for a pretty presentation)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chuck Oldaker"
+},
+"reviewBody": "This was excellent. Next time I will try a small glug of Amaretto in the mix"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daniel Hostetler"
+},
+"reviewBody": "Beautiful and fairly easy to pull together. I do think that Chef lost the perfect opportunity for a layer of fresh sliced strawberries to add that counterbalance to the rich chocolate or maybe that just my preference. Either way, this is a dessert that will gain you huge points with your special person."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sergio Reinert"
+},
+"reviewBody": "Another excellent recipe brought by the brilliant chef John Mitzewich"
+}
+]

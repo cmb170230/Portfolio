@@ -1,0 +1,73 @@
+,"name": "Double Chicken Tea"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT510M"
+,"prepTime": "PT45M"
+,"recipeIngredient": [
+"2 (4.5 pound) whole chicken",
+"3 large carrots, peeled and cut into 2-inch pieces",
+"3 ribs celery, cut into 2-inch pieces",
+"2 yellow onions, roughly chopped",
+"4 cloves garlic, unpeeled and halved",
+"2 small bay leaves",
+"10 whole black peppercorns",
+"7 quarts cold water, or as needed",
+"kosher salt to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Slice breast meat off the chickens by cutting along either side of each breastbone, across the ribcage and down to the wing joints. Cut off the meat and save for another meal, reserving skin for chicken tea."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer whole chickens and skin from breasts into 1 extra large, or 2 standard (5 1/2- to 6-quart) pots. Divide carrots, celery, and onions between the pots, followed by garlic, bay leaves, and peppercorns. Fill each pot to the top with cold water."
+} ,{
+"@type": "HowToStep"
+,"text": "Place pots over medium-high heat and bring to a boil, watching carefully. Immediately reduce heat to low. Skim off any foam from the tops with a spoon. Adjust heat to maintain a very gentle simmer where only small bubbles poke up through the surface. Continue to let simmer for 8 to 12 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Use a slotted spoon to transfer the solids into a strainer set over a large bowl; discard chunks and pour strained broth back into a pot. Combine all the liquid into one pot. Strain broth again through a fine-mesh strainer into whichever pot was emptied."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring to a boil over medium-high heat, skimming fat from the top; boil until reduced by half. Turn off heat and season with salt, tasting and adjusting as needed."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/G9lUgC7eu4PkgqRUH6rsqz0zEP4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-472-3b1e9c0052a340169940a1a3ad07a721.jpg"
+}
+]
+,"text": "Strain broth through a cheesecloth or nut milk bag into a container. Serve steaming hot in a pot as you would tea, or let cool and refrigerate until ready to serve."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT555M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "oxfordms"
+},
+"reviewBody": "Absolutely fantastic. I make bone broth, etc all the time and this is a keeper recipe. So rich and nourishing. I’m going to make a double batch today as my wife is recovering from surgery and it will be healing. I add a few dashes of fish sauce to any of my broths which kicks up the umami."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mark S"
+},
+"reviewBody": "Frank Zappa served this in '69 for us on our way to Big Sur .... were you there?"
+}
+]

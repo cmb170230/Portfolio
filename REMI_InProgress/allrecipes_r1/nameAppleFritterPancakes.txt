@@ -1,0 +1,532 @@
+,"name": "Apple Fritter Pancakes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "43"
+}
+,"cookTime": "PT6M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "314 kcal"
+,"carbohydrateContent": "40 g"
+,"cholesterolContent": "124 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "498 mg"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 large egg",
+"1 tablespoon white sugar",
+"0.125 teaspoon ground cinnamon, or to taste",
+"1 pinch ground ginger",
+"1 pinch nutmeg",
+"0.25 teaspoon kosher salt",
+"0.125 teaspoon pure vanilla extract",
+"1 cup shredded apple",
+"1 teaspoon lemon juice",
+"0.5 cup all-purpose flour, or as needed",
+"0.25 teaspoon baking powder",
+"0.125 teaspoon baking soda",
+"2 tablespoons melted butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine egg, sugar, cinnamon, ginger, nutmeg, kosher salt, and vanilla extract in a bowl. Whisk until well combined and lightly foamy. Add shredded apple and lemon juice and fold in with a spatula until well combined. Add flour, baking powder, and baking soda. Mix until flour disappears and batter is thick yet spoonable."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/GZMEbt41OOpqnybp7xxYc-7aA0E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-Fritter-Pancakes-1x1-1-edf26451dd8d4541a6f8e65d9aadb955.jpg"
+}
+]
+,"text": "Melt butter in a skillet over medium heat. Add tablespoonfuls of apple batter to the hot butter and cook until browned, about 3 minutes. Turn and cook until apple pancakes spring back to the touch and are browned on the other side, an additional 3 minutes."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT16M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mikki Petersen"
+},
+"reviewBody": "My husband is a fritter fanatic and he loved these pancakes. I cooked them slow over a low heat. Next time I will try them as waffles. Good recipe although I had to add a bit extra water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These are so, so delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "OMG! So good and easy to make! Don't be tempted to turn up the heat, cooking on medium will allow the centers to cook without over browning the outside. These could be a regular Sunday brunch addition."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These did not taste anything like apple fritters. They were bland, and didn’t cook well, so they were done on the outside but gooey on the inside."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roger"
+},
+"reviewBody": "Made the most perfect waffles."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy"
+},
+"reviewBody": "Excellent recipe! Made it exactly as stated. Easy for kids to make too. My 11 yo made these twice this week. We use 2 apples for the one cup of apple and it may be a little bit more than one cup, but perfect amount we think."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "S.E."
+},
+"reviewBody": "Delicious! I didn't even think they needed any kind of syrup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "J H"
+},
+"reviewBody": "Super easy to put together and tasted delicious! I used a Fuji apple, but I might try a Granny Smith next time just to see how that turns out. Topped with a bit of maple syrup, what could be better?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anne"
+},
+"reviewBody": "Wow! Mine turned out just like the photo! After stirring in the flour the batter was quite thick, but I patted it down in the pan, cooked the three minutes on each side, and the more I ate, the better they tasted. It's a saver."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "horserdr"
+},
+"reviewBody": "Easy, tasty and more nutritious than usual pancakes which are much heavier/denser. Used a red delicious apple but next time will try a more tart variety. Housemate loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "joanne"
+},
+"reviewBody": "So so tasty! The recipe says enough for 2! Well…..there is just one of me and I finished them all! Will be making this again when friends are invited! Beautiful texture, taste and color!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ljohnson51"
+},
+"reviewBody": "Another wonderful Chef John recipe! Made these this morning exactly as recipe states (x2) and they were very delicious. Saved a few to taste later in the day and these are a keeper..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fiona1966msncom"
+},
+"reviewBody": "No changes. These pancakes were unlike any others that I have made in the past. They are crispy on the outside and are just plain DELICIOUS! I will definitely be making these again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bill Stein"
+},
+"reviewBody": "Great recipe, I'd change nothing with the exception of doubling or tripling the batter. As is the recipe makes 4 nice size pancakes, great for 2 people. If you have a crowd I believe this would scale easily."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bill"
+},
+"reviewBody": "I stayed true to the recipe and it turned out very tasty. One grated apple was a perfect one cup. I was leery about the apple skin being too tough for pancake like texture, but didn't even notice it being there. Quick and easy. Wish I had some sausage or bacon to go with, but didn't have time for a market run."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cocojoy"
+},
+"reviewBody": "Super easy and super tasty. Mine didn’t get as fluffy as it looked in the video, but we didn’t care, they were delicious. This one’s a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Gill"
+},
+"reviewBody": "You need to add milk as the batter is too dry. After doing that it is quite delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sreagin21"
+},
+"reviewBody": "I have a picky eater. He loved these and so did I. We will make them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "bige"
+},
+"reviewBody": "I would have rated this recipe higher if it was called Apple Pancakes. They did not taste at all like fritters but were tasty pancakes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joanne Sonricker"
+},
+"reviewBody": "Yummy, great for dinner too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was great! I followed the recipe exactly. Easy and delicious. One thing I did was after I flipped the pancakes, when they had one minute to go, I put some syrup on top of each one. It warmed up and carmelized a little bit and gave a bit of a sugary crunch 😉"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My husband doesn’t like ginger so I used cardamom instead. These fritters where fantastic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bunssr"
+},
+"reviewBody": "I made this, this morning for breakfast. The only change I made, was using sugar substitute, and it still was really delicious! Next time, I'm going to try using whole wheat flour and brown sugar substitute, to try to increase the health value a little. If it doesn't work, back to the original. A definite keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie"
+},
+"reviewBody": "Followed the recipes to the letter and we LOVED them! Absolutely delicious. Thanks Chef John :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This recipe was easy to prepare and delicious! My family loved it. Chef John hit it out of the ballpark with this one!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Ken"
+},
+"reviewBody": "This is outstanding! Stop reading, get into your kitchen and get busy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SVENSKAFLIKA"
+},
+"reviewBody": "This was a hit for both my husband and myself! I've been looking for a great apple pancake recipe and this is it! The abundance of apples makes it so yummy! We love cinnamon so I increased it to a full 1/2 teaspoon. I also doubled the nutmeg and ginger. This is a new Sunday morning staple in our house!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "S Hulbert"
+},
+"reviewBody": "Just finished Sunday morning breakfast. I didn’t even have to ask what my husband thought. With a big smile he said, This is really good!”"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ryan Schroeder"
+},
+"reviewBody": "These were great. I definitely thought maybe they would be super wet with so little flour and all that apple, but they came out great. Fluffy and super tasty. And really hardly any more work than good ol’ pancakes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michele Schor"
+},
+"reviewBody": "Great recipe! So much better than the traditional apple pancakes I normally make. Much less flour and a lot of apples. Sort of reminded me of potato latkes but with apples rather than potatoes. A definite keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diana"
+},
+"reviewBody": "Very good! I made a mistake on the first pancake by patting it out to shape it too much since the batter is thick. It lost the air bubbles. Letting it cook in place with minimal shaping produces fluffy pancakes that taste so much better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim Ohlweiler"
+},
+"reviewBody": "I made these exactly as Chef John demonstrated, and they were absolutely delicious! (I love Chef John's recipes and videos.) 2 pancakes were just right as a serving, even for my husband who is a big breakfast eater. This will become a staple in our house!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Really good!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Easy to make and better than Apple fritter donuts!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jccswens"
+},
+"reviewBody": "John, you are just a total ace. In addition, your recipes are too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lacyanne"
+},
+"reviewBody": "The pancakes are amazing! I made this for my sister for dinner and she insisted that I include her pull quote in my review. According to her, \" 'the sister' thought it was delightful and the twinge of saltiness was the perfect balance.\" The husband was also delighted with the meal after being apprehensive about the amount of apples in the batter. This is a new fall staple for sure. Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Loved it!!! Followed to a T. Very easy. Will be my go too breakfast for company. Thanks again Chef John"
+}
+]

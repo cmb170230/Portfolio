@@ -1,0 +1,199 @@
+,"name": "Spaghetti all&#39;Assassina (Assassin&#39;s Spaghetti)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "15"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "384 kcal"
+,"carbohydrateContent": "50 g"
+,"fiberContent": "5 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "1244 mg"
+,"fatContent": "18 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1 tablespoon olive oil",
+"2 cloves garlic, minced",
+"3 cups tomato puree",
+"3 cups water",
+"1 teaspoon salt, or to taste",
+"0.25 cup olive oil",
+"2 teaspoons red chili flakes, or to taste",
+"6 ounces dry spaghetti",
+"salt to taste",
+"1 tablespoon finely chopped parsley, for garnish" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a pot over medium heat. Add garlic and sizzle until it starts to turn golden and fragrant, about 1 minute. Stir in tomato puree, water, and salt. Bring to a simmer on medium-high. Once simmering, reduce to low heat and keep warm."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour olive oil into a large non-stick skillet over medium-high heat, season with chili flakes and heat until chili flakes start to sizzle, for 1 minute. Add raw spaghetti and toss until well coated with chili oil. Pour in about 3 cups of tomato broth and, using tongs, move pasta from side to side to evenly distribute tomato broth. Cook, occasionally moving pasta from side to side with tongs, all facing the same direction, until most of the broth has been absorbed or evaporated, and the spaghetti starts frying in the pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn spaghetti over with tongs, and evenly arrange in the pan. Keep cooking until the pasta starts to brown, and even lightly chars. Add about 2 more cups of tomato broth, and repeat the process. Continue cooking until the spaghetti is as charred as you like , and cooked to your desired doneness."
+} ,{
+"@type": "HowToStep"
+,"text": "More broth can be added at the end of the process for a saucier version, as shown in the video, or it can be served relatively dry."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/EX0jQQk5J8hB4rBq4lidcRQLSKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8534000-spaghetti-allassassina-Chef-John-1x1-1-2000-fa6b8a94df844c018295d1e1dd452248.jpg"
+}
+]
+,"text": "Serve with a drizzle of olive oil and more chili flakes if desired."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ed B"
+},
+"reviewBody": "We will make this again, soon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "panakanic"
+},
+"reviewBody": "Love this! I had no tomato paste or sauce (and I'm an hour from the nearest store, so...). Instead I used a jarred marinara sauce (Hey, Chef John said I could, in the video!) I used less chili flakes, because, me. But, this method of cooking really concentrates the flavors, and I ate it all for my lunch! I intend to pick up some good paste and sauce, and make according to the recipe. That said, using a basic, commercial pasta sauce turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lea ann"
+},
+"reviewBody": "I wanted to love this recipe and will definitely try it again with modifications, but I found it to be nuclear-hot…and I REALLY like spicy food!! All I could taste was red pepper flakes. IMO, it wasn’t flavorful, just hot 🥵 I’m giving four stars because I enjoyed the process of cooking spaghetti this way. So simple and so many possibilities to explore!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "I am not a spaghetti fan at all, never liked it. This is fantastic! I used my favorite cast iron and just went for it! I used a jarred marinara sauce for the tomato puree (the rest of the sauce was for the Chicken Parmesan to go along with this dish) they went really well together. So glad I tried it! It is all about the char!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LubinVA"
+},
+"reviewBody": "In a word ... intense! A unique eating experience that I will definitely make again. The way the charming and repeated saucing concentrates both the heat and tomato sauce is fantastic. I followed the recipe exactly and served it \"dry\"."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This recipe turned out lovely. It's very spicy (two teaspoons of chili flakes!) but worth it. The reduction of the sauce and the frying of the spaghetti gave it such a delicious, even rich texture; it's hard to describe because I've never had this texture of pasta before. You really do have to burn it, and I will be less timid about having to char it the next time I make this (maybe tomorrow!). The crispy bits really were the best, but the rest wasn't a slouch. Fantastic recipe and I always appreciate Chef John's videos. The only thing I did differently out of necessity was use a can of tomato paste plus generous amounts of water to make my base tomato puree before adding the rest of the water called for in the recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ilovemykids99"
+},
+"reviewBody": "I wasn't sure what to expect, especially with only 3 ratings. Chef John did not disappoint! If you like spicy (hot), this one is for you. I'll probably do a smidge less next time. I hadn't realized the recipe called for only 6oz of spaghetti, since it said it served 4, so last minute added a little extra tomato sauce to my sauce to cover the additional 4-5 oz of spaghetti. It turned out I probably didn't need to though. Plenty of sauce. The fry pan was tight, but it worked out in the end. Could even do in batches for bigger amounts of pasta. Very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melba Burson"
+},
+"reviewBody": "I love &amp; enjoyed every step. Chef John, you always explain how &amp; why you do everything. Thank you for that because every recipe of yours that I've tried has been exactly as you described. I've tried many &amp; all are delicious. I think the first one was apple fritters. I tried one from a donut shop &amp; didn't like it. (Apples weren't cooked enough! Lol!) Your recipe is perfect &amp; my friends liked them too. Salisbury steak was delicious with the gravy. My husband liked the cream of mushroom soup but said it was too much trouble! I made it, not him. Thanks! I'll keep watching, cooking &amp; bragging about you, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I think I was too timid with the heat (physical heat, not chili heat) - next time (and there will be a next time) I'm gonna really let it char, because the crunchy spaghetti bits I *did* get were the best part. (Like the edges of lasagna, but better.) One piece of advice - if your stovetop has an exhaust fan, you might want to use it. The dish isn't smoky, but if you've been brave with the chili flakes, the volatile pepper fumes coming off this as it cooks can be surprising. My guess as to how the dish got its name: it looks like a brutal crime scene. (But in a good way.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Annette"
+},
+"reviewBody": "This was so fun to cook and the taste is amazing! Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carin Schwartz"
+},
+"reviewBody": "So rich and delicious. An absolutely delicious dish."
+}
+]

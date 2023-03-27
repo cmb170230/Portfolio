@@ -1,0 +1,480 @@
+,"name": "Chef John&#39;s Individual Beef Wellingtons"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "32"
+}
+,"cookTime": "PT75M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "1330 kcal"
+,"carbohydrateContent": "59 g"
+,"cholesterolContent": "235 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "46 g"
+,"saturatedFatContent": "36 g"
+,"sodiumContent": "870 mg"
+,"sugarContent": "2 g"
+,"fatContent": "100 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT45M"
+,"recipeIngredient": [
+"3 tablespoons unsalted butter",
+"10 large brown mushrooms, finely chopped",
+"0.25 teaspoon salt",
+"2 tablespoons minced shallots",
+"freshly ground black pepper to taste",
+"1 pinch cayenne pepper, or to taste",
+"3 tablespoons white wine",
+"2 ounces pate",
+"4 (8 ounce) filet mignon steaks",
+"salt and freshly ground black pepper to taste",
+"2 tablespoons salted butter",
+"1 (17.25 ounce) package frozen puff pastry",
+"2 tablespoons Dijon mustard",
+"1 large egg, beaten",
+"1 teaspoon water" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Melt butter over medium-high heat. Add mushrooms and salt; cook and stir until well browned and caramelized, about 5 minutes. They will be wet and soggy at first but will dry out."
+} ,{
+"@type": "HowToStep"
+,"text": "Add shallots and cook until they soften up and turn translucent, about 3 minutes. Add black pepper, cayenne, and white wine. Stir until wine evaporates, about 1 minute. Turn off the heat and transfer to a bowl to cool to room temperature."
+} ,{
+"@type": "HowToStep"
+,"text": "Add pate to cooled mushroom mixture; toss and mash with a spoon until thoroughly combined. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Generously season filets with salt and pepper. Melt butter for Wellingtons in the same pan over high heat. Sear, one at a time, in the hot pan until the sides and edges are nicely browned, about 5 minutes per filet. Transfer to a plate and place in the refrigerator until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut each sheet of pastry into 4 squares. Place one square frozen puff pastry onto a lightly floured surface. Spoon about 3 tablespoons pate mixture into the center and press out to roughly the same size as a filet. Spread 1/2 tablespoon mustard on top of one filet and place mustard-side down on the pate."
+} ,{
+"@type": "HowToStep"
+,"text": "Gently stretch and fold the shorter sides of the pastry around the filet, then bring the longer sides up and over to seal. You can stretch the dough that will be on the bottom of the filet, but try not to stretch it on the sides and top. It&#39;s okay to have a couple of small holes at the bottom. Flip Wellington over and place seam-side down on a plate. Repeat to form remaining 3 Wellingtons, then transfer all to the refrigerator."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C). Line a sheet pan with parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut remaining 4 squares of puff pastry into circles that are roughly the size of the Wellingtons. Place on the prepared sheet pan and poke all over each circle with a fork."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven for 15 minutes. Remove from the oven, flip, and press circles down with a spatula to flatten. Return to the oven and bake until cooked through and crispy, 5 to 10 minutes longer. Remove from the oven and lift off the sheet pan to cool. Increase the oven temperature to 450 degrees F (230 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer Wellingtons to the freezer for exactly 15 minutes. Line the same sheet pan with aluminum foil, then top with parchment paper. Beat egg with water in a small bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "When Wellingtons have been in the freezer for 15 minutes, transfer to the prepared pan and generously brush with egg wash."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake pastry in the center of the preheated oven until pastry is golden brown and puffed and filets are cooked through, 23 to 25 minutes. An instant-read thermometer inserted into the center should read 122 degrees F (50 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Immediately remove from the hot pan and transfer onto a plate or cutting board for at least 5 minutes. Cut Wellingtons in half, then trim each end to create a flat surface."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/yNkx0nVxu2p2XOveWUOYVhG2yTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-310-46915dae548c47b6910be206e914166a.jpg"
+}
+]
+,"text": "Place each rounded pastry base on a plate and stand 2 filet halves on top with center cut facing up."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT140M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LauraRfoodie"
+},
+"reviewBody": "Thanks Chef John! I made it and it turned out perfectly. Your video was spot on. I made a few notes to save some time. I will definately make this dish again for a special occasion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CuteElke"
+},
+"reviewBody": "The recipe creates beautiful pastry dough and wonderfully tasty beef that cuts like butter. I made this for new years eve dinner and several people said this is the best fillet they ever had. My lesson learned is that 6oz sized fillets is a better portion size and make stretching the dough around the fillet easier. Using a thermometer takes the guessing out of when the meat is sufficiently done. The recipe is not difficult but I underestimated the prep time. I will practice the recipe again soon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kat G"
+},
+"reviewBody": "This is THE recipe to use to make Beef Wellingtons! I have attempted this dish in the past and it was always somewhat of a disappointment but this recipe makes the perfect plate of beefy perfection! Follow this recipe as written and filmed and you will amaze your friends and family with your cooking skills!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "Made this for hubs birthday and he loved it. I could only find a 5oz bacon wrapped steak, so I used that. I lowered the cook times, and it came so nice! The mushroom pate mix was fantastic! The additional bread on the bottom isn't necessary but does make for a better presentation....and tastes good too! Next time I'll have to make the pan sauce for that extra element!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dgylling"
+},
+"reviewBody": "Our butcher recommended individual wellingtons as each person gets a better crispy portion of all, so we thought we would try it. Excellent recipe and easy if you follow the excellent video step by step. Many steps can be made slightly ahead, so as not to rush at the end. The meat turned out exactly as planned...for all palates. We tried the pate and it was all good. Chop the mushrooms very fine to get result like the video. We found that we could share one, as we tend to eat smaller quantities and didn't need the extra pastry...but can see where some might like having it. Excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "genellejohnson"
+},
+"reviewBody": "I don't like black pepper or hot spice so I eliminated those ingredients. I should have also eliminated the mustard which I don't like. It overpowered the taste of everything else for me so the Wellington wasn't' elidable. Everyone else liked it though. I would also eliminate the pate. Again, most everyone liked it but it's not for me.\n\nThe portions are WAY to huge. Next time I'll cut each fourth of pastry in half to make eight \"bases\" instead of the four rounded pieces as shown in the video - why waste any of the pastry! When the Wellingtons are done and are cut in half, there will be eight servings (half of each Wellington on a \"base\").\n\nThe puff pastry made from butter (not the Pepperidge Farms brand) was $13/sheet! Next time I'll make my own. Martha Stewart has a good recipe with a video.\n\nI couldn't find his recipe for the brown sauce he talked about in the video so I made mushroom gravy. He also has a recipe for mushroom gravy.\n\nWhen cooking mushrooms, I always preheat a cast iron skillet on the highest heat on my stove then put the mushrooms in and cook them until the water evaporates. Then I add the butter, shallots, garlic, celery root, and anything else.\n\nI plated with steamed green beans, carrots (like the ones shown in the video) cooked in my asparagus pot, and small potatoes cooked in my electric pressure cooker. \n\nLoved the video instructions and commentary!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mme Magoo"
+},
+"reviewBody": "Came out perfectly cooked as Chef indicated. Pastry was not soggy. Will cook again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chappy678"
+},
+"reviewBody": "Absolutely divine and easy to follow the recipe and video!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "CookingMichelle"
+},
+"reviewBody": "I followed the instructions and it came out correctly: hot center, rosy center, and a flaky bread around the whole thing. It's not hard (just time consuming). Follow Chef John's instructions and it will come out the way it's supposed to. \n\nIt's getting 3 stars from me though because I did not like the mushroom/pate mixture and this is a flavor that you can't get away from in this dish. So, it's not bad; it's just not for me.\n\nPortion size was way too much for me as well..\n\nI also made the pan sauce that we never got the directions for but were promised in the video -- but easy to look up elsewhere. I served this with a store bought kale salad because I like kale salad and I didn't want to cook anything else today.\n\nIt's a very heavy meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy C"
+},
+"reviewBody": "It was perfect! Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gordon Ramsay "
+},
+"reviewBody": "Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Yan"
+},
+"reviewBody": "Simply amazing! chef John gave me the courage and methods to try this famous dish! Wish come true! Thanks chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sunamcm"
+},
+"reviewBody": "Chef John's recipes are always reliable, but this is one of my new favorites. Don't skip the extra bottom piece of puff pastry. It is so worth it. I made Chef's pan sauce with it, but had to use prepared beef stock. It was still pretty good, IMHO."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dwleo"
+},
+"reviewBody": "Absolutely exceptional.\nFollowed recipe almost exact but only made for two (NYE dinner).\n\nVery tender and flavorful. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bill"
+},
+"reviewBody": "Be sure to take it out of the oven at 122 degrees. 130 is too much.\nWe made the pastry under the Wellington as big as the wrapped Wellington, not as big as the filet, and it was better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sari"
+},
+"reviewBody": "This was a huge hit! The video was especially instructive and made this a lot less intimidating than expected."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tunzinigal"
+},
+"reviewBody": "Delicious and relatively easy to make. Took longer than I expected but that was primarily due to multitasking. A rich dinner for special occasions!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gerry Phibbs"
+},
+"reviewBody": "I followed the recipe carefully - lots of steps - detailed but not really all that difficult. Results were very good! I was able to make this tasty main course on the first try! My thanks to Chef John for his recipe, video, and encouragement!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pat Lynch"
+},
+"reviewBody": "I made this for Christmas dinner and it was spectacular! Follow chef John's instructions to the 'T' and your meal will come out amazing. This was the first time I've ever made beef wellington and I was absolutely, 100% delighted."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KatyP"
+},
+"reviewBody": "Excellent! Just follow instructions and you’ll have an easy and elegant meal. So nice to be able to prep everything ahead of time. Two tips:\n\nI tossed multicolored baby carrots and quartered honey gold potatoes in olive oil and seasoning and put them on one half of sheet pan and my four Wellingtons on the other half. Baked it all same temp and same time and it made for a nice side with just one pan to clean up. \n\nAlso, because of Covid we had Christmas dinner separate from my mom. So I prepped a 5th Wellington filet, and I tossed the veggies with oil and seasoning in a ziplock. I delivered them in an aluminum pan to her, and we both put ours in the oven at same time and ate together on FaceTime. So, would make a good meal to take to a friend or family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dluvs2run"
+},
+"reviewBody": "I made this exactly according to the recipe and I made my own puff pastry. I didn’t need the additional puff pastry disc to serve under each Wellington. This was TO DIE for!!! We all just inhaled the first half of our Wellington and then got really full! The flavors are perfect together and I can’t wait to make it again—when I have the money for filet mignon"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "danitak"
+},
+"reviewBody": "I followed the recipe and It was a huge hit on Christmas Day. My grocery store only had goose, duck &amp; pork pate and I didn’t add any truffle but it was delicious regardless. Next time I might be a little more careful with the Dijon but otherwise it was pretty easy to follow the amazing Chef John’s instructions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dezi Thompson"
+},
+"reviewBody": "Absolutely delicious! I only made 3 so I took the extra puff pastry, cut it into strips and covered the bottom easier. I bought the truffle pate on Amazon, it didn't look like his in the video, but it tasted mighty fine!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Juleeeeah"
+},
+"reviewBody": "Fantastic! We had it for xmas eve dinner and my goodness! I didn't find pate so I used a truffle pate mousse instead. I even added a few drops of truffle oil just to make sure the truffle flavor came through. I also used red wine instead of white wine (it's all we had) and a bit of garlic to the duxelle. I didn't make the pastry base as I thought it was too much pastry and it was absolutely delightful. Very rich, I would serve 1/2 an individual wellington per plate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Victoria DiStasi"
+},
+"reviewBody": "Made this for a holiday dinner date night with my boyfriend and was surprised at how easy it was and how amazing it tasted! We made 2 individual 6 oz fillets and because of the richness from the puff and pate, we decided that next time we make these we probably only need to make 1! I am also not sure the extra puff disc is needed as there is already a ton of pastry- more than if you had made the whole tenderloin. We served with carrots and potatoes like Chef John which were absolutely delicious as well!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Larry"
+},
+"reviewBody": "Didnt make enough mushrooms. Tasted good though. doesnt reheat well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Community"
+},
+"reviewBody": "Chef John, thank you so much for this recipe! One of the best meals I've ever made!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth Duckworth"
+},
+"reviewBody": "Please don't let the 2 or 3 pages of instructions throw you. This is my go-to New Years Eves easy-peasy dish. When I first began making this dish frozen puff pastry wasn't invented yet! Believe me the pastry available today has made this a cinch. Just buy the best tenderloin filets you can find (and afford). The mushroom \"Pate\" is super easy and can even be made the day before."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Travelots"
+},
+"reviewBody": "I would never have had the courage to attempt a beef wellington had it not been for chef John. This was actually a lot simpler than I anticipated. Follow the directions exactly and it'll be a hit. I cooked mine for a rare/medium rare to his time specification and it was perfect. The mushroom and pate mixture was incredible! \nI wonder if laying a layer of pastry on the top and one on the bottom, then trimming and binding them on the sides would work so that you're not having to stretch the pastry at all would work? I have no idea. Either way, mine turned out perfectly. And I enjoyed having the extra puff pastry on the bottom."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Josephine Krueger"
+},
+"reviewBody": "This recipe was great! I prepared it a day in advance and wrapped it in the puff pasty the night I cooked the dish which made it very easy when meat was cooled. I did add a few extra minutes to the bake time because the meat had been refrigerated overnight but it turned out perfectly! My parents and boyfriend loved this dish. Will have to make again for sure! I appreciate the recipe and video, they were comprehensive and easy to follow!"
+}
+]

@@ -1,0 +1,384 @@
+,"name": "Almond Meal Pancakes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "32"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "497 kcal"
+,"carbohydrateContent": "31 g"
+,"cholesterolContent": "191 mg"
+,"proteinContent": "29 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "412 mg"
+,"sugarContent": "13 g"
+,"fatContent": "31 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 large eggs",
+"2 tablespoons olive oil",
+"2 tablespoons maple syrup",
+"0.75 teaspoon vanilla extract",
+"1 pinch salt",
+"1 cup finely ground almond meal",
+"1 teaspoon baking powder",
+"1 teaspoon butter, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine eggs, olive oil, maple syrup, vanilla extract, salt, almond meal, and baking powder in a bowl. Whisk until thoroughly combined. Let batter sit for 10 minutes to marry the flavors and activate the baking powder."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/GPwSb2DTv9SguH1yIAlxQfph490=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7575610-852336b315f745929a225cf154c39f53.jpg"
+}
+]
+,"text": "Butter a nonstick pan or griddle over medium heat. Scoop in batter into any size pancake(s) you like. Cook until edges are set and bottom is golden brown, 2 or 3 minutes. Flip and cook until slightly springy to the touch, another 2 to 3 minutes. Repeat with remaining batter."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "All fell apart and turned into a mush. Waste of money and waste of time making this receipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Hi John, I am on a low carb diet and switched out maple syrup (2 syllables) for Lakanto maple syrup (erythritol and monk fruit) which has a chemical taste 🤪. Next time I might use 50/50 with real maple syrup which usually does the trick or maybe use 2 tbsp of cream or a nut milk to cut back on carbs. The pancakes have a good texture but tend to crumble, but that doesn’t bother me. They are pretty tasty. It rates a 4.5 when you make it keto."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ryanie1956"
+},
+"reviewBody": "This recipe was terrific. I am eating a Keto diet and was looking for something like this to use the Almond Meal I bought last week. This worked a treat. I used the exact recipe bit added half a teaspoon of cinnamon powder . I also whipped some cream, added a small handful of blueberries and half a dozen chopped pecan nuts and topped the pancakes with these. My only advice is to make sure you cook them well on the first side prior to turning otherwise they just fall apart. Fantastic thank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Samples"
+},
+"reviewBody": "I have tried several recipes for almond flour pancakes but this is the best tasting one I’ve come across. I made the recipe exactly as written, including allowing it to set up ten minutes. I put a little butter and then fresh blueberries on the finished cakes and it was delicious! No syrup needed over the top which is something I always include."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ncgirl"
+},
+"reviewBody": "These are so good! I used almond flour and coconut oil and they were light and fluffy and fried easily in butter on medium heat. Thank you Chef John for yet another great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Karishma Chowdhry"
+},
+"reviewBody": "I had to put 2 more eggs to get the right consistency for the batter. On whole it was liked in my house."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Eileen Lee"
+},
+"reviewBody": "Made these as written, except I added blueberries and made them in a mini waffle iron. First let me say they are the best almond flour pancakes I’ve had - no eggy flavor whatsoever! However, I think I’m just never going to learn to love almond flour pancakes because I wasn’t crazy about these even though they were a huge improvement over other versions. I WILL make them again, but I think I’ll make them as a general bread/bun substitute for sandwiches and burgers instead of a pancake breakfast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carp52"
+},
+"reviewBody": "I bought unblanched almond flour by mistake and was happy to find a tasty recipe for it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rose6bud"
+},
+"reviewBody": "I used coconut oil in place of olive oil. I did add chopped pecans to my pancakes as they were cooking in pan. \nMy husband loved them, Delicious !!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rmiyahara"
+},
+"reviewBody": "Easy and tastes great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KrankyVet"
+},
+"reviewBody": "Made tangerine cream, whipping cream, powdered sugar and tangerine pieces, cut in half. Nice finish to an excellent recipe, thank you Chef John..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sherhall79"
+},
+"reviewBody": "I made these and did not make any changes. I found they’ll become a little crumbly when you pick them up with a fork after sitting a few minutes. So, try to eat them pretty soon after coming off the griddle. The taste was good and they were light on my stomach. I’ll definitely make them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Geoffrey Cain"
+},
+"reviewBody": "I used sugar free log cabin in place of normal maple syrup. took it down to 23.5g of carbs per serving!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maya Popova"
+},
+"reviewBody": "I've tried this recipe a couple of times and they are totally amazing. Love the fact that they are delicious and healthy at the same time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BNM"
+},
+"reviewBody": "I followed this recipe without making changes, and it turned out well! The pancakes do burn easily, so make sure to keep it on medium heat or lower. I served it with pecans and maple syrup - delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "smash17"
+},
+"reviewBody": "I did not care for this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sharon george"
+},
+"reviewBody": "Outstanding; now my go to pancake recipe. I did replace maple syrup with coconut sugar. Have made this several times and never a failure. Kudos!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Camp"
+},
+"reviewBody": "I had Hodgson Mill almond flour/meal on hand to use. The results tasted good, a bit grainy for pancakes and the color was much darker than the picture. Topped with butter and a few strawberries and I was a happy camper looking for lower carb alternatives."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Liz"
+},
+"reviewBody": "These pancakes were quick and easy to make. However, I used butter to fry them, and the butter burned quickly. I wouldn't use butter again. The pancakes are slightly sweet and very good. There is no almond taste to them, and that surprised me. The recipe makes about 3 pancakes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Micah Button"
+},
+"reviewBody": "Very delicious! Loved them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kikikim"
+},
+"reviewBody": "These are perfect for us who monitar our carbs and give us more tasty options for staying gluten free! Since my Lakanto Monkfruit syrup is like using liquid gold, I replaced the maple syrup with 1/2 teaspoon of organic maple extract,and 1 1/2 Tablespoon of Swerve brown sugar substitute. I used the maple Monkfruit syrup on the almond pancakes after they were finished. Delicious Chief John! I am happy that you're interested in healthier foods.;)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Jean"
+},
+"reviewBody": "Delicious, tasty and easy. They do not bubble up like regular on the uncooked side, so I cooked them on low as to not burn them (the saying is true with the first pancake). Will be using this recipe over and over!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brady B"
+},
+"reviewBody": "Delicious! I used almond flour vs almond meal, since that is what I had on hand. The end result was thinner, less fluffy pancakes. However, they were still very flavorful and delicious! I'm going to grab some almond meal and try these again. \nOnce again, another amazing recipe from the king himself, Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "badmitn88"
+},
+"reviewBody": "I ground my own almonds and used sugar free syrup. This recipe was delicious. Nice work Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Brandy H."
+},
+"reviewBody": "I couldn't wait to give these a try, so we had them for tonight's dessert. I could taste they are made with almond flour, and they were pretty good. My 12 yo is a pancake snob, she mentioned they were a bit too thick, so I may thin them out with a bit of almond milk next time. I used avocado oil, instead of olive oil, it's what I had on hand. I topped mine with bananas, walnuts and maple syrup...I had a good time. Will certainly make them again...trying desperately to get my family off of w flour. Thanks Chef"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jon Aguillon"
+},
+"reviewBody": "As a beginner on this apps, i can say it's very useful and seem's unmeasured ideas you will get!!!"
+}
+]

@@ -1,0 +1,142 @@
+,"name": "The Banh Mi Burger"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "5"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "1179 kcal"
+,"carbohydrateContent": "53 g"
+,"cholesterolContent": "204 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "46 g"
+,"saturatedFatContent": "29 g"
+,"sodiumContent": "1598 mg"
+,"fatContent": "87 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 pound ground beef chuck",
+"1 teaspoon soy sauce",
+"1 teaspoon fish sauce",
+"0.5 teaspoon freshly ground black pepper",
+"0.13 teaspoon five-spice powder",
+"0.25 cup mayonnaise",
+"1 tablespoon hoisin sauce",
+"2 teaspoons Sriracha",
+"2 French sandwich rolls",
+"0.5 cup julienned carrot",
+"0.5 cup julienned daikon radish",
+"1 tablespoon seasoned rice vinegar",
+"8 thin slices English cucumber",
+"2 tablespoons sliced jalapeno pepper, or to taste",
+"1 tablespoon fresh cilantro leaves, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine beef, fish sauce, soy sauce, freshly ground black pepper, and 5-spice powder in a bowl, and mix until evenly combined. Cover with plastic wrap and refrigerate until chilled."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix mayonnaise, hoisin, and Sriracha together in a small bowl for sauce. Keep chilled until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut open rolls, remove about 1/2 of the inside crumb, and place on the prepared baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake rolls in the preheated oven until toasted, 5 to 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, using damp hands, shape beef mixture into two burger patties sized to match your rolls or buns. Keep in the refrigerator until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine carrots and daikon radish in a bowl. Add rice vinegar and toss to coat. Refrigerate until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat a charcoal grill to high heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook burgers over the hot coals until desired doneness is reached and they spring back to the touch, turning as needed, about 4 minutes per side for medium-rare. An instant-read thermometer inserted into the centers should read at least 145 degrees F (63 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/JjRvXgbszqHMuuoZwZMNBv0wa2k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_7945-2000-15e3b4d7b7a746adbab6c1b954973b66.jpg"
+}
+]
+,"text": "Slather toasted buns with mayo mixture. Place cucumbers and jalapeno slices on bottom of rolls, and top with cooked burgers. Top with carrot-radish mixture and cilantro."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ross"
+},
+"reviewBody": "These burgers are FANTASTIC!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dawn Bassani"
+},
+"reviewBody": "Never had Bahn mi as I hate pate. Tried this and was Making! I made beef for my hubby and my boys and chicken for myself. We all loved it. My hubby dies not care for cilantro, but let me put a lil bit in his, he said yes. Would definitely eat again. U have a whole section of my cookbook that is all chef john recipes. Test is sorted by country or side or main or meat,but you have your own section . My eldest fave is Irish pork stew, as he loves Brussels sprouts . This may be my youngest fave, he hoovered it lik"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Really good and easy! Really impressed!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "So good as always. Thought the carrot/daikon pickle needed a touch of sugar also sauce needed more hosin IMO. So good and he’s right the five spice was perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Banh mi is the yummiest sandwich and among the yummiest foodstuffs in the universe. Drizzle some nuoc cham onto it. To make: mix lime juice, water &amp; sugar until it tastes like limeade with the sweetness &amp; strength you prefer; add fish sauce until it has the right balance of salty, sweet, acid &amp; umami; drop in a smashed clove of garlic &amp; some red pepper flakes or minced chili pepper. I've made banh mi on a brioche hot dog roll. The ones with the split top will toast up beautifully. I also marinate the cucumbers in a bit of sesame oil &amp; sesame seeds."
+}
+]

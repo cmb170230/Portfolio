@@ -1,0 +1,199 @@
+,"name": "No-Knead Big Bubble Focaccia"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "14"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "155 kcal"
+,"carbohydrateContent": "28 g"
+,"fiberContent": "1 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "762 mg"
+,"fatContent": "2 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT45M"
+,"recipeIngredient": [
+"4 cups bread flour",
+"2 tablespoons bread flour",
+"0.25 teaspoon active dry yeast",
+"2 teaspoons kosher salt",
+"4 teaspoons extra-virgin olive oil, or more as needed",
+"1.667 cups water, at room temperature",
+"1 tablespoon minced fresh rosemary",
+"1 tablespoon flaky sea salt" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Stir yeast into bread flour in a bowl. Add salt, followed by 4 teaspoons oil, and water. Stir with a spoon until a wet, sticky dough forms."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover and let sit at room temperature for 12 to 14 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Uncover dough and transfer to an oiled work surface. Using oiled hands, press and push the dough into a rectangle, 16x12 inches in size. Fold dough into thirds horizontally; fold vertically into thirds. Transfer smooth side up into a generously oiled pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover the pan with plastic wrap and let rest until almost doubled in size, for 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Using oiled hands, fold once more into thirds horizontally, then into thirds vertically to develop gluten structure. Flip dough, smooth side up, on the pan; cover with plastic wrap and let rest for 1 hour more."
+} ,{
+"@type": "HowToStep"
+,"text": "Unwrap and stretch and fold dough once more in each direction using oiled hands."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer, smooth side up, into a generously oiled metal baking pan. Lightly drizzle with additional olive oil and stretch to fit the pan. Cover and let rest for 2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C)"
+} ,{
+"@type": "HowToStep"
+,"text": "Unwrap and poke holes in the top of the dough using oiled fingers if desired for the traditional focaccia look. Scatter over rosemary and flaky sea salt."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/spYcGfYbBwzAZnIt3uDh9Souu0M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1No-Knead-Big-Bubble-Focaccia-2000-e4b9e5cb1c3243cd89e0c69e2961fca1.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until browned, about 30 minutes. Let cool in the pan for 10 minutes; transfer to a wire rack and let cool to room temperature, about 30 minutes. Slice and serve."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT1075M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "TerraFirma"
+},
+"reviewBody": "I made this based on the measurements on the original recipe that I printed out a couple of months ago. The recipe was a disaster, as you originally wrote for 3 cups of bread flour which equals (384 Gr). Today I checked, and you corrected the recipe to 500 gr, which equals 3.94Cup of bread flour. I suggest you review your recipe for accuracy before posting online."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was fun to make but for a focaccia bread, too much work. It would be a great ciabatta bread. Flavor is scrummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was such a delicious and easy recipe. I bake fresh bread often and would reccomend lining the pan with foil or parchment paper for an easy release. I also added halved garlic cloves to the top and mixed the rosemary right into the dough."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dardrian"
+},
+"reviewBody": "This turned out pretty great. I recommend lining the pan with parchment or wax paper to make the bread easier to get out of the pan, my first batch stuck despite all the oil."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Amazing!!!!! I even left it rising for too long after the first turn and it still turned out fantastic, crispy on the edges, but moist and chewy inside with that delicious olive oil and sea salt flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jjbondelie"
+},
+"reviewBody": "Absolutely loved this bread. I followed the ingredients exactly. The rising time was stretched a bit longer in some stages because I was busy, but the dough was forgiving. This recipe is a winner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Delise Bomer"
+},
+"reviewBody": "Chef John, all hail!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was really good. Even my very picky semipro baker spouse really liked it. I'll definitely make it again. It is hard to screw it up as I was making a 1/2 recipe and half way through forgot. I added all the other 1/2 ingredients and boom!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great easy to follow recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Turned out great. May have to add more flour (1/2 cup) on the really humid days. The first rest of 24hours long makes it even better. If you have the time..."
+}
+]

@@ -1,0 +1,67 @@
+,"name": "Habanero Honey Sweet Corn Cake"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "255 kcal"
+,"carbohydrateContent": "32 g"
+,"cholesterolContent": "77 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "297 mg"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 cups fresh corn kernels",
+"1 habanero pepper, seeded and diced",
+"2 large eggs",
+"0.33 cup water",
+"0.33 cup honey",
+"0.67 cup all-purpose flour",
+"0.5 cup unsalted butter, melted",
+"0.33 cup cornmeal",
+"1 teaspoon kosher salt",
+"0.5 teaspoon baking powder" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Generously butter a 9-inch pie dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine fresh corn kernels, habanero pepper, eggs, water, and honey in a bowl. Puree with an immersion blender until almost smooth. Add flour, melted butter, cornmeal, salt, and baking powder; whisk until combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer mixture into the greased pie dish. Shake gently to settle mixture into the dish."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/JO_Oq9fVApXbaY4QlpySeqSSYXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/habanerohoneycorncake1-2000-7e3b62744b994de392b788069062364a.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until golden brown and a wooden skewer inserted into the center of the cake comes out clean, 45 to 55 minutes. Let cool until warm or room temperature before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT55M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Utican"
+},
+"reviewBody": "Oh my!! Made this this morning. I could eat the entire pan! Don’t be fooled by using one small habanero pepper. One gives it a wonderful warmth. The fresh corn adds a great texture."
+}
+]

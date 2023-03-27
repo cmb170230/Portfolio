@@ -1,0 +1,200 @@
+,"name": "Wool Roll Bread"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "9"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "222 kcal"
+,"carbohydrateContent": "37 g"
+,"cholesterolContent": "26 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "160 mg"
+,"sugarContent": "10 g"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"0.5 cup water",
+"0.25 cup all-purpose flour",
+"0.5 cup whole milk, warmed",
+"2 teaspoons active dry yeast",
+"3 tablespoons white sugar",
+"0.75 teaspoon kosher salt",
+"1 large egg, beaten",
+"2.5 cups all-purpose flour",
+"2 tablespoons unsalted butter, at room temperature",
+"0.5 cup dark chocolate chunks",
+"2 tablespoons whole milk" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "To make &#34;water roux,&#34; whisk together water and flour in a small saucepan and cook, stirring, over medium heat until a very hot, gluey paste is formed. Mixture should reach at least 150 degrees F (65 degrees C). Remove from heat and let cool completely."
+} ,{
+"@type": "HowToStep"
+,"text": "While roux cools, pour 1/2 cup warm milk and yeast into the bowl of a stand mixer and let bloom for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add the cooled starter, sugar, salt, beaten egg, flour, and butter to the yeast mixture. Using the dough hook, knead on low speed until a smooth, elastic, slightly sticky dough forms, about 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Shape dough into a ball and transfer to a buttered bowl; let rise until doubled in size, 60 to 90 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough to work surface and press into a round disk. Use a bench scraper to cut dough like a pie, into 5 equal wedges. Form each portion into a ball of dough. Cover loosely with plastic wrap and let rest for 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Generously butter a 10-inch springform pan, or 10-inch round cake pan. Cut a round piece of parchment paper to fit the bottom, place into the pan, and butter that as well. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Take one ball of dough and roll out on a lightly floured surface into an oblong shape, about 5 inches wide by 9 inches long. Take your bench scraper and make lots of lengthwise cuts, about 1/8 inch apart, starting 1/3 of the way from one of the ends, slicing all the way through the dough to the opposite end, forming many equal-sized strands of dough. When done, two-thirds of the dough will be sliced, and one-third will not be."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll the unsliced part of the dough to flatten to 1/8-inch thickness. Place a rounded tablespoon of chocolate chunks (or the filling of your choice) in the center of the unsliced dough, and roll it up, tucking in the sides as you go, until the chocolate is covered, and you&#39;ve reached the beginning of the cuts."
+} ,{
+"@type": "HowToStep"
+,"text": "Slowly roll up to form a &#34;wool roll,&#34; being careful not to crush the sliced edges of the dough strands, finishing with the seam on the bottom. Transfer to the prepared pan, and place on the bottom, just barely touching the edge of the pan. Repeat four more times. Place the rolls around the inside of the pan to form a ring."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover with plastic wrap and let dough double in size, 45 to 60 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush the bread&#39;s surface lightly with remaining milk."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/zX19BhfrlHcYxobIrwl2QKIPmxo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9168066-b0ee28bae3cf4bcaa09d2fcc869744a1.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until golden brown, 30 to 35 minutes. Let cool for 10 minutes. Remove from the pan and allow to cool completely on a wire rack before serving."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT235M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ida Crombine"
+},
+"reviewBody": "This bread was simple to make and blew people's minds. It turned out perfectly every time I made it. Chocolate, cinnamon sugar, pepperoni and mozzarella, mushroom duxelle, all made wonderful fillings and made me look like a rock star. Thanks,Chef John! I can't believe I'm the first to review this amazing bread."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nox P."
+},
+"reviewBody": "Came out beautifully, i loved it. \nI'll add a little more sugar than specified next time, but that's just personal preference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bianca Diaz"
+},
+"reviewBody": "Great recipe, thank you Chef John! I don’t have a stand mixer so I used the dough hook attachments of my handheld mixer to combine the milk, yeast, egg, softened butter, and water roux first before slowly mixing in the dry ingredients until it was clumped enough for me to hand knead it. I hand kneaded the dough for 5 minutes and followed the rest of the instructions (except for the fact that I had to cram the 5th roll in the middle of my cake pan bc my cake pan was not 10 inches) My oven runs a little hotter so my bread was fully cooked and brown on top at 25 minutes. I do think the recipe could use a tad more sugar but maybe that’s just my sweet tooth speaking lol"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry Escobar"
+},
+"reviewBody": "Just altered the chocolate (semi-sweet mini chips about a tablespoon) and the pan.. 9 inch rather than 10. \n\nEasy recipe to follow. I make bread all the time and this was easier than most!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Drifting Fox"
+},
+"reviewBody": "Made it with no alterations, turned out perfect for my friends/family get together! I plan on trying many different fillings!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Irish Rose"
+},
+"reviewBody": "This bread is wonderful! I followed Chef John's video and it was so easy and fun to make. Can't wait to try again with different fillings. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kevin Bush"
+},
+"reviewBody": "Awesome recipe. I had to make this after watching the video. We filled ours with Italian sausage, grated carrots and spring onions. Thanks Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dreamy cook"
+},
+"reviewBody": "It's a great-looking bread, easy to make with not much high skill required. I used raisins with cinnamon for the filling instead of chocolate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anoop Thapliyal"
+},
+"reviewBody": "The way you explain it is amazing"
+}
+]

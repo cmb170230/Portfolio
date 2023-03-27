@@ -1,0 +1,271 @@
+,"name": "Baked Chicken Parmesan Dip"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "17"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "378 kcal"
+,"carbohydrateContent": "13 g"
+,"cholesterolContent": "74 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "27 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "635 mg"
+,"sugarContent": "5 g"
+,"fatContent": "25 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 cup whole-milk ricotta cheese",
+"1 pound skinless, boneless chicken breast halves",
+"1 pinch salt and freshly ground black pepper to taste",
+"1 pinch cayenne pepper, or to taste",
+"4 tablespoons olive oil, divided",
+"3 tablespoons cold water",
+"8 ounces grated mozzarella cheese",
+"8 ounces grated Monterey Jack cheese",
+"1 ounce grated Parmigiano-Reggiano cheese",
+"2 cups prepared marinara sauce",
+"0.5 cup panko bread crumbs",
+"2 tablespoons olive oil",
+"2 tablespoons grated Parmigiano-Reggiano cheese, or to taste",
+"2 tablespoons grated mozzarella cheese, or to taste",
+"2 tablespoons grated Monterey Jack cheese, or to taste",
+"1 teaspoon (packed) coarsely chopped fresh Italian parsley" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Drain ricotta cheese in a mesh strainer set over a bowl in the refrigerator, 8 hours to overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Season chicken with salt, pepper, and cayenne."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 2 tablespoons oil in a pan over medium-high heat. Cook chicken breasts in the hot oil until browned and just barely cooked through, about 6 minutes per side. Turn off heat and splash in cold water, stirring to deglaze. Transfer chicken and pan drippings into a bowl to let cool, about 5 minutes. Dice or shred the chicken."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine drained ricotta cheese, salt, pepper, 8 ounces mozzarella cheese, 8 ounces Monterey Jack cheese, and 1 ounce Parmigiano-Reggiano cheese in a bowl. Mix with a spoon to evenly distribute. Add chicken, the pan drippings, and marinara sauce. Mix with a fork until just combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine bread crumbs and remaining olive oil in the bowl used for the chicken and mix to coat."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer chicken mixture to an ungreased baking dish. Top with oiled crumbs, 2 tablespoons Parmesan, 2 tablespoons mozzarella, and 2 tablespoons Monterey Jack cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until browned and bubbly, about 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/jH3BEuoclQjYiEfyr8JPpl3qnQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7560674-e1b4b0ebca524348acd8dfa17bb1ab87.jpg"
+}
+]
+,"text": "Let rest for 10 minutes. Garnish with parsley and serve with a spoon or spreading knife."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT540M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Faith N"
+},
+"reviewBody": "This was a nice change from our regular chicken parm recipe. It wasn't as thick as I expected and I really couldn't detect any of the cayenne but it had a decent flavor overall. Hubby and kids enjoyed it. I served it on baguette slices, thin, buttered and toasted."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brody"
+},
+"reviewBody": "I just made this for a party. It was simple to make. Everyone raved and asked for the recipe. The only thing I changed was adding a lot of garlic and some fresh basil."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Finn Brady"
+},
+"reviewBody": "Great!! it's best while hot and since I'm only one person it took me a long time to finish this. I reheated it in the oven most times I ate it. As another, I didn't use crostini mostly because I was lazy. I used toasty toast or dinner rolls. Super tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dadcooks"
+},
+"reviewBody": "I made many changes to match ingredients \nthat I had on hand and the result was excellent. This will my left over chicken meal from now on. My wife loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Bragg"
+},
+"reviewBody": "This is a rare recipe that I did not alter. It is delicious! My friends all loved it. I sliced homemade baguettes to serve on which was great as well. Very easy and it does impress!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Cher"
+},
+"reviewBody": "I think I added too much ricotta cheese. Not sure, but it was tasteless. I couldn't taste anything but salt and cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Sam Stone"
+},
+"reviewBody": "Found it heavy and not really a true representative of what this is. Will try actual Chicken Parmesan to get a real good dish.\nFollowed recipe as close as I could."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Newkid65"
+},
+"reviewBody": "I followed Chef’s recipe to the letter since this was my 1st attempt. I served it with French bread since that’s what I had on hand and boy, it was the hit of the party! Everyone loved it and my husband declared this to be the best appetizer ever. This is my new go-to recipe for parties and pot-lucks. Thank you Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "thephatshady"
+},
+"reviewBody": "followed recipe as written is fabulous."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mrsoofie"
+},
+"reviewBody": "Easy and definitely tasted like chicken parm! I used Short Cuts chicken and did not bother draining the ricotta, otherwise made as directed. I served it for dinner with Crostini D'Emily from this site and my family liked it tho still prefers real chicken parm."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ekbrook"
+},
+"reviewBody": "This is REALLY tasty...the whole family loved it and relatively easy. Enjoy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patrick Swick"
+},
+"reviewBody": "Great dip for when company comes over for dinner"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SpycGyrl"
+},
+"reviewBody": "So good! This would be great party food. I followed the recipe as written and don't think I would change anything. I used a loaf of french bread for Crostini from this site. We had this for dinner with a salad. Even my 4 yr old devoured it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mazzacre"
+},
+"reviewBody": "Funny story, I thought I had chicken breasts, but I didn’t and with one hour til the party I was in trouble. I found a box of dinosaur chicken nuggets, air fried them, and cubed them as a substitute. The breaded chicken parts made this recipe that much better!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Margaret Lambert"
+},
+"reviewBody": "Oh, wow. I saw the video while hungry, and IMMEDIATELY went to the store. This was absolutely amazing! We didn't just use crostini for ours; because my family ate this as a meal, we used sandwich rolls, and it was DELICIOUS.\n\nInstead of cooking our own chicken, I got some chilled rotisserie chicken breasts from the store. Since we didn't have pan drippings from fresh-cooked chicken, I didn't drain the ricotta, and it worked very well. I think I used too much chicken, though, so I ended up having to add another 1/2 cup of sauce.\n\nPlease make this. You won't be disappointed."
+}
+]

@@ -1,0 +1,354 @@
+,"name": "Fried Mozzarella Puffs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "23"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "289 kcal"
+,"carbohydrateContent": "12 g"
+,"cholesterolContent": "55 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "645 mg"
+,"sugarContent": "4 g"
+,"fatContent": "24 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"0.33333334326744 cup water",
+"2 tablespoons unsalted butter",
+"1 teaspoon kosher salt",
+"0.33333334326744 cup all-purpose flour",
+"1 large egg",
+"1 pinch cayenne pepper",
+"1 pinch freshly ground black pepper",
+"0.5 teaspoon dried oregano",
+"1 cup marinara sauce, or to taste",
+"0.5 teaspoon red pepper flakes",
+"1 teaspoon balsamic vinegar",
+"4 ounces low-moisture mozzarella cheese",
+"4 cups canola oil for frying",
+"1 anchovy fillet" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine water, butter, and salt in a saucepan over medium-high heat. Bring to a simmer; pour in flour all at once and reduce heat to medium. Stir with a wooden spoon or spatula until a dough starts coming together. Cook, scraping up and stirring the dough, for 2 to 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from heat; transfer dough to a mixing bowl. Let cool until no longer hot but still very warm, 5 to 10 minutes. Add egg and season with cayenne and freshly ground black pepper. Whisk vigorously until mixture combines into a very soft, sticky dough. Switch to a spatula and scrape dough into a ball."
+} ,{
+"@type": "HowToStep"
+,"text": "Seal dough and spatula with plastic wrap and refrigerate in the bowl until cool, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "In the meantime, season marinara sauce with oregano, red pepper flakes, balsamic vinegar in a small pot over medium heat. Add anchovy fillet. Stir together and bring to a simmer. Let simmer for 10 minutes; turn off heat and let sit until ready to use."
+} ,{
+"@type": "HowToStep"
+,"text": "Grate mozzarella cheese over the dough and stir to combine."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil to 350 degrees F (175 degrees C) in a deep fryer or heavy-duty pan over medium heat. Preheat oven to 200 degrees F (93 degrees C) or any temperature for keeping warm."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/rzzDM0Keus3GSS_ZqbGzQVviWU8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7624311-f5b4bc10e33a4a1b8ed712ff6e9fca3d.jpg"
+}
+]
+,"text": "Scoop out about 2 tablespoons of dough per puff and form into a football shape using two spoons. Fry puffs, 5 or 6 at a time, in the hot oil until browned, 2 to 3 minutes. Drain on paper towels. Keep puffs warm in low oven while frying the rest. Serve with hot marinara sauce."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT100M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made this four ways, two recipe variations with two cooking variations. First was exactly as the recipe says with half fried in oil and the other half in the air fryer. The second recipe substituted the mozzarella for gruyere and a little Parmigiano with half cooked in oil and half in the air fryer. If you are looking at the picture the top left is the as given by Chef John, which were gobbled pretty quickly which is why there is only one left. From there going counter clockwise we have original air fried, gruyere fried, then air fried. One thing i did differently was to use a scoop instead of the two spoon method, i might go with a bigger scoop next time, although, these were great bite size appetizers. I enjoyed them all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These are my favorite! Unbelievably delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elaine Ann Foglio"
+},
+"reviewBody": "I followed the directions exactly and they were Perfection thank you so much for this recipe Chef John"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Foodwarrior"
+},
+"reviewBody": "I wondered whether I should give this a 5 star because I only ate two! The family ate the rest of them (asking for seconds) so since they loved them...5 stars it is. My comments are that he is 100% right when he says that when you add the egg it will look like something went tragically wrong. Even though I was aware of that fact I had my doubts. I ended up using a combination of spatula to mash and smash and whisk to...whisk. Eventually the dough came together. Lastly, I dispensed with the two spoon football method and used my hands to form the dough and dropped them in with a slotted spoon. I made different sizes and the really small ones (3 peas size) were not liked as much. So, I made inch to inch and a half tubes and they were the best received. One note for everyone. Get your oil up to temp of the puffs will sink to the bottom and stick there. I had this problem at first but once the oil was to temp it solved itself. It is on the unanimous remake list."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BECKY300N"
+},
+"reviewBody": "Followed the recipe exactly except I did them in the air fryer! Light and crispy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jen Theobald"
+},
+"reviewBody": "These were so easy to make and super tasty. I did add a couple ounces of extra cheese because why not. They were totally delicious. I’m absolutely making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Margaret Andersen"
+},
+"reviewBody": "Chef John never steers me wrong. From hash browns to pie to now amazing cheese puffs - I always get an amazing fished product when following along with his recipes. I made these as-is, with the exception of the cayenne (no one likes it). So much easier than homemade mozzarella sticks, and I'd venture to say these are tastier!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Roadrunnergourmet"
+},
+"reviewBody": "Ok. Probably wouldn’t make again. I love chef John but these were a bit oily and bland. His hacks to bottled marinara are 100%!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "thelastkilljoy"
+},
+"reviewBody": "I've made these twice. The first time I followed the recipe exactly, and they were delicious, but a bit salty. The second time I followed it with the exception of halving the salt, and they were absolutely amazing! Great recipe, just gotta adjust for taste if you are sensitive to salt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole Rhine"
+},
+"reviewBody": "I have now made this 2 times and every time they have been a huge success! My kids love them. I also don't bother rolling them with spoons. I spoon out the amount I want then use my hands to roll them lightly into the shape he makes with the spoons"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer 77"
+},
+"reviewBody": "I followed the recipe for the puffs exactly and they are very light and crispy and taste great. I would definitely make them again but I would add basil or Italian seasoning to make them more flavorful. I didn't make the sauce. I just served them with spaghetti sauce. I will try the jazzed up version next time. Chef John always has great recipes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cin4513"
+},
+"reviewBody": "These were delicious! I only had salted butter, so I would decrease the amount of salt added if I used salted butter again next time,. These are way easier to make than traditional mozzarella sticks! Very tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole is trying something"
+},
+"reviewBody": "Way too salty. But over all good. I'll try again with less salt and ranch dip."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amy davis"
+},
+"reviewBody": "It was AMAZING!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janice Ellen Wright"
+},
+"reviewBody": "These are fabulous! My oil was probably too hot because it took much less than 2 or 3 minutes to cook, but I went by the color on the outside and they were done. The taste and texture are unique yet comforting! Like, if mac 'n' cheese and a mozzarella stick had a baby! Delicious. Next time I'll double the batch; there are just 2 of us but we ate them in record time. I've been a longtime fan of Chef John, and the video helped me know I wasn't doing it wrong when it felt like I was."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dave"
+},
+"reviewBody": "I made them with almond flour and they were really good. I threw a little xanthan gum in to thicken the batter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lee Meek"
+},
+"reviewBody": "I made these without modifications in an air fryer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie"
+},
+"reviewBody": "These little things are awesome. As someone relatively new to cooking, I've never deep-fried anything before, but these were super easy to cook. I might try this recipe with other cheeses some day just to see how it comes out.\nOnly thing I changed was that I doubled the ingredients. The amount of dough that came from the list here made enough for about 4 balls, not 8, but I may have just been making them too big. Either way, they taste amazing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alison Meyer"
+},
+"reviewBody": "These are amazing. We kept some warm as suggested, and it was great. We didn't make the sauce out of laziness, but they are so crispy and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paige Ludvigsen"
+},
+"reviewBody": "I made them according to the recipe for dinner and they were amazing! They were ever so slightly too salty for my taste but i will adjust and make them again. They were so crispy and tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tzalabak"
+},
+"reviewBody": "I made this tonight, with no changes to the recipe. They are fantastic. Wife and daughters all loved them. My wife and I liked the sauce. One daughter liked it, one didn't.\n\nGreat recipe. I will definitely be making this again...several times."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "August B. Rain"
+},
+"reviewBody": "I had a dinner event and made this as an appetizer, super easy and I didn't have a single one left within 5 minutes! \n\nI made a second batch with almond flour as a gluten free option but they weren't as good as Chef John's recipe."
+}
+]

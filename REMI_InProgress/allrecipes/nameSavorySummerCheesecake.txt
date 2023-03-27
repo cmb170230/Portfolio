@@ -1,0 +1,142 @@
+,"name": "Savory Summer Cheesecake"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "5"
+}
+,"cookTime": "PT70M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "518 kcal"
+,"carbohydrateContent": "16 g"
+,"cholesterolContent": "194 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "12 g"
+,"saturatedFatContent": "25 g"
+,"sodiumContent": "736 mg"
+,"sugarContent": "4 g"
+,"fatContent": "47 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"3 tablespoons olive oil",
+"1.5 cups diced bell peppers",
+"0.5 cup diced yellow onions",
+"1 pinch salt",
+"2 cloves garlic, crushed, or to taste",
+"4 large eggs",
+"0.25 cup all-purpose flour",
+"1.5 teaspoons kosher salt, or to taste",
+"0.5 teaspoon freshly ground black pepper",
+"1 pinch cayenne pepper, or to taste",
+"1 tablespoon white sugar",
+"1 cup creme fraiche",
+"3 (8 ounce) packages cream cheese, at room temperature",
+"0.5 cup grated Parmigiano-Reggiano cheese",
+"3 tablespoons chopped fresh parsley",
+"3 tablespoons chopped fresh tarragon",
+"2 tablespoons chopped fresh thyme",
+"4.25 ounces plain crackers, finely crushed",
+"0.25 teaspoon dried Italian herb blend",
+"3 tablespoons melted butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 325 degrees F (165 degrees C). Butter a 9-inch springform pan well."
+} ,{
+"@type": "HowToStep"
+,"text": "Start the filling: Heat olive oil in a pan over medium-high heat. Saute peppers and onions with a large pinch of salt until onions just start to turn translucent, about 5 minutes. Stir in garlic and cook for 2 more minutes. Turn off heat and allow to cool to room temperature."
+} ,{
+"@type": "HowToStep"
+,"text": "While the pepper mixture is cooling, prepare the crust: Combine crushed cracker crumbs, dried Italian herbs, and melted butter in a mixing bowl. Stir until crumbs are coated."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer the buttered crumbs into the prepared springform pan and press down into an even layer. Set aside until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Continue the filling: Combine eggs, flour, kosher salt, black pepper, cayenne pepper, and sugar in a large mixing bowl and whisk until smooth. Add the creme fraiche, cream cheese, and Parmigiano-Reggiano cheese, and mix until smooth. Stir in parsley, tarragon, thyme, and cooled pepper mixture until evenly combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer cheese mixture into the prepared springform pan. Tap the pan gently to settle the contents and place on a baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the lower center of the preheated oven until a skewer poked into the center comes out clean, 60 to 75 minutes. Let cool in the pan for 30 minutes. Run a knife around the edges and carefully remove the ring."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/REWNEsY4nyrfSZXsAgrw_n6NIK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-254-8de66a4f3b00413e9fffff48461f1955.jpg"
+}
+]
+,"text": "Cheesecake should be thoroughly chilled in the refrigerator before serving, about 2 hours. Cheesecake can be served at room temperature, but it will not have the classic smooth, firm cheesecake texture, and will be more like a very light cheese quiche."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT255M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rodney Keith Bone"
+},
+"reviewBody": "Looks great can’t wait for it to cool"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lynne Brown"
+},
+"reviewBody": "Yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason"
+},
+"reviewBody": "This was killer, fantastic, and superlative! However, I added 1 cup diced, smoked ham and 1 cup diced gruyere and spread it over the cracker crust, then added the cream cheese mixture, baked, cooled and refrigerated. \n\nPerfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John's Miter"
+},
+"reviewBody": "I lost a bet and got sucked into doing a keto diet for 45 days. My biggest lament was my loss of Cheesecake. But Chef John came in right in right in the nick of time with a savory cheesecake that I barely have to modify to make it low carb. This will more than do to replace my favorite dish for the next month and a half. Many thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeffrey Brown"
+},
+"reviewBody": "One of the best original recipes I have ever made. Turned out just as advertised by Chef John. Serve chilled as suggested. It's a texture thing. I would serve a thin piece of this as a salad course or as part of a cheese board with fruit for dessert. This went particularly well with sweet cherries."
+}
+]

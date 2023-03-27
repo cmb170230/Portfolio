@@ -1,0 +1,175 @@
+,"name": "Fast Upside-Down Turkey"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "11"
+}
+,"cookTime": "PT120M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "633 kcal"
+,"carbohydrateContent": "14 g"
+,"cholesterolContent": "221 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "76 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "1478 mg"
+,"sugarContent": "1 g"
+,"fatContent": "28 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 (16 pound) whole turkey, thawed",
+"4 tablespoons kosher salt",
+"1 loaf French bread",
+"4 tablespoons unsalted butter, softened",
+"2 sprigs fresh sage, or to taste",
+"2 sprigs fresh rosemary, or to taste",
+"2 sprigs fresh thyme, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place turkey in a large pan, bowl, or tub. Remove the neck and innards and save to make a gravy, if desired. Season the inside of the turkey with 1 1/2 tablespoons salt, and then the outside with the rest, until the entire surface of the bird has a thin coating of salt crystals. Transfer to the refrigerator, uncovered, and let brine for 12 to 24 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C). Set a large foil roasting pan over a sheet pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut the bread loaf lengthwise into two halves. Butter generously and place buttered-side up into the prepared roasting pan, pushing bread halves together so they are touching."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove turkey from the fridge and stuff sage, rosemary, and thyme into the cavity. Tie the legs together with kitchen string and place breast-side down on top of the bread, making sure turkey is as steady and straight-up as possible. Tuck wing tips up and over the drumette."
+} ,{
+"@type": "HowToStep"
+,"text": "Roast in the preheated oven until an instant-read thermometer inserted into the thickest part of the thigh registers 165 degrees F (74 degrees C), about 2 hours. Let turkey rest for at least 15 to 20 minutes before carving."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/HqOXWGsy9LsHHgfS-aIjHQuf3MI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/277369-fast-upside-down-turkey-LSH-12ada4ac3ac747adba651a6b24e07490.jpg"
+}
+]
+,"text": "In the meantime, cut bread into cubes and transfer onto a serving plate; keep warm as needed. Spoon juices onto the turkey, place it on top of the bread, and carve."
+} ]
+,"recipeYield": ["20"]
+,"totalTime": "PT885M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JoLynn"
+},
+"reviewBody": "This is now the go-to recipe. Our turkey was 16 pounds and I'd say we could have gone a little less than 2 hours on this. The only thing I might do differently next time is a foil wrap around the drumsticks. Those shrunk back quite a bit and were a little dry. The breast meat was juicy and delicious. I was nervous to use that much salt, but I shouldn't have been. Thanks for a great recipe. Now the oven doesn't have to be tied up for the whole day. This will be a game changer for planning the Thanksgiving Day meal!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Beth Shaknis Zarzycki"
+},
+"reviewBody": "Absolute perfection! I made this on Thanksgiving day so I did not have a store open to buy the bread. No worries - I had a roaster pan with a rack. I was a bit worried about the high heat (my oven kept initiating the cooling fan process) but it came out juicy and tender. I left it upside down and the back skin was crisp and delicious. Everyone loved it. I'll never make turkey any other way again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carole Jones"
+},
+"reviewBody": "I was delighted to see Chef's upside down turkey. We have done this for years and the breast meat is always extra moist@@ YES!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brian Wayne"
+},
+"reviewBody": "Incredible on so many levels. Worked perfectly, in fact a 17 lb was done sooner but we didn't have a thermometer. Didn't try the bread, just used a rack so maybe that contributed to faster cook - will try the bread another time just because it sounds delicious. Almost everyone then asked for the link to this page, all blown away at how efficient and good it was. \n\nThose of us who prefer dark even loved the white because of how incredibly juicy it was. Do season as suggested - don't skimp."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brad Bennett"
+},
+"reviewBody": "Made exactly as directed. The turkey came out amazingly. Juicy all the way through."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CemeteryGirl"
+},
+"reviewBody": "I wouldn't bother flipping it over. The skin on the back was no longer crispy after flipping and the breast skin did not have enough time to get good and crispy. We saved the bread and made simple bread dressing with it a few days later. The extra butter and turkey drippings made a divine dressing. The browned bread bits softened up during cooking and made it extra rich."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Jacqueline Parent"
+},
+"reviewBody": "This was so easy and fast and juicy! I used a baguette under the 17lb turkey, one half under the breast bone and other halves on either side of that. They were completely flattened by the turkey but I added them to my stuffing and they were fantastic. \n\nWill definitely make again. Possibly for slightly less time by just 5 to 10 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenny Malott"
+},
+"reviewBody": "Best Turkey ever! I followed the recipe down to the foil roasting pan. It turned out juicy and perfect! I had another turkey that I slow cooked in a slow cooker and all the guests agreed the fast upside-down turkey was more moist!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cwefoot"
+},
+"reviewBody": "My turkey was 20lbs. I followed this recipe to a tee and it was the juiciest most delicious turkey I've ever made. Everyone loved this. Unfortunately, my bread got a little too squishy and tough in spots to eat, but it kept the breasts moist and cushioned perfectly. I also used the make ahead gravy which was perfect a well! Will use the recipe again next Thanksgiving"
+}
+]

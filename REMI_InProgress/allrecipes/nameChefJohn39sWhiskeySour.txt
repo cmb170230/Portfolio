@@ -1,0 +1,111 @@
+,"name": "Chef John&#39;s Whiskey Sour"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "5"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "555 kcal"
+,"carbohydrateContent": "104 g"
+,"fiberContent": "0 g"
+,"proteinContent": "4 g"
+,"sodiumContent": "60 mg"
+,"sugarContent": "101 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"0.5 cup white sugar",
+"0.25 cup water",
+"2 fluid ounces 100-proof bourbon whiskey",
+"1 fluid ounce freshly squeezed lemon juice",
+"4 drops orange bitters, or more to taste",
+"1 large egg white",
+"ice cubes as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Prepare simple syrup: Bring sugar and water to a simmer in a small pan over medium heat, stirring occasionally, until sugar is dissolved. Pour into a small bowl and let cool completely before using, 15 to 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Make cocktail: Pour 3/4 fluid ounce simple syrup, bourbon, lemon juice, bitters, and egg white into a large cocktail shaker. Cover with a smaller cocktail shaker, or top, and give cocktail a &#34;dry shake&#34; without ice, about 30 seconds."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/V-Zo9lDm3wlWK0bGZJTyDeBlNuk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8220222-ad976a0f345b4369a72525adb4ca0e62.jpg"
+}
+]
+,"text": "Add 3 ice cubes to bourbon mixture, cover, and shake vigorously until the shaker is very cold and the outside is frosty, about 45 seconds. Uncover and strain into a rocks glass containing 1 large ice cube."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jan Stander"
+},
+"reviewBody": "Great recipe, really enjoyed. I found 3/4 oz syrup was a bit too sweet for my taste, so I just use 1/2 ounce syrup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Perry Willis"
+},
+"reviewBody": "Excellent proportions. More egg white than I usually use, but you can't argue with velvety mouth feel. \nI prefer to use an immersion blender rather than a dry shake. I get a frothier result and none of the \"leakage\" I sometimes get with a dry shake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ed Adams"
+},
+"reviewBody": "As always, Chef John hits it out of the park. I feel somewhat responsible for this recipe since I pestered and pestered for it so you are all welcome :). Seriously, thank you Chef. Made this the second you posted it. I like it with the egg white, my Michelle does not."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KSBRAUN"
+},
+"reviewBody": "Beautiful and Delicious. Perfect quarantine drink!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tony King"
+},
+"reviewBody": "Wow, that’s delicious! This will be my Summer of 2020 drink!"
+}
+]

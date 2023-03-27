@@ -1,0 +1,252 @@
+,"name": "Chef John&#39;s Gingerbread Biscotti"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "13"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "160 kcal"
+,"carbohydrateContent": "26 g"
+,"cholesterolContent": "30 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "112 mg"
+,"sugarContent": "13 g"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"2 cups all-purpose flour",
+"1.5 teaspoons baking powder",
+"0.5 teaspoon kosher salt",
+"4 teaspoons ground ginger",
+"1 teaspoon ground cinnamon",
+"0.5 teaspoon ground nutmeg",
+"1 pinch cayenne pepper",
+"5 tablespoons unsalted butter, softened",
+"0.66666668653488 cup packed dark brown sugar",
+"1 tablespoon molasses",
+"2 large eggs, at room temperature",
+"0.5 teaspoon vanilla extract",
+"0.66666668653488 cup finely chopped crystallized ginger",
+"3 (1 ounce) squares white chocolate, melted" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Whisk flour, baking powder, salt, ground ginger, cinnamon, nutmeg, and cayenne together in a bowl until thoroughly combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine butter, brown sugar, and molasses in a bowl; mix with a spatula until creamy. Whisk in eggs, one at a time, until smooth. Add vanilla and chopped ginger. Mix and mash with the whisk until ginger is evenly distributed and coated with the butter-sugar mixture, about 1 minute."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix in 1/2 of the dry ingredients with a spatula until incorporated. Mix in remaining dry ingredients until dough is very wet and sticky."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough to a long piece of plastic wrap, using a buttered knife to help if necessary. Wrap plastic around the dough and shape with your hands into a uniform log, about 12 to 14 inches long by 2 1/2 inches wide. Place in the refrigerator to chill for at least 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with a silicone baking mat."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove dough from the refrigerator, unwrap, and place on the prepared baking sheet. Wet your fingers and smooth out any edges."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until a toothpick inserted into the center comes out clean, about 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove loaf from the oven, cover with a clean towel, and let sit for 20 minutes. Reduce oven temperature to 325 degrees F (165 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Uncover the loaf and brush a little water around the bottom edge to soften. Transfer to a cutting board."
+} ,{
+"@type": "HowToStep"
+,"text": "Use a serrated knife to cut the loaf into 1/2-inch slices. Cut at an angle for longer biscotti, or straight across for shorter ones. Transfer slices back to the baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Return to the oven and bake for 20 minutes. Flip biscotti and cook until they are dry and crispy all the way through, 10 to 15 minutes longer. Transfer to a cooling rack and let cool to room temperature."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/VwF383OAhejk3TBVALJb9pXiqSI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8800300_original-2000-186a9a4578f549408d0419693f207d3c.jpg"
+}
+]
+,"text": "Place melted white chocolate into a plastic bag. Snip off a corner and pipe over biscotti. Let sit until chocolate has cooled and hardened, about 30 minutes."
+} ]
+,"recipeYield": ["18"]
+,"totalTime": "PT200M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Nunn"
+},
+"reviewBody": "The second year making this gem! Thank you Chef John for making me look like I know what I'm doing :) Perfect, gingery goodness. Covered in white chocolate... yummmm!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very fine recipe. I skipped crystallized ginger, apart from that I followed the formula to the latter. Before making it I feared that the gingerbread flavour would be too subtle and wouldn't shine through, luckily this prejudice was unjustifed. Tasty and super christmassy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cvanier"
+},
+"reviewBody": "Delicious, nothing to change or add to this recipe. It’s so tasty everyone love those!\nGreat recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kris Rono"
+},
+"reviewBody": "I love this recipe and have made it several times. I even made 'unscotti' once by just baking it once and giving it a few extra minutes. It was great just as a regular cookie, for those of you that don't want something quite so hard."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "SANDYR54"
+},
+"reviewBody": "This biscotti was just okay. I think it needs more molasses flavor. Maybe some fresh orange peel would help."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MYSTICL"
+},
+"reviewBody": "Made this exactly as written and it was delicious. We love ginger however so next time I might up either the ground ginger or the crystalized ginger just a smidge but not sure which yet. (leaning toward the ground ginger but might do a tiny bit of each) Don't be afraid of the ginger in this, even for those who are wary of ginger's heat this is mild and goes extremely well dipped in coffee or tea or even just as is ... YUM!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "neha sarode"
+},
+"reviewBody": "Make biscotti for the first time with this recipe and it came out perfect. \nSince I didn't have any molasses, I used jaggery and a splash of milk (the only change I made to the recipe). The candied ginger is the star of this recipe, don't skip!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jayme Thompson"
+},
+"reviewBody": "It was so easy and yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharyl"
+},
+"reviewBody": "First attempt at baking biscotti. Very easy to make as directed. Used 1/4 c crystal ginger which was enough for our tastes. Worried that there would not be enough white chocolate but there was more than enough. Received very positive reviews from the family and will put this on my Christmas baking list."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eileen Herrera"
+},
+"reviewBody": "Excellent biscotti recipe. I really recommend watching the video because it gives excellent guidance. I followed the recipe exactly except for cutting out about 1/3 of the brown sugar (so used about 1/2 cup instead). With the molasses, candied ginger and white chocolate glaze, it worked out perfectly for sweetness. Love the little “bits” of candied ginger in this. Please do not skip this as it really makes the cookie amazing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pat Doughty"
+},
+"reviewBody": "This recipe was terrific, even if dicing up the candied ginger was a royal pain. I went a little heavy on the ginger because i love the extra spiciness it gives."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AJayBee"
+},
+"reviewBody": "These are delish and worth making just for the fantastic smell while these are baking. I did make some minor changes to the spice mix; I cut the nutmeg to 1/4 tsp and added 1/4 tsp of allspice and 1/2 tsp cardamom. I didn’t have white chocolate, so I lightly drizzled the final biscotti with some cinnamon-laced powdered sugar glaze on top. I’m not a huge fan of crystallized ginger, but it is the star in these cookies. The granddaughter gave this 2 Thumbs Up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie"
+},
+"reviewBody": "Made it exactly as written except omitted the white chocolate drizzle. Will definitely make again."
+}
+]

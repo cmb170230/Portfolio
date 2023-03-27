@@ -1,0 +1,88 @@
+,"name": "Red Pozole"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT370M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "819 kcal"
+,"carbohydrateContent": "45 g"
+,"cholesterolContent": "187 mg"
+,"fiberContent": "10 g"
+,"proteinContent": "49 g"
+,"saturatedFatContent": "16 g"
+,"sodiumContent": "2058 mg"
+,"fatContent": "49 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2.5 pounds pork shoulder, cut into 2-inch chunks",
+"2.5 pounds pork shanks",
+"1.5 pounds pork feet",
+"1 medium yellow onion, peeled, but left whole",
+"1 medium carrot, peeled and cut in half",
+"2 stalks celery, cut in half",
+"2 tablespoons kosher salt, or more to taste",
+"1 teaspoon freshly ground black pepper",
+"2 teaspoons ground cumin",
+"3 large bay leaves",
+"4 quarts water, divided",
+"2 tablespoons dried Mexican oregano",
+"12 medium garlic cloves, unpeeled",
+"3 ounces dried guajillo chiles, stemmed and seeded",
+"1 ounce dried ancho chiles, stemmed and seeded",
+"2 (30 ounce) cans white hominy, drained and rinsed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place pork shoulder in the refrigerator. Transfer pork shanks and feet into a large pot on the stove. Add onion, carrot, and celery, salt, pepper, cumin, and bay leaves. Pour in 3 quarts water. Turn heat to high and bring to a simmer."
+} ,{
+"@type": "HowToStep"
+,"text": "Skim foam from the surface and add Mexican oregano, rubbing it between your hands as you drop it into the pot. Reduce heat to medium-low and simmer gently until pork is tender and will easily come off the bone, about 3 ½ hours."
+} ,{
+"@type": "HowToStep"
+,"text": "While the pork is simmering, place unpeeled garlic cloves in a dry pan over medium heat. Roast the cloves, shaking the pan occasionally over the heat, until slightly charred on the outside and just starting to get soft on the inside. Remove from the heat and transfer into a bowl to cool."
+} ,{
+"@type": "HowToStep"
+,"text": "Place guajillo and ancho chile peppers into a 4-cup liquid measuring cup and set a strainer over the top. Ladle some simmering broth from the pot into the strainer until chiles are covered. Let soak until the pork is finished simmering."
+} ,{
+"@type": "HowToStep"
+,"text": "When pork is finished cooking, set a strainer over a large bowl. Remove pork and vegetables with a slotted spoon and place in the strainer."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, peel the cooled garlic cloves and add them to the chile pepper and broth mixture. Puree chile mixture with an immersion blender until smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Pass pureed chiles through a strainer into the pot of broth. Add a spoonful or two of the broth to the pureed chiles to help it pass through the strainer if needed. Pour the remaining 1 quart of water through the strainer, then add the pork shoulder to the pot. Simmer over medium-low heat."
+} ,{
+"@type": "HowToStep"
+,"text": "While the pork shoulder simmers, remove bones from pork shanks, then cut shanks and feet into smaller pieces."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/DS3egbLgr8HJENrRAKX-kXNccRY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Red-Pozole-2000-a4326ec3c89548499917bd7c065c80c1.jpg"
+}
+]
+,"text": "Once the pork shoulder has simmered for 1 ½ hours, add diced shanks and feet to the pot. Stir in hominy and continue to simmer until pork is very tender, about 1 more hour. Skim any fat from the surface as it cooks and season with more salt if needed."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT390M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The flavor was very nice. A for sure upgrade to my Mom’s version of the recipe she puts together in under 45 minutes. The time put in to cooking the pork was definitely worth it. I had to add a lot more water into the stew than what was mentioned in the recipe since it was reducing so much. At the end I should of added even more water. I never have had pigs feet before and this was a good way to get me to try them, they worked well. Thanks chef John. Oh yeah, that is a Food Wishes margarita."
+}
+]

@@ -1,0 +1,164 @@
+,"name": "Quick Chicken Couscous"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "7"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "966 kcal"
+,"carbohydrateContent": "125 g"
+,"cholesterolContent": "70 mg"
+,"fiberContent": "21 g"
+,"proteinContent": "46 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "1429 mg"
+,"sugarContent": "6 g"
+,"fatContent": "35 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1.25 cups whole wheat couscous",
+"0.5 teaspoon kosher salt",
+"0.25 teaspoon freshly ground black pepper",
+"1 pinch cayenne pepper",
+"3 tablespoons olive oil",
+"1 (8 ounce) skinless, boneless chicken breast half",
+"1 pinch kosher salt to taste",
+"1 tablespoon olive oil, or more to taste",
+"0.5 cup diced red onion",
+"1 cup chicken broth",
+"0.5 cup diced zucchini",
+"0.5 cup diced green beans",
+"0.5 cup diced red bell pepper",
+"0.25 cup thinly sliced green onions",
+"0.5 teaspoon smoked paprika",
+"0.5 teaspoon ground turmeric",
+"2 tablespoons chopped flat-leaf (Italian) parsley, or to taste",
+"2 tablespoons crumbled feta cheese, or to taste",
+"1 pinch chili flakes" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place couscous in a heat-proof mixing bowl. Add salt, pepper, cayenne, and olive oil; stir with a spoon until all couscous is coated with oil. Level off to smooth the top and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Season chicken on both sides with salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a saucepan over high heat. Add chicken and sear for 2 to 3 minutes on one side. Flip and add onions. Sear chicken on second side, while sauteing onions at the same time, for 2 to 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove chicken to a plate and let cool for a few minutes. Cut chicken into 1/2-inch cubes and return to the saucepan."
+} ,{
+"@type": "HowToStep"
+,"text": "Add chicken broth, zucchini, green beans, bell pepper, green onions, paprika, and turmeric to the saucepan. Place over high heat. As soon as it boils, remove from the heat and carefully dump it on top of the couscous; do not stir. Immediately wrap bowl tightly with foil and set a timer for 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "When timer goes off, unwrap foil and toss in parsley. Stir to combine ingredients. Taste and adjust for salt."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/IREqeKwWMZocZADPxAWUxxBX_FI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9249833-quick-chicken-couscous-Chef-John-1x1-1-26516ec2a6dc45ea9e3b546fbbc187db.jpg"
+}
+]
+,"text": "Spoon couscous onto serving plate and garnish with feta cheese, chili flakes, and parsley and a drizzle of olive oil."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I mixed some left over rice with the couscous, still turned out delicious! Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ronna"
+},
+"reviewBody": "Great recipe. I like to cook a big batch so the leftovers become lunch for the work week. Couscous is pasta - people calling it a 'grain' are incorrect. It's pasta - so if you are low carbing or something, please know this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is a great meal"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "StephMC"
+},
+"reviewBody": "Wow this was fantastic! Chicken, vegetables, and grains may not sound all that interesting, but this really surprised me!! Quick, healthy, easy to make a lot of, and DELICIOUS! Definitely adding it to the rotation. It was like a delicious Mediterranean Chipotle bowl. I may add some Greek yogurt next time! Thanks again Chef John!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carmen Pesnell"
+},
+"reviewBody": "Fas6 and easy. Perfect for empty nesters"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie"
+},
+"reviewBody": "Really good! I doubled the chicken and it fed 4 people easily. I used regular couscous instead of wheat wheat and added extra water according to package directions. Very tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy"
+},
+"reviewBody": "I made this using couscous that wasn't whole wheat so that may have changed the ratio of broth to couscous. I used one cup couscous to 1.5 cups broth. Check the cooking instructions on your package. I also made this as a side dish and omitted the chicken but used homemade broth. This was quick, easy and tasty. The turmeric gave it a very nice color. The next day I added leftover game hen and had a nice lunch. Thanks Chef John."
+}
+]

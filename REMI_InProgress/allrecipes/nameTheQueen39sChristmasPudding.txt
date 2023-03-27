@@ -1,0 +1,103 @@
+,"name": "The Queen&#39;s Christmas Pudding"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT245M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "717 kcal"
+,"carbohydrateContent": "101 g"
+,"cholesterolContent": "83 mg"
+,"fiberContent": "10 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "14 g"
+,"sodiumContent": "217 mg"
+,"fatContent": "34 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT50M"
+,"recipeIngredient": [
+"15 medium Medjool dates, pitted and chopped",
+"1 cup dried apricots, chopped",
+"0.25 cup currants",
+"0.333 cup golden raisins",
+"1 cup dried cranberries",
+"0.333 cup finely chopped crystallized ginger",
+"3 tablespoons bourbon whiskey",
+"1 large orange, zested and juiced",
+"10 tablespoons unsalted butter, melted",
+"1 large egg, beaten",
+"0.5 cup heavy cream",
+"0.75 cup buttermilk",
+"0.5 teaspoon kosher salt",
+"1.25 cups roughly chopped pecans",
+"0.5 cup dry bread crumbs",
+"1.25 cups all-purpose flour",
+"4 sprigs fresh rosemary",
+"0.25 cup maple syrup" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Select a heat-proof bowl of any size or shape and generously grease with butter."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine dates, apricots, currants, raisins, cranberries, ginger, whiskey, orange zest, and orange juice in a mixing bowl. Toss thoroughly to combine."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour in melted butter and stir until everything is evenly coated. Mix in egg, heavy cream, and buttermilk. Add salt, pecans, bread crumbs, and flour and mix until batter is very thick and sticky."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough to the prepared bowl and press it down to flatten with a spatula. Place a circle of parchment paper over the top and press down to seal. Stretch 2 pieces of plastic wrap over the bowl, then place the bowl on a third piece of plastic wrap. Bring the ends up and over the bowl and seal tightly. Cover the bowl with 2 pieces of foil, then tie a piece of string around and secure tightly."
+} ,{
+"@type": "HowToStep"
+,"text": "Place in the refrigerator, 8 hours to overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Lay rosemary sprigs in the bottom of a large Dutch oven. Place the wrapped pudding on the rosemary sprigs and fill the Dutch oven halfway with water."
+} ,{
+"@type": "HowToStep"
+,"text": "Place over high heat, cover, and bring to a boil. As soon as it boils, reduce heat to medium and steam, covered, for 4 hours, checking every hour to see if you need to add more water."
+} ,{
+"@type": "HowToStep"
+,"text": "Use kitchen towels and carefully lift the pudding out of the Dutch oven. Snip the string, take off the foil, remove the plastic wrap, and peel off the parchment. Place a plate over the bowl and invert the pudding to unmold."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/qj9GyJWzlwmulWayvlJulSgv2T8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8315261-the-queens-christmas-pudding-Chef-John-1x1-1-32cd10e1ea1744268a9826cbbd0d45fe.jpg"
+}
+]
+,"text": "Brush maple syrup over top. Cut and serve immediately."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT775M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ilovethepiano"
+},
+"reviewBody": "This is the second year in a row that I made this recipe. My family loves that it uses a blend of dried fruits we eat regularly rather than the candied cherries and peels found in American fruitcake. The recipe is easy to follow and I like how Chef John gives helpful hints to make this pudding a success. This year, I didn’t have oranges, so I substituted the zest and juice from half a grapefruit. The tartness of the juice didn't change the flavor of the dish and my pudding turned out delicious. I also steamed my puddings (the mix was so voluminous that I used two pudding moulds) in my slow cooker. My house smelled so good the last hour of cooking! I'm planning on making this pudding again next year."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It's a nice recipe, great taste and smells very well. Despite living in the UK for over 17 years, I never thought that one can actually make a Christmas pudding from the scratch. And that on Christmas eve, which is even cooler :) There was a surprise in the end - this pudding is quite large, it's about 1.5 kilos :) I followed all the prescriptions except replacing whiskey by cognac (just could not force myself buying bourbon in the UK...) but I guess it doesn't make much difference. Also, decided to skip the maple syrup, since wanted to give it to my one year old. What I always appreciate with Chef John is that you always get what's promised."
+}
+]

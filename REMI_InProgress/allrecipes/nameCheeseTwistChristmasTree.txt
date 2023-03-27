@@ -1,0 +1,108 @@
+,"name": "Cheese Twist Christmas Tree"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "3"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "355 kcal"
+,"carbohydrateContent": "24 g"
+,"cholesterolContent": "8 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "316 mg"
+,"fatContent": "26 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 (14 ounce) package frozen puff pastry, thawed",
+"2 teaspoons all-purpose flour, or as needed",
+"0.333 cup prepared pesto sauce, divided",
+"2 ounces Parmigiano-Reggiano cheese, divided" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C). Line 2 baking sheets with a silicone liner (such as Silpat®)."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll pastry into a 14-inch square, sprinkling with flour if necessary."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut from the bottom corners up to the center top to make a triangle. Place the triangle on a prepared baking sheet and place in the refrigerator."
+} ,{
+"@type": "HowToStep"
+,"text": "Overlap the long edges of the 2 remaining pieces of pastry by about ½ inch to form a second triangle. Roll to flatten slightly. Place on the second prepared baking sheet and chill until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove the first triangle from the refrigerator. Lift the silicone liner and pastry off the pan and onto the counter. Trim about 1 ½ inches off the bottom of the triangle and cut a 2-inch piece from that strip. Tuck that piece under the triangle to make a trunk."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread all but 1 to 2 tablespoons pesto sauce over the entire triangle, leaving ¼ inch exposed at the edges. Grate most of the Parmigiano-Reggiano cheese over the pesto. Place the second pastry triangle over top; stretch and pull it to fit, and trim off any extra dough as needed. Lightly press the edges together to seal and pat over the whole surface of the dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Use a pizza wheel to cut ¾-inch horizontal strips on one side of the tree going from the outside edge in to about ¼ to ½ inch from the center; leave the center part connected to form the trunk. As you move up the tree, it may be easier to place the pizza wheel at the trunk and cut out to the edge. Repeat on the other side, lining up the cuts with the first side."
+} ,{
+"@type": "HowToStep"
+,"text": "Lift up each strip and twist 3 to 4 times. As you get up to the shorter pieces near the top, twist as many times as you can, but don&#39;t worry if you can&#39;t twist the strips at the very top."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush remaining pesto over the center of the tree and any other spots you feel need it. Transfer the silicone liner back onto a baking sheet. Grate remaining cheese over top."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until pastry is fully cooked and well browned, 30 to 35 minutes; do not undercook."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/AoIa-cEE_19-olpWjbRwc_-vriI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8316336-cheese-twist-christmas-tree-Chef-John-1x1-1-36c93eedee1c4d498d0c366ea5202a03.jpg"
+}
+]
+,"text": "Transfer to a wire rack and cool for 15 minutes before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT75M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lhasany"
+},
+"reviewBody": "The recipe is straight forward and a lot of fun but I burned my first attempt- 425 degrees for 30 min was too long Will try again!😂"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JoAnnC"
+},
+"reviewBody": "So delicious and really easy. I like to add minced ripe olives and a scant scratter of red pepper flakes. Roasted garlic is also good …. But…. Try a breakfast version with honey, cream cheese, cinnamon and nuts! Yum. Impressive no matter how you make it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is very easy to make and makes quite the impressive presentation. The one caveat is to not use a very “wet” pesto. I had on hand a jar of Costco pesto, while flavorful, was much too oily for a pastry filling. The result was excess oil pooling at the bottom of the pastry. Other cooking notes are that a pizza wheel really makes cutting the dough easy, and my pastry was done in 15 minutes."
+}
+]

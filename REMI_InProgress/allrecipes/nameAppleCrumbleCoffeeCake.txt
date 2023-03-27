@@ -1,0 +1,1348 @@
+,"name": "Apple Crumble Coffee Cake"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "111"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "631 kcal"
+,"carbohydrateContent": "76 g"
+,"cholesterolContent": "95 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "13 g"
+,"sodiumContent": "435 mg"
+,"sugarContent": "48 g"
+,"fatContent": "34 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"2 teaspoons unsalted butter",
+"2 cups all-purpose flour",
+"1 teaspoon baking powder",
+"0.75 teaspoon baking soda",
+"0.5 teaspoon fine sea salt",
+"1.5 cups finely chopped toasted walnuts",
+"0.33333334326744 cup packed light brown sugar",
+"0.33333334326744 cup white sugar",
+"3 tablespoons unsalted butter, melted",
+"1 teaspoon ground cinnamon",
+"0.25 teaspoon salt",
+"1 cup white sugar",
+"0.5 cup unsalted butter, at room temperature",
+"2 large eggs",
+"1 cup plain yogurt",
+"1.5 teaspoons vanilla extract",
+"2 Honeycrisp apples" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Butter a 9x12-inch baking dish generously."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix dry ingredients: Whisk flour, baking powder, baking soda, and salt together in a bowl. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Make the crumble: Combine walnuts, brown sugar, white sugar, melted butter, cinnamon, and salt in a bowl. Mix until walnuts and sugar are thoroughly coated with butter."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix the wet ingredients: Cream sugar and butter together in another bowl with a spatula until well blended. Add 1 egg and whisk until mixture is smooth, 2 to 3 minutes. Whisk in second egg until thoroughly incorporated. Add yogurt and vanilla; whisk together."
+} ,{
+"@type": "HowToStep"
+,"text": "Add dry flour mixture to wet ingredients; whisk just until flour disappears. Do not overmix."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove cores from apples. Cut across into 1/8- to 1/4-inch slices. Stack up a few slices, make a cut down the center, and dice across into cubes. Add to cake batter, folding in with a spatula until just combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread 1/2 of the batter evenly into the bottom of the prepared baking dish. Scatter 1/2 of the crumble mixture evenly over the top. Top with the rest of the batter in dollops. Spread carefully to evenly distribute, trying not to disturb the crumbs. Top with the rest of the crumb mixture. Press crumbs into the batter very gently."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/o-hp5nVnCNbOLRlDkGNgHFVwtAI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8090709-e35436fc5a3d46a3906195379f98b7da.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until a toothpick or bamboo skewer inserted into the center comes out clean, about 40 minutes. Let cool to room temperature, about 30 minutes, before slicing and serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT95M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Delicious recipe!! I didn't have any yogurt so I subbed with 250ml milk &amp; 30ml of apple cider vinegar. Worked perfectly! I took it to church and and it was a real crowd pleaser, also saved a couple of slices so my husband and I could heat &amp; eat as a dessert! Yummy!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This recipe has way too much sugar. Next time I will cut the sugar in half for both the wet and dry ingredients and the crumble."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "What can I say about this cake that hasn't already been said? Moist. Delicious. Easy. Will definitely be making this again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vicky McKay"
+},
+"reviewBody": "This is a very good recipe. The only thing I would change is the amount of apples. I put 2 cups of granny smith, I would probably do 3 or 4 cups next time I make it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy Campbell"
+},
+"reviewBody": "100% THE BEST (Apple) dessert of all time! So dang good. I followed the recipe exactly and I'm getting ready to make 2 more cakes (for my neighbors). Oh I did use the electric mixer on the sugar/butter/egg part. And may I just take this opportunity to say Thank You Chef John. For your wonderful videos! I think of you as a friend."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cozycall"
+},
+"reviewBody": "I only made a half batch, it was easy to half everything, I used Silk greek yogurt coconut milk. had to bake 45 minutes. and I diced fine Cosmic Crisp apple. Results were yummo. Next time I will streamline the process, to make it go quicker."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tim Bodine"
+},
+"reviewBody": "First time I made this I did not have apples or walnuts. I used fresh blueberries and it was great! The second time I followed recipe and it was also great! Chef John has that knowledge that adds up to amazing tasting foods."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "J Marquez"
+},
+"reviewBody": "Finished cake was superb. My changes as I appreciate less sugar: ~1/2cup of brown sugar only for crumble. Plus I used chopped pecans as I didn't have walnuts ( hint - don't short the quantity of nuts in the crumble - mine crumble covered thinly, but it worked. For wet ingredients I cut sugar to 1/2 cup and I used greek yogurt. i also used 2 -apples (because that's what i had left from my tree). However - the the batter was too thick (maybe from the thicker greek yogurt?) compared to the batter shown on the video. So I added ~ 1/4 cup of sour cream and some milk to get the consistency correct. Everyone at the brunch loved it. Thanks for posting this recipe. I'll use it again on our brunch rotation. Cheers"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MamaLitz"
+},
+"reviewBody": "So moist and delicious! Used sour cream instead of the yogurt. Can't wait to eat some more!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I added 10 minutes to the baking time and used Granny Smith apples. This is a lovely moist dessert and is definitely a keeper to make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Leonard"
+},
+"reviewBody": "My boyfriend loves coffee cake. So I doubled this recipe. Only I added apple sauce ( by Squeezing as much of the liquid out with cheesecloth) He loves it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joy Cummings"
+},
+"reviewBody": "It takes awhile to prepare but it’s worth it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Absolutely delicious! No changes needed. The recipe was easy to follow with simple ingredients. I will definitely be making this again, everyone who had it, loved it!! Thank you for sharing the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "my apples where really big so I didn't add all the cut apple. Turned out perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "karenscfldyahoocom"
+},
+"reviewBody": "This cake is fantastic! I’ve made it twice and it is a hit. I used buttermilk and duck eggs the first time and Greek yogurt and chicken eggs the second time. Both were equally delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl"
+},
+"reviewBody": "Made this recipe for our Bible Study group, and it turned out great! Everyone had seconds and even thirds!! The three things I changed, because of not having Honey Crisp Apples, Yogurt and Walnuts, were using 3 peeled and chopped Granny Smith Apples, chopped Pecans, and Sour Cream. Still a winner and a keeper! By the way, the two teaspoons of butter under the dry ingredients are for coating your pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is a perfect recipe. There are absolutely no changes needed, and everybody I've ever fed this cake raves over it (me included). Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made this cake for work and people actually fought over the last piece. I used sour cream in place of yogurt and left the walnuts out because I was feeding someone who is allergic. I just bought a bag of chopped walnuts to keep on the side. I would suggest if you’re taking the walnuts out to increase the amount of “crumb” you make, I wasn’t able to fully cover the cake, but it still turned out delicious. I will be making this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "practicalfocus"
+},
+"reviewBody": "Easy recipe and decadent result! So moist and delicious! I have to confess I cheated on the initial step of creaming butter and sugar by hand...my butter had not softened adequately, but enough so that I used a mixer. Once creamed, every step after was by hand as intended. Can't imagine it made any difference! Used quality plain Greek yogurt and substituted the extra-large Fuji apple I had on hand. This will be my go-to apple coffee cake! Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TimShari Corcoran"
+},
+"reviewBody": "I baked this yesterday during a big snowstorm here in Maine. I used 1 large apple instead of 2 and I didn't have any sea salt so I used kosher. I also added a vanilla icing drizzle once it cooled a bit. D-Lish"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sondragail"
+},
+"reviewBody": "I've made this several times, sometimes with Pears, sometimes with Pecans. The best substitution was the time I didn't have 2 cups of yogurt and used a 14 oz. can of Coconut Cream and 2 oz. of Whipping Cream in a double batch. I may try yogurt again, but not likely. This is Everybody's favorite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RC Rose"
+},
+"reviewBody": "This was a fantastic treat for Christmas Day!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Todd Rowe"
+},
+"reviewBody": "I used pecans instead of walnuts, which is a nice twist to the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "michaelkossman"
+},
+"reviewBody": "Only gave 4 stars since the recipe has problems, otherwise this is really yummy. Why does it call for 2 teaspoons of butter in the dry ingredients? I left that out. Who has a 9x12 pan? 9x13 sure, but that made the cake too thin. “2 apples” is not specific enough; I used 3 that cut into tiny pieces was 2 cups. Measurements please! I am going to try making it in a 10” springform pan, and then cut into wedges."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DJS52"
+},
+"reviewBody": "It was good but didn’t spread well in my 9x13 pan. It was tricky to create the middle layer. Also I used 1/2 c applesauce in place of yogurt and it worked fine. I like another reviewer’s idea to add 1/2 cup oats to crumb topping. Smells great while cooking!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "brownie king 7234"
+},
+"reviewBody": "We doubled the recipe, but it still turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MegP"
+},
+"reviewBody": "The only substitution I made was sour cream for the yoghurt. I only had a 13x9 pan, so had to increase cooking time by 10 minutes. My main difficulty was spreading the thick batter. It turned out delicious though, like all of Chef John's recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mhoward"
+},
+"reviewBody": "very yummy! I used a mix of pecans and walnuts, but I didn't toast them. The mix was good, but I think the toasting is important."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Monika M"
+},
+"reviewBody": "A - MAZ - ING !!! So tasty, thanks for this recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gougi"
+},
+"reviewBody": "Very good recipe,easy to use"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jessica"
+},
+"reviewBody": "Made this yesterday and it was amazing! All five of us here at my house loved it. I did have to use sour cream instead of yogurt, as all our Greek yogurt was flavored and I didn’t want it to impact the taste/flavor of the cake. It was very easy to put together and looks great when it comes out of the oven, the top gets nice and golden. Looking forward to making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Emberboo"
+},
+"reviewBody": "I wish there was a bit more of a “crumb” in the crumble portion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacie W."
+},
+"reviewBody": "This cake turned out absolutely wonderful. I used a smaller pan, so I did increase cooking time a bit. Just check with a toothpick. Also, prepare for a lot of steps, but it’s so worth it! Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Williams"
+},
+"reviewBody": "So delicious! Since it's just me eating it, I make half a batch &amp; bake it in a 9x5 loaf pan. \n* Be warned though if you also want to make a half batch - don't try to use the calculator on the website that's supposed to allow you to scale down the recipe (in my case, by changing where it says 8 portions to 4 portions). It does not work!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Really good cake, I thought it would come out horribly because of many things, mostly that once I started putting ingredients together it wasn't mixing but instead making weird flakes, maybe since I only used brown sugar instead of white. The eggs looked like it was separating but I put the flour in anyway, it looked like stretchy dough in the end, used a 9x12 baking dish so I couldn't do the inside crumble layer but somehow despite everything it came out fine!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Wendy Williams"
+},
+"reviewBody": "I used a 9x12 pan as recipe calls for. Did anyone else not have enough batter for this recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "OhioN1"
+},
+"reviewBody": "Chef John, thank you for a great recipe! There are only 2 of us so I cut the recipe in half and baked it in an 8x8 pan for 25 minutes. I followed the recipe directions and ingredient proportions exactly, using sour cream and a Honeycrisp apple. This is a tender, luscious cake with bits of sweet filling interspersed. I'll make it again for company. I love all of the Chef John recipes that I've tried!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "retired2lake"
+},
+"reviewBody": "Really good! I followed several reviewer comments and reduced the white sugar in the batter to 1/2 cup. Was still delicious and not overly sweet. Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nix"
+},
+"reviewBody": "Great as is, followed the recipe to a tee! Moist, delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marianne"
+},
+"reviewBody": "We enjoyed this coffee cake very much. Just follow the Chef's directions! Thanks so much, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Zee"
+},
+"reviewBody": "I followed the recipe and my husband loved it. Just made it last night and it is half gone!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Gerireski"
+},
+"reviewBody": "Made with dark brown sugar..half brown/half white-topping..crumb part. Cut sugar down to little over half in cake. \n\nOne recommendation..USE SALTED BUTTER. This calls for unsalted but it needs something to balance out the sweet ...\n\nAlso instructions for dry ingredients is incorrect...no butter added to it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marlene"
+},
+"reviewBody": "Delicious!! Suggestion: cube your apples and chop your walnuts ahead of time. This was a little putsy but a delicious result and fun to share with others. Thank you, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sbraisher"
+},
+"reviewBody": "I always love Chef John's recipes. No matter what type of cooking: desserts, main dishes, side dishes -- he's always spot on! I made this with no changes and it was great. Moist, tender, very delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Doblado"
+},
+"reviewBody": "As it came out of the oven, the crumble was too dark, but it was wonderful! It is a delicious cake! I have read in the comments that some went for a little less sugar and still tasted amazing, I will try that next time, I think the sugar content is high, but it is definetly worth it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Ann Feldman"
+},
+"reviewBody": "Thank you, Chef John! Another delicious recipe. It's not difficult to make and came out great the first time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pamela Nieman"
+},
+"reviewBody": "excellent. I had a lot of apples to use up so I added more to the recipe and a layer of apples in the middle and top. delicious. \nI made two of these. the second without nuts. I added extra apples and cinnamon sugar mixture (doubled the crumble part and added apples instead of nuts. It was a hit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lulu•1426"
+},
+"reviewBody": "Very good. The crumble on the top was amazing I baked it for ten more minutes. When I took it out at the time it said it wasnt fully baked. 10 minutes really did the trick. This recipe was amazing I would definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "The Maiden"
+},
+"reviewBody": "As far as a base recipe, this works out well. I used less sugar and almond instead as well as some almond flour in the cake. Subbed almond extract for vanilla. Used farm fresh eggs and Irish butter. Did not use batter on top, kept it simple, as the streusel is made with homemade brown sugar and almond flour. I also added 2 tablespoons of flour to the streusel, since I was not going to be topping it with batter. \n\nIf your top starts to burn, cover it with foil to let the rest of the cake bake through."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrew Downey"
+},
+"reviewBody": "Wow. This was melt in your mouth!! Will definitely make again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EWA EWUNIA"
+},
+"reviewBody": "Loved this coffee cake...Used less sugar in batter and made a gluten free version.Only sorghum in place of wheat flour, with addition of 1 tsp xanthan gum,also a touch of nutmeg.Ready to take out of the oven after 35 min. Used 9x12 baking dish.Next time must add additional 1/2 a portion of crumble mixture with bit more cinnamon and nutmeg ;)))"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jonathan Langbein"
+},
+"reviewBody": "use dark brown sugar instead of light, cut white sugar in half"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Louisa79"
+},
+"reviewBody": "Amazing recipe! Although all that sugar is not necessary and makes it a bit too sweet for my taste. I used just 1/3 cup brown sugar in the crumble mixture, and 1/2 cup white sugar in the wet ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "budmanpsl"
+},
+"reviewBody": "Great recipe! Will be making again and again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HBC"
+},
+"reviewBody": "So easy and delicious - everyone loved it !!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary E. Farrand"
+},
+"reviewBody": "I’ve made this twice and it all came out perfectly! My company loved it. i even halved the recipe and it came out great. No burning topping(maybe rack too high in the oven?) texture was amazing and apples disintegrated beautifully"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alyssa Vakulchik"
+},
+"reviewBody": "Didn’t get to try it yet but it looks and smells amazing. Did a little less sugar based on reviews."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Adriana"
+},
+"reviewBody": "WONDERFULLLLLLLL"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda"
+},
+"reviewBody": "My family loved it! I only made one substitution: sour cream for the yogurt. I had the most trouble evenly spreading the thick batter in my 9x13 pan, but the rise durning baking changed my attitude about using a smaller pan in the future. This one is a keeper! Thanks Chef John! (ps, the photo does not do it justice, but it's the best one I had.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jordan Hodges"
+},
+"reviewBody": "No walnuts and had no plain yogurt used strawberry yogurt instead"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Diana D."
+},
+"reviewBody": "With the amount of sugar crumble topping, I decided to bake it on the middle rack and it came out fine. Like others have mentioned, yes, this recipe has tons of sugar, you can barely taste the cake in my opinion. But that's what recipes are for. Make sure you read it throughly and alter as you go and make notes for next time. I had to scrape off most of the crumble topping but still too sweet for my own preference because of the middle crumble layer. You still rock Chef John Thank! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robert Dinsmore"
+},
+"reviewBody": "This is a great recipe. Very popular at work.\nI added a teaspoon of allspice to the crumble mixture, and only used 3/4 of a cup of white sugar in the wet ingredients.\nI used an 8 x 11 1/2 inch glass baking dish, which makes it a little bit thicker - which I like."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emad"
+},
+"reviewBody": "It was FANTASTIC. I forgot to chop up the walnuts so didn't really have a full layer in the center or on top but even so turned out great. Definitely going to be making again, though I might cut back on the amount of sugar a bit to get a stronger apple taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "skoup"
+},
+"reviewBody": "I made several changes just based on what I had on hand, but this turned out to delicious! I used olive oil in the cake itself to replace the butter; sour cream in place of yogurt; and toasted pecans instead of walnuts. This is definitely a keeper!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Ashley Nieto"
+},
+"reviewBody": "The cake itself is a decent recipe. The \"crumble\" is horrible. It's literally just nuts and sugar. To call this a crumble is ridiculous, but against my better judgement I decided to try it. Just as suspected, it started to burn before the cake was done. Then when the cake WAS done the \"crumble\" was just loose sugar in some spots, burnt sugar and nuts in others. \n\nDecided to try again using my personal standard crumble topping with some pecans in it instead of walnuts and it came out much better. Double checked my oven temp, which was spot on, so decided to bake at 325 convection and had much better results. \n\nOverall not the worst recipe, but about what I expect from \"chef\" John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steve Rosenfeld"
+},
+"reviewBody": "I've cooked other Chef John recipes with tasty results. This coffee cake is another winner. The tips from others were very helpful. I cut back the amount of sugar in the batter to reduce overall sweetness. \n\nI had to use a 9x13 inch pan. Since one baker said the batter was thick, I evenly spaced large spoonfuls of batter in the pan. It was easier to distribute than one big pile. The cake cooked to perfection in 30 minutes. And, try some before it's fully cooled. It will put a smile in your belly!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Auntie Doni"
+},
+"reviewBody": "Wowza! That is one might fine Coffee Cake. I made mine with Pecans, Sour Cream and I have no idea what kind of Apple variety I had on hand, but use what you've got, right? I also used my 8\"x11.5\" Pyrex Casserole dish and baked the Cake for 55 minutes, again, that's what I have. I will say that the Cake had a better texture the next day for Breakfast with Coffee. That made a lot too, so I shared with the next door neighbors. I tell ya, this recipe is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KCee118"
+},
+"reviewBody": "This cake is one of the best apple-ingredient based ones I've ever had the pleasure to bake! Thank you Chef John!\n\nAnd for those who cannot use nuts in the crumble mix, substitute with the equivalent measure of crushed Nilla wafers or graham crackers or digestive biscuits. Guaranteed to turn out just as delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yvette Cole"
+},
+"reviewBody": "Great recipe! Another gem from Chef John. I was shy 1/4 cup of sour cream so I substituted a with a fourth cup of buttermilk yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Borin"
+},
+"reviewBody": "Excellent except...\n\nI've never had a 9x12 pan... All of mine are 9x13 (so weird), so it was hard to spread the batter. Also, didn't know how to roast the walnuts, so I (stupidly) cut them first, then toasted them, and they burned a bit. But pretty easy recipe and the family didn't mind the burnt walnut taste too much..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dorothy Crabtree"
+},
+"reviewBody": "Made it without nuts (for one family member), but substituted same amount of flour plus extra two Tbs butter, to good effect, Gobbled up happily by family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LD"
+},
+"reviewBody": "Very moist and delicious. My new favourite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Toni"
+},
+"reviewBody": "Chef John is the best."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sab"
+},
+"reviewBody": "Another home run dessert by my fave Chef John! Moist and just sweet enough. Recipe worked very well for me. I added a grating of nutmeg to the dry ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Forest"
+},
+"reviewBody": "This was really good. I did have to make some substitutions based on what was in the pantry. I used flaked almonds instead of walnuts and sour cream instead of yoghurt, but other than that, I followed the recipe as written. The sponge was moist and fluffy, and the crumb was crunchy and sweet. I will definitely be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "arefti"
+},
+"reviewBody": "I just make this, and it was delicious! Very moist and loaded with streusel. I used Greek yogurt, so the batter was a bit stiff, but it still came out just fine—another Chef John gem."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peter"
+},
+"reviewBody": "I had to substitute greek yogurt for the yogurt but it ended up fantastic anyway. The cake itself was fluffy, tender, and moist, with a subtle apple flavor, which were soft without being mushy. \n\nI loved the walnuts but found the crumble just a hair too sweet overall, while my brother was fine with the sweetness but hated the walnuts. \n\nThe cake, however, doesn't seem to last long, with the moisture from the apples turning the cake soggy after few hours. It's still delicious, but the best time to eat it is definitely the same day it was baked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Opfer"
+},
+"reviewBody": "I made this yesterday, and it’s definitely one of the best things I’ve baked. I made a few tweaks to the recipe. Instead of 1c of yogurt, I used 1/4c condensed milk and 3/4c sour cream. Since I did that, I cut the sugar in the batter by about a tablespoon. I replaced the sea salt with Himalayan pink salt (I think it’s a better salt for baking). I also used granny smith apples and pecans."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "DeLanea Gilbert"
+},
+"reviewBody": "We added roughly half a cup of old fashioned oats to the top crumble and it turned out amazing. Served it with a big scoop of ice cream as a dessert or the morning after with a big cup of coffee. Total win in my book!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terri Murray"
+},
+"reviewBody": "Made exactly as written and using the video instructions. I did use my mixer for the creaming process. I had to bake this about 15-20 minutes longer than recommended. I recommend cutting this cake into 16 pieces instead of 6 or 8."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Francie"
+},
+"reviewBody": "Of course Chef John can make a delicious coffee cake! The apples kept it moist and the flavor was great. The moms were all given some from a safe distance and all the thumbs were up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anant Sriram"
+},
+"reviewBody": "Amazing recipe, followed it exactly as a Mother's day surprise and it did not disappoint. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Two-Ton Teuton"
+},
+"reviewBody": "The apples in the batter helped make this the moistest coffee cake I've ever had. Due to a food allergy, I subbed almonds for the walnuts and it came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sillyworm"
+},
+"reviewBody": "This was soo yummy. I used Greek yogurt, honey crisp apples and pecans rather than walnuts. The pan I had was 90 square inches rather than the 80 specified. The 8 pieces I cut were plenty big. Now, I've made my own Mother's Day dessert and Monday morning breakfast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dirkdigles"
+},
+"reviewBody": "Made it per the recipe, except didn't have regular plain yogurt so I used 50% full fat sour cream and 50% whole milk greek yogurt for that. Came out SPECTACULAR. In my oven, however, it needed almost a full 60 minutes for the toothpick to come out clean.\n\nMom loved it, dad loved it, housemates loved it, and I loved it. Highly addictive and perfectly balanced. Mmmmmm"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharyl"
+},
+"reviewBody": "Great Mother's Day coffee cake. Nice texture with the use of sour cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Ortega"
+},
+"reviewBody": "Made recipe to the T. Crumb topping started burning halfway through cook time while the inside was still raw. Ended up cooking it to finish but the topping had to be scraped off."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sadaf Arezoomand"
+},
+"reviewBody": "I tried this recipe. the texture is excellent and I added some oat on top to get extra crunchiness. the only thing that I will change in the future is the amount of sugar in it. this recipe was too sweet for me"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gail O."
+},
+"reviewBody": "Excellent recipe, moist and tasty! (Next time I’ll half the sugar...just a little sweet for us seniors.)\nThanks for sharing this - it really was special for our Mother’s Day Brunch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Foodbaby"
+},
+"reviewBody": "This is great! I didn’t have the correct pan so I used an8x8. It had to bake 20 minutes longer. Fantastic!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ilimb"
+},
+"reviewBody": "This is an amazing recipe - moist, apple-y, perfect pick-me-up. I cut the sugar in the batter (not the crumble) by half to lower the sugar content and it was still great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jim Wisnor"
+},
+"reviewBody": "Made it the night before for Mother's Day breakfast. Wife and I really liked it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Megan Schaefer"
+},
+"reviewBody": "Delicious!! Super easy to make and even easier to eat the entire thing afterwards. 40 minutes was a little too long for my oven so I’m going to do 35 minutes and then start checking next time. Also, we took out the walnuts because of personal preference. I would either double and make 1.5 times the crumble but otherwise no changes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daniel Whiting"
+},
+"reviewBody": "Turned out great as do all Chef John recipes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katrina Looney"
+},
+"reviewBody": "Made this for mother in law and man does the house not only smell great it’s delicious! In the future I’ll try doing pecans instead of walnuts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Rickert"
+},
+"reviewBody": "I don't see any place for the butter in the dry ingredients as listed. I will try without and follow up later.\nGot it! The butter is for the baking dish as my brilliant husband pointed out. Fantastic recipe and the house smells amazing too! Delicious treat. Thanks Chef."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Georgette Vodhi"
+},
+"reviewBody": "I used minkfruit as the sweetener in the dry ingredients and Swerve for the nut mix. I needed to add about a quarter cup half/half to thin the batter also. My family gobbled it down. This is a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "timyjl"
+},
+"reviewBody": "Subbed peanuts and granny smith apples."
+}
+]

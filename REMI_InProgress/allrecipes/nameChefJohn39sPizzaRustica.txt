@@ -1,0 +1,344 @@
+,"name": "Chef John&#39;s Pizza Rustica"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "23"
+}
+,"cookTime": "PT75M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "767 kcal"
+,"carbohydrateContent": "36 g"
+,"cholesterolContent": "332 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "40 g"
+,"saturatedFatContent": "23 g"
+,"sodiumContent": "1817 mg"
+,"sugarContent": "1 g"
+,"fatContent": "51 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT50M"
+,"recipeIngredient": [
+"2.5 cups all-purpose flour",
+"1 teaspoon kosher salt",
+"0.5 cup very cold butter, cut into pieces",
+"2 tablespoons olive oil",
+"1 large egg, beaten",
+"4 tablespoons cold water, or more as needed",
+"1 (16 ounce) container ricotta cheese, drained",
+"8 ounces low-moisture mozzarella cheese, cubed",
+"2 ounces grated Pecorino Romano cheese",
+"0.5 teaspoon kosher salt",
+"1 teaspoon freshly ground black pepper",
+"7 large eggs, beaten",
+"0.75 pound cooked, crumbled Italian sausage",
+"0.25 pound smoked ham, cubed",
+"0.25 pound salami, cubed",
+"0.25 pound pepperoni slices, cut into strips",
+"1 large egg",
+"1 teaspoon water" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine flour, salt, butter, and olive oil for the crust in a large bowl. Blend butter into the flour with a pastry cutter until it resembles coarse crumbs. Make a well in the center of the flour-butter mixture, pour egg into the well, and mix with a fork until egg is mixed in, about 1 minute. Add cold water and mix briefly with a fork. Switch to mixing with your hands and press mixture into a ball. If it seems dry, sprinkle in some more water, 1 teaspoon at a time, until dough comes together."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough to a work surface and press into a disc. Wrap in plastic wrap and place in the refrigerator to rest for at least 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "While the dough is resting, combine drained ricotta cheese, mozzarella cheese, Pecorino Romano cheese, salt, black pepper, beaten eggs, cooked Italian sausage, smoked ham, salami, and pepperoni for the filling. Mix thoroughly until extremely well combined; don&#39;t worry about overmixing. Cover and place in the refrigerator until ready to use."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C). Rub a 9-inch springform pan with olive oil and dust with flour."
+} ,{
+"@type": "HowToStep"
+,"text": "Place dough on a lightly floured surface. Cut off 1/3 of the dough and set aside for the top crust. Roll out the remaining dough for the bottom crust, using only as much flour as needed, into a 15-inch circle, about 1/8 inch thick. Roll the dough onto the rolling pin and transfer to the prepared pan. Tuck the dough into the bottom and up the sides of the pan, being careful not to stretch it. Remove any excess dough, dampen it with water, and use it to fill in where needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer filling into the pan, press firmly into the edges to ensure there are no air pockets, and smooth out the top."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll remaining dough into a circle that&#39;s slightly wider than the pan. Roll dough onto the rolling pin and transfer to the pan. Position the top crust properly and press to seal it with the side edges."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix egg and water for egg wash together in a small bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush egg wash on top of dough to moisten entire surface. Trim off excess dough if desired. Fold the side dough down from the pan edges onto the top crust and crimp edges with your fingertips until fully sealed. Brush once more with egg wash."
+} ,{
+"@type": "HowToStep"
+,"text": "Place in the center of the preheated oven, and immediately reduce the heat to 350 degrees F (175 degrees C). Bake until top crust is a beautiful golden brown, about 1 hour 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/nuPACoaug2oMdgrS2UOD4g2lVFY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7937785-4535c777c2fb4373a801f5ae065ce19b.jpg"
+}
+]
+,"text": "Remove from the oven and let cool for 10 minutes. Carefully remove the ring and let cool another 15 minutes before slicing into wedges."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT210M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Bakerlady"
+},
+"reviewBody": "I have had this at family gathering s on the Italian side of the family, unfortunately I never got a recipe, so I was excited to try this one. The method was perfect, the texture of the crust and filling were spot on. For us it was just too salty and overwhelmed by the salamis ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made this for Easter and it was a big hit. Had a Chef John Easter - Italian Easter Bread, Pizza Rustica, Goat Cheese Caprese Salad, Lemon Curd/Berry Tartlets! Super yum. Everyone thought I was a gourmand. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kmcnabb13"
+},
+"reviewBody": "I made this recipe and was very pleased with how it turned out. I followed most of the recipe exactly except using ham. I used leftover pork chop meat instead. The dough was just enough. I didn’t have to double the recipe as suggested, but there wasn’t any to spare. \nI used dry salami and grated it to get the small bits.as salimi is pretty firm if refrigerated. \nMy family was very pleased with it. \nI was very impressed with the flaky ness of the dough. The trick is getting the dough as cold as possible. I froze the 12 pieces of butter and then combined it with 2/3 cup of the flour and processed in small food chopper to get the butter to break up smaller and then combined it with remaining flour. \nVery pleased with results although it does take quite a bit of time to do. \nThx for the recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Barton Hernandez"
+},
+"reviewBody": "SO good! My family loved it! This recipe is so versatile! You can change up the meats or cheeses to suit your taste. And I just used store bought pie dough and it came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marie"
+},
+"reviewBody": "Delicious! Used a 10 inch springform pan so it cooked a little bit quicker."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BethK"
+},
+"reviewBody": "Pro tip: Line the springform pan with foil. Grease the foil on the inside. This makes cleanup of the springform pan easy, and the food never sticks on it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dennis Kuntz"
+},
+"reviewBody": "This was a fantastic Easter treat! While doubling the dough would be a LOT extra, heed Chef John's advice about the amount of dough being too close to not enough. Otherwise, this was perfect. I'm a sauce guy, so I made marinara to go with it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Uncle Chef"
+},
+"reviewBody": "Recipe turned out exactly as described and was fairly easy, if time consuming. However, with all the meat, it was borderline too salty to eat. I added spinach and put a bit less meat than specified. I would make this again with far less meat and a lot of veggies... spinach was a nice addition. I might add roasted red peppers, broccoli, green onions, etc. The recipe calls for very little added salt, so all the salt is coming from your add-ins. The crust was perfect and held together nicely... work great for a 9-inch non-stick springform pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Copelli"
+},
+"reviewBody": "This recipe was awesome. My mother has made an \"Easter Pie\" for years that is very similar to this. With the COVID virus going on this year we didn't get to do that. So when chef John posted this a few days before Easter I knew I had to try it. I had never made my own pie dough before, and while I think I kinda messed up the crust a little, the rest of this recipe was fantastic. Mine didn't fully set in the middle and probably needed some more time. Even with all of these mistakes, it was fantastic. I will be making this again for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Tyler J. Evans"
+},
+"reviewBody": "too salty with all the salty meats. still a savory mix of ingredients, just watch the sodium level."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mspring64"
+},
+"reviewBody": "Absolutely delicious! So savory and flavorful! This is definitely a keeper. Thank you Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Olja Sekulic"
+},
+"reviewBody": "Made it several times with and without beans and it was a hit every time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SilverRavensMoon"
+},
+"reviewBody": "Amazingly delicious! I will definitely be making this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mfidfm"
+},
+"reviewBody": "I was shocked at how easy this was to make! The crust was perfect, and the mix of cheese to egg was really good. Even my picky 10 year old really liked this. His suggestion was to add hash browns. But this is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Steve Oh"
+},
+"reviewBody": "This recipe was harder for mr to make than it looked like it was going to be. Clearly Chef John has mad skills and can make anything look easy, but this was my first time making a pie crust. Now, I will say that even though it looked a mess, it tasted incredible! I will make a variation of this recipe again once I get much better at making pie dough, but perhaps I might try it with less meat and put in some pizza vegetables."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angel Marie"
+},
+"reviewBody": "Absolutely delicious and so very heavy! Pair well with a garden salad and some red wine. I fed 6 adults and 2 children with one batch!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ben Leonard"
+},
+"reviewBody": "This was pretty good. Chef John says it is more like a savory cheesecake than a quiche, but I don't see the cheesecake similarity. The only thing I'd say about this is that the pepperoni and salami are the dominant flavors and if you use other milder meets, they'll just be filler, because you won't taste them. Overall very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mohamad Karaki"
+},
+"reviewBody": "I am on a low carb lifestyle and managed to make it in a low carb way and the result was amazing \nThank you chef for the inspiration ??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yvonne Donaldson"
+},
+"reviewBody": "We really liked it. Couldn’t find salami but compensated with more of the other meats. It turned out really well. We froze a third of it for later. Hope it thaws okay."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patrick Swick"
+},
+"reviewBody": "The taste is sure to please even the hardest person"
+}
+]

@@ -1,0 +1,212 @@
+,"name": "Blood Orange Marmalade"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "12"
+}
+,"cookTime": "PT85M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "45 kcal"
+,"carbohydrateContent": "12 g"
+,"fiberContent": "1 g"
+,"proteinContent": "0 g"
+,"sodiumContent": "0 mg"
+,"sugarContent": "9 g"
+,"servingSize": "2 1/2 cups"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"5 large blood oranges",
+"0.5 cup cold water",
+"2 teaspoons fresh lemon juice, or to taste",
+"1.75 cups white sugar" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Wash oranges well. Use a peeler to remove all the zest in long strips. It&#39;s okay if some of the white pith comes with it."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer the peels to a saucepan and add 6 cups of cold water. Bring to a simmer over high heat. Reduce heat to medium-low to low and simmer until the peels are soft and tender, 45 minutes to 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "While that cooks, cut oranges in half and juice them into a large measuring cup; this should equal 1 cup. Pour in 1/2 cup cold water and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove peels from heat and drain off the water. Transfer peels to a cutting board, and when cool enough to handle, slice the zest into very thin strips. Transfer into the blood orange juice."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour zest-juice mixture into the saucepan along with lemon juice and sugar. Bring to a simmer over medium-high heat. Reduce heat to medium-low; cook, stirring occasionally, until the mixture reduces and thickens slightly, 30 to 40 minutes. A probe or candy thermometer should read about 225 degrees F (107 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, inspect jam jars for cracks and rings for rust, discarding any defective ones. Immerse in simmering water until juice mixture is ready. Wash new, unused lids and rings in warm soapy water."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/LVO73erg55mBOzi-JgrjzWceiDE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-123-fa139bf329c2471bad857ae6d8e50746.jpg"
+}
+]
+,"text": "Pour into sterilized jam jars and let cool to room temperature. Seal jars and transfer to the refrigerator for 8 hours, or overnight, before enjoying."
+} ]
+,"recipeYield": ["40"]
+,"totalTime": "PT595M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "paship"
+},
+"reviewBody": "An excellent marmalade recipe. I followed all steps except for pulsing the peel in the food processor into tiny pieces rather than cutting the peel into strips. It’s spreadable but not runny and also tastes great as dipping sauce for egg rolls!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Greg Lumley"
+},
+"reviewBody": "used a whole lemon with the five blood oranges and chopped up the skins in a food processer, used less water to boil and allowed it to boil down and used the entirety a favorite of the friends and family"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is my second time making this. This is by far the easiest and best recipe. I've gotten many compliments :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "marchanne1"
+},
+"reviewBody": "Beautiful color and super yummy. I’ve never had blood orange marmalade, and I’m so glad I tried this recipe. My grocery store only had smaller blood oranges, so I was grateful for the included juice measurement. It took me 7 small oranges to get a cup of juice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "westonworth714"
+},
+"reviewBody": "A wonderfully complete recipe. I've made many times exactly to chef John's instructions and it has been a staple Is in my house ever since. I will substitute regular oranges most of the time. Thank you for all the great food and bad puns chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crumpet137"
+},
+"reviewBody": "This has been a wild success for me! I have a blood orange tree that is fruiting right now, and gave some to a friend who had this to say:\n\"I sampled the marmalade. That is one good marmalade. I mentioned that I like them tart so this may be the best one I have ever tasted.\"\nNow two more friends are wanting some, so I am making another batch. \nI also recently gave some to new neighbors, along with some Blood Orange Orangecello I made, some tea from a local tea shop, and some Grasmere-style Gingerbread. \n\nI wasn't a big marmalade fan either, before this, but I love this on an English Muffin! And it's easy to make, except maybe doing the fine julienne of the peel, which can get a bit tedious. \n\nThis marmalade isn't cloyingly sweet like some, and it isn't overly dense with peel, like some.\n\nI would like to know an actually measure of how much peel goes into it, because the oranges off my tree can vary in size a lot."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Helen Rosati"
+},
+"reviewBody": "I made this recipe however I used oranges I grew, didn’t use any water, used 3cups of sugar, although I could have used less and cooked it for 1 1/4 hours. It turned out beautifully."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "TheBaker"
+},
+"reviewBody": "Incredible taste. I found the video differs slightly from the actual printed recipe and I followed that. The marmalade did not really set up the way I had hoped or I’d give it 5 stars. I’m trying again tonight with the recipe as it’s printed to see if I get better results."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lola "
+},
+"reviewBody": "Made this marmalade with fresh blood oranges from my mothers yard. Loved your recipe Chef John! Not too bitter not too sweet, just right! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Helen A."
+},
+"reviewBody": "I love this beautiful marmalade! I made this with my mom in mind. She likes a sweet marmalade more. She moved in with me recently so I treat her like a queen. This is the marmalade was the only one that she would give up her boysenberry for. (I will be making me a batch with a bit more of the bitter bite that I like, but next I'm doing the kumquat marmalade)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra Streifel"
+},
+"reviewBody": "Delicious! I think I cooked it too long, lost some colour. I hope the blood orange season lets me make another batch! Even my son called it the best marmalade ever!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KevinJ"
+},
+"reviewBody": "Delicious and beautiful. Chef John's recipes nearly always turn out great. Much better than normal marmalade, which I find hard to love. Takes a while but not much work and seems pretty foolproof."
+}
+]

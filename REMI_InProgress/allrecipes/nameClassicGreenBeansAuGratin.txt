@@ -1,0 +1,227 @@
+,"name": "Classic Green Beans Au Gratin"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "12"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "318 kcal"
+,"carbohydrateContent": "13 g"
+,"cholesterolContent": "98 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "18 g"
+,"sodiumContent": "140 mg"
+,"sugarContent": "2 g"
+,"fatContent": "29 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"1 tablespoon unsalted butter, softened",
+"1.25 pounds fresh green beans",
+"freshly ground black pepper to taste",
+"kosher salt to taste",
+"2 teaspoons Dijon mustard, or more to taste",
+"1.5 cups heavy cream",
+"2 ounces Comt&eacute; cheese, grated",
+"2 tablespoons freshly grated Parmigiano-Reggiano cheese",
+"2 tablespoons unsalted butter, melted",
+"0.33333334326744 cup dry bread crumbs",
+"1 pinch cayenne pepper, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C). Generously grease a casserole dish with 1 tablespoon butter. Bring a generously salted pot of water to a rolling boil over high heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove stems from beans by trimming with a knife or snapping them off with your fingers. Cut beans in half."
+} ,{
+"@type": "HowToStep"
+,"text": "Add beans to the boiling water, stir, and cook until just barely tender, 5 to 6 minutes, testing often to make sure you don&#39;t overcook them."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove beans with a strainer and immediately place in a bowl of cold water to stop the cooking process."
+} ,{
+"@type": "HowToStep"
+,"text": "Once beans have cooled to the touch, use your hands to drain and transfer them into the prepared casserole. It&#39;s okay if they&#39;re still a bit wet."
+} ,{
+"@type": "HowToStep"
+,"text": "Season beans with pepper, kosher salt, and Dijon mustard; mix until beans are well coated. Pour in cream, scatter Comté cheese over top, and sprinkle with Parmigiano-Reggiano."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine melted butter and bread crumbs in a small bowl. Stir until well combined and mixture resembles wet sand. Spoon and sprinkle bread crumbs over the casserole, then dust with cayenne."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until browned and bubbly, 15 to 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/kk_08egyvVDLGcQnw0azW58-Hgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8763192-51d270c2c3c647e3940d875b575f5dd2.jpg"
+}
+]
+,"text": "Let cool for 10 minutes before serving."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MADMAGS"
+},
+"reviewBody": "This is the green bean recipe I ever used! I used the creme fraiche and white tillamook sharp cheddar. This is the only way I cook green beans now ;) Thank you so much!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is an awesome recipe! I have made it a dozen times the past several years and it does not disappoint! Everyone loves it! One modification I do is to make the recipe in individual ramekins and it works out great! That way, I can add some cayenne to some ramekins but not the others depending on peoples tastes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "kickartist"
+},
+"reviewBody": "I carefully weighed, measured, and prepared each ingredient and followed the recipe exactly. I got green tender beans in a thin and watery sauce with very little flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "allisonfweatherford"
+},
+"reviewBody": "Great springboard recipe. I wanted something more luscious and less slimy than a traditional green bean casserole for Thanksgiving, so I made Chef John’s green beans au gratin with changes to bridge the gap. To this recipe, I added:\n\n- 1/2 cup more crème fraîche\n- 2 shallots sliced into 1/4 inch rounds\n- 8 oz. baby Bella mushrooms\n- 6 oz. center cut bacon slices, cut into 1/2 inch pieces\n- Minced garlic\n\nI fried the bacon and then sweated the mushrooms in the leftover fond and grease, breaking them apart into small pieces with a spoon. I then added the shallots, followed by the garlic after the shallots began to turn translucent. I mixed everything together as directed, and baked.\n\nI did substitute gouda for the comté, because I couldn’t find the recommended cheese where I lived and was already using gouda for another recipe anyway. Overall, I highly recommend this. Green beans au gratin was decimated by my family, the majority of whom (I found out after dinner) don’t even -like- green bean casserole. Give this a shot! It may become your new tradition too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry"
+},
+"reviewBody": "12/25/20 ***I did not really care for these. A little rich and lacked flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Lucy Randazzo"
+},
+"reviewBody": "DON'T USE \"HEAVY WHIPPING CREAM\"!\n\nMine came out watery, but I think that was my mistake and not the recipes. I thought that \"heavy cream\" and \"heavy whipping cream\" were interchangeable, and heavy whipping cream was the only one available at the store. The cream didn't set, even though I baked until bubbly for 20 minutes and let rest. The only other thing I did differently was use panko breadcrumbs and country-style dijon mustard, but I don't think that would have made the difference. \n\nHowever, the flavor was really nice, the green beans were definitely still the main attraction, and the recipe itself was fairly simple. I'll definitely try it again with the correct ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rnam"
+},
+"reviewBody": "Very tasty.. I reduced the cream to 1 cup and still found it rich. I used emmental as per chef’s note."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie"
+},
+"reviewBody": "DELICIOUS!!! I loved the Dijon and cayenne. We will definitely make this again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nena"
+},
+"reviewBody": "It’s a great recipe. I had to improvise because I did’t have enough heavy cream. I also did not have the cheese but I used feta cheese and instead of the Parmesan cheese I sprinkled some shredded queso cotija ( a Mexican style cheese similar to Parmesan) so I totally improvised and it still turned out delicious. I can’t wait to make it again with all the ingredients called for on this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa"
+},
+"reviewBody": "Last minute change from our usual Thanksgiving green bean recipe to this...best decision ever! So much simpler and tastier than the roux, the bacon, the mushrooms and onions, etc. P.S. we used frozen whole (organic) green beans without chopping in half (gasp!), and it was still perfect. Chef John, you never fail to make me look like a pro. Cheers!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "terri"
+},
+"reviewBody": "This is an excellent side dish. The flavor and textures, with both creamy and crunch are very nice. The seasonings are perfect and preparation simple. Once again Chef John shares a winner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce Cordova"
+},
+"reviewBody": "I made this for Thanksgiving and it was fast and simple to make. The green beans tasted fresh and clean without the ever present canned soup in most green bean casserole dishes. The Dijon mustard added a nice sharp flavor without overpowering the fresh taste of the green beans. The only change I made was using crispy fried onions on top instead of bread crumbs. It added nice crunch and contrasted nicely with the tender green beans."
+}
+]

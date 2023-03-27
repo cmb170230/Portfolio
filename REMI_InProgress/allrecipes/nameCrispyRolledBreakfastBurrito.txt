@@ -1,0 +1,139 @@
+,"name": "Crispy Rolled Breakfast Burrito"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "6"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "1033 kcal"
+,"carbohydrateContent": "82 g"
+,"cholesterolContent": "458 mg"
+,"fiberContent": "14 g"
+,"proteinContent": "46 g"
+,"saturatedFatContent": "23 g"
+,"sodiumContent": "1441 mg"
+,"sugarContent": "6 g"
+,"fatContent": "60 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"4 slices bacon",
+"1 large russet potato, peeled and cubed",
+"salt and freshly ground black pepper to taste",
+"1 pinch cayenne pepper, or to taste",
+"0.25 cup sliced onion",
+"0.25 cup sliced bell pepper",
+"1 cup grated Cheddar cheese",
+"4 large eggs, beaten",
+"2 (10 inch) flour tortillas",
+"1 teaspoon hot sauce, or to taste",
+"1 medium avocado, cubed",
+"2 tablespoons sour cream",
+"1 tablespoon fresh cilantro leaves, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place bacon in a cold, nonstick pan over medium to medium-high heat. Cook until browned, crisp, and foamy, about 10 minutes. Turn off the heat, remove to a paper towel-lined plate, and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Place cubed potatoes into the pan of bacon fat and set heat to medium. Season with salt, black pepper, and cayenne. Cook, tossing and turning occasionally, until the potatoes are browned, crispy, and tender, 8 to 10 minutes. Add onions and peppers, and cook until they soften up a bit, 2 to 3 minutes. Transfer everything into a strainer set over a bowl to drain excess bacon fat."
+} ,{
+"@type": "HowToStep"
+,"text": "To make one breakfast burrito, place 2 strips cooked bacon back in the pan. Turn heat to medium and scatter 1/2 of the potato mixture in and around. Scatter over 1/2 of the Cheddar cheese as evenly as possible, and then pour 2 beaten eggs over top."
+} ,{
+"@type": "HowToStep"
+,"text": "Tilt the pan to make sure the egg is evenly distributed. Place a tortilla over the top and press down lightly into the rest of the ingredients. Cook just until the eggs firm up enough to flip, about 1 minute. Use a spatula to carefully, but confidently, flip everything over so the tortilla is now on the bottom. Cook until the tortilla is as browned and crispy as you like, 2 to 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/49pWvYHzrFzGPTipfDzVvcGyYaI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-513-957f58e253ff4847b4bf5af3059feedd.jpg"
+}
+]
+,"text": "Remove from the heat and transfer onto a plate. Roll into a burrito and serve with hot sauce, avocado, sour cream, and cilantro. Repeat to cook remaining burrito."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jusnocon"
+},
+"reviewBody": "Good recipe and easy to customize, I have a vegetarian in the family. If you have trouble flipping you can flip it onto a plat then slide it back into the skillet. I usually add a little butter to the pan before sliding the tortilla back in."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yancando"
+},
+"reviewBody": "I’m starting to believe than I could just go down the list of Chef John recipes rating 5 stars without even cooking anything! These were great! I used canned potatoes to cut down on the cooking time. My only non stick pans are omelet pans, so I trimmed my low carb tortillas to fit. I was able to do the wrist flip like I do for omelets to easily turn it over. I did spray the tortilla on top with some Pan to give it a little help browning because my pan was pretty dry. I also followed other posters tips and added the cheese after the eggs to help bond to the tortilla."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "I have made quesadillas forever, never thought to just \"roll\" with it. Cheese on top is a must, helps holds the tortilla to the filling. You can literally use any filling you like and it will turn out fantastic! Great, fast, comforting dinner after a hard day at work..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HOMERMC"
+},
+"reviewBody": "Would definitely make this again. Very versatile, easy, delicious and beautiful. I had leftover baked potato so I chopped that up browned it, then added mushrooms, onion and a little chopped broccoli. I even forgot the cheese but didn't miss it. I was out of bacon, too, but it still turned out so good. Topped w/Asian hot sauce, sour cream and cilantro. The toastiness of the tortilla is a big improvement, as is the egg mixture being bound together. Will definitely make this for guests and family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ChefGirl22"
+},
+"reviewBody": "IF you'd put the cheese as the last layer before the tortilla, the cheese will bind with the tortilla, not only make flipping it easier, the eggs will be softer and creamier, as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SherAlexander"
+},
+"reviewBody": "I have tried this method many times and it works beautifully. The tortilla is truly crispy and you can personalize it to your taste. Rather than flip it I used a large spatula. Much safer."
+}
+]

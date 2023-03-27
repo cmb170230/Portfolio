@@ -1,0 +1,180 @@
+,"name": "Norwegian Potato Flatbread (Lefse)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "10"
+}
+,"cookTime": "PT95M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "139 kcal"
+,"carbohydrateContent": "21 g"
+,"cholesterolContent": "16 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "297 mg"
+,"sugarContent": "1 g"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 large russet potato",
+"1.5 tablespoons unsalted butter",
+"1 teaspoon salt, or to taste",
+"1 teaspoon white sugar",
+"0.25 cup heavy cream",
+"1 cup all-purpose flour, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C). Line an oven-safe skillet or baking pan with aluminum foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Poke the potato skin all over with a knife and place on the prepared pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Roast in the preheated oven until very tender and easily pierced with a knife, about 1 hour. Let sit until cool enough to handle but still very warm."
+} ,{
+"@type": "HowToStep"
+,"text": "Scoop potato flesh out into a bowl. Mash smooth with the back of a spatula until there are no lumps left. You can also use a potato ricer. Add the butter and mix until it disappears. Add the salt, sugar, and cream; mix until smooth. Cover and refrigerate until chilled, about 2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix in flour in several additions until the dough is able to be kneaded by hand. Add enough flour to form a soft, but not too sticky, dough. You need to be able to roll it out fairly thin without it falling apart."
+} ,{
+"@type": "HowToStep"
+,"text": "Wrap dough with plastic and refrigerate until chilled, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Divide dough into 8 portions. Dust each with flour and roll out onto a well-floured kitchen towel to 1/8-inch thick, or thinner."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Hys1lf4QKmRzbT-rb7fPPXO6308=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7586137-16a49338602a422b8497a376dc691dc6.jpg"
+}
+]
+,"text": "Heat a very lightly buttered nonstick pan over medium-high heat. Cook the lefse in the hot pan, poking the surface lightly with a fork, until golden brown blisters form, 2 to 3 minutes per side. Stack on a plate as they&#39;re cooked and keep covered with a towel. Serve warm."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT295M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JUDYBL"
+},
+"reviewBody": "OMG, the Norwegian man of the house was so proud and excited that we found such a great recipe! We use the flatbread as a wrap around European seiners for the savoury aspect. Next I will try it with GF flour. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katy's Collections"
+},
+"reviewBody": "I've now made this three times and this last time I rolled it on a floured towel as suggested - it is indeed easier. Had it with cream cheese and smoked salmon. SO GOOD!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dani Stevens"
+},
+"reviewBody": "I made this last night and it was a hit! The only change I made was cutting the ball into more than 8 sections because my pan was pretty small."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "for the love of CHOCOLAT..."
+},
+"reviewBody": "Followed the recipe. It came out very nice. Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David R Campbell"
+},
+"reviewBody": "Excellent and so easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patricia Poe"
+},
+"reviewBody": "I joined this site so that I could tell Chef John how easy his recipe is. I followed it to a T, and the lefse slices were small but delicious. I’ll be making them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fraidknot"
+},
+"reviewBody": "Sort of a cross between potato pancakes and crepes. Next time will try with smoked salmon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rarely Give a 5 Star :)"
+},
+"reviewBody": "They are also fantastic with swedish meatballs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Magpie"
+},
+"reviewBody": "delicious and tender, even just using milk i loved it!"
+}
+]

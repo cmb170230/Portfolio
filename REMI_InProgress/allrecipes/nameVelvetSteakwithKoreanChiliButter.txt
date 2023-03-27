@@ -1,0 +1,104 @@
+,"name": "Velvet Steak with Korean Chili Butter"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "4"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "537 kcal"
+,"carbohydrateContent": "13 g"
+,"cholesterolContent": "127 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "43 g"
+,"saturatedFatContent": "14 g"
+,"sodiumContent": "1074 mg"
+,"sugarContent": "2 g"
+,"fatContent": "32 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 large egg whites",
+"2 tablespoons cornstarch",
+"3 tablespoons rice wine (sake)",
+"1 tablespoon soy sauce",
+"2 (8 ounce) top sirloin steaks",
+"kosher salt to taste",
+"2 tablespoons unsalted butter, softened",
+"2 teaspoons Korean chili paste (gochujang), or to taste",
+"0.25 teaspoon kosher salt, or to taste",
+"2 tablespoons chopped green onions, or to taste",
+"1 tablespoon vegetable oil" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Whisk egg whites, cornstarch, rice wine, and soy sauce for marinade together in a bowl until very smooth and foamy."
+} ,{
+"@type": "HowToStep"
+,"text": "Trim silver skin from sirloin steaks. Place steaks between 2 pieces of plastic wrap on a cutting board and pound to a thickness of about 1/4 inch. Transfer steaks to a rimmed plate and lightly sprinkle both sides with kosher salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour marinade over top and flip a few times to make sure steaks are well coated on both sides. Cover with plastic wrap, or transfer steaks and marinade to a zip-top bag, and refrigerate for 6 to 12 hours, flipping once or twice while marinating."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix butter, chili paste, salt, and green onions for chili butter together in a small bowl. Taste and adjust if needed. Set aside at either room temperature or in the refrigerator until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove steaks from the refrigerator and toss a few more times in the marinade."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat vegetable oil in a large nonstick pan over medium-high heat. Add steak and pan-fry until meat springs back to the touch and is medium-rare, 3 to 4 minutes per side, or to desired doneness. An instant-read thermometer inserted into the center should read 130 degrees F (54 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/0hPvsZi3YGw_8QHsrLCGKJJV2VM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8058916-743bccf0e16d4d13806e404b02a37be6.jpg"
+}
+]
+,"text": "Remove from heat and place steaks on warm plates. Let rest for 3 to 4 minutes. Top with chili butter and green onions."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT390M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristin McDonald"
+},
+"reviewBody": "This was delightful! I made it exactly to direction. I marinated it for about 8 hours, it was delicious and tender. Thank you Chef John! You are a reliable friend in the kitchen. You’re the commander in chief of handling beef."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "joan"
+},
+"reviewBody": "I never buy/make sirloin steaks but I received some from the farmer I subscribe from. I was scared because I know sirloins are dry &amp; tough. Right up until I took them out of the pan I was convinced they were going to be tough. I was so surprisingly wrong. Thank you chef John for another great recipe. You never disappoint me. I made it as directed. I didn’t have the chili paste so just used chalula hot sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charles Pascual"
+},
+"reviewBody": "Made it according to the recipe. Easy prep; easy clean-up. Delicious, tender, juicy steak. We'll make this again."
+}
+]

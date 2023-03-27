@@ -1,0 +1,281 @@
+,"name": "Toad in the Hole"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "16"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "491 kcal"
+,"carbohydrateContent": "37 g"
+,"cholesterolContent": "228 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "17 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "1062 mg"
+,"sugarContent": "5 g"
+,"fatContent": "31 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"4 large eggs",
+"0.5 teaspoon kosher salt",
+"0.5 teaspoon freshly ground black pepper",
+"2 pinches cayenne pepper",
+"1 cup all-purpose flour",
+"1 tablespoon all-purpose flour",
+"0.75 cup whole milk",
+"0.25 cup cold water",
+"0.25 cup vegetable oil",
+"4 links pork sausage",
+"2 tablespoons butter",
+"1 large red onion, minced",
+"kosher salt to taste",
+"3 tablespoons all-purpose flour",
+"2 cups chicken broth",
+"0.25 teaspoon Worcestershire sauce",
+"1 teaspoon balsamic vinegar",
+"2 tablespoons Onions, spring or scallions (includes tops and bulb), raw",
+"1 teaspoon chopped fresh chives, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Prepare batter: Combine eggs, salt, pepper, cayenne, 1 cup plus 1 tablespoon flour, and milk in a large bowl; whisk thoroughly until batter is very smooth and no lumps remain. Whisk in water. Cover and let rest at room temperature for 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Prepare sausages: Heat vegetable oil in a skillet over medium-high heat. Add sausages and cook until browned, 2 to 3 minutes per side. Remove from the heat and transfer to a buttered 9x12- or 9x13-inch baking dish. Pour oil from the skillet over the sausages; brush oil with a pastry brush all over the bottom and up the sides of the dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Start onion gravy: Melt butter in the same skillet over medium-high heat. Add onion and salt; saute until soft and starting to brown, 5 to 6 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "While onion is cooking, pour batter in and around the sausages. Place in the center of a cold oven and turn temperature to 500 degrees F (260 degrees C). Set oven timer for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "While toad in the hole cooks, finish onion gravy: Stir in flour and cook for about 2 minutes. Whisk in chicken broth and return to a simmer. Add Worcestershire sauce and balsamic vinegar and simmer until gravy thickens up and reduces, about 5 minutes. Reduce heat to low and stir in green onions. Taste and adjust seasoning."
+} ,{
+"@type": "HowToStep"
+,"text": "When timer goes off, remove toad in the hole from the oven; it should be browned and puffed. Spoon gravy over the sausages and garnish with green onions and chives."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/5XBnep0RiyH_6xtLP02ipSzSCAQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9240775-7bc8fbb875184fa1a5facf3c0d937105.jpg"
+}
+]
+,"text": "Serve with extra gravy."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT115M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The batter was awful"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tedsali"
+},
+"reviewBody": "the onion I used was way too large, so my gravy was more like onion stew, still good however. Pro tip, not too much onion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "twistle92gmailcom"
+},
+"reviewBody": "It's not \"terrible\" but it doesn't taste like what I ate when living in the UK. I gave it 3 stars for tasting alright (a bit too eggy for me) but took off two for not feeling like it did when living there."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Radlady"
+},
+"reviewBody": "Cooked in honor of Queen Elizabeth II's passing today to celebrate her life. This recipe is delicious! If there was a way to give a 1/2 star, I would have given it 4 1/2 stars. I felt the onion gravy needed a little extra flavor, so I added 1/2 tsp. Perfect Pinch Garlic and Herb Seasoning. Thank you for sharing this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Recipe was absolutely perfect! Such a fluffy batter! We used home kill lamb sausages. Pork probably would have been better due to the fattiness but still delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "First time I’ve made this. I asked my husband, who’s English, what he thought. He liked it! He suggested including a Tbs of self rising flour in the batter. I didn’t use cayenne because he gave me a look, and he was a little perplexed about salad with it. So we did peas. But overall, he said it was very good and he grew up eating this dish! So we will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Easy recipe that turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anthony Andrews"
+},
+"reviewBody": "This recipe is a hit in our house. It even impressed our British friend."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bob Daye"
+},
+"reviewBody": "Made it with no changes. Excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Stacey Baker"
+},
+"reviewBody": "The dish is perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael J B"
+},
+"reviewBody": "Omitted one addition step from my original review. I painted the baking dish with fry pan oil and dusted with garlic and onion powder. The \"pudding\" was extra savory and blended perfectly with the cayenne pepper added to the batter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "liederlover"
+},
+"reviewBody": "Despite my rookie mistakes (not letting batter rest for an hour, using too big a baking pan), this recipe is a winner. It didn’t puff as much as I hoped due to my mistakes, but flavor is great. The only thing I’d change is double or even triple the amount of onion gravy. We just couldn’t get enough of that deliciousness! Once again Chef John nailed it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Maser"
+},
+"reviewBody": "I coat my baking dish with a thin layer of Crisco to prevent sticking, omitting the need for veggie oil, saving roughly 375 calories for the entire recipe. Pierce sausages and they will brown in their own juices. We use EVO to saute' onion instead of butter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Luanne Barron"
+},
+"reviewBody": "Awesome technique for the Yorkshire puddinglike custard. Turned out perfect and delicious. Made half the recipe plus 1 extra sausage. Used hot breakfast sausage and formed it into patties. Will definately make again. Thanks for this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kairabou"
+},
+"reviewBody": "So good. Made this tonight but because I shop at Aldi, my banger options were limited between breakfast sausage and bratwurst Hahaha! Besides this little switch this dish was surprisingly simple when prepping. I love the gravy— probably could’ve cooked the onions a tiny bit more but I like more crunch, anyway. And wow, I’ve only ever had popovers before— not yorkshire pudding, but I love the simple yummy flavor and texture of the pudding. Also I should add that my bratwurst went amazingly well with this. \nThey also popped and spat at me like in John’s YT demo of this. But all of this turned out so yummy! I was also expecting it’d feel heavier but it wasn't at all (sometimes heavy stuff makes me icky) an overall a wonderful dish! \nSo far every recipe Ive followed from Chef John has been a hit"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Aker-Finney"
+},
+"reviewBody": "Thank you chef John for another great recipe. My husband (who is from England) deemed it the best Yorkshire pudding he has had. He has attempted to make it his self and it is never\"just right\". He didn't care for the gravy , (onions were to big and gravy was to thick but those were my mistakes. I will definitely be making this again!!"
+}
+]

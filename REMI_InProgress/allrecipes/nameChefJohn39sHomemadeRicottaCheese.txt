@@ -1,0 +1,369 @@
+,"name": "Chef John&#39;s Homemade Ricotta Cheese"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "24"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "166 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "43 mg"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "473 mg"
+,"sugarContent": "7 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"4 cups whole milk",
+"0.5 cup heavy cream",
+"1.25 teaspoons kosher salt",
+"2 tablespoons white distilled vinegar" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Line a mesh strainer with cheesecloth and set over a deep bowl or pot."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine milk, cream, and salt in a heavy-bottomed saucepan and place over medium-high heat. Cook the mixture, stirring occasionally in a &#34;figure eight&#34; motion, until it reaches a temperature of 195 degrees F (90 degrees C). If you don&#39;t have a thermometer, this will be right before it starts to simmer. You&#39;ll see steam rising from the surface, and tiny bubbles forming around the edges of the pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn off the heat, pour in the vinegar, and stir slowly in a &#34;figure eight&#34; motion for 3 or 4 seconds."
+} ,{
+"@type": "HowToStep"
+,"text": "Let the mixture sit, untouched, for 6 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Carefully ladle into the cheesecloth-lined mesh strainer so that the dripping whey drains into the pot or bowl. Let the ricotta drain into the pot for between 20 and 45 minutes, depending on how soft or firm you want your cheese. The longer it drains, the firmer the texture will be once chilled."
+} ,{
+"@type": "HowToStep"
+,"text": "Grab the ends of the cheesecloth and lift the drained ricotta out of the strainer and place in a bowl. Let cool on the counter to room temperature, then wrap and chill thoroughly."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/m5V4b43f3xUDKVTyiK04eHMOTsw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-569-c3c35dcf20484f14aa1c4d510cff7899.jpg"
+}
+]
+,"text": "Remove cheesecloth and serve. Ricotta usually needs an additional pinch of salt when serving."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT100M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dana77"
+},
+"reviewBody": "Why would anyone ever buy ricotta again? This is far too easy and delicious. The best thing: I can make it exactly the texture I want for the purpose I'm using it. Truthfully, I'd be ashamed to ever buy it again in a common grocery store. Watch out, Italy! Blue-eyed red-head is coming for you! :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "This is so much better than the store bought, and it really is easy to make. I had the issue where it didn't curdle, so I added an extra tablespoon of vinegar. It could have been the milk I was using but will definitely make this again. Also, there are so many uses for the whey!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AngelBear"
+},
+"reviewBody": "Excellent recipe followed exactly. My hubby was eating the ricotta out of the bowl, before I could use it in my recipe. Was definitely worth making."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Absolutely wonderful. I used 3 cups leftover whey in place of water when making a pot roast. Made a heavenly broth."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I’ve made this a few times. Ridiculously easy and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made this for the first time and WOW! Creamy texture, just amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Griffin"
+},
+"reviewBody": "third or fourth time I have made this and we love it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jayne"
+},
+"reviewBody": "Followed recipe except used goal milk. It was so easy to make and the texture so creamy. Will try non dairy next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christy Stewart"
+},
+"reviewBody": "You'll never go back to store bought Ricotta after trying this. \n\nIts especially great as a ball in the middle of hot tomato soup!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Vaught"
+},
+"reviewBody": "Wonderful ricotta and so simple and fun!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BLUEKAT1224"
+},
+"reviewBody": "It’s gotta be good made it twice never tasted it but my family said it’s good. They didn’t even leave a tiny amount for me to taste it all they wanted to know was when I was making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cheryl"
+},
+"reviewBody": "Made it almost exactly, I misread the salt and dumped in 1Tablespoon before I caught it so I added another 3 cups milk and about 6tbls cream, would have just dbl recipe but dint have more cream. Anyway it came out great! Ricotta is getting stupid expensive in Hawaii so just bought a gallon milk and figured I'd make ricotta and IP french yogurt. Using my hm ricotta for pizza and a pasta sauce So glad I made extra!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doug Taylor"
+},
+"reviewBody": "I happened to have all the ingredients on hand before finding this recipe, so when I saw it I thought; why not? I'm glad I did, it's one if the easiest recipes to follow and the finished product is creamy, fresh, and goes well with so many different foods."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bethT"
+},
+"reviewBody": "Just made it but only made half recipe for a lasagne. SO delicious that I need to make another batch just to enjoy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Richard Hubbard"
+},
+"reviewBody": "Not quite as nice looking, but sure is tasty!!! Will definitely be adding this cheese to the menu. Thank you again CJ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Caleb Polasek"
+},
+"reviewBody": "I like cheese"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pamela King"
+},
+"reviewBody": "This was so easy and turned out so yummy! I will make it again.\n(Forgot to take a picture before we ate it)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ryan Geraghty"
+},
+"reviewBody": "Chef John does it again. I've made ricotta a couple times before, and it was decent, but the ratios here and the directions are perfect. The cheese turned out delicious, it almost seems like a waste to use it in lasagna."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shawn Delgado"
+},
+"reviewBody": "Great recipe. I went the full time and had rather firm ricotta that was delicious. You definitely can add more salt or substitute table salt in place of kosher salt without making it obviously salty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "smith6ar"
+},
+"reviewBody": "Really good. Made it today and used it as a topping on homemade pizza and it was so creamy and good. Used leftovers on toast with honey and olive oil and balsamic vinegar. Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "huskerdana"
+},
+"reviewBody": "Honestly so easy to follow CJ’s recipe, and the end product is an amazing crowd-wowing ricotta. I left mine to drain the full 45 mins and it was such an awesome texture, sort of like whipped cream cheese. I served mine with salt, olive oil, hot honey, tomato, and basil on toasted bread. Will 1000% make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sean Bent"
+},
+"reviewBody": "Tried it with 2 tbsp of vinegar and it didn't curdle enough. Tried it again with 3 tbsp and it worked perfectly. If you're having issues, add more vinegar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lindsay Parsons"
+},
+"reviewBody": "Made it. Love it. Ridiculously easy. Cheap for \"not mass produced\" batch size, even when using expensive milk to start.\n\nJr. Chef friendly - use a clear bowl so they can watch it strain.\n\nNothing not to like!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erin Jenny"
+},
+"reviewBody": "Just made this tonight; thankful for a recipe that doesn't use 8 cups of milk! Super easy and everything smells like butter thanks to the heavy cream."
+}
+]

@@ -1,0 +1,101 @@
+,"name": "Bacon-Wrapped Double Dogs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "5"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "607 kcal"
+,"carbohydrateContent": "28 g"
+,"cholesterolContent": "80 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "24 g"
+,"saturatedFatContent": "16 g"
+,"sodiumContent": "2221 mg"
+,"sugarContent": "7 g"
+,"fatContent": "44 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"4 (2 ounce) hot dogs",
+"4 slices cold center-cut, thinly sliced bacon",
+"2 large hot dog buns",
+"2 tablespoons prepared yellow mustard, or to taste",
+"2 tablespoons dill pickle relish, or to taste",
+"2 teaspoons diced red onion, or to taste",
+"2 tablespoons diced tomato, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place 1 hot dog horizontally at the top edge of 1 bacon slice; roll once to secure. Place the second hot dog on the bacon, directly under the first hot dog, and wrap bacon twice at an angle. Tuck between the hot dogs. Tuck in second bacon slice where you left off and roll over remaining half of the hot dogs. Secure the end between the hot dogs. Repeat with remaining hot dogs and bacon slices."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat a nonstick pan over medium heat and add bacon-wrapped hot dogs. Cook, turning as needed, until browned on all sides, about 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/-6j9N4t7mKkZNcFFh6my0WaHHb8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8290054-a8aab0274ae64204b756c976984da93c.jpg"
+}
+]
+,"text": "Spread 1 tablespoon mustard over each bun. Add hot dogs. Top with dill pickle relish, red onion, and tomato."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Tiffany"
+},
+"reviewBody": "These are good. The diced onion, tomato and dill relish with yellow mustard are the perfect toppings. We used brat buns but I would recommend using mini sub buns."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry Kula"
+},
+"reviewBody": "They were good, but time consuming. The bacon did not stay on very well. Wish I had used tooth picks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeff N"
+},
+"reviewBody": "I made these this weekend and they were amazing! I did them on the grill and definitely recommend going with the indirect heat. Did 4 minutes per side and 2 on each edge and they came out perfect. Used the brat buns. served potatoe salad in the side. Delicious. Thanks for another tasty recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "redstorm_"
+},
+"reviewBody": "wow! who knew hot dogs could be elevated to another level and so simply. Bacon wrapping technique worked like a charm too. Had this with Amish potato salad and this was more than enough. I made 6 of these and we could only eat one each....\nFor tailgating I could see cooking these and then cutting in half and using small buns for a perfect sized food especially since most of the time you've got tons of other snacks alongside. Highly recommend."
+}
+]

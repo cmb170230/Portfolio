@@ -1,0 +1,115 @@
+,"name": "Unholy Cannoli"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "3"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "335 kcal"
+,"carbohydrateContent": "29 g"
+,"cholesterolContent": "48 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "11 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "175 mg"
+,"sugarContent": "11 g"
+,"fatContent": "21 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1.5 cups ricotta cheese",
+"1 teaspoon melted butter",
+"0.33333334326744 cup all-purpose flour, packed, or more as needed",
+"0.25 cup white sugar",
+"1 pinch ground cinnamon",
+"1 pinch freshly grated nutmeg",
+"0.125 teaspoon kosher salt",
+"1 tablespoon melted butter",
+"2 tablespoons Marsala wine",
+"1 large egg white",
+"0.5 cup mascarpone cheese",
+"1 orange, zested",
+"1 lemon, zested",
+"0.33333334326744 cup chopped dark chocolate",
+"1 teaspoon honey",
+"0.25 cup chopped pistachio nuts" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Transfer ricotta cheese to fine-mesh strainer set over a bowl and let drain, 8 hours to overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with a silicone mat (such as Silpat™) and brush with 1 teaspoon melted butter."
+} ,{
+"@type": "HowToStep"
+,"text": "For the shells, place flour, sugar, cinnamon, nutmeg, salt, 1 tablespoon melted butter, Marsala wine, and egg white in a bowl. Mix with a whisk until very smooth, relatively thin, and spreadable."
+} ,{
+"@type": "HowToStep"
+,"text": "Spoon about 2 tablespoons of batter per shell onto the prepared baking sheet. Swirl batter gently with the back of the spoon from the center outwards to create a fairly thin flat circle about 6 inches in diameter. You should be able to fit 2 per pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until edges are browned and centers have golden brown spots, 10 to 12 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "While shells are baking, make a few molds by twisting pieces of aluminum foil into 7-inch long cylinders about 2 inches thick."
+} ,{
+"@type": "HowToStep"
+,"text": "While shells are still hot, quickly roll each around a foil mold to form a tube, seam-side down. Press each tube gently with a spatula for a few seconds until cool enough to hold its shape. Repeat with remaining batter, baking and shaping in batches; let shells cool completely."
+} ,{
+"@type": "HowToStep"
+,"text": "For the filling, mix drained ricotta cheese, mascarpone cheese, orange zest, lemon zest, dark chocolate, and honey together with a spatula. Transfer into a plastic pastry or zip-top bag and cut off one corner."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z0tC89zOhZWXlqhaqfrfonhWr0s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7669538-20bfeddaf19448b4b1e633e0e0edbd58.jpg"
+}
+]
+,"text": "Pipe the filling into one end of a shell until it comes out slight from the opening, and then turn and fill the other end. Garnish both ends of exposed cheese filling with chopped pistachios. Serve within the next hour or two while cannoli remain crispy."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT570M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cotton Monad"
+},
+"reviewBody": "I followed Chef John's recipe exactly and I am pleased to say I liked it a lot!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ely&Nino"
+},
+"reviewBody": "I love this! It’s easier and healthier than the real cannoli. My husband is from Sicily but he survived this video and he likes the healthier shells. Although in Sicily we also add a bit of cacao powder to the original dough, so you could add just a bit to this as well to get a darker brown shell, if that’s what you like."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "puchunful"
+},
+"reviewBody": "I've made this twice now and both times, they came out wonderful! I didn't have Marsala wine (or any wine for that matter) so I substituted 1 Tbsp lemon juice, 1 Tbsp water for the first attempt; then I tried it with 2 Tbsp of milk for the second. They came out the same each time. I would recommend getting 2 baking mats when baking the shells. I had trouble spreading the batter on sheets that just came out of the oven. The batter just wouldn't spread. So use 2 mats, or wait 5-10 mins for the first to cool completely."
+}
+]

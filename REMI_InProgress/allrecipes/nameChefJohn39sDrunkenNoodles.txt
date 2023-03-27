@@ -1,0 +1,803 @@
+,"name": "Chef John&#39;s Drunken Noodles"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "65"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "341 kcal"
+,"carbohydrateContent": "61 g"
+,"fiberContent": "2 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "1393 mg"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"8 ounces dried rice noodles",
+"0.25 cup oyster sauce",
+"0.25 cup soy sauce",
+"1 tablespoon Asian fish sauce",
+"1 tablespoon maple syrup",
+"1 teaspoon white sugar",
+"2 tablespoons cold water",
+"2 tablespoons vegetable oil",
+"1 teaspoon sesame oil",
+"1 cup shallots, thinly sliced",
+"6 teaspoons chile padi (bird's eye chiles), thinly sliced",
+"4 cloves garlic, minced",
+"2.5 pounds skinless, boneless chicken thighs, cut into strips",
+"1 pound Chinese broccoli, sliced",
+"4 green onions, thinly sliced",
+"1 cup fresh Thai basil leaves" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Soak rice noodles in hot water until flexible, 10 to 15 minutes. Occasionally move the noodles around to separate them. Drain the water and cover with a wet paper towel."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine oyster sauce, soy sauce, Asian fish sauce, maple syrup, sugar, and water in a small bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat vegetable oil and sesame oil in a wok, or large frying pan, over medium-high heat. Stir-fry shallots, chile peppers, and garlic until shallots are soft, about 2 minutes. Move the mixture around the outside of the pan to create a space and add chicken. Sear for 1 minute, then combine with shallot mixture. Add Chinese broccoli stems and stir-fry until tender, about 2 minutes. Add Chinese broccoli leaves and stir-fry until wilted."
+} ,{
+"@type": "HowToStep"
+,"text": "Add drunken noodle sauce and sliced green onions and mix. Cook until sauce begins to simmer. Add soaked rice noodles and toss to coat until noodles have absorbed the sauce and are cooked through, about 2 minutes. Remove from heat."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/m2OCXa40kTb3Qbs96ErTymtfM1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chef-Johns-Drunken-Noodles-1x1-1-2000-571693fb3eda4a71892a2a072f607e46.jpg"
+}
+]
+,"text": "Stir in Thai basil leaves until wilted. Taste and adjust seasoning if needed. Serve."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "di"
+},
+"reviewBody": "Great recipe, thank you Chef John! If you prep ahead this recipe comes together quickly. While we would have preferred broccoli or box chop, zucchini was what was in the crisper, zucchini it was and it was very good. We thought the seasoning is spot on.Regular basil is fine but Thai basil is so worth it if you can find it! We love Thai inspired flavors but don't have a good Thai restaurant near us, so we look forward to making this recipe again and again. Thinking of shrimp for the next time:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Absolutely loved this! I used egg noodles instead of rice noodles, no chile padi, chicken breast strips instead of chicken thighs, and bok choy instead of Chinese broccoli, and finally regular 1/2 c. of basil leaves. Great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Justin Brewer"
+},
+"reviewBody": "New family favourite. Quick and easy and really tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I’m really excited that I found this recipe in the morning because I made it for dinner and it was delicious. We thought it tasted like a restaurant dish! We didn’t find it too salty. There were a few modifications I had to make as I couldn’t find Asian broccoli and I used red chilis since I couldn’t find the type in the recipe but I’m definitely glad I doubled the recipe because we had a bunch of leftovers. I think I would add mushrooms and sliced peppers since I will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Camillia Calderon-Somerville"
+},
+"reviewBody": "I'm a fan of Chef John's recepies, but this one was soooooo salty. Proportions wete also so off. I followed the recepie to the This waa horrible"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rolee"
+},
+"reviewBody": "This was very good! Next time, I would try making it with linguine noodles. It is vey salty, even with low sodium soy sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Endsine"
+},
+"reviewBody": "The final dish was different than what I recall eating in a restaurant. However, my family thought it was delicious and I agree. (I added 2 Thai Chili Peppers.) One thing I would do differently is chop the veggies in much larger chunks because in the completed dish my veggies sort of disappeared and the overall appearance was monotone."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Lamb"
+},
+"reviewBody": "Finally tried it - perfection using bok choy and red bell pepper + aleppo flakes. Not too salty at all. Will be doing this again, maybe with shrimp. Really delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hebarobinson"
+},
+"reviewBody": "I made this recipe and it was wonderful! The Thai Basil really makes this dish amazing! My only mistake is that I didn’t check how big my noodle package was so I had more noodles than sauce so I had to make more sauce. I also didn’t have Chinese broccoli so I used regular broccoli and red pepper threads."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mary h2os"
+},
+"reviewBody": "I followed the recipe exactly , using jalapeno pepper since I couldn't find the Birds Eye pepper. and thought the result was just okay. I may try it again but maybe add brown sugar instead of white."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "S.E."
+},
+"reviewBody": "I personally thought this was a 5 star and the more I ate, the more I wanted! The sauce is quite salty, but once everything was brought together I loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mike Kiernan"
+},
+"reviewBody": "Wonderful flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "alex z"
+},
+"reviewBody": "I should stop listening to other reviews. I was scared it will turn too salty, so I put around 70% of the recommended amount of soy. There was no reason to do it because it wasn't even close being too salty. We even felt we'd enjoy it more if we did put a bit more soy. If you bought a soy sauce with a ridiculous concentration of salt, then obviously the dish will turn salty as well, but that's not the recipe's fault. Check the ingredients of what you're buying. I did put only half of the recommended chicken and it was more than enough. 2.5 pounds of meat for 8oz noodles feels too much for us."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diane"
+},
+"reviewBody": "Loved this recipe! I will be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mom2cook"
+},
+"reviewBody": "Delicious flavors and I agreed with others about lower the amount of sodium. I added the sauce to taste. I ended up using about half of the sauce mixture. I will be making it again tomorrow because my family loved it and there were no leftovers!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christie Crawford"
+},
+"reviewBody": "Fantastic flavors- just like a Bankok style Thai restaurant. Made it vegetarian style with vegetarian oyster sauce and Yondu to sub for fish sauce. Used bok choy and broccoli."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marshall Ward"
+},
+"reviewBody": "Saw this recipe in an email and was reminded of how much I liked Drunken Noodles when I used to go to a local Thai restaurant when I worked. Haven't done that since I retired. So, I decided to give this one a go. I did the recipe as described and used baby Bok Choy instead of the Chinese Broccoli. Also, the red thai chilis are a bit hot for me so I used Jalapeno along with some sweet red pepper. I also used low sodium Soy Sauce. Other than that, I followed the recipe exactly. It turned out great and was delicious. The addition of the Thai Basil at the end really gives it that Basil kick that is a signature flavor of the dish. I will definitely make this again. Next time I will try a few of the Red Thai chilis because the Jalapeno wasn't quite enough to get the heat to where I wanted it. Other than that, it was great. Thank you Chef John for reminding me about this Thai favorite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heathins"
+},
+"reviewBody": "First time ever making drunken noodles. Family loved it! Had everything but the Chinese broccoli. So good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "MABG93"
+},
+"reviewBody": "It was alright. Followed recipe just as written. Sort of bland. My husband ate 2 big helpings, but he eats anything. Might make again if I can make more flavorful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julzy"
+},
+"reviewBody": "So good, I didn't have Chinese Broccoli so used Broccolini and chopped up the stems for crunch. This method for the noodles is brilliant, they are a perfect texture. I also used half light soy and half dark soy and 4 baby hots chillies for some fire, delicious. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mdudleybuck"
+},
+"reviewBody": "I didn’t change a thing and it came out perfect. Only thing is my noodles weren’t as colorful (brown) as I thought they would be. They didn’t really change colors much. But the flavor was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I've made a similar recipe to this and love it. Might want to use low sodium soy sauce if you are not much of a salt person. The one thing that I have to say about the video is, John's \"sing-song\" way of talking is MOST annoying, including his little jokes. Couldn't wait until video was over because of the voice inflection thing. All of his videos are like that and very irritating."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The recipe was great but MORE great because of the video accompanying it as a for-runner to my attempt! Hurray to the video performer!!!!!! Thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susie Tippit"
+},
+"reviewBody": "It was a big hit, I used Green chilies instead chili pad, I used oyster sauce instead of fish sauce and bought stir fry veggies in produce section. I also only used half the chicken, My husband loved it thanks for the great recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Doubled the noodles, doubled the sauce. Added more spice. Very good recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I love Chef John’s recipes. This is another great one. I have made it several times and our preference is to use diced chicken breast &amp; low sodium soy sauce. Because I double the recipe I prefer to boil the rice noodles instead of soaking because soaking times vary. Thanks Chef John!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Scott"
+},
+"reviewBody": "This was ridiculously salty. I would make it again with significant adjustments."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sue"
+},
+"reviewBody": "Looks and sounds delicious, but there are at least six ingredients that I would have to hunt for and buy special to remain true to the recipe. There are no Asian markets within an hour's drive of where I live (that I know of). Something I would love to try at somebody else's house😉."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "MontanaMom"
+},
+"reviewBody": "We love almost all of Chef John's recipes and we really wanted to love this dish but the sodium level was far too high to be enjoyable. I used low sodium soy sauce, and added more vegetables to help dissipate the flavor but it was still too salty. There are many other similar recipes with less sodium that are far more delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "robgraphics"
+},
+"reviewBody": "Very flavorful and easy to make. Substituted dried Japones since I didn't have chili padi. They added just the right amount of subtle heat. I was not sure about the maple syrup, but it blended nicely with all of the other sauces without an overly maple flavor. I did add a can of sliced water chestnuts that added a nice crunch to the dish. This is a recipe I will use again and again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susie Gute Wall"
+},
+"reviewBody": "My family of 5 thought this was awesome. I doubled the recipe and it was a ton of food but needed for all my men. I used Thai Chili's with one mild jalapano and man they were hot but we loved the spice. We used 6 pounds of chicken thighs and lots more noodles. I think we kept it on the heat too long. I didn't have the chinese broccoli leaves but I just used regular broccoli and it was great. This will go in our rotation of great food."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cher Renee Shaw"
+},
+"reviewBody": "Made with rehydrated thai chili and flank steak. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Luapelbon"
+},
+"reviewBody": "First Chef John review, his recipes have been great so far. I would say on this dish - less than half that amount of chicken, double the noodles and maybe add some chicken broth. The flavour was great, I will cook it again with those changes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Loved the recipe! I used ground chicken instead of chicken thighs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LLinda"
+},
+"reviewBody": "Family loved this! I had to make one teeny, tiny substitution because I didn't have maple syrup, but did have cane syrup. Luckily, I'd shopped at my local Asian grocery store so I had everything else, which is why I picked this recipe to make. Will def be making this again, at family's request."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzanne Eng"
+},
+"reviewBody": "Wonderful! Sadly, I had to substitute some of the Asian ingredients..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Exec Chef Arturo"
+},
+"reviewBody": "This is a wonderful dish! Only because the Secretary of War (my bride) does not have an adventurous spice palate, I cut the amount of hot peppers in half. Other than that slight modification, I made it exactly as written. I even went to an Asian market and found the exact fresh ingredients. The flavors and textures were complex and delightfully combined and, other than the time and discipline commitment to prepping everything before starting to cook, the dish was a snap to put together. Take advantage of and Asian Market Adventure Trip and have fun with this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kristi Howell"
+},
+"reviewBody": "It cracks me up when reviewers say I followed the recipe exactly except (and then list five modifications) but I actually did follow this recipe exactly…substituting ground pork for the chicken, and using less than 2.5#. $$$ Taking another reviewer’s advice, I bought and used low sodium soy sauce for the first time in my life, and found that my dish needed a little salt. Also, since it’s late October and my herb garden is long gone for the year, I bought “fresh” Thai basil at the Asian market. Nope, I’ll wait until next summer to make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Sperling"
+},
+"reviewBody": "This was an interesting dish and I like the use of the rice noodles. Unfortunately, I couldn't find Chinese Broccoli and I substituted Broccoli Rabe. Next time I'll pick something else. The flavor profile was blander that I would have liked. Not sure what it might need to kick it up a bit. Perhaps a bit more sweet? I'm going to play a bit more with it as it is a nice dish to have for a change. I like one reviewers idea of adding peanuts. Perhaps Cashews in lieu of peanuts but that's a personal preference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark McCawley"
+},
+"reviewBody": "Great recipe and hits the spot. Added peanuts and shrimp 1.5lbs chicken. Adding to the family meal rotation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These are great, like Chow Fun we use to make in Hawaii sans mung bean sprouts. Chow fun really needs those mung bean sprouts! It was one of those things we'd make to use up leftover bits of meat, seafood, and veggies. So good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Leslie Sease"
+},
+"reviewBody": "Not quick and not easy. Too many esoteric ingredients not ordinarily found in an everyday pantry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "North Van food fan"
+},
+"reviewBody": "Very tasty, and came together quickly. I had almost everything I needed on hand (or a reasonable substitute), which was very convenient. For the chilis, I used jalapeno, and for the basil, the Italian type, and for the noodles, a thinner variety. I agree with the reviewer who said the stated amount of chicken (2.5 lb.) must be in error. I used two breast halves (about a half pound), which looked similar to the amount in the video. Loved the greens."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rick Gosnell"
+},
+"reviewBody": "Made with lobster parts and pieces yumm!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark M"
+},
+"reviewBody": "This was PERFECT as written! Used shrimp instead of chicken. There was nothing left in the bowl - received a request for this recipe from every person who ate it! As a Thai enthusiast, I cannot understand how one can complain about heat or saltiness! Guess they should just continue eating their McDonald's and Popeye's!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Disclaimer: Had a couple of glasses of wine while cooking. This recipe is amazing! Had a bumper crop of Thai basil and wondering what to do with it, this fit the bill. I didn't change a thing except used tiny regular broccoli florets, couldn't find Chinese broccoli. I'm guessing you could use Italian basil if that's all you had, but the Thai basil is what makes this dish so special. Thank you, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Autumn Berryman"
+},
+"reviewBody": "this is honestly ludicrously good for how relatively easy and simple it is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PMorr13"
+},
+"reviewBody": "My daughter and I loved this recipe. I didn't have any maple syrup on hand so I substituted honey. It will definitely become part of our meal rotation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sean Sanderson"
+},
+"reviewBody": "This turned out delicious, just the right amount of heat. Tried it with thinly sliced flank steak another time and that was also very good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy"
+},
+"reviewBody": "I have made this twice, once with chicken and once with pork. I think the 2.5 pounds of meat shown in the printed recipe may be a mistake. I used about half that and it was very good. I also used only 3 tablespoons of low sodium soy sauce and increased water to 3 tablespoons, to adjust for our preferences. This really shines as a great way to use up whatever produce you have. If all you have is regular basil, I would increase the amount. Thanks Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John Fleischhacker"
+},
+"reviewBody": "Great with shrimp as well!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very tasty, I love the Thai basil aroma. Altered the chicken with prawns."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Wendell Linda Becker"
+},
+"reviewBody": "I made this and loved it but it was way too hot with that amount of chili's"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I did the bok choy sub and I feel it released a lot of water. Id use much less of the stem if I used this sub again. It turned out very delicious. The 4 serving recipe made a huge quantity. Oh...I also subbed honey for maple syrup and will likely used brown sugar in place of white sugar next time to add depth of flavor that palm sugar offers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Awesome thank you chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was good but use low sodium soy sauce. The salt from the soy sauce, oyster sauce, fish sauce was soooo overpowering."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rhonda Loves To Cook"
+},
+"reviewBody": "Full of fresh flavours...delicious! I used Thai Basil which added amazing flavours to it."
+}
+]

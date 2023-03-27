@@ -1,0 +1,410 @@
+,"name": "Egg Roll in a Bowl"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "29"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "463 kcal"
+,"carbohydrateContent": "38 g"
+,"cholesterolContent": "76 mg"
+,"fiberContent": "7 g"
+,"proteinContent": "27 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "1202 mg"
+,"sugarContent": "13 g"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"6 (3.5 inch square) wonton wrappers",
+"2 teaspoons vegetable oil",
+"3.5 cups shredded green cabbage",
+"1 cup julienned carrot",
+"0.25 cup julienned red bell pepper",
+"0.33333334326744 cup thinly sliced green onions",
+"2 cloves garlic, finely minced",
+"2 tablespoons soy sauce",
+"1 tablespoon rice vinegar",
+"1 tablespoon sake",
+"0.25 teaspoon sesame oil",
+"1 teaspoon white sugar",
+"0.5 teaspoon freshly grated ginger",
+"1 pinch cayenne pepper",
+"0.25 teaspoon white pepper",
+"1 teaspoon ketchup",
+"0.5 teaspoon cornstarch",
+"0.5 pound ground pork" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut wonton wrappers into 1/4-inch strips. Transfer cut wonton wrappers to a baking pan and toss with oil. Spread out evenly."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until browned, about 12 minutes. Let cool and reserve."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine cabbage, carrot, bell pepper, green onions, and garlic for the bowl. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix soy sauce, rice vinegar, sake, sesame oil, sugar, ginger, cayenne, pepper, ketchup, and cornstarch together for sauce in a bowl and reserve."
+} ,{
+"@type": "HowToStep"
+,"text": "Add pork to a large skillet set over medium-high heat. Brown the meat well, while breaking up into small crumbles as it cooks, 5 to 7 minutes. Add the vegetable mixture and toss with the meat to combine. Cook, stirring, just until the veggies start to soften, about 2 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/1xRh0hfouvVN4dw9RrxrI6OLu8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-496-2c552578838a4d39b0f30541ca05b7c1.jpg"
+}
+]
+,"text": "Stir in the sauce and toss everything to combine. Cook and stir until the sauce has coated everything evenly, and the vegetables are cooked to desired doneness, 1 to 2 minutes more. Serve in a bowl with crispy wonton strips on top."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "J Alan Hall"
+},
+"reviewBody": "Excellent. Not sure the fried wonton strips added anything to it, although they were super simple in the air fryer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Javadreamer "
+},
+"reviewBody": "This is in my 2 week rotation. I make it at the end of the week, and use the opportunity to add whatever veggies I have left over. I start with a combination of bell peppers (whatever I may have, and have even used all four at one time : red, green, yellow, orange). I normally use ground chicken but have also used ground pork. I haven’t tried it with tempeh yet. Shredded carrots, shredded celery, shredded savoy cabbage - have even added mushrooms and/or bean sprouts. it never disappoints. i have recently taken to adding hot chili oil to the sauce for spicy egg roll in a bowl. Delish. And extra wonton strips are a must!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Loved it. Only change was subbing hoisin for the sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Nice recipe. Easy to modify to what is on hand...Used sriracha instead of ketchup/cayenne/peppers in my sauce. Also substituted beef for pork. Will do again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My vegetarian daughter was visiting so we eliminated the pork and we both agreed it was the most delicious meal I've made in a long time!!! Since I had left-over ingredients after she went home, I made it with the pork and again, one of the most delicious meals I've made in a long time!!! Would highly recommend!!! We baked the noodles and had a little trouble keeping them from burning (didn't watch them closely enough) so the next time, I fried them in oil in a saute pan where I could watch, turn and remove before they burned - for me a much better process!!! Again, would highly recommend this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy"
+},
+"reviewBody": "Delicious with just the right amount of kick. Followed the recipe as written except to lower the fat content I used hot turkey sausage and sprayed the wonton strips with Olive Oil Pam instead of tossing with oil before baking. Did not use the optional sake. Had planned to just buy cole slaw mix for this recipe but was guilted into shredding all the vegetables myself by Chef John (see video) and, of course, he was right. Will always make this recipe from scratch, if possible. The freshness is worth the extra time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tcasa"
+},
+"reviewBody": "Delicious! I have severe food allergies to sesame so I had to substitute olive oil for the sesame oil, otherwise I made it as written. Easy to make and even my girls (ages 11 &amp; 9) enjoyed it . Will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Corea"
+},
+"reviewBody": "This was a quick, easy meal that had a nice mellow taste. I used a package of coleslaw mix instead of shredding a head of cabbage. The rest of the recipe I followed exactly. I definitely will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "briannelabounty"
+},
+"reviewBody": "I make this all the time for my family of three, and always have to make at least double because we like it so much. The only things I change are I increase the sesame oil to at least 1 tbsp, I add a sprinkle or two of salt to the pork, and I make significantly more wonton strips."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "saquinog1"
+},
+"reviewBody": "Made it as a pre dinner appetizer for a party of six and everyone raved about it. Can’t think of anything to change except maybe more wontons than stated."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "artist"
+},
+"reviewBody": "I love most of Chef John’s recipes and I follow them to the letter the first try. Sorry but this recipe should be renamed. It had an okay flavor but is nothing like an egg roll. Save yourself time and a messy kitchen and just go to your nearest Chinese restaurant!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eugene Taylor"
+},
+"reviewBody": "Perfection. I've been cooking your recipes for years and this is definitely a highlight."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Maynard"
+},
+"reviewBody": "the first time i try a new recipe, i follow it exactly and then tweak it to my liking the next time i make it. however i didn’t have wontons, green onions, sake, and i don’t eat pork. so made the best of it. i deep fried flour tortillas strips. i used regular onions. did without the sake and used turkey instead of pork. i admit it was tasty but it didn’t taste anything like egg rolls. there seems to be something missing that would give it that egg roll taste but like i said it was tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "naomicooks"
+},
+"reviewBody": "Simple to make. Served it with chinese noodles. It was very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kar"
+},
+"reviewBody": "So glad I tried this version -- great egg roll flavor and super easy to make. I subbed mirin for the sake and used fresh gourmet wonton strips instead of making my own. The sauce looked scant when I poured it in the pan, but there was plenty. I mixed the sauce in the morning so at dinner time it only took 10 minutes to ready this dish. Egg roll in a Bowl will be in the regular rotation from now on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DREGINEK"
+},
+"reviewBody": "Loved this recipe!! But you definitely need to double - and, since I like cabbage, almost (but not quite) tripled that ingredient. I added chopped sweet onion to the pork sauté and used both red and yellow peppers. While they turned out; I am not very good at cutting julienne carrots! Will need to use my chopper to get them more finely sliced and consistent in size. I omitted the wonton aspect; I didn’t have any and wasn’t running to the store. I didn’t feel like I was missing out!\n\nMy husband chowed it down so fast I actually thought he missed eating lunch! Awesome recipe - keto or not! Plan to make again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle D"
+},
+"reviewBody": "I should've known from the ingredients, my bad! It's just a basic stir fry without rice, in a bowl with some won ton strips. I was hoping the won ton strips would make it something special, but they didn't really add much \"egg roll\" flavor, only some crunch. I subbed seasoned tofu for the pork. Making the strips took some time as they all stuck together when I tossed them in oil, then had to peel them apart and individually lay them on the baking pan. Unlike other Chef John recipes, I won't be making this again. At least it was healthy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra Streifel"
+},
+"reviewBody": "This is terrific, I used extra ground pork and toasted twice as many won tun strips, so with kitchen snackers it worked out okay! Whatever vegetables you have on hand are great additions. Bean sprouts would make it more like an egg roll!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "BrieAnna Stauffer"
+},
+"reviewBody": "It’s fine but not great. The serving was too small and the wontons didn’t add anything to the recipe. They didn’t taste good either. Great egg roll filling recipe though"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "teresa lanier"
+},
+"reviewBody": "Great Recipe! Didn't have the wanton wraps yesterday when I made this. Picked up some today, what a difference! Big Chef John fan. First review"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nina"
+},
+"reviewBody": "GREAT flavor. Need to double the sausage"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anna Cifranic"
+},
+"reviewBody": "This is so good!! I used a Pinot instead of Sake, still turned out yummy. It just so happened that my husband had a Chinese food craving the day I made this, and the Egg Roll in a Bowl satisfied it. Definitely making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Woods"
+},
+"reviewBody": "I tripled it because I wanted leftovers, and I’m glad I did! Super delicious. Another winner, Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Natalie Wilson"
+},
+"reviewBody": "Super easy and really tasty. I used prepackaged fried wonton strips because that’s all my grocery delivery service had, but that made it even easier and didn’t take much away from the flavor. (Though I imagine freshly made would be very good!) I used a full pound of pork and couldn’t find my cornstarch so cooked the sauce a bit longer to reduce it. I will definitely be making again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Francie"
+},
+"reviewBody": "We used chicken thighs because it's what we had. It's a flexible recipe, add what you have and ENJOY!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allistrata GG4"
+},
+"reviewBody": "Doubled wasn't enough for 3 of us but my family really enjoyed this. It DOES taste just like an egg roll! I bought crispy salad wonton strips and toasted them for like 5 minutes rather than buying wrappers."
+}
+]

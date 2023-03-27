@@ -1,0 +1,87 @@
+,"name": "Chef John&#39;s Duchess Potatoes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT50M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "168 kcal"
+,"carbohydrateContent": "21 g"
+,"cholesterolContent": "73 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "331 mg"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"3 pounds russet potatoes, peeled and quartered",
+"3 tablespoons cold unsalted butter",
+"2 teaspoons kosher salt, or to taste",
+"1 pinch cayenne pepper",
+"1 pinch ground nutmeg",
+"0.333 cup cream",
+"3 large egg yolks",
+"2 tablespoons melted butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Add potatoes to a large pot of very well salted cold water and bring to a boil over high heat. Reduce heat to medium-low and simmer until potatoes are very tender but not falling apart, 30 to 45 minutes. Drain very well, and let sit in strainer for at least 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer to a bowl, and mash potatoes until smooth. Add 3 tablespoons butter, salt, cayenne, and nutmeg, and continue mashing and mixing until butter completely disappears and mixture is smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Add cream and egg yolks, and whisk vigorously until mixture is very smooth. Taste to check seasoning and adjust to your liking. Cover and let mashed potatoes cool to room temperature."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (220 degrees C). Line a baking sheet with parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Spoon mixture into a piping bag. Pipe 12 portions on the prepared baking sheet (alternatively you can scoop out 12 portions). Chill potatoes in the refrigerator until you&#39;re ready to bake them."
+} ,{
+"@type": "HowToStep"
+,"text": "Drizzle or lightly brush melted butter over each duchess potato."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Tfu82UPv9jsML_42b1CyYHT8OFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chef-Johns-Duchess-Potatoes-1x1-1-2000-f8fa137efb8243aebc4e88cd18f84083.jpg"
+}
+]
+,"text": "Bake in the preheated oven until well browned, about 20 minutes."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "One of the best potato dishes that I have ever had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lauren M"
+},
+"reviewBody": "Impressive presentation and great flavor. And only a little more work than regular mashed potatoes. Best of all, these can be prepped hours ahead of time, refrigerated, and baked just before serving. This makes the recipe perfect for a dinner party. Use a big star tip on your pastry bag if you have one. I had only a medium size tip and thought the piping would go much faster if it were bigger."
+}
+]

@@ -1,0 +1,126 @@
+,"name": "Granola Oatmeal Cookies"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "8"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "122 kcal"
+,"carbohydrateContent": "12 g"
+,"cholesterolContent": "24 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "84 mg"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 cup finely crumbled prepared granola",
+"0.75 cup all-purpose flour",
+"0.5 teaspoon kosher salt",
+"0.25 teaspoon baking powder",
+"0.25 teaspoon baking soda",
+"0.5 cup unsalted butter, softened to room temperature",
+"0.5 cup firmly packed light brown sugar",
+"0.25 cup white granulated sugar",
+"1 large egg",
+"0.75 teaspoon vanilla extract",
+"0.25 teaspoon ground cinnamon",
+"0.5 cup old-fashioned rolled oats" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with a silicone baking mat (such as Silpat™) or parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine flour, salt, baking powder, and baking soda in a bowl and whisk for 30 seconds until dry ingredients are well combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine butter, light brown sugar, and granulated sugar in a second bowl. Cream with an electric beater until mixture is light and fluffy. Add egg and mix on high speed until well combined. Add vanilla extract and cinnamon and beat in."
+} ,{
+"@type": "HowToStep"
+,"text": "Fold in dry ingredients with a spatula just until flour disappears. Fold in granola and oats until well combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Scoop out tablespoonfuls of dough onto the prepared baking sheet, leaving ample space between the dough balls as they will spread out, about 8 per baking sheet."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/OuM6g67Bi0b4v6ioYXBMx_1inUk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_2354-2000-99bcccff40e54932bb6009671e2a250b.jpg"
+}
+]
+,"text": "Bake on the center rack in the preheated oven until cookies are golden brown, 13 to 15 minutes. Remove from oven and allow to cool on the baking sheet for 10 minutes. Transfer to a wire rack and cool completely. Repeat with remaining dough."
+} ]
+,"recipeYield": ["18"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These turned out very tasty! Crispy edges and softer, chewy center. Doubled the recipe. Definitely line your cookie sheet or you'll be scraping them off!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It's a tad long if you're making your own granola, but totally worth it. We made plain, raisin and chocolate chip varieties. All are spectacular."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christy Lynette"
+},
+"reviewBody": "I hate oatmeal due to the texture but love oatmeal breakfast \"cookies\" so I decided to try this. I used Quaker granola with honey and almonds. However, when I got up this morning I realized my baking soda had expired. I substituted self-rising flour (Do Not Do This-lol). I also had an apple in the fridge I needed to use quickly, and I love apples with granola. I cut it into very tiny pieces and added about half the apple. The apple was an amazing addition! The cookies were delicious straight out of the oven--crisp on the outside and warm and gooey on the inside. However, as the day wore on, they grew soft and crumbly. This is completely my fault due to using the self-rising flour. I will be doing this recipe again (with the proper ingredients) and can't wait to share at Christmas!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barb Corrick"
+},
+"reviewBody": "Made the recipe as written and cookies were delicious! Will definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharyl"
+},
+"reviewBody": "Had to make the CJ granola first and then the cookies so it took a little longer, but the effort was worth it. Lovely hostess gift for thanksgiving dinner."
+}
+]

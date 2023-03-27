@@ -1,0 +1,133 @@
+,"name": "Dynamite Rice"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "7"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "592 kcal"
+,"carbohydrateContent": "46 g"
+,"cholesterolContent": "128 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "27 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "1434 mg"
+,"fatContent": "33 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 cup uncooked medium-grain white rice (such as Calrose variety)",
+"1.25 cups water",
+"3 tablespoons rice vinegar",
+"2 teaspoons white sugar",
+"1 teaspoon kosher salt",
+"1 tablespoon toasted sesame seeds",
+"2 tablespoons bonito flakes",
+"1 sheet nori (dried seaweed), cut into thin strips",
+"0.667 cup mayonnaise",
+"1 tablespoon soy sauce",
+"0.5 teaspoon toasted sesame oil",
+"2 tablespoons Sriracha hot sauce",
+"1 cup bay scallops",
+"12 peeled and deveined large shrimp, cut into 1/2-inch pieces",
+"1 pinch cayenne pepper, or to taste",
+"1 dash Sriracha hot sauce, or to taste",
+"1 pinch toasted sesame seeds, or to taste",
+"0.25 cup thinly sliced green onions" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Rinse rice and drain. Add rice to a pot and pour in water. Bring to a simmer over high heat, then reduce heat to low. Cover and cook for 20 minutes. Turn off heat and let rest for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "While rice cooks, combine rice vinegar, sugar, and salt together in a small bowl until dissolved. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C). Lightly grease a shallow 2-quart baking dish with some sesame oil."
+} ,{
+"@type": "HowToStep"
+,"text": "Uncover rice and drizzle over seasoned vinegar mixture. Use a fork to break up and fluff rice. Transfer rice into the prepared baking dish. Sprinkle over toasted sesame seeds, bonito flakes, and nori; use a fork to gently stir into the rice."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix mayonnaise, soy sauce, ½ teaspoon sesame oil, and Sriracha for topping together in a bowl and stir in scallops and shrimp. Spread over rice, and sprinkle cayenne over the top."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Ww4GlvGW8zdYQ8_nuTBUX2Ypb9U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_6900-2000-6e4e897c24694d23b2a1881a4589bfad.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until the seafood is just cooked through (or 95% cooked through), about 20 minutes. Turn oven to a high broil setting, and brown the top, 1 to 2 minutes. Garnish the top with more Sriracha, toasted sesame seeds, and green onions before serving."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "As always... I had no seaweed or bonito flakes wich I usually do. Nor did I had rice vinegar Substituted salt with fish sauce and made rice vinegar adding some sugar into a normal one. And added some fake crab to make it \"more healthy\". And it was amazing. I've done this few times but use kewpie majo!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Easy and super delicious. I'll make it again soon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Hadden"
+},
+"reviewBody": "Fun, different and delicious. Even better cold the next day when you're experiencing 104° weather. I didn't get the Bonita flakes but will definitely get some in my pantry for the next time I make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Memphis Dad"
+},
+"reviewBody": "Very nice but also rich. I had no shrimp so I upped the scallops."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Helmut Raether"
+},
+"reviewBody": "I made this according to the recipe. It turned out great! I added a tiny bit of my special teriyaki sauce to the rice and on top to contrast with the sriracha sauce. Be careful when doing the broil. One to two minutes is plenty. There are so many variations you can do with this recipe. I’ll be making this again."
+}
+]

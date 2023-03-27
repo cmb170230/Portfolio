@@ -1,0 +1,394 @@
+,"name": "Chef John&#39;s Manhattan Clam Chowder"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "25"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "375 kcal"
+,"carbohydrateContent": "32 g"
+,"cholesterolContent": "114 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "46 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "902 mg"
+,"sugarContent": "4 g"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT35M"
+,"recipeIngredient": [
+"2 (10 ounce) cans whole baby clams, undrained",
+"2 (6.5 ounce) cans chopped clams, undrained",
+"4 strips thick-cut bacon, cut into 1/2-inch pieces",
+"1 cup diced yellow onion",
+"3 cloves garlic, minced",
+"kosher salt to taste",
+"2 tablespoons tomato paste",
+"2 tablespoons all-purpose flour",
+"1 cup bottled clam juice",
+"2 cups chicken broth",
+"2 medium carrots, cut into 1/2 inch pieces",
+"2 ribs celery, sliced into 1/2-inch pieces",
+"0.5 cup diced Italian tomatoes",
+"freshly ground black pepper to taste",
+"3 pinches cayenne pepper",
+"3 cups peeled, diced Yukon Gold potatoes",
+"2 teaspoons minced fresh tarragon",
+"2 tablespoons chopped fresh Italian parsley" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Drain baby and chopped clams. Reserve liquid in the refrigerator until needed and set clams aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Place bacon in a soup pot over medium-high heat; cook and stir until well-browned and almost crispy, 7 to 10 minutes. Add onion, garlic, and a pinch of salt; cook and stir until onions start to soften and turn translucent, 5 to 7 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add tomato paste; cook and stir for 2 minutes. Don&#39;t worry if some of the tomato paste sticks to the bottom of the pot; we want that to happen. Sprinkle in flour; cook and stir for 2 to 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Dump in reserved clam juice plus bottled clam juice and chicken broth. Stir with a spatula, scraping the bottom of the pot to deglaze any caramelization."
+} ,{
+"@type": "HowToStep"
+,"text": "Add carrots, celery, clams, diced tomatoes, pepper, and cayenne; stir and bring to a boil. Reduce heat to medium-low and simmer for 15 to 20 minutes, skimming off some bacon fat if desired."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/p9PYzQd33j0swtSC0ReEdlv_yCQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9400997-chef-johns-manhattan-clam-chowder-Chef-John-1x1-1-bd988bb362254369ba412a164afaca8d.jpg"
+}
+]
+,"text": "Add diced potatoes and cook until tender but not falling apart, about 20 minutes. Taste and adjust for salt, if needed. Stir in fresh tarragon and parsley just before serving."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT95M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anna Weissgerber"
+},
+"reviewBody": "I love this recipe and just tried it out today, though I did do two things different. First I used crushed red pepper flakes instead of cayenne pepper and second I used baby red potatoes instead of Yukon gold potatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I loved it was a great hit, I got everything to make this and had it on hand what seemed like forever but i wanted to weight for a cold and in doing so it was a great hit, family loved hit"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sean Kearney"
+},
+"reviewBody": "My neighbor said it was the best clam chowder he has ever had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RetiredFA"
+},
+"reviewBody": "I love Manhattan Chowder and this was the best! However, I did one part a little differently. I microwaved the bacon. I used a microwave bacon cooker. 4 pieces, about 7 minutes on 40% power, a combination that took me years of trial and error to get. Thus, the bacon wasn't \"browned\" but it still worked! While the bacon was cooking, I put the diced onion and garlic in the soup pan. When the bacon was done, I poured the grease onto the diced onion and garlic in the soup pan and cooked accordingly. And when I added the tomato paste, there wasn't any \"browned bits\" for the paste to stick to. But it still turned out wonderful! It was so good I ate three bowls the first time. The way I did it, the bacon grease mixed in with the soup and made it really good! Didn't need to skim."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allison Seidel"
+},
+"reviewBody": "I very rarely rate recipes, but this one is one of the BEST step by step, not needing to change a thing recipes I have ever made. I'm usually a New England Style Clam Chowder person, but THIS recipe changed me!!!! SOOOOO GOOD!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ray"
+},
+"reviewBody": "I love both chowders, New England Clam Chowder and Manhattan Clam Chowder. I have a great New England Clam Chowder (from this web site), that I've used for over 10 years. It's delicious and now I must say, this is the best Manhattan Clam Chowder I've ever tasted. Rich, creamy and full of flavor. My only changes were butter instead of beacon and all clams were minced. I checked out other recipes, but after reading the ingredients, this was the winner. And it truly is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Brings back memories of the clam chowder I ate as a kid 50 years ago at Jones Beach. Absolutely delicious. The tomatoey roux step is good cause it gives the soup body. And the oyster crackers are the bomb with chowdah."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I was disappointed. The ingredients are great but it tasted like tomato and not clam. I used the broth from 4 cans clams and I jar broth Any suggestions? I don’t want to spend 5.96 to add another jar of broth"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I added a little more paste and it came out amazing...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dorothy Burton"
+},
+"reviewBody": "Delicious !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trisha Swartz"
+},
+"reviewBody": "I made this clam chowder for our Holy Supper,which is meatless, at Christmas time. It was perfect and big hit! I have added this recipe to our regular menu and will make this to eat year round. I did not use the bacon but substituted with the butter. It was easy to make and I had some leftover and put it in the freezer. Hard to believe, but it tasted even better after it had been frozen , almost if the flavors had time to meld. I thought the potatoes would have gotten mushy after being frozen,but they didn't. 5 stars all the way! Thank you Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "suehowrish"
+},
+"reviewBody": "Turned out exactly how it should easy to follow great recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dee"
+},
+"reviewBody": "Tasty and easy! Had to omit garlic and onions due to food allergy- so added chopped fennel, 2t black pepper + 2t crushed red pepper. Also added 1 # seafood mix and a little cauliflower cuz I had them on hand . Came out delicious and filling enough as an entree w all the goodies I added."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "donnakim1"
+},
+"reviewBody": "Delicious ! I had to modify as we try to eat low fat and low carb.\nI used turkey bacon instead of regular bacon and as we dont eat potatoes because of the carbs? I cubed tofu. I didnt skip the flour (even tho carbs) because didn't want it watery.\nMy family loved this and will definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Saveur"
+},
+"reviewBody": "This was wonderful! A good deal of prep, but preparing it was a breeze. I used 4 cans chopped clams and a little extra chicken stock. Next time I think I’ll add a little more tomato paste. The fresh tarragon absolutely took this from very good to stellar. Another winner and do-over from CJ!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andy Havener"
+},
+"reviewBody": "Trusted Chef John to make a great Manhattan Clam Chowder --- and Chef John delivered!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mike.baker.31"
+},
+"reviewBody": "I signed up just to rate this recipe. Its fantastic. I followed the recipe as he wrote it with the only exception, I couldn't find tarragon in my local store so I left it off (its optional anyway). I even gave some to my neighbors who love it as well and asked for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PopsKitchen"
+},
+"reviewBody": "FAR SUPERIOR to NECC (new england clam chowder). Best soup I've ever tasted. Followed the directions and this just turned out amazing. Can't wait to make it [again] for my kids."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "steverubindvm"
+},
+"reviewBody": "Loved the clamyness (is that a word?) Anyhoo, I added 2 small hunks of parmesan rind and used home made bacon. Otherwise I stuck to the recipe and thought C.J. was right. It was much better than the red water I got in so many east coast diners. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "thefriendlycarpenter"
+},
+"reviewBody": "Super Tasty! I had my parents over tonight and they brought my grandparents and little sister. Everyone loved it! Even my wife who hates sea food-especially clams."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "joe"
+},
+"reviewBody": "Really great recipe, so glad I tried it.\nperfect spice and flavor. The house smelled great as this cooked. Served with fresh rolls from Publix bakery. Will make again soon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LubinVA"
+},
+"reviewBody": "Made this for my inlaws and to say it received rave reviews would be an understatement. As Chef John promised, it is hearty and flavorful, unlike the tomato broth that defines a typical Manhattan Clam Chowder. I made it true to the original recipe. \"And as always ... Enjoy!\""
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steve W"
+},
+"reviewBody": "Made this today. Neither my wife nor I have ever had Manhattan clam chowder and we loved this! Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doc Farmer"
+},
+"reviewBody": "There are two things I cannot tolerate - intolerance, and lactose. Never been a big fan of New England Chowder, and frankly the Manhattan versions I've had are never \"rich\" enough. This one seems to hit all the perfect spots. Just tomato-y enough, thick, very clam-y and yet well balanced overall. Can't wait to try this one!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TH0R"
+},
+"reviewBody": "Loved the hint of tarragon. Now it’s my favorite over even New England style. Great recipe! Lots of clams also."
+}
+]

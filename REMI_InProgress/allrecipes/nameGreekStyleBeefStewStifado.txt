@@ -1,0 +1,218 @@
+,"name": "Greek-Style Beef Stew (Stifado)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "13"
+}
+,"cookTime": "PT155M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "777 kcal"
+,"carbohydrateContent": "20 g"
+,"cholesterolContent": "163 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "42 g"
+,"saturatedFatContent": "20 g"
+,"sodiumContent": "1519 mg"
+,"fatContent": "55 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"3 pounds boneless beef chuck roast, cut into 2-inch cubes",
+"2 teaspoons freshly ground black pepper",
+"1 tablespoon kosher salt",
+"4 tablespoons olive oil, divided",
+"1 pound small shallots",
+"0.5 cup diced onion",
+"4 cloves garlic, minced",
+"1 pinch kosher salt",
+"3 tablespoons tomato paste",
+"0.25 cup red wine vinegar",
+"1 cup white wine",
+"2 teaspoons white sugar",
+"0.25 teaspoon ground cinnamon",
+"0.125 teaspoon ground allspice",
+"1 pinch ground cloves",
+"1 teaspoon dried oregano",
+"2 large bay leaves",
+"2 sprigs fresh rosemary",
+"2 cups beef broth, or more as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place beef in a bowl and season generously with pepper and kosher salt. Cover and transfer to the refrigerator until ready to use; up to 1 day is fine."
+} ,{
+"@type": "HowToStep"
+,"text": "Leaving the root ends in place, cut off the shallot tops. Remove and discard skins."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 2 tablespoons oil in a heavy skillet over high heat. Add ½ of the beef and cook until nicely seared, 4 to 6 minutes per side. Remove to a plate and repeat to sear remaining beef."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn off the heat and add 1 tablespoon oil to the empty skillet. Add shallots and let the skillet cool for 2 to 3 minutes. Turn the heat back on to medium and toss shallots until browned, 2 to 4 minutes. Remove shallots to a plate."
+} ,{
+"@type": "HowToStep"
+,"text": "Add the remaining 1 tablespoon oil to the skillet with onion, garlic, and a pinch of salt; cook and stir for about 1 minute. Stir in tomato paste and cook until toasted, about 2 minutes. Add red wine vinegar and white wine and bring to a boil while scraping the browned bits of food off the bottom of the pan with a wooden spoon. Increase heat to medium-high and add sugar, cinnamon, allspice, cloves, oregano, bay leaves, and rosemary sprigs. Stir to combine and cook until reduced by about half, 2 to 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add browned beef and shallots to the skillet and toss carefully until coated. Pour in 2 cups beef broth and bring to a simmer."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce heat to low or medium-low. Cover and cook at a gentle simmer for 1 hour, then uncover and cook for at least 1 more hour, stirring occasionally to move the beef and shallots around. Add more broth if needed during the cooking time and skim off some fat if preferred. The meat is done when a fork slides in easily, but the meat isn&#39;t falling apart on its own; it may take longer than 2 hours."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/B-N9meq3MwmPWtbvV73Kfh8_qFI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Greek-Style-Beef-Stew-2000-ef197ca021074e5ead913182f9d7116a.jpg"
+}
+]
+,"text": "Taste and adjust seasonings before serving."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT185M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Besseae"
+},
+"reviewBody": "I reduced the salt by a third and doubled the spices and it was DELICIOUS! Served it over the spanakorizo. Hubby devoured it. This is definitely going to be a repeat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenelle D"
+},
+"reviewBody": "I cheated a little - I used my Instant Pot (6 Qt) to sear the meat, sautee the shallots and onion/garlic/tomato paste mixture then deglazed the pot with the broth/vinegar and cooked it on the stew setting (35 minutes) high pressure with a 15 minute natural release. Served it with the Greek spinach rice (in which I used 1.5 lbs of spinach) and my son loved it. Said it tasted even better today in his lunch. I think next time I may use more than one pan to sear the meat just to help the process go faster."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brian Du Boulay"
+},
+"reviewBody": "It was so delicious and filling."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joseph Norris"
+},
+"reviewBody": "OMG! So Amazing! Yes, The Beef Stew, I Never Knew! Thank you so much! I've been cooking and already know this recipe is the BEST! The flavor is so COMPLEX and PERFECT! It will be ready to devour in about 1 hour. I'm so grateful for this recipe! MMMmmm! Total bliss! I totally did whole shallots and browned as suggested, also used white wine. It is AMAZING!! Again, Thank you so much!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JORDAN"
+},
+"reviewBody": "This is the best beef stew I have ever had. Followed your instructions almost to the letter (couldn't find the cloves) and WOW! I made this for myself as well as my mother, father and sister and they were blown away as well. I made your spinach rice to pair with it as recommended and man... This was a hit. We will definitely be having this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JL Boudreau"
+},
+"reviewBody": "Chef John does it again! Talk about comfort food...OMG This is by far the best recipe I have found for beef stew with wine... I brought it to work and everyone went crazy! Asking for the recipe. I topped with sour cream and parsely. It's all Chef John. Have not found a recipe by ChefJohn that is not the best version of how anything is made. Thanks John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "this is possibly, no, most definitely the best beef stew I've ever tasted. No offense to Mom or anyone else. The flavors are amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Evan E"
+},
+"reviewBody": "This is good, but I have to admit I was expecting something a little more offbeat, given the massive amount of shallots and the presence of cinnamon, cloves, and allspice. When I made it, the spices all blended into the dish and were fairly muted, and after 2 hours of braising the shallots dissolved. If I make it again, I'll probably braise the shallots separately, the way Julia Child does with Bourguignonne or Coq au Vin, and add them in at the end."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "FANTASTIC stew! I used dark balsamico instead of red wine vinegar but everything else as in recipe. Have made it twice this week, like a drug:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim McLeod"
+},
+"reviewBody": "This stew is fantastic. Though I can't find a therapist who will help with the trauma I endured from peeling all those shallots. Worth it though - their flavour is great, and I love having them whole. If I could knock off half a star I would, as both my partner and I found the dish too salty. I highly recommend cutting the salt in half, and then seeing later if you need to add more. You can't take it back! Besides the saltiness, the flavour and consistency is divine, hence the 5 star review. As always, I love your videos, Chef John! Can't wait to try another of your recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The best beef stew I’ve ever had/made. Paired it with the Greek spinach rice. Out of this world good! Chef John - I’m tempted to try this with lamb. What do you think?"
+}
+]

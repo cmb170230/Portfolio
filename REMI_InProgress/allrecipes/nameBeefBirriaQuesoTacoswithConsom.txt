@@ -1,0 +1,97 @@
+,"name": "Beef Birria Queso Tacos with Consomé"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "4"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "337 kcal"
+,"carbohydrateContent": "27 g"
+,"cholesterolContent": "52 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "17 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "631 mg"
+,"sugarContent": "3 g"
+,"fatContent": "19 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 cups reserved sauce from Beef Birria recipe",
+"1 cup chicken broth",
+"0.25 cup diced carrots",
+"0.25 cup diced celery",
+"0.5 cup diced cabbage",
+"For the Tacos:",
+"2 cups shredded Beef Birria",
+"3 tablespoons reserved beef fat from Beef Birria recipe, or more as needed",
+"8 (5 inch) corn tortillas",
+"2 cups freshly grated Monterey Jack cheese",
+"4 tablespoons chopped white onion, or to taste",
+"4 tablespoons chopped fresh cilantro, or to taste",
+"1 medium lime, cut into 4 wedges" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Stir reserved beef birria sauce, chicken broth, carrots, celery, and cabbage together in a saucepan over high heat; bring to a simmer. Reduce heat to medium-low and simmer, occasionally brushing the caramelized bits (side fond) off the side with the hot liquid, until vegetables are nice and tender and consomé has reached desired consistency, about 20 minutes. Reduce heat to low and keep hot while you prepare the tacos."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat some reserved beef fat in a large skillet over medium heat until melted. Add 2 tortillas and toss with a spatula until generously coated in fat. Toast briefly until golden brown, then cover with Monterey Jack cheese and some shredded beef. Drizzle each taco with about 1 tablespoon consomé liquid, then top with white onion and cilantro."
+} ,{
+"@type": "HowToStep"
+,"text": "Fold tacos in half and press gently. Continue to cook, flipping back and forth, until browned and crispy, 2 to 3 minutes. Transfer to a plate and repeat to make remaining tacos, adding more fat if necessary."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/OTkPs8fR0prWVwo-QwKPLBsAsqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_0319-2000-fe2289ffcc9549d8b707140ed4b1bf26.jpg"
+}
+]
+,"text": "Ladle consomé into a bowl and garnish with remaining white onions and cilantro. Squeeze lime wedges into consomé and serve with tacos."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "smediag"
+},
+"reviewBody": "Excellent ! Made the stew the day before and then the tacos the next day. The tacos deserve 10 stars!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephen Orlove"
+},
+"reviewBody": "I made the Beef Birria stew which was fantastic. I then turned the leftovers into this taco dish. Again it was absolutely fantastic. Chef John is the man.\n\nNext time I make this recipe, I think I'm going to turn the leftovers into an Enchilada dish instead of tacos. As amazing as the tacos were, they were super messy, both to make and to eat. I feel like they'll taste exactly the same and be much neater to eat with a knife and fork. Either way, this was a truly outstanding recipe and I'm already thinking about the leftovers I have for lunch tomorrow :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Heinrichs"
+},
+"reviewBody": "Best thing I've ever made. Chef John is a national treasure."
+}
+]

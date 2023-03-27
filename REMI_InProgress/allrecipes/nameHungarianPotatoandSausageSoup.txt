@@ -1,0 +1,1026 @@
+,"name": "Hungarian Potato and Sausage Soup"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "81"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "512 kcal"
+,"carbohydrateContent": "46 g"
+,"cholesterolContent": "72 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "17 g"
+,"saturatedFatContent": "14 g"
+,"sodiumContent": "2710 mg"
+,"sugarContent": "6 g"
+,"fatContent": "29 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"3 tablespoons unsalted butter",
+"6 ounces smoked Hungarian sausage, sliced into rounds",
+"1 yellow onion, diced",
+"1 teaspoon salt, or more to taste",
+"3 tablespoons all-purpose flour",
+"2 cloves garlic, minced",
+"2 teaspoons Hungarian paprika",
+"5 cups chicken broth, or more to taste",
+"2 cups chopped green cabbage",
+"1.5 pounds russet potatoes, peeled and cubed",
+"freshly ground black pepper to taste",
+"1 pinch cayenne pepper, or to taste",
+"1 bay leaf",
+"2 tablespoons distilled white vinegar",
+"0.5 cup sour cream, or to taste",
+"2 tablespoons sliced green onion, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Melt butter in a soup pot over medium heat. Add sausage and cook and stir until lightly browned, about 3 minutes. Use a slotted spoon to remove sausage to a bowl, leaving behind any butter in the pot."
+} ,{
+"@type": "HowToStep"
+,"text": "Toss onion into the pot with 1 teaspoon salt. Cook and stir until onion just starts to turn translucent and picks up a brown color from the meat juices in the pan, 4 to 5 minutes. Add flour; cook and stir for 2 to 3 minutes. Add garlic and paprika; cook and stir until fragrant, about 1 minute, being careful not to burn the paprika."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in 5 cups chicken broth. Increase heat to high and bring to a simmer, stirring occasionally so flour does not stick to the bottom of the pot. Stir in cabbage and cook until it just loses its stiffness, about 2 minutes. Stir in potatoes and bring back to a simmer. Add black pepper, cayenne pepper, and bay leaf, plus a splash of chicken broth if desired. Bring back to a simmer."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir soup and reduce heat to medium-low. Simmer, stirring occasionally, until potatoes are very soft and tender, about 30 minutes. Add sausage and vinegar and simmer for 10 minutes. Taste and adjust for salt."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/o5KEhXBt0UrrUkFuiBuTwVBIB-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7843568-7ce00d5b45cf4723b1a38e44d8089ee7.jpg"
+}
+]
+,"text": "Remove from heat and ladle into bowls. Garnish with sour cream, green onions, and cayenne pepper."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT85M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My all time favorite soup recipe. I always make extra. It freezes fairly well too if you make too much and want to freeze for a later date."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made as advertised. Delicious. Definitely better the next day ... and the day after! Pair with a loaf of crusty bread (I made italian garlic bread). A keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Korrin DeGraw"
+},
+"reviewBody": "We’ve made this a few times and it’s a huge hit for the entire family!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "habenaroman"
+},
+"reviewBody": "Used smoked turkey sausage. Very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry"
+},
+"reviewBody": "My family LOVED this soup! I’ll definitely make it again! Made it exactly as the recipe says and wouldn’t change anything."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "daveventura1"
+},
+"reviewBody": "Delicious! You can always count on Chef John; He's truly the Galileo of sausage and potato!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "normmeszaros"
+},
+"reviewBody": "from a hungarian,very good recipe,but use Ukrainian sausage. Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Scott Bowman"
+},
+"reviewBody": "Amazing. I doubled the sausage. In the add a splash of chicken broth step I added 3 cups."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Therese Juszczak"
+},
+"reviewBody": "Best soup ever!. It's in my top 3 soups. I used Portuguese sausage because so easy to find in the grocer store. The aroma in my house was mouth watering. I share this recipe, and Chef John, with everyone."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "eravans702"
+},
+"reviewBody": "I haven’t actually made this yet but was going to today. I was wondering if anyone has made it in a instant pot or crock pot and if so what steps did you do differently?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Scott Cross"
+},
+"reviewBody": "Great recipe \nI would definitely make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "xyz"
+},
+"reviewBody": "My House-mate will ask for this soup any time the weather turns chilly, usually I'm happy to oblige, as I love making it &amp; eating it too. But I add a cup of white wine that pairs nicely with whatever sausage I have on hand to make the soup, avoiging the vinegar, &amp; breakfast sage sausage, or grilled mild Italian (still looking for real Hungarian sausage) I don't like anything too \"hot\" I can't control so I use white pepper instead of black, or cayan. I tried the full recipe the first time &amp; found it not totally to my liking or other ppl &amp; even the dog turned up his nose, so I tweeked it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amanda montes de oca"
+},
+"reviewBody": "I haven’t been able to find exactly the right sausage due to limited grocery excursions but I’ve used spicy Italian instead and it’s still absolutely delicious. Everything I make by Chef John is amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marie Miniter"
+},
+"reviewBody": "Everything by Chef John is 5-Star! \nThis was no exception. Made exactly to recipe and it was a winner winner dinner, served with a crusty French bread will warm the heart of any man (or woman)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kenneth Moore"
+},
+"reviewBody": "This is a delicious, hearty soup, for sure.\nHowever, I increased some of the ingredients a bit, because, who buys 6 ounces of sausage? I used a 12 oz ring of smoked kielbasa. And a half of a small head of cabbage, chopped up. And cut up some golden potatoes with the skin still on.\nAnd, I did it in my Instant Pot. It worked flawlessly, as usual.\nI especially like using the I P because it's harder to burn the roux and paprika with it on saute.\nAften all the initial prep work and saute, I set the pot on soup, for 20 minutes, then let it rest for 25 minutes.\nThe potatoes were perfect, as well as everything else."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Alene Ray"
+},
+"reviewBody": "I doubled the recipe. It was good but we all agreed next time I should double the sausage and cabbage and use 3/4 or 1/2 of the potatoes the recipe calls for. When the potatoes get cut up they go A LONG way."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason Steinmetz"
+},
+"reviewBody": "This recipe is great! I also enjoyed the video as he is very thorough and straightforward. I had red potatoes so I used those instead, threw an extra clove of garlic, and an extra pinch of cayenne. I used Hungarian venison sausage."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rohn Adams"
+},
+"reviewBody": "Excellent! Followed the directions except that I subbed the Chinese cabbage I had on hand for the green cabbage and used regular paprika instead of Hungarian paprika. Served with a side of crusty Italian bread."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dave Day"
+},
+"reviewBody": "So very delicious! I subbed Smoked Bratwurst for the sausage. A hit at my house!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jill greywolfe"
+},
+"reviewBody": "Made this last night and it was so good I had it again for breakfast! It is reminiscent of Zuppa Toscana but lower in calories (no cream) and heartier - perfect combination. I used the apple cider vinegar (as I am currently using that to fight the gnat population in my house (I am losing). Only change is I used sausage in casing - took it out of casing and browned it. Definitely would reccommend."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dijo"
+},
+"reviewBody": "We loved it. My Hungarian sausage was very hot (I was warned by the butcher). I ended up feeding more than four people as I put in one extra cup of chicken broth and one of water to try and cut down on the heat. Very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JillianE."
+},
+"reviewBody": "This was sooo good and not difficult to make. Hardest part was cutting up the potatoes. I used ground sweet sausage and even my teen daughters enjoyed the soup"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lyricalpursuit"
+},
+"reviewBody": "Took way longer to peel, chop, and cook than stated (I made triple batch) and when done wasn't sure we liked it but the more we ate, the more we liked it. By the time we got to the bottom of the bowl we about licked it clean. Yum! I used chicken Italian sausage. Sour cream garnish really helps balance the spicy cayenne and vinegar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marc Bradley"
+},
+"reviewBody": "Turned out awesome. Filling and tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erna Odendaal"
+},
+"reviewBody": "We love this recipe so much that we make it every second week now, and even our toddler loves it!\nWe live in a remote little town in South Africa and couldn't get anything close to Hungarian sausage, so substitute with Chorizo and it's excellent. Usually serve with a dollop of plain full cream yogurt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Elder"
+},
+"reviewBody": "Made according to the recipe directions with polish sausage as that was what we had available. \n\nI will be remaking in the future but skipping the flour and using mashing/pureeing some of the potatoes to get the thicker texture without the flour or enjoying it without doing so."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mike Clark"
+},
+"reviewBody": "This was lovely, and the best soup I've made so far! Wasn't as spicy as I was expecting, but that's OK, because my wife isn't as keen on that as I am. So I did add a little more cayenne than Chef John seemed to in the video (and a pinch of hot pepper flakes). Also added some spinach with the cabbage. It worked out wonderfully!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Arti"
+},
+"reviewBody": "Hearty, very comforting recipe. My husband has a love for eastern European dishes and this was perfect for him. I prefer Indian flavors but I loved this recipe and I'm looking forward to making it again! Don't forget the crusty bread (thickly buttered of course)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cody Gosney"
+},
+"reviewBody": "Made it while in quarantine in Greece, it was awesome! Used bouillon cubes to make my own broth and used smoked paprika as it was all I could find here. Any well seasoned kielbasa type sausage I think would be pretty good in this if you cant find a Hungarian sausage. Two thumbs up chef John, the girlfriend and myself approved."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine"
+},
+"reviewBody": "Perfect soup during an early May rainy day ! Our stay at home during covid19 has included an array of new recipes to try, and this recipe is definitely a keeper ! Changed nothing ,followed the recipe precisely. Thanks Chef John"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jennyshore64"
+},
+"reviewBody": "This soup was so flavorful! I used Primo apple chicken sausage instead because that is what I had in the house. Make sure you cook the sausage before you brown it if the sausage is not smoked. My husband and teenager gobbled it up! The only recommendation they had was to add more cabbage!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Darthjen"
+},
+"reviewBody": "Made the recipe exactly except for adding more garlic (that is just what our house does) and it was so, so good. Thank you so much for such a delicious recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Spencer"
+},
+"reviewBody": "At my wife's demand, I prepared this exactly as the the recipe described. And it was delicious! Not sure how I would have changed it. The sour cream was a definite necessity and I put some chopped chives as a garnish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Holley"
+},
+"reviewBody": "Everyone loved this, and it was so quick and easy to make. Thank you, Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shane Mikescott"
+},
+"reviewBody": "I've made this recipe a few times. I accidentally got the non smoked Hungarian sausage the first time I cooked it and was unable to have rounds, but it was still awesome. My wife has me make big batches of it so she can take it to work. Definitely recommend."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judy Allen"
+},
+"reviewBody": "I made this soup today and it was delicious. I only had regular smoked sausage but that is the only change that I made. My husband loved it and so did I. I skipped the garnish because my husband doesn't like sour cream, crazy huh. Next time I will add it to mine though. There definitely will be a next time. I plan to put this in my regular soup rotation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "msmimi522"
+},
+"reviewBody": "Sadly we did not have any sour cream to mix in before eating. The soup was simply delicious. I will definitely make again when I have sour cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Young"
+},
+"reviewBody": "I made this for my Hungarian husband and he was over the moon! I did add a few slices of chopped Hungarian bacon. Other than that, followed the recipe exactly. It was so AMAZING that I made it again the next night! Perfect comfort food. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sauk Haven"
+},
+"reviewBody": "Added a little cayenne pepper and and pepper flakes to heat it up a little. But the recipe is great as it is!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bccskibum"
+},
+"reviewBody": "This was really good. Didnt change a think and it was great. Did use lots of sour cream in the end. Very filling. Love Chef John's recipes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jamie"
+},
+"reviewBody": "Did not have smoked sausage, but i used smoked paprika instead of regular, and it came out boss."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie Duffy"
+},
+"reviewBody": "This soup was awesome! We used regular sausage and smoked paprika, and it still turned out incredible. I used a lot more water/broth than the recipe suggested as well for personal preference. So, so, so warm and comforting!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa in Phoenix"
+},
+"reviewBody": "I knew this was going to be good, but WOW! As I’m quarantine cooking, I had to use what I had on hand but I did a pretty good job of coming close to exact ingredients. I only had plain, ol’, regular California paprika and I used spicy smoked kielbasa For four servings, it says 6 oz. of sausage but the kielbasa package is 14 oz. Since I wanted to use the whole package, I doubled the recipe and felt the sausage to soup ratio was kind of light. Also, when I watched Chef John’s video, it really looked like the same amount as I had, using the whole package. In any case, the flavor of this soup is amazing! I’m planning to freeze half to pull out in a couple of weeks when I’m running low on groceries."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ralph"
+},
+"reviewBody": "The flavors were amazing! Made it just per recipe and CJ is correct the sour cream evens the flavors out. What am I saying CJ is always right."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "My Pressure Cooker Recipes"
+},
+"reviewBody": "I made this for my husband during quarantine and he absolutely loved it. He is usually reluctant whenever I say I am going to try a new recipe but he said it was exceptional and he would enjoy having it again. That’s a big plus. Chef John’s recipes never disappoint."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Hamilton"
+},
+"reviewBody": "I used Turkey Kielbasa, a Polish styled and lower fat sausage. I added a bit of liquid smoke. Otherwise I stuck to the recipe and was rewarded with one of the best tasting soups I have every had - wow. \n\nThis was sssssooooooooo good. Chef John hit a home run, over the wall, and into the bay."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "carla"
+},
+"reviewBody": "Great soup with ingredients we usually have on hand."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "aunger"
+},
+"reviewBody": "Delicious! Perfect for a cool, rainy day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Gonzalez"
+},
+"reviewBody": "This has got to be my favorite by the Chef!!\nMy hubby spied this first and asked me to make it-soooo glad I did! Flavor is so good, and it's filling. You have to try the sour cream and the onions give it such goodness. Thanks, Chef!! Another go to recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeff Berkeley"
+},
+"reviewBody": "Made it exact to recipe. Awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Keith Heathcote"
+},
+"reviewBody": "We are under full lock down here in New Zealand. Police enforcing appropriate social distancing, need 2 keep 6 feet from each other. Only can travel to supermarkets, doctors or chemist, everything is closed. Went to get a cabbage but no stock at my local, improvised bought a large bag of undressed col-slaw. Worked a treat. Pureed the base before adding the potatoes and sausage.\n\nTaste great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leslie Booher"
+},
+"reviewBody": "We loved it! The third time of eating, it was as good as, or better than, the first time. Sadly, we finished it on the third meal. We will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Oneta Bibbs"
+},
+"reviewBody": "Chef John is amazing and I could eat anything he makes. That said, the soup was great. Next time I will add a little less vinegar, the sour cream adds the additional acidity for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carla Rolfe"
+},
+"reviewBody": "First, I was very, very reluctant to add cabbage to soup, but I did it, and it was truly quite delicious. Everyone in the family loved it. I didn't have anything except ground, hot Italian sausage so that's what I used. Next time I'll use the right kind. \n:-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bonnie H."
+},
+"reviewBody": "This is the most amazing soup! It's even better the next day, and is fairly easy to make. Thank you for the wonderful recipes !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nikki H"
+},
+"reviewBody": "Absolutely amazing! I followed the directions to a T and it was incredible!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Adam Sebesta"
+},
+"reviewBody": "This was fantastic. Super easy and amazingly filling. I took Chef Johns advice and put sour cream on it until I felt self conscious. Absolutely the way to eat it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MarkWayne"
+},
+"reviewBody": "One of the better soups that I have made in a long time. Great mix of ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "njj"
+},
+"reviewBody": "No changes - and it was perfect! Chef John - you did it again! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BLR (Shades)"
+},
+"reviewBody": "This is a very good soup. \n\nThough it's not the Traditional Hungarian Potato Soup I was taught by my Grandmother. I'd suggest investing in some real Sweet Hungarian Paprika it's taste is cleaner and sweeter than what you can buy in American Supermarkets. You will also notice it's redder than the kind we can buy in stores. To make it last longer, I keep mine in the freezer. It helps keeps it fresh. There is also smokey and hot Hungarian paprikas, so make sure it says sweet.\n\nYou can also add some diced green pepper to this recipe and if you use a can of rinsed sauerkraut you'll have Hungarian Sauerkraut Soup. Also leave out the Bay leaf, use apple cider vinegar and no salt needed.. My grandmother told me white vinegar is only good for cleaning up pet messes to keep carpets from staining. So we only use Apple Cider Vinegar or Red wine vinegar in my home.\n\nIf you'd like your soup on the thicker side the make a rantash (roux) of oil &amp; flour that you slightly brown, take off stove add some crushed garlic. Then add to your boiling soup and stir."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Okayest Cook"
+},
+"reviewBody": "Made it exactly as stated, although I’m not sure where my paprika originated from. Amazing soup; even my picky teenagers loved it. Great recipe!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "usngunner"
+},
+"reviewBody": "Delicious and satisfying. We absolutely loved this. We will be making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Devon Carney-Engle"
+},
+"reviewBody": "Absolutely delicious! Comfort food for a Covid- Night In."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shweta Natarajan"
+},
+"reviewBody": "Delicious. I skipped the bay leaf, black pepper and flour because I forgot them - I did not miss anything in the taste of the final product because of this. I used a whole cabbage since I had an old one in the fridge that I wanted to use up. I substituted apple cider vinegar for plain distilled vinegar, and andouille sausage for Hungarian sausage since it was all I had on hand. I added Hungarian Peppers since I had some in the fridge. I also eyeballed everything from memory because my internet wasn’t working at the time so I couldn’t pull the recipe up. Inspite of all that, it was absolutely delicious! The vinegar at the end and the sour cream garnish really add something remarkable to this dish - do not skip them. Thank you Chef John for a delicious and foolproof recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Serdic"
+},
+"reviewBody": "Would make again but would use different sausages. The PC Original Smokies are too hot dog like."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Goldpanman"
+},
+"reviewBody": "Very tasty soup! Really enjoyed it. Just what we needed. I used Spanish Chorizo sausage because there wasn't a lot of variety of sausage at the store. This is going to be one of my go to soup recipes from now on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "petitetouale"
+},
+"reviewBody": "I made this recipe vegetarian using vegan sausage and mushroom broth and it is delicious! I used red skinned potatoes and they became very creamy but still hold their shape. I also used malt vinegar instead of white vinegar and it gives a great taste to the soup. I was afraid 2 tbsp would be too much vinegar but it is just right. Thanks for the recipe Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "L D"
+},
+"reviewBody": "Easy to make and so delicious!\nWill do for sure. \n\nThank you !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "judy"
+},
+"reviewBody": "We loved this! My husband copied off computer recipe and it was missing the amounts of the ingredients for pepper and cayenne, so I did 1 tsp each! It was spicy and delicious! I served it with Mexican corn bread. Garnished it with sour cream and green onion. We did not share it with anyone! Next time we'll make enough for friends. LOL! Love Chef John, ENJOY."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "RealNakedChef"
+},
+"reviewBody": "Worked well as written, though I did add a couple drops of Habanero Tabasco at the end to give it a little more backburn. Will make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeremy Fitzsimmons"
+},
+"reviewBody": "Thank you Chef John. This soup is amazing!!!!! Its great comfort food especially with the crusty bread. I will be making this again, and for years to come."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "carrol cofer"
+},
+"reviewBody": "The only change I made was to use turkey stock instead of chicken broth. I found the cooking times a little off. I will double the sausage next time. The hubby recommended a can of lima beans next time. Served with a wedge of cornbread. The vinegar at the end with the cabbage makes me think sauerkraut."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Miller Davidge III"
+},
+"reviewBody": "I added more cabbage because I had it. Used red wine vinegar because that was in the cabinet next to me. I will do this again. It was exactly what I wanted and what Chef John cooked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl James"
+},
+"reviewBody": "Yes I made it vegan with beyond sausages and veggie broth and vegan butter. Omg! Sooooo good. Yes Yes I would make it again."
+}
+]

@@ -1,0 +1,189 @@
+,"name": "Gravy-Stuffed Stuffing Muffins"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "8"
+}
+,"cookTime": "PT55M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "259 kcal"
+,"carbohydrateContent": "23 g"
+,"cholesterolContent": "88 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "877 mg"
+,"sugarContent": "4 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT50M"
+,"recipeIngredient": [
+"3 tablespoons unsalted butter",
+"6 ounces sweet Italian turkey sausage, casings removed",
+"0.25 cup all-purpose flour",
+"4 tablespoons chopped green onions",
+"1.5 cups cold milk",
+"1 pinch cayenne pepper, or to taste",
+"salt and ground black pepper to taste",
+"5 tablespoons unsalted butter, divided",
+"1 cup diced onion",
+"0.5 cup diced celery",
+"1 teaspoon poultry seasoning",
+"salt and ground black pepper to taste",
+"5 cups chicken broth",
+"12 cups dry bread cubes",
+"1 tablespoon chopped fresh Italian parsley",
+"1 tablespoon minced fresh sage",
+"2 teaspoons minced fresh thyme",
+"3 large eggs, beaten",
+"2 tablespoons unsalted butter, melted" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Make the gravy: Melt butter in a saucepan over medium-high heat. Add sausage; cook and stir until browned and very crumbly, 5 to 7 minutes. Whisk in flour until it combines with butter and sausage fat to create a roux; cook and stir for 2 minutes. Add green onions; cook and stir just until fragrant, about 1 minute."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour in milk and cook, stirring constantly, until mixture comes to a boil. Continue to cook and stir until nice and thick. Stir in cayenne, salt, and pepper; cook for 1 more minute, then remove from the heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer gravy to a bowl and let cool to room temperature, 15 to 20 minutes. Wrap and refrigerate until cold and thick, at least 2 hours, or until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Make the muffins: Set a baking pan on the lowest rack of the oven and preheat to 400 degrees F (200 degrees C). Generously butter a 12-cup muffin tin with 1 tablespoon butter."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt 4 tablespoons butter in a saucepan over medium-high heat. Add onion and celery; cook and stir until onion just starts to turn translucent, 4 to 5 minutes. Add poultry seasoning, salt, and pepper; cook and stir for 1 minute. Add chicken broth and bring to a boil."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, combine bread cubes, parsley, sage, and thyme in a large bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour boiling broth mixture over bread mixture and stir until combined. Mix in eggs. Fill the prepared muffin cups to the top with stuffing mixture, then go around and evenly divide remaining stuffing on top of each muffin, piling it up nice and high."
+} ,{
+"@type": "HowToStep"
+,"text": "Wet your finger and make a big hole in the center of each muffin, poking down pretty far but stopping about 1 inch from the bottom of the pan. Place about 2 tablespoons chilled gravy into each hole, centering it in the hole the best you can. Reserve remaining gravy for another use."
+} ,{
+"@type": "HowToStep"
+,"text": "Dampen your hands and mold stuffing for each muffin over the top to cover the gravy center. Generously brush the tops with melted butter."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake on the middle rack of the preheated oven until muffins are firm and golden brown, about 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/XEGPa0xb6o2vE6E7KpEx7GY4RzQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8738821-ddb5a5e65afd4602bc0988317306d01e.jpg"
+}
+]
+,"text": "Let cool in the pan for 5 to 10 minutes, then carefully remove and serve."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT245M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "crjonz"
+},
+"reviewBody": "AWESOME!! I love Chef John and almost every one of his recipes that I have made have turned out great...and this one is no exception. I made these for Thanksgiving this year and my only regret is that I didn't double the recipe. I have several other recipes that are requested that I make every year, but this year, this recipe was the most talked about. As I was doing most of the cooking for Thanksgiving, I made several things ahead of time and either froze or refrigerated them. In this case, I made the gravy exactly as written two days ahead of time and kept it in the refrigerator. I made the stuffing as written except I didn't have enough home made chicken stock so I also added some from a packet. I used a mix of french bread and multigrain bread that I dried out. I would only give two suggestions or precautions. 1: add the heated stock a spoonful at a time until you get the consistency you want and let it sit a few minutes before proceeding so that the bread fully soaks up the stock goodness. 2: If you put your gravy in the fridge as I did (which really aides in the stuffing process) the baking time should be extended a little to make sure to get it heated up enough...5 minutes more should do it but just watch that they don't get overly browned in the process. As suggested, be sure to spoon the turkey gravy over the top. Yum yum. I think what really sets this off is using the fresh sage. If you can get the fresh spices, I highly recommend using those. This is definitely going to be a regular item for Thanksgiving."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Buddha"
+},
+"reviewBody": "I made bacon gravy and it was an instant success! A flavor explosion!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Adi Mikulic"
+},
+"reviewBody": "A future staple for every thanksgiving. Word to the wise, make sure your bread cubes are very very dry, otherwise this whole thing falls apart"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "vsboehme"
+},
+"reviewBody": "Delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "real life millionaire"
+},
+"reviewBody": "This was a HUGE hit at my family thanksgiving! I think it messed up a bit and the stuffing ended up being too soggy, so make sure your cubes are dry and maybe have a little extra on standby. Still, the final result tasted great and everyone loved them! Chef John is my hero."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pippercat"
+},
+"reviewBody": "I used a box of Stovetop Stuffing mix for the stuffing part. That made enough stuffing for half the recipe, so I only used about 1.5 eggs to bind it together. Instead of filling the cupcake tin all the way up with stuffing, I filled the bottoms, spooned in some gravy - making sure to keep it as centered as possible with some room around the edges, then filled the rest of the way with more stuffing. That worked out good for me. They were super tasty. The sausage gravy middle went surprising well with the stuffing. I also topped mine with some turkey gravy and that just put it over the top. Definitely a keeper and a fun way to make stuffing a little more \"special\"."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jaybu"
+},
+"reviewBody": "These were awesome! Great concept, especially since this year we could not celebrate for the holiday, and were making parts of the meal and delivering them to family. These muffins were so easy to transport. \n\nI did have to make a few substitutions based on what I had. I used oat milk instead of regular milk, dried parsley for fresh, and added more sausage to the country gravy than called for. Boy was that tasty!\n\nAlso, I used a mixture of 80% raisin bread and 20% sourdough (from a local bakery). I always use raisins in my stuffing so this made the stuffing mix taste more like my own. \n\nNext year, I will most likely use my own stuffing mix (with apples, nuts, raisin and sourdough bread, etc.) and may not even do the gravy in the center. As long as you have gravy or cranberry sauce to spoon over top, you really don't need it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Millie"
+},
+"reviewBody": "Followed the recipe as written and they were a hit!"
+}
+]

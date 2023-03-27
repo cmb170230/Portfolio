@@ -1,0 +1,115 @@
+,"name": "Microwave Potato Chips"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "5"
+}
+,"cookTime": "PT8M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "135 kcal"
+,"carbohydrateContent": "17 g"
+,"fiberContent": "1 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "5 mg"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"parchment paper",
+"1 large russet potato, scrubbed",
+"2 tablespoons canola oil",
+"salt to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Fold a piece of parchment paper into eighths, paper airplane-style. Place the tip of the folded parchment in the center of a microwave-safe plate and measure the radius; cut remaining parchment off and unfold into a circle to fit the plate."
+} ,{
+"@type": "HowToStep"
+,"text": "Slice potato thinly using a mandolin and transfer to a bowl of cold water; rinse off as much starch as possible. Transfer potato slices to a clean kitchen towel to dry; blot tops as well to ensure they are as dry as possible."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush some oil over the parchment paper. Working in batches, place as many potato slices on the oiled parchment that will fit; brush tops of slices with more oil."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook in a microwave for 3 ½ minutes. Flip and continue to cook until browned and stiff, about 4 minutes more, checking the appearance often to make sure they don&#39;t burn."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/9_pL4pgO51CbHYhJqaSxljahNbI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1Microwave-Potato-Chips-2000-93b11083f1d6474680152661a25d7caf.jpg"
+}
+]
+,"text": "Transfer chips to a cold plate and season with salt. Let cool before serving. Continue with remaining potato slices."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT18M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Wow. Thanks for the great snack hack! Can’t believe I made tasty chippies and didn’t even have all the basic items recommended by Chef John. No mandolin?! No problem with a cheese planer. No parchment paper?! No sweat if you’ve got a flexible pancake flipper to scrape off the sticky chips holding onto the plate. Also, didn’t have any russets but Yukon gold were certainly a delightful substitute. Will definitely be whipping these bad boys up again soon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurel Anne"
+},
+"reviewBody": "I've made these three times. A few observations: 1. Red potatoes work well, and have a better flavor than russets 2. You can just use a square piece of parchment on a plate -works the same 3. The hidden valley ranch \"sprinkles\" work nicely as a topping. I recommend spraying with canola spray, sprinkle a little flavoring, THEN microwave so it \"bakes in\" a little."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I just traced the microwave platter in my oven on parchment paper, cut it out, and used that paper circle directly. Worked like a charm. First batch was a little too brown, adjusted times and the rest of the potato came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Jones"
+},
+"reviewBody": "Amazing recipe! So simple, so quick and so delicious! (So easy, even my husband can do it! ;) One Russet potato made a happy serving for two of us, because like John, absolutely no will power when it comes to potato chips! These are wonderful, portion controlled and absolutely perfect with the tuna sandwiches we made using John's Milk Bread Recipe, also fantastic. Yep, two Chef John recipes in one day. That's what you call a good day!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lacyanne"
+},
+"reviewBody": "Wow...these are alarmingly good. I didn't know what to expect but I did not expect a perfect potato chip from the microwave. I even had the deep fryer set up but my fears were unfounded. I seasoned with salt and enjoyed with Chef John's Blue Cheese dressing. These chips are unbelievably crispy and stayed that way. I ate them an hour after making and they were still crisp! Will definitely be making these again and playing with seasonings. Thanks Chef John!"
+}
+]

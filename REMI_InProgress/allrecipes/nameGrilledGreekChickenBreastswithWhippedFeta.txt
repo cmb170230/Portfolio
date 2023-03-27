@@ -1,0 +1,159 @@
+,"name": "Grilled Greek Chicken Breasts with Whipped Feta"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "7"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "606 kcal"
+,"carbohydrateContent": "7 g"
+,"cholesterolContent": "194 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "64 g"
+,"saturatedFatContent": "14 g"
+,"sodiumContent": "1775 mg"
+,"fatContent": "35 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"4 (8 ounce) boneless, skinless chicken breasts",
+"0.25 cup red wine vinegar",
+"2 teaspoons kosher salt",
+"1 teaspoon freshly ground black pepper",
+"0.25 teaspoon cayenne pepper",
+"0.5 teaspoon dried thyme",
+"0.5 teaspoon dried oregano",
+"0.5 teaspoon dried rosemary",
+"0.5 teaspoon garlic powder",
+"0.25 cup olive oil",
+"1 drizzle olive oil, or as needed",
+"2 tablespoons chopped Italian parsley",
+"2 tablespoons chopped fresh mint",
+"1 cup full-fat Greek yogurt",
+"8 ounces feta cheese",
+"1 teaspoon finely crushed garlic, or to taste",
+"1 tablespoon chopped fresh mint",
+"1 teaspoon lemon zest" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Cut chicken breasts in half lengthwise."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine red wine vinegar, kosher salt, black pepper, cayenne, thyme, oregano, rosemary, and garlic powder in a bowl. Add chicken and toss until thoroughly and evenly coated. Pour in ¼ cup olive oil and toss to coat. Cover with plastic wrap and marinate in the refrigerator for 1 to 12 hours, but 2 to 3 hours is ideal."
+} ,{
+"@type": "HowToStep"
+,"text": "Place Greek yogurt in another bowl and crumble in feta cheese. Add garlic, mint, and lemon zest and whip with an electric hand mixer or whisk until light and fluffy. Taste and adjust as needed. Refrigerate until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat a charcoal grill until coals are white and very hot."
+} ,{
+"@type": "HowToStep"
+,"text": "Grill chicken over the hot coals for about 4 minutes per side; continue to flip and grill chicken until no longer pink in the center and an instant-read thermometer inserted into the center of each piece reads at least 150 degrees F (65 degrees C). Remove from the grill and let rest for about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/_7xWOqoxa6M1HcqjL3TZx-PWlgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_7233-2000-834e05446cfc48baba0c85998c820ad3.jpg"
+}
+]
+,"text": "Spread whipped feta onto a serving platter or plate and place chicken over top. Sprinkle with fresh Italian parsley and mint and serve."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT155M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SuperJ6"
+},
+"reviewBody": "Made as written. It was really good. I liked the bed of feta yogurt it was served on....a unique presentation. If I make it again, I might try using grilled chicken thighs. Chicken breast, no matter how carefully cooked, can still come out a bit dry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very good with just a little prep. I'll make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tracie"
+},
+"reviewBody": "Easy to make and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Grace Miller"
+},
+"reviewBody": "Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janis Godwin Spear"
+},
+"reviewBody": "This was an absolutely delicious plate of food. My family is not really adventurous when it comes to new flavours, but everyone who tried the whipped feta (only one person refused to try it), loved it. It went particularly well with the chicken. Highly recommended chicken dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Kossowan"
+},
+"reviewBody": "Very tasty, chicken came out perfect. The whipped feta tasted great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "dnr mommie pie"
+},
+"reviewBody": "i am not a fan of feta or white meat chicken, buy my hubbie LOVES feta cheese. since we are trying a few meatless meals a week i thought i would make just the feta and grilled &amp; fresh veggies and hard ccoked eggs.. even with some rathter firm domestic feta this turned out delicious! i also added some black pepper, and served balsamic vinegar and toasted breads rubbed with fresh garlic. a much lighter form of \"Charcuterie\" (which is not to be sniffed at!) since we are now \"just the two of us\", i will halve the recipe next time. and try to grill some campari tomato halves as well."
+}
+]

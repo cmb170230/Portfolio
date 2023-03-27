@@ -1,0 +1,403 @@
+,"name": "Loaded Butternut Squash &#34;Cordon Bleu&#34;"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "27"
+}
+,"cookTime": "PT75M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "293 kcal"
+,"carbohydrateContent": "21 g"
+,"cholesterolContent": "74 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "18 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "613 mg"
+,"sugarContent": "4 g"
+,"fatContent": "17 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT35M"
+,"recipeIngredient": [
+"1 (3 pound) butternut squash",
+"1 large egg, beaten",
+"1 tablespoon Dijon mustard",
+"salt and ground black pepper to taste",
+"0.25 cup thinly sliced green onions, plus more for garnish",
+"10 ounces diced smoked ham",
+"6 ounces Gruyere cheese, diced",
+"2 ounces Gruyere cheese, grated" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with aluminum foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Slowly and carefully cut butternut squash in half lengthwise, starting at the stem end. Scoop out seeds with a spoon. Slice off about 1/8 inch from the bottom of each half to ensure they lay flat while baking. Place onto the prepared baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Roast in the center of the preheated oven until tender but not falling apart, 60 to 90 minutes. Remove from the oven and let sit until cool enough to handle. Increase the oven temperature to 475 degrees F (245 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Use a spoon to scoop squash flesh into a bowl, leaving about 1/2 inch attached to the skin so shells won&#39;t collapse and fall apart later."
+} ,{
+"@type": "HowToStep"
+,"text": "Add egg, Dijon, salt, and pepper to squash; mix and mash with a spoon until smooth, or leave it a bit chunky if desired. Stir in green onions, ham, and diced Gruyère; mix until combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Scoop mixture back into squash shells, distributing as evenly as possible. Sprinkle grated Gruyère over top."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until cheese is browned, about 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/oBgGN_MZhY5wKwl_-fCqLsj5EaU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8653246-f21e4a36296445f7bec63d0754ef392f.jpg"
+}
+]
+,"text": "Remove from the oven and transfer squash halves to a cutting board. Garnish with green onions, cut each half into four slices, and serve."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT110M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "Hubbs really liked this squash. Didn't change anything, it was a great way to use up freezer ham from Thanksgiving!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise DeSadier"
+},
+"reviewBody": "LOVE THIS. And so did the people at the potluck. My only change was to forgo the shell/boats and just turned it into a casserole. Everyone was raving about it. I also did a smaller butternut with Saitan (a bit of liquid smoke, worcestershire, and brown sugar to mimic the smoked ham flavor) and that was GONE too. Yet another triumph for Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My family loved this recipe. My wife was talking about how good dinner was over a hour after we ate. I wasn’t too sure how my 8 year old was gonna like it. But she thought it was very good and described it as if McDonald’s was to do Mac &amp; cheese this is what it would taste like. It was a strange way to give a complement, but I’ll take it. I will add this to a fall rotation of meals for sure. Since the roasting takes most of the time I roasted it the night before. Also the night before prepped the ham and cheese mixture. Wrapped the squash on the fry and in the fridge overnight. Next day scooped and mixed with egg and Dijon. Made it a quick meal. Thanks again, Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Wilson"
+},
+"reviewBody": "so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Absolutely excellent ! Thanks for creating such a nice recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made it without the ham to go with a huge pork chop! Delicious! Gruyere cheddar blend from TJs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hotmama"
+},
+"reviewBody": "Absolutely delicious! I made a few changes. Per Chef John’s suggestion, I caramelized one onion and added in place of green onions. I also used Swiss cheese in place of Gruyère. I added 1 teaspoon poultry seasoning too. I sprinkled Parmesan cheese along with remaining Swiss on the top prior to final baking. We loved it! Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Airedaler "
+},
+"reviewBody": "Great taste!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dorishealey"
+},
+"reviewBody": "Fabulous. I used emmental instead of greyere and it was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mcwarr"
+},
+"reviewBody": "We loved this dish. I made it just like the recipe and we ate it 2 nights straight it was so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "deanna"
+},
+"reviewBody": "I've always made Chicken Cordon Bleu from scratch, but saw this and realized how much easier it would be. We all LOVED IT!! My guests were very impressed! I'm making it for the 3rd time today. The only change I made was to use baby Swiss, as that I what I use in my Chicken Cordon Blue, plus its cheaper than Gruyere. I love Chef John's recipes, as well as his personality. As always, thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DerekSD"
+},
+"reviewBody": "Very good recipe as is and extremely easy. I will definitely be making it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Lauren"
+},
+"reviewBody": "My mom really liked this recipe, while I thought it was OK. I won't make it again, as I prefer my butternut squash side dishes to taste like butternut squash. If you're looking for something more, though, give this dish a try!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Stacie L"
+},
+"reviewBody": "It was okay. My husband and I didn't care for the combination of flavors. I think I'll keep my butternut squash and my \"cordon bleu\" separate in the future."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Fryer Vidoni"
+},
+"reviewBody": "I used havarti in the stuffing and a different shredded white cheese mix As a topping...it was delicious and hearty !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jesse D Matlock"
+},
+"reviewBody": "Amazing! I cooked the squash in the microwave 5 min at a time 4 or 5 times until tender. Followed the recipe the rest of the way using sharp cheddar and white onion. So so good, the mustard makes it. Will make again with different combos. I'm thinking garam masala would be a great addition, and of course cayenne.\nYet another Chef John recipe that tastes as good as it sounds!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Krisinthekitchen"
+},
+"reviewBody": "I followed the recipe exactly, and everyone loved it. Since I really don’t like mustard, the next time I made it I substituted the mustard with a few pinches of cayenne and some smoked paprika. I loved it even more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cate Thieme"
+},
+"reviewBody": "Made it twice so far. Followed the recipe exactly the first time, came out great and I really enjoyed it. Second time, made it into more of a casserole. I used frozen pre-cut squash (from Costco), followed the microwave instructions for that. Mashed up the squash from there, seasoned it, and added the ham, cheese, egg, mustard. Topped with extra cheese and baked for about 20 min at 475. Came out great too! I just wanted a way that was a little quicker for week nights. Will for sure make it again both ways."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jasmine Schubert"
+},
+"reviewBody": "Have made this twice now and plan to have it at thanksgiving. Excellent recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Janet Shine Riddle"
+},
+"reviewBody": "This was good. I used pre cut butternut squash and roasted it in the oven with some olive oil. I smashed some of the butternut and left some intact. Otherwise I followed the recipe and then put the ingredients in a greased casserole dish and topped with cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Matthew Nagler"
+},
+"reviewBody": "Excellent dish! I underbaked the squash at first so when I do it again, I'll definitely go for at least 1 1/2 hours, but it was a great meal! Looking for other CHef Jihn recipes to try now!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BayJoe"
+},
+"reviewBody": "This was very tasty! I liked the flavors and textures."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "VogueSense"
+},
+"reviewBody": "Absolutely delicious dish! I never would have thought to use Dijon with squash. My husband is not a vegetable guy and he was a member of the clean plate club. I only used 6 oz of gruyere because that was the package size and it was plenty. Next time, I would like to try it with mushrooms for a holiday side dish. \n\nFor those on WW (weight watchers), it was 9 pts (blue plan). If you use less cheese or a low fat white cheddar, you can reduce the points."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kjk"
+},
+"reviewBody": "This was wonderful! Made it exactly as written, except I shaved the cheese for the topping instead of grating it (as Chef John does in the video): quicker, easier, less mess, and same end result.\n\nTip: personal preferences and ham saltiness vary widely so consider both when you're adding salt to the squash. I think the squash mixture still needs *some* salt, but you may want to scale back."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ralph"
+},
+"reviewBody": "Made it last night but used sharp cheddar cheese that we had on hand. It was excellent!!! Definitely a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Theresa Petermann"
+},
+"reviewBody": "This was so good. I didn't add the ham and I loved it. Great use for butternut squash. Will definitely make it again. Now you have another one for acorn squash"
+}
+]

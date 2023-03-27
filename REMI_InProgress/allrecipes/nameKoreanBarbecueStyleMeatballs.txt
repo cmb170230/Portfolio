@@ -1,0 +1,261 @@
+,"name": "Korean Barbecue-Style Meatballs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "17"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "558 kcal"
+,"carbohydrateContent": "27 g"
+,"cholesterolContent": "97 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "23 g"
+,"saturatedFatContent": "14 g"
+,"sodiumContent": "2502 mg"
+,"fatContent": "39 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 pound ground beef",
+"2 teaspoons gochujang (Korean hot pepper paste)",
+"1 teaspoon kosher salt",
+"1 teaspoon freshly ground black pepper",
+"1 tablespoon soy sauce",
+"2 teaspoons grated fresh ginger (heated to 150 F degrees (65 degrees C) to deactivate enzymes, or soaked in 1 tablespoon vinegar for 5 minutes)",
+"4 cloves garlic, finely minced",
+"0.333 cup thinly sliced green onions, plus more for garnish",
+"0.5 cup finely crushed buttery round crackers (such as Ritz®)",
+"toasted sesame seeds for garnish",
+"4 cloves garlic, minced",
+"2 tablespoons rice wine vinegar",
+"0.75 cup beef broth or water",
+"0.333 cup brown sugar",
+"0.333 cup soy sauce",
+"1 tablespoon gochujang (Korean hot pepper paste)",
+"1 teaspoon sesame oil",
+"1 teaspoon Sriracha hot sauce",
+"2 teaspoons cornstarch",
+"1 tablespoon water" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Add ground beef to a bowl and spread gochujang evenly over the surface of the meat. Season evenly with kosher salt, pepper, and soy sauce. Spreading out the seasoning will reduce the time you need to handle the meat. Spread fresh ginger and garlic evenly over the surface. Add green onions and cracker crumbs. Mix in quickly with a fork until well combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover and refrigerate for about 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees C (220 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Form mixture into 12 equal-sized balls using wet hands. Add to a cast iron skillet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake meatballs in the preheated oven until nicely browned, about 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer meatballs to a plate while preparing the sauce in the same skillet."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain most of the grease but 1 teaspoon out of the skillet and set onto stove over medium-high heat. Add garlic and stir until fragrant, about 1 minute. Deglaze skillet with rice vinegar and soy sauce. Stir in brown sugar, beef broth, and gochujang. Season with sesame oil and Sriracha. Stir sauce and bring to a simmer. Cook until reduced by a third."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile stir together cornstarch and water in a small bowl to create a slurry. Reduce heat to medium-low and mix in slurry while whisking constantly. Keep simmering sauce until it has reduced to about half. Add meatballs back into the skillet and baste with the sauce. Allow to simmer, basting generously, until meatballs are heated through and are well soaked with sauce, 3 to 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/SbDF55s7FpQUC7_JQe4Lbn5YjUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chef-John-Korean-BBQ-Meat-Balls-1x1-1-2000-c8a6c942a727454fb295dff8d921f6a5.jpg"
+}
+]
+,"text": "Serve garnished with toasted sesame seeds and green onions."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ceora"
+},
+"reviewBody": "I made this as written. Terrific flavor, but the meatballs needed a binder. No egg in a meatball recipe?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Fegley"
+},
+"reviewBody": "Sauce ended up super rich. I really liked the flavor (though I'm switching brands of gochujang that I used - this new one is meh.) I also used Bison burger meat for the meatballs and I think that was also not what I was looking for. But I know the recipe is very good and I will make this again with the 85/15 beef like Chef recommended. I will also use the recipe for a glaze on other Asian stirfrys for that rich flavor. Thanks, Chef, for another winner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It tastes good, but the meatballs themselves were a little salty. I think in the future I might omit the salt or the soy sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nichelle Perera"
+},
+"reviewBody": "WOW. These were amazing, like little flavor bombs! They were just a little too gingery for me, so next time I will do 1 tsp. But the flavor was so good and the sauce was amazing as well. I'll be making these again very soon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deborah Testa"
+},
+"reviewBody": "We, like many families, keep on eating the same few meals, and although good, it becomes boring. This dish was really great, and even my fussy husband said it was delicious! Others have said it was too spicy hot-- my son and husband said it wasn't that spicy. That is so hard to guage as people have such different palates. I thought it tasted great. I would double the recipe and keep some for leftovers. Once you have all these ingredients out, why not make more? FYI: 1) READ your ingredients before starting. I had to run to the store for a few things and I have a well-stocked kitchen. 2) If you are looking to make something real quick, this isn't it, but the time put in is worth it. Also, having a \"Food Chopper\" from the Pampered Chef will certainly help to expedite the process. I used it to chop up the garlic and crackers. Also, I used ground sirloin which did NOT produce any fat but the recipe turned out great anyway!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is such a flavourful recipe. It freezes really well - I made up some for school lunches (as you can see in the pic) and put them in the freezer for the next time I needed a quick meal to go."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "So good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denton Savage"
+},
+"reviewBody": "Wow."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "glassofwater"
+},
+"reviewBody": "Not too difficult and very tasty. I reduced the amount of sugar a bit and it was still plenty sweet, good spice level. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alex Kost"
+},
+"reviewBody": "I have made a ton of stuff from Food Wishes, so I knew that these wouldn't be terrible. And I had a couple pounds of burger hanging around so I mad a double batch. These were so good that I pretty much ate all of the leftovers and didn't even feel guilty. These truly are the meatballs that you are missing in your life!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The recipe was great, but definitely your timing estimating was wrong. This is one putsie preparation. First of all most people do not have these ingredients readily available. I do because I sometimes cook Korean food, however knowing this. I would highly advise on cutting back on the hot sauce because I followed all the instructions and it was too hot. Most people would not eat it. I should have known better when it said 1 T., red flag right there, this stuff is very hot. It was. Dry tasty and I would do it again, ut cut down on the hot sauces, both of them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy"
+},
+"reviewBody": "Go Chef John!! Absolutely, delicious. I used the heat method to deactivate ginger and let it cool to room temp before adding. Because we love ginger I also put some in the glaze. We both really enjoyed this flavor profile so much that I intend to create a Korean BBQ burger in the near future."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bram"
+},
+"reviewBody": "These were very good and not difficult to make. I reduced the brown sugar by half which I wouldn't do next time, they were slightly lacking on the sweetness. I put the ginger in the sauce for the simplest solution. I will definitely make these again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mohamed salim mostefa della"
+},
+"reviewBody": "deliciousssssssssssssss"
+}
+]

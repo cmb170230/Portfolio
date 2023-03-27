@@ -1,0 +1,125 @@
+,"name": "Cajun Spice Chicken Wings with Remoulade Sauce"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "4"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "732 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "185 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "43 g"
+,"saturatedFatContent": "14 g"
+,"sodiumContent": "1848 mg"
+,"fatContent": "59 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 tablespoon baking powder",
+"2 teaspoons kosher salt",
+"2 teaspoons garlic powder",
+"2 teaspoons onion powder",
+"2 teaspoons ground cumin",
+"2 teaspoons ground paprika",
+"1.5 teaspoons cayenne pepper",
+"1 teaspoon freshly ground black pepper",
+"0.5 teaspoon dried oregano, crushed",
+"0.5 teaspoon dried thyme, crushed",
+"2 pounds chicken wings, split and tips discarded",
+"1 tablespoon capers, drained",
+"0.5 cup mayonnaise",
+"1 tablespoon Dijon mustard",
+"0.5 teaspoon Worcestershire sauce",
+"1 teaspoon Louisiana-style hot sauce",
+"0.125 teaspoon cayenne pepper",
+"0.5 teaspoon ground paprika",
+"1 clove garlic, crushed",
+"1 tablespoon finely sliced green onion",
+"1 tablespoon finely chopped flat-leaf parsley",
+"2 teaspoons freshly squeezed lemon juice",
+"salt to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Prepare spice rub by combining baking powder, salt, garlic powder, and onion powder, cumin, paprika, cayenne, black pepper, oregano, and thyme in a small bowl. Mix until thoroughly combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Place wings in a large bowl and toss in 3 tablespoons spice rub. Toss wings with tongs until thoroughly and evenly coated. Transfer to a baking rack set over a parchment-lined sheet pan. Sprinkle a little more spice rub over each wing and let sit for 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Prepare remoulade sauce by crushing capers in a mixing bowl with the back of a fork. Add mayonnaise, Dijon, Worcestershire sauce, hot sauce, cayenne, paprika, garlic, green onion, parsley, and lemon juice; whisk to combine. Taste and add salt if needed. Cover and refrigerate until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake wings in the center of the preheated oven for 20 minutes. Flip and continue to bake until beautifully browned, no longer pink at the bone, and the juices run clear, 20 to 25 minutes longer. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ZdbPClPOHmk-byd4Y1rO-7OjfvQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cajun-Spice-Chicken-Wings-with-Remoulade-Sauce-2000-592c04cf4d724e3eb8bda5c4f49e33c6.jpg"
+}
+]
+,"text": "Serve with remoulade sauce."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT75M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I’ve made these wings several times and they always come out exceptionally crispy and well seasoned. Highly recommended!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Both the wings and the sauce were fantastic. Be prepared to have no leftovers, its that good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pjbyrne"
+},
+"reviewBody": "Best wings I have ever made and I have been making wings for 30 years. I was not a fan of the remoulade sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Paul"
+},
+"reviewBody": "It is okay. Chef John's garlic and parmesan wings are better."
+}
+]

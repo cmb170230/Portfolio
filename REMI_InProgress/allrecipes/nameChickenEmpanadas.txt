@@ -1,0 +1,188 @@
+,"name": "Chicken Empanadas"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "7"
+}
+,"cookTime": "PT75M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "497 kcal"
+,"carbohydrateContent": "43 g"
+,"cholesterolContent": "132 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "22 g"
+,"saturatedFatContent": "13 g"
+,"sodiumContent": "937 mg"
+,"fatContent": "26 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"2 tablespoons olive oil",
+"1 yellow onion, diced",
+"0.5 cup diced poblano pepper",
+"4 cloves garlic, chopped",
+"1 teaspoon kosher salt",
+"0.5 teaspoon freshly ground black pepper",
+"1.5 teaspoons ground dried chipotle pepper",
+"0.5 teaspoon ground cumin",
+"0.25 teaspoon dried Mexican oregano",
+"1 pinch cayenne pepper, or to taste",
+"3 cups diced cooked chicken",
+"2 tablespoons dried currants",
+"2 (10 ounce) cans diced tomatoes with green chile peppers (such as RO*TEL®)",
+"0.33 cup water",
+"0.75 cup grated pepper Jack cheese",
+"1 large egg, beaten",
+"2 teaspoons water",
+"3 cups all-purpose flour",
+"1.5 teaspoons kosher salt",
+"1 teaspoon white sugar",
+"12 tablespoons cold unsalted butter",
+"1 large egg, beaten",
+"0.33 cup cold water, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Pour olive oil into a saucepan; add onion, poblano, garlic, salt, pepper, chipotle, cumin, oregano, cayenne, and cooked chicken, pressing down as you go. Add currants."
+} ,{
+"@type": "HowToStep"
+,"text": "Place saucepan over high heat; cook until onions begin to soften slightly, about 3 minutes. Stir in diced tomatoes with green chiles. Pour in 1/3 cup water and mix to combine."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring mixture to a simmer; reduce heat to medium and cook, stirring occasionally, until liquids are cooked down, 30 to 45 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from heat and let cool to room temperature, about 30 minutes. Chill thoroughly before use, 1 to 2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "While filling simmers, combine flour, salt, and sugar for dough in a bowl with your hand. Grate in cold butter, pausing as needed to combine. Drizzle in beaten egg and water. Mix with a fork until it starts to form a shaggy dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Use your hands to squeeze mixture into a lump of dough; transfer to a work surface and knead into a ball of dough, 10 to 15 seconds."
+} ,{
+"@type": "HowToStep"
+,"text": "Wrap dough in plastic wrap and refrigerate for at least 1 hour, up to overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Unwrap chilled dough and transfer to a lightly floured work surface. Use a bench scraper to divide into 8 equal pieces."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll each dough piece into an 8-inch circle."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain any excess juice from filling. Top each dough circle with a rounded 1/2-cup measure of the chicken mixture. Sprinkle some pepper Jack cheese over top."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush edges of each dough circle with a small amount of water to dampen; fold over and seal with fingertips, making sure to not trap in any pockets of air. Crimp using your fingertips or a fork."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine beaten egg and 2 teaspoons water for egg wash. Transfer empanadas to the prepared baking sheet and brush over egg wash. Sprinkle with cayenne."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/CzmUOpwiHouFV5_8mafuCnbw7h0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chicken-Empanadas-Chef-John-1x1-1-16a540f2b20143cdab92837d3fe8bc9e.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until browned and crispy on the edges, about 35 minutes. Transfer to a wire rack to cool for about 5 minutes before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT195M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sonja"
+},
+"reviewBody": "Made these last night for dinner. Have tried multiple empanada recipes in the past that were just so-so.. This one is absolutely a keeper! I didn't have all of the right kinds of peppers, so used what I had. Used 2 cans of chicken breast. Dried cranberries. Mozzarella cheese. Since it was Freezing cold outside, I set the dough and chicken mixture out on our patio for an hour. The ONLY problem I (thought) I had was that I didn't cook all the liquid off of the meat. Turned out to be a good thing, as the sauce was excellent on the empanadas! The ONLY thing I'll change next time is to make them smaller. Took awhile to make, but absolutely worth it!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Just the right amount of spice, and so incredibly flavorful. This recipe makes so many I had to share with my neighbors, and they had wonderful things to say too. I found that I had to bake them 10-15 minutes longer to brown the pastry as shown in your video - we’ll chalk that up to my oven being old though. Thanks again Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "anaharvey"
+},
+"reviewBody": "This turned out great! Next time though I will also use Serrano peppers along with the pasilla pepper to kick up the spice. Thanks 👨‍🍳 John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Outstanding and simple to make. Shared with family, and they were amazed! I used Anaheim chilies instead, not as spicy. I also used pre-made pie crust. Didn’t want to make the dough and couldn’t find empanada dough. But the crust was light and fluffy so not too filling. As the food is cooking, you’ll be so tempted to eat it while it’s cooling. Thanks Chef John!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Hadden"
+},
+"reviewBody": "Yum. I topped with a poblano cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made these this weekend. Fabulous and a big hit with family and friends. Great flavor and might be better reheated second day - all the flavors really melded. Thanks Chef John"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "awesome recipe -- richard"
+}
+]

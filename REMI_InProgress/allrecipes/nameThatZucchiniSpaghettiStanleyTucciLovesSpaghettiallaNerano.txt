@@ -1,0 +1,661 @@
+,"name": "That Zucchini Spaghetti Stanley Tucci Loves (Spaghetti alla Nerano)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "51"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "1016 kcal"
+,"carbohydrateContent": "63 g"
+,"cholesterolContent": "57 mg"
+,"fiberContent": "8 g"
+,"proteinContent": "23 g"
+,"saturatedFatContent": "20 g"
+,"sodiumContent": "479 mg"
+,"sugarContent": "12 g"
+,"fatContent": "78 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 quart sunflower oil, or as needed",
+"6 medium green zucchini",
+"4 ounces spaghetti",
+"2 tablespoons olive oil",
+"1 pinch salt",
+"2 basil leaves, torn into small pieces",
+"2 tablespoons unsalted butter",
+"5 tablespoons grated Pecorino Romano cheese",
+"3 tablespoons grated Parmigiano-Reggiano cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place sunflower oil in a deep fryer and heat to 350 degrees F (175 degrees C). Slice zucchini into 1/8-inch rounds."
+} ,{
+"@type": "HowToStep"
+,"text": "Add some zucchini to the hot oil and deep-fry until lightly browned, 4 to 5 minutes. Transfer to a single layer on paper towels to drain and repeat to cook remaining zucchini. Let zucchini cool to room temperature."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer cooled zucchini to a bowl. Cover and refrigerate, 8 hours to overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until it&#39;s 2 minutes away from being tender yet firm to the bite, 9 to 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "As you are cooking the spaghetti, heat olive oil in a skillet over medium heat. Add zucchini and salt and cook, stirring occasionally, until it starts to release juices, soften, and break down, 3 to 5 minutes. Add a couple splashes of the pasta water to the zucchini, but don&#39;t overdo it. Break zucchini into small pieces with the edge of a spoon or spatula. Reduce heat to low and toss in basil and butter; stir until butter melts."
+} ,{
+"@type": "HowToStep"
+,"text": "Grab spaghetti with tongs and transfer it right into the sauce; stir until coated. Mix in Pecorino Romano and Parmigiano-Reggiano cheeses. Add a final splash of pasta water and adjust salt if needed."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/YoLmiu0ca4o3_rafCj8T5OS_Ico=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9344681-that-zucchini-spaghetti-stanley-tucci-loves-spaghetti-alla-nerano-Chef-John-1x1-1-0561bb143e024db69e29e3093461d4be.jpg"
+}
+]
+,"text": "Serve with more grated cheese and fresh basil."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT535M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "yovgomez"
+},
+"reviewBody": "Okay, this is the best pasta I have ever eaten! It almost has a nutty flavor and a creamy consistency. Sooooo good. And if you have an abundance of zucchini in your garden, this is a must!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Brushjl"
+},
+"reviewBody": "Way too greasy. And actually, too much work. But it was tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was excellent! Instead of frying the zucchini, I sliced it thin and baked it on a cookie sheet. In the last 10 min I turned on the broiler to crisp it up a little. Turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Thank you for making such a straight forward video. I’ve eaten the pasta at Lo Scoglio and this is dead on. Not as good as theirs but for homemade pretty close! It’s heaven."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "A. Stetka"
+},
+"reviewBody": "Excellent flavor and mouth feel, but was extremely heavy in the stomach due to deep frying, zucchini to pasta ratio seemed a smidge too high, and it took a really long time to fry all of that zucchini, which needs to be deep brown in order to achieve necessary flavor &amp; texture. I can usually get a great caramelization when grilling zucchini so next time, I will cut zucchini in lengthwise strips, toss with some olive oil, and grill in that first step. I would also reduce zucchinis used - maybe 3 zucchinis to every 4 oz. of pasta."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lacyanne"
+},
+"reviewBody": "Super delicious pasta and relatively simple. I did have to cook the zucchini in the pan much longer than chef john to get it to break down. It is definitely a pain to fry that much zucchini the day before especially in a small fryer. I am glad I tried it and at least it was tasty but can't see making it regularly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Was good but I felt the time it took to make it was not worth the results. It was very good eating."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Straightforward simple and tasty. I added half a chicken stock cube just to enhance the flavours a bit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Simple but extraordinary. SO good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doryne Pederzani-Dinneen"
+},
+"reviewBody": "Fantastic. Made it with Banza pasta. This will be in regular rotation"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MarionCap"
+},
+"reviewBody": "I loved this recipe too - but I air-fried my zucchini, which uses only a tiny amount of oil and turns out exactly the same as deep-fried, except no risk of sogginess. Also, I definitely recommend a clove of minced garlic in the sauce, when you're mashing up your zucchini in the pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We've made this dish several times now and absolutely love it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was delicious and easy to make. Theres something about it. It must be when the zucchini is cooked with evoo and pasta water. It gets smooshed up and flavors all the pasta."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Was very excited to make this recipe - simple ingredients and it looked amazing. It's a great way to use up abundant zucchini that grows in the area. The good - this dish is not too \"saucy,\" there is a mild, smokey-sweet flavor from the caramelized zucchini. The meh - we don't have a large deep fryer, so it took a while to make - it was batch after batch to get all the slices from the six zucchinis caramelized. Were we to do this again, we'd probably try the air fryer or skillet as it would be the same amount of effort and would waste less oil. However, for all the effort, we didn't love the mildness of the dish. This one is all about the mellow, understated flavors of the caramelized zucchini. Glad we tried it, but probably won't make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Tracy Brooks"
+},
+"reviewBody": "It was ok, the \"sauce\" was mostly oil so it made the pasta too greasy, not a fan, would not make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made it after someone recommended it to me and it's amazing! So Maria from the wine tour in Bordeaux, if you should read this, thank you very much!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Easy to make and tasty, but I don't see it as life changing. You could probably achieve the same taste with just the butter and cheeses."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Spoil yourself and make this recipe. Watch the video too. You'll find yourself speaking, and cooking, like chef John, in no time. In all seriousness, this is a special dish. I've made it a dozen times and it lives up to the hype."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "barbarahanson2003"
+},
+"reviewBody": "I made it last night. OMG. MY NEW FAV I only refrigerated the zucchini for 5 hrs. because I couldn’t wait. Sorry I didn’t have leftovers, so I’m going to make it again for Mother’s Day. Thank you Stanley Tucci. Can hardly wait for your new series tomorrow. Love your Cacio de Pepe as well !!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "First, this recipe on FlipBoard called for 1 zucchini per person. 6 for 2 seems excessive as I can imagine it would overwhelm the pasta., and laborious to fry up. My husband and I both loved this! A taste of a Italy at home. - The zucchini had a wonderful touch of smoky flavor to it. My husband asked if there were mushrooms in it. - I fried with not much olive oil (did not use safflower as said in recipe). As someone else said you don’t really need more as the oils comes out of the zucchini when you cook it up next day. So if you do this way, I’d use olive oil for initial frying. - Rather than salt, I added caper juice. - I grated parm in the sauce and then some on top. - Instead of butter I used Melt butter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "angiehorning88"
+},
+"reviewBody": "I was obsessed with making this after seeing the TV show. I have made it about 6 times. It's never that good. The only time I found it tastier was when I accidently overcooked (too high of heat) the zuchinni in the final step. It actually carmalized it and made it sweeter tasting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JillyBean"
+},
+"reviewBody": "What great flavor! I made exactly as written. Maybe didn’t need oil in pan when heating fried zucchini the next day. The heat brought out more oil my zucchini had absorbed even though I drained as much as I could on paper towels. Regardless it was so delicious. Very glad I tried this and will absolutely make again. Thanks Chef John for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Ann Ryan"
+},
+"reviewBody": "Absolutely, fabulous. Very easy. Add butter maybe more than recommended."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Hitesken"
+},
+"reviewBody": "Overly complicated and greesy. You could roast the zucchini and make a zucchini pesto more easily and it would be better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "suzannedingus"
+},
+"reviewBody": "I've made this a few times, and the recipe as written is incredibly good -- but I did find a way to make it a bit more healthy and a LOT easier: use a very large nonstick pan and coat it with a healthy spray of olive oil flavored Pam spray (or similar). Over high heat, put the zucchini in a single layer (VERY important) in the pan and cook until deep brown (it took me about 7 minutes for the first side and about 5 for the second). All stoves are different, so just keep an eye on it until you get the hang of it. Before flipping, give the uncooked sides another spray of the Pam. After all batches are done, proceed as described in the recipe. The results from this method are indistinguishable from deep frying, but your gall bladder and your butt will thank you :) Second Pro Tip: use a bit of pesto instead of the basil leaves. It's amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bexduran"
+},
+"reviewBody": "OMDelish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Super easy to follow and yields delicious results. Takes forever to fry all the zucchini, but its well worth the time. I love all the flavors playing around in my mouth. Just make sure you mix it so that you get zucchini in every bite. I'll be making this again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "frk040"
+},
+"reviewBody": "Big Staley Tucci fan here, plus I bought a deep fryer for this recipe. Maybe the oil or zucchini I used was off, but I found this dish tasted unpleasantly 'greasy'. Didn't care for it at all. Still a Tucci and Chef John fan, however."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "karenbednorz"
+},
+"reviewBody": "I made this dish w/gluten-free spaghetti &amp; dairy-free cheeses. It came out great. \n\nMy chef brother-in-law even commented on my professional looking presentation on my Instagram post"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jhanleybrown"
+},
+"reviewBody": "Good. Ratio of Zuchinni to pasta is off I think. We did about 14 medium Zuchinni for 1.5 lbs of pasta and that seemed about right.\n\nWould make again and it's good. It's just not \"life changing\"."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "juliemariegarcia"
+},
+"reviewBody": "Thank you Chef John for sharing the details about how to make this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "eye_of_nothing"
+},
+"reviewBody": "This was sooo sooo freakin' awesome! We're definitely making it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "wandasgupr"
+},
+"reviewBody": "Easy and seems that is delicious recipe...maybe you add some good White wine to the sauce . Also use fresh orégano and rosemary instead basil."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dmartinshorter"
+},
+"reviewBody": "In spite of the somewhat time-intensive cooking (deep-frying, then resting, the zucchini before assembling the dish), the result was SO good that I made it twice more in the space of a month!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cherise"
+},
+"reviewBody": "Loved this! I recommend making at least 6 or 8 servings because you will just want more and more. It’s delicious; definitely worth the extra work with frying and the overnight wait. I didn’t get to see if the pasta was better the next day because there were no leftovers. This is a dish to remember and crave."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "info"
+},
+"reviewBody": "OMG! This recipe was on point. I only made a little bit because I didn't want to waste food. How I regret not making more. Excellent taste and every bite was so light and filling. I can't wait to make this for my grown kids"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David"
+},
+"reviewBody": "I made this exactly following the recipe and it was delicious! No changes, no substitutions, no suggestions, just as it is!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa M Willson"
+},
+"reviewBody": "So simple but so delicious. I made it exactly as written. So perfect when the season offers zucchini in abundance."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Lin Chang"
+},
+"reviewBody": "I loved Stanley Tucci's show and was excited to try this recipe. It was quite bland in my opinion though I do love strong flavors. I had such high hopes after hearing Chef John and Stanley Tucci raved about it. It was good but definitely NOT \"one of the best things I've had\" good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "Absolutely fantastic! Took an hour to fry nine zucchini for a dinner for three.....well worth it! Super impressive meal! And so simple! Will totally break my diet to have pasta for this one! So creamy! So rich! ......i did add minced garlic tho"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amhorning"
+},
+"reviewBody": "I was obsessed with making this once I saw this recipe posted. I watched this video and the Tucci clip MANY times. I am a fairly advanced home cook.\n The first time I made it exactly as Chef John. Visually it looked the same but it tasted like mashed zucchini in spaghetti with a little cheese. Where was that sweetness? Also, the ratio of zucchini to pasta seemed way off. Way to much zucchini.\n The second time I sliced them thinner 1/16\" , fried them longer and only used 4 average sizes zucchini. I fried them until they were almost like a chip. That is the secret, it's like you caramelize them to bring out the sweetness. This time I also used a garlic infused olive oil and a lot more salt. It was much better and had an earthy flavor. Was it life changing? Not yet, but I am still working on it. It makes me wonder what the Italians have in their olive oil at that restaurant? Hmmmm....wish I could go taste it for myself!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy Gregg"
+},
+"reviewBody": "Omg so delicious easy to make"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Olson"
+},
+"reviewBody": "Rarely am I impressed by a pasta dish I have never made before, but this did the trick. Well worth the effort of deep frying that zucchini. Very rich, and I even skipped the butter. Perfect with a glass of vino! Thanks chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Matta"
+},
+"reviewBody": "Delicious!! Easy to prep for a quick dinner. Whole family loves it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Jo McCord"
+},
+"reviewBody": "Thanks Chef John, you nailed it! I too, watched this episode of \"Stanley Tucci's Searching for Italy\", and all the others, as well. The important step of refrigerating the fried zucchini overnight it the step Stanley missed, but is important. Thanks for keeping true to the way this is made. I've made this several times, and now that zucchini is abundant, I'm making it again. It's awesome! Thank you again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sheri Cordi-Tallman"
+},
+"reviewBody": "It is really good and a fine use for zucchini, would not travel or pay for anyone to make for me"
+}
+]

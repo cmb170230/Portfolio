@@ -1,0 +1,257 @@
+,"name": "Baked Cowboy Dip"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "19"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "261 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "62 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "516 mg"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"12 ounces hot Italian sausage links, casings removed",
+"2 (8 ounce) packages cream cheese, at room temperature",
+"1 cup sour cream",
+"4 ounces sharp Cheddar cheese, grated",
+"2 cups frozen sweet corn, thawed and drained",
+"1 (14 ounce) can fire-roasted diced tomatoes with green chiles",
+"1 (4 ounce) can diced Hatch green chiles",
+"0.5 cup diced fresh jalapeño peppers",
+"0.5 cup sliced green onions",
+"1 teaspoon kosher salt",
+"0.5 teaspoon freshly ground black pepper",
+"1 pinch cayenne pepper, or to taste",
+"2 tablespoons grated sharp Cheddar cheese",
+"1 pinch cayenne pepper, or to taste",
+"1 teaspoon sliced green onion, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Place sausages in a dry pan over medium heat until they start to sizzle. Use a spoon or flat wooden spatula to break them up as they cook. Continue to cook until browned and crumbly, 10 to 12 minutes. Remove from the heat. Drain grease if desired."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine cream cheese, sour cream, 4 ounces grated Cheddar, thawed corn, cooked sausage, fire-roasted tomatoes with chiles, Hatch chiles, jalapeño peppers, green onions, salt, pepper, and cayenne in a large bowl; mix until thoroughly combined. Transfer into a baking dish and smooth out the top. Top with remaining Cheddar, and cayenne."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the baking dish on a sheet pan and bake in the center of the preheated oven until cheese is melted and dip is bubbling around the outside, about 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/PCNiCCBVVZHjWSL_XiXmJ22yKXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Baked-Cowboy-Dip-2000-e2b7b3e455fa41458ad29e1086ce97ab.jpg"
+}
+]
+,"text": "Sprinkle green onions over top before serving."
+} ]
+,"recipeYield": ["16"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "t cusolito"
+},
+"reviewBody": "In made one half batch and still filled a 8x8 pan. This is a great dip choice. I can see why the sweet corn is so important. Very good dip"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Absolute crowd pleaser! Killer dip!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "JANEY R"
+},
+"reviewBody": "A bit spicy for my family. I left out all your hot peppers and used a can of mild tomato spice sauce and I added two cans of ranch style beans! Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ggaietto11"
+},
+"reviewBody": "Awesome recipe! This is a hit at any gathering especially game day! I used Greek yogurt and added sautéed red, green peppers and celery (I was using for something else) Yum"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alyssa Borgersen"
+},
+"reviewBody": "Delicous, but i substituted sausage for taco seasoned ground beef. Everyone loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "martinepad"
+},
+"reviewBody": "This was a hit with Frito Scoops! Easy to make! I used canned mild jalapeños and hot hatch chilies. 16 servings filled 9x12 glass dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Shaw"
+},
+"reviewBody": "This was a recipe that a friend made for a party while we were in Florida and it was delicious. Once I returned back to Canada I request the recipe and have made it 3 times and I'm just getting ready to make it again for our party this weekend. It is FABULOUS"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very good easy to make , I had on hand fully cooked sausage links with jalapeños. They added a very nice Smokey flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Friends and I loved the dish for a share dish event!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BenJamin Jay Abel"
+},
+"reviewBody": "it was a maz ing : )"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eric Ochieng"
+},
+"reviewBody": "This was a delicious and easy dip to put together. My contribution to make this better is adding 1/2 pack of chopped bacon. Also upped the amount of cream cheese, sharp cheddar, and sour cream. Was absolutely delicious. Have fun making this wonderful dip."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bornxmas1961"
+},
+"reviewBody": "I made this for Super Bowl. I followed the recipe to the T and it is a hit! It's only noon and the game doesn't start until 3:30 and it's gone! I had to pop on here real quick to give Chef John 5 stars and a thumbs up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "wancy54"
+},
+"reviewBody": "DELICIOUS!!!!! THEY LOVED IT!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Scanich"
+},
+"reviewBody": "Great recipe! We didn't have sausage on hand so we used bacon. We had to try some before baking like Chef John did, and agree it's so much better after baking. Will definitely be making this again, it was perfect for taco night!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GAW"
+},
+"reviewBody": "Can't wait until we have this dip again!!"
+}
+]

@@ -1,0 +1,259 @@
+,"name": "Bialys"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "15"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "234 kcal"
+,"carbohydrateContent": "44 g"
+,"fiberContent": "2 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "490 mg"
+,"sugarContent": "1 g"
+,"fatContent": "3 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT40M"
+,"recipeIngredient": [
+"3.75 cups bread flour",
+"0.5 teaspoon instant yeast",
+"1.5 teaspoons kosher salt",
+"1.5 cups water, at room temperature",
+"1 tablespoon olive oil",
+"1 large yellow onion, diced",
+"0.5 teaspoon kosher salt, plus more to taste",
+"1 tablespoon bread crumbs",
+"2 teaspoons poppy seeds, plus more for garnish",
+"1 tablespoon sliced green onion",
+"1 pinch cayenne pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine bread flour, yeast, salt, and water for dough in a bowl. Stir with a wooden spoon and mix until a very wet, soft, and sticky dough forms. Cover and leave at room temperature for at least 12 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "When ready to make the bialys, heat olive oil for filling in a skillet over medium heat. Add onion and salt and cook, stirring occasionally until onion softens, sweetens, and turns golden brown, about 10 minutes. Turn off the heat and add bread crumbs, 2 teaspoons poppy seeds, green onion, and cayenne pepper. Stir to combine and cool down until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Uncover dough; it should be bubbly. Scrape it away from the sides of the bowl with a spatula and transfer onto a floured work surface. Dust a little flour over top and gently press dough with your hands to flatten. Divide it into 8 equal portions and roll each into a ball, using a bit of flour as needed. Stretch each ball gently and tuck dough under the bottom; place on a baking sheet lined with generously floured parchment paper or a silicone liner (such as Silpat®). Dust the tops with flour and carefully cover with a dish towel; let proof until just about doubled in size, 45 to 60 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 500 degrees F (260 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Flour your fingers and pick up one dough ball. Press and pull on the center to form it into a ring shape; the center of the dough will be thin and the edges will be thicker. Make sure the centers are very thin but be careful not to tear them open. Repeat with remaining balls."
+} ,{
+"@type": "HowToStep"
+,"text": "Fill the center of each with no more than a rounded teaspoon of onion-poppy seed filling, then gently press the filling up the sides toward the outer rings. (You will have extra filling.) Spray bialys with some cold water and sprinkle poppy seeds over top."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/BAFXab24tnwYhL5A_aa23sU2WQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9380180-ad0c774043734249b2b896d34021258e.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until puffed and nicely browned, about 12 minutes. Transfer to a wire rack and cool for about 20 minutes before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT855M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "concheet"
+},
+"reviewBody": "Tried it first with the onion filling and we were not keen on the flavor. But really liked the bread itself and made it again today just skipped the filling entirely. Tasted very much like bagels but much easier to do, and slightly crisper tops. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Misterblutarsky"
+},
+"reviewBody": "Everything, and I do mean EVERYTHING I've made from Chef John's recipes are winners, absolute crowd-pleasing winners. These bialys are no exception. This is the second time I made them. This time I used \"everything\" seasoning to the tops, versus just poppy seeds."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mrsjosephdreams"
+},
+"reviewBody": "Awesome recipe. Easy to follow. Do yourself a nice favor and brush these with olive oil before you bake them ;) Blessings"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeanette"
+},
+"reviewBody": "A long time ago I worked for a non-Kosher Jewish deli called Munch-a-Bagel (I was the fry cook). Best bagels and bialys ever in my life! Marge &amp; Leon Rich--fed everyone with love. I like Chef John and we make a lot of his food. It never disappoints! Taste--comparatively to Leon's-- was excellent. The texture perfect. Mine look too popped up. Next time I will make the dough much flatter before putting it in the oven so they will be more like a NY bialy. It could be my oven or an altitude thing. If I may mention... the perogies. We boiled and then fried them. You could use those tasty treats as weapons--people will do anything to eat those! Thank you Chef John, love you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "outdoorsgirl"
+},
+"reviewBody": "Great recipe. I have also made the dough and left it in the fridge for a few days. Just bring it out about 12 hours before. Used the airfryer as I have no oven at the cabin. 6 minutes at 400F. Thank you again Chef John"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "melw1995"
+},
+"reviewBody": "Don't let these dry out! I have made this 5 times and it was otherwise foolproof!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "inspectorjimb"
+},
+"reviewBody": "Tried this twice just to make sure I didn't mess anything up measuring the first time. 1 and a half cups of water isn't enough to hydrate the flour mixture and make a sticky dough. My guess is the author didn't measure and guessed how much he used after. Unless you're an expert in dough making that can eyeball the amount of water you need I'd recommend not wasting your time and ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Vincent"
+},
+"reviewBody": "the dough seemed a little wet, but it turned great and was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Howard Weiss"
+},
+"reviewBody": "Being from NY my wife and I are used to old fashioned Bialys. This recipe is one of the closest tasting ones that we can remember. I used to make one that had a little more of a sour taste but this one is really good. Had to make a couple without onions for someone but I think that is sacrilegious. lol"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Fina Del Angel"
+},
+"reviewBody": "They were good and I don't like bagels"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Binky2go"
+},
+"reviewBody": "I love this alternative to making bagels"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MellyB"
+},
+"reviewBody": "Very easy to make and dangerously delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Maas"
+},
+"reviewBody": "this recipe was fool proof and amazing! Used everything seasoning and the flavour and overall texture was amazing. Trust Chef John to hit a hone run every single time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sawyer dew"
+},
+"reviewBody": "Longtime viewer of Chef John and his recipes on YouTube and thought I would review since I made these yesterday and there are no reviews yet. This was super simple recipe but delicious outcomes. As chef John says on YouTube, really only need a teaspoon of the onion, I didn’t heed his advice and had some blowouts. Also would suggest really trying to make a large opening in center and flattening them out as they will rise. They were delicious after resting out of the oven and warm and were awesome the next day in a egg sandwich. Also be sure to brush with water evenly to get crispness and less flour chalky patches."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fae"
+},
+"reviewBody": "These turned out fantastic and were easier than expected to make!\n\nI filled them with a mix of Cheddar and Gouda cheese and topped them with garlic salt and sesame seeds!\n\nThey didn't get quite as dark but I'm still getting used to my new oven."
+}
+]

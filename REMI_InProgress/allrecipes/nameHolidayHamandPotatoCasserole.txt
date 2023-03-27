@@ -1,0 +1,314 @@
+,"name": "Holiday Ham and Potato Casserole"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "20"
+}
+,"cookTime": "PT105M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "765 kcal"
+,"carbohydrateContent": "56 g"
+,"cholesterolContent": "163 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "27 g"
+,"saturatedFatContent": "28 g"
+,"sodiumContent": "1329 mg"
+,"fatContent": "49 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"0.25 cup unsalted butter",
+"1 cup diced yellow onion",
+"0.25 cup all-purpose flour",
+"2 cups heavy cream",
+"2 cups whole milk",
+"2 teaspoons kosher salt, divided, or to taste",
+"0.5 teaspoon freshly ground black pepper",
+"0.25 teaspoon cayenne pepper",
+"0.125 teaspoon freshly grated nutmeg",
+"0.25 teaspoon Worcestershire sauce",
+"2 teaspoons chopped fresh thyme leaves",
+"4.5 pounds russet potatoes, peeled and sliced 1/4 inch thick",
+"8 ounces grated sharp white Cheddar cheese",
+"1 pound thinly sliced ham" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat butter in a pot over medium heat. Add onions and sauté with a pinch of salt until translucent, about 5 minutes. Add flour and cook, stirring, just to take off that starchy, raw edge, about 2 minutes. Pour in heavy cream and whisk to combine. Whisk in milk. Cook, stirring, over medium-high heat until it just starts to simmer and thicken up. Add 1 teaspoon salt, pepper, and cayenne. Grate in nutmeg."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn off heat. Stir in Worcestershire and fresh thyme leaves. Reserve until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover the bottom of a deep 10x15-inch casserole dish with about 25% of the reserved sauce. Add a layer of sliced potatoes, seasoning the tops with some of the remaining salt as desired; ladle over 1/3 of the sauce and sprinkle over 1/3 of the grated Cheddar cheese. Layer in ½ of the sliced ham."
+} ,{
+"@type": "HowToStep"
+,"text": "Place another layer of sliced potatoes on top and season with salt. Ladle over ½ of the remaining sauce; repeat layering with Cheddar cheese and ham."
+} ,{
+"@type": "HowToStep"
+,"text": "Place last layer of potatoes on top. Ladle over remaining sauce and spread out with a spatula. Sprinkle over remaining Cheddar cheese."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/kmDHik_cHailzvfHBeB15TaY6uc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_6620-2000-60c1bd1187de4965bf7ba2186eec3db4.jpg"
+}
+]
+,"text": "Bake uncovered in the preheated oven until browned, bubbling, and potatoes are very tender, about 1 ½ hours. Let cool for 15 to 20 minutes before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT140M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Whitney Johnson"
+},
+"reviewBody": "Absolutely delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rsbecca@WD"
+},
+"reviewBody": "GREAT!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Was absolutely delicious! Ate it for days, used leftover Christmas ham, reheated just perfectly! Enjoyed every creamy, flavorful bite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paula"
+},
+"reviewBody": "It’s been a long time since my husband raved over dinner. He went back for seconds and would have gone back for more except I wanted another meal out of the leftovers. I used ham slices from the freezer that my husband had smoked. Next time I will dice the ham and use a little more than called for. Chef John never disappoints, but this dish is really outstanding!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kitchenista Jane"
+},
+"reviewBody": "I wanted to try this recipe because I don't make casseroles. This was a fun one to make... it's like a layered lasagna using potatoes and ham, cheese &amp; a delightful white béchamel-type sauce (that's the KEY to this). For the sake of calories, I did use a fat free 1/2 and 1/2. As I mixed in all the goodies, it thickened just fine! I do not use cayenne pepper in anything, so black did just fine. I truly appreciate that Chef John actually provides substitutes in his recipes. I used a white cheese blend that was delish! I made it in the morning, and reheated for serving. It was AWESOME. I believe that sitting in the refrigerator for a few hours allowed all the flavors to do a happy dance. I purposely allowed the top to brown more than some people may like, because my family prefers that toasty type cheese. I did bake it for a little over an hour in convection oven at 325. YUM. You will LOVE this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lise Fabello"
+},
+"reviewBody": "So good family fav"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CLStevens"
+},
+"reviewBody": "This recipe was simple and delicious! I used Gruyere as Chef John suggested in his video instead of the sharp white cheddar listed in the recipe. I used an all-natural smoked sliced deli ham but next time I'll definitely use something more substantial that matches better with this amazing sauce. This dish will get eaten first at the potluck, church fellowship breakfast, Easter brunch, office party; wherever you bring it, there will be no leftovers. One last note for people new to Chef John's recipes: If you don't like Cayenne, leave it out...that's just you cookin'!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy"
+},
+"reviewBody": "Easy and tasty casserole. This fit fine in a 9 x 13 pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janis Godwin Spear"
+},
+"reviewBody": "A delicious and simple meal - a huge hit with the family, and a fairly economical dish, too. Absolutely a winner! Highly recommended."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was very flavorful. We did use 1.5 pounds of ham and it was chunks, not slices, so we really got that ham flavor. We added some cheese to the sauce before using it, and used more cheese in total. We love cheese. Thank you for this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "AREENA"
+},
+"reviewBody": "This turned out quite nicely. I made it for Easter so I could just serve a light salad alongside and not have to fuss with carving a ham or roast. I used dried thyme since I didn't have fresh and I also added some dry mustard to the sauce. I used gruyere cheese; next time would use a combo of gruyere and cheddar (flavor is pretty intense with the gruyere alone)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "In a word - Perfect. I would say prep took longer - slicing the potatoes and ham. Making the sauce - have to be patient but it does finally thicken up as indicated. Used Fontina cheese rather than cheddar. The ratios are perfect for deliciousness. Served it as a side dish at Easter - and it became The Main Event. People raved about it over and over! Will be making this again for certain. Thanks Chef John - delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sorry Maker"
+},
+"reviewBody": "NIce"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Loved it!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Be careful with the cayenne pepper/pepper. Careful with the sauce. Made it too spicy. Next time use more cheese and cubed ham."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon B"
+},
+"reviewBody": "Was wonderful. Great as leftovers as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Hadden"
+},
+"reviewBody": "Wow, that is rich. Next time I make I'll use rosemary ham from Costco I also want to try with CJ's Green Pepper Pesto, the one he uses with the Chayote."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "coloscott"
+},
+"reviewBody": "This dish is amazing! I will be making it often. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "James Kephart"
+},
+"reviewBody": "This is a very forgiving recipe. I didn't save enough potatoes or sauce for the top layer, and I forgot to salt the center layer of potatoes, yet it came out looking and tasting great anyway. I used a very deep 13X9 dish, which was able to fit the entire recipe. I used a honey maple ham, which added a nice little bit of sweetness in what is a rich and savory dish. I just got it from the deli counter sliced very thin. Don't make the mistake I did, and get a 5lb bag of russets. The bag was mostly small potatoes which added a bunch of extra peeling and slicing. Buy individually and get large russets instead. I don't have a mandoline, and I am not the best at getting even slices, so I added 10 minutes to the cook time to make sure all the potatoes were fully cooked."
+}
+]

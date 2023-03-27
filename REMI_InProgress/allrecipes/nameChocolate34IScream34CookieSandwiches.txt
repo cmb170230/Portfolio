@@ -1,0 +1,44 @@
+,"name": "Chocolate &#34;I Scream&#34; Cookie Sandwiches"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "501 kcal"
+,"carbohydrateContent": "64 g"
+,"cholesterolContent": "9 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "255 mg"
+,"fatContent": "26 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"8 large chocolate chip cookies",
+"3 tablespoons melted dark chocolate",
+"4 teaspoons melted white chocolate",
+"0.5 cup vanilla ice cream" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Cover the flat side of 4 cookies with melted dark chocolate; tap the cookies lightly to smooth out the chocolate."
+} ,{
+"@type": "HowToStep"
+,"text": "While still wet, use a piping bag or spoon to make a ghost shape with the white chocolate; tap lightly once more to smooth as needed. More white designs can be added to the dark chocolate background if desired."
+} ,{
+"@type": "HowToStep"
+,"text": "Use melted dark chocolate to make the eyes and screaming mouth; tap or shake once more to even and smooth out."
+} ,{
+"@type": "HowToStep"
+,"text": "Let chocolate cool until hard and dry to the touch, at least 1 hour."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/cEUflfZBicDaCYNsOkeKNIegdck=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_1102-2000-84ca027f00be4f0f8b41e4bee2c22530.jpg"
+}
+]
+,"text": "Scoop ice cream on 4 remaining cookies, and cover with the tops. Carefully press to flatten, and transfer to a freezer to freeze thoroughly before serving."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT90M"

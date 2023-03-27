@@ -1,0 +1,147 @@
+,"name": "Firebird Chicken"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "8"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "589 kcal"
+,"carbohydrateContent": "20 g"
+,"cholesterolContent": "231 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "55 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "2069 mg"
+,"sugarContent": "1 g"
+,"fatContent": "30 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 clove garlic, sliced",
+"2 habanero peppers, seeded and chopped",
+"1 teaspoon kosher salt",
+"3 tablespoons Sriracha sauce",
+"1 large egg",
+"2 (8 ounce) skinless, boneless chicken breast halves",
+"0.25 cup rice flour",
+"3 tablespoons vegetable oil" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine garlic, habanero peppers, and salt in a mortar and pestle and crush into a fine paste. Add Sriracha and egg and whisk to combine. Set aside until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Pull or trim off the tenderloin from the breasts, and then slice each one in half lengthwise, cutting at a 45-degree angle to create two relatively equal pieces."
+} ,{
+"@type": "HowToStep"
+,"text": "Place all 6 strips of chicken on a plate and dust generously on all sides with rice flour, making sure they are completely covered."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour over the pepper mixture and use tongs to make sure each piece of chicken is coated evenly with the mixture and that there are no dry spots. Wrap and marinate in the fridge for 2 to 12 hours."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Kj785VqFbWgOiaRog6gxQwshZjw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8400396-056a1199b1024833a03dd8b4eb59c8b7.jpg"
+}
+]
+,"text": "Heat oil in a nonstick pan over medium-high heat. Cook chicken until well browned, and no longer pink in the centers, about 3 minutes per side. Serve immediately."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT150M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shawnydm"
+},
+"reviewBody": "My husband has been craving spicy chicken and this one was spot on. Delicious and pretty simpler to make. I can see him wanting this at least every other week. Great recipe Chef John. Thank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurahallie"
+},
+"reviewBody": "This was indeed spicy, but manageable for those who enjoy some heat! I made a few small tweaks: Used Texas Pete hot sauce (which is not all that hot) and all-purpose flour. Served with chicken broccoli-flavored rice. Make sure to cook the chicken over medium-high heat. The temperature ensures that the chicken has that delicious crispy texture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alexander Salcedo"
+},
+"reviewBody": "Big win, never did it with sriracha though, I actually used the adobo part of a can of chipotle's in adobo instead. I also like using some pork chops more than the chicken breast and serve it up with roasted brussels sprouts and rice pilaf."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bethany Good"
+},
+"reviewBody": "I adore Chef John, and this is another win! We live in a really rural area, so there were no habanero’s, we mixed red bell pepper and Thai chili pepper for the heat. Our mix was a little too wet, so it didn’t look as pretty, but it was delicious! Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brian Patterson"
+},
+"reviewBody": "So good, negotiations but a good creeping heat. It is addictive as anything. I used regular flour and it worked perfectly. I even took a guess and added 1 tsp of turmeric and 1/2 tsp of coriander to some rice and peas and the meal was a sure winner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tina"
+},
+"reviewBody": "Great recipe. I used only one habanero because I made it as a workday lunch (homeoffice has its upsides) but I would use two next time. I served it as a sandwhich with iceberg lettuce, cucumber and tomato. Very juicy and spicy but not overwhelming. Will make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Sisario"
+},
+"reviewBody": "As always, I enjoy!!!!"
+}
+]

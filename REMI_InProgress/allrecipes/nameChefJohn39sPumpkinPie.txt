@@ -1,0 +1,1348 @@
+,"name": "Chef John&#39;s Pumpkin Pie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "920"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "320 kcal"
+,"carbohydrateContent": "42 g"
+,"cholesterolContent": "117 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "465 mg"
+,"sugarContent": "29 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 (15 ounce) can pumpkin puree",
+"3 egg yolks",
+"1 large egg",
+"1 (14 ounce) can sweetened condensed milk",
+"1 teaspoon ground cinnamon",
+"0.5 teaspoon ground ginger",
+"0.5 teaspoon fine salt",
+"0.25 teaspoon freshly grated nutmeg",
+"0.125 teaspoon Chinese 5-spice powder",
+"1 9-inch unbaked pie crust (see footnote for recipe link)" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk together pumpkin, egg yolks, and egg in a large bowl until smooth. Add sweetened condensed milk, cinnamon, ginger, salt, nutmeg, and Chinese 5-spice powder; whisk until thoroughly combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Line a 9-inch pie plate with pie crust; crimp edges."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour filling into crust; lightly tap on the counter to release air bubbles."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven for 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/1CYADoFqtZOpCzU_lWwVC5hI0Wk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1749711-46d8131be5084b778da4f1673966f83d.jpg"
+}
+]
+,"text": "Reduce heat to 350 degrees F (175 degrees C) and bake until just set in the middle, 30 to 40 more minutes. A paring knife inserted into the filling, 1 inch from the edge, should come out clean. Allow to cool completely before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is amazing!! I make it every thanksgiving (and all around the year too). The filling is so bomb! the first time I made this recipe was when I was 11 so... pretty foolproof!! 100% recommended!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gem"
+},
+"reviewBody": "Splendid! My first time making PP ever. I've always been turned off by pumpkin pie's appearance and taste but this recipe won me over! Sure enough, no cracks, there's a bit of a sheen to it and the taste is down-to-earth yummy, it was comforting. I added Abt a teaspoon of vanilla and a T of melted butter to the filling. Don't skip the salt but maybe add a lot less than called for. I always pre-bake my pie crust. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Amazing. I’ve used this same recipe for a few years now and it’s always a hit. Convinced that the people who are leaving negative reviews maybe used evaporated milk instead of sweetened condensed milk because I’ve never had an issue with this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "IT came out watery. dissapointed. also the egg separated so there were cooked egg pieces that floated to the top and cooked. It was not servable."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Don't' understand the others negative reviews. Did it for this Thanksgiving Day and is the BEST pumpkin pie ever. All guests devoured it and asked for the recipe. I prepared the pie crust from scratch too following his recipe, pure perfection."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mumof6"
+},
+"reviewBody": "I've made a similar pie over the years but this one is the best so far. The only thing I did differently was to use 3 whole eggs instead of 1 egg + 3 egg yolks, and used a 10\" pie dish. Everything else was the same. It browned a bit sooner than the recipe said, more like 15 minutes st 425°+ 20 minutes at 350° was enough in my oven, so just check on it when it gets closer to the time. A keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Pumpkin pie is usually the least favorite in my family, but this was a hit and was finished first! It did not crack and sliced beautifully. I did not have five spice, so I added ground cloves and black pepper. We loved the deep spicy flavor. This will be my go-to recipe from now on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Word of caution...I modified this to fit my taste. Hate five spice. My husband is Indian and as a nod to his heritage used ground cardamom in place of the five spice. Soooo delicious. Love the consistency and the flavor. Also, not a pie crust fan so I poured mine into a Graham Cracker crust. Baked just fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "So I only used the filing from this recipe, as I failed to notice he used an \"unbaked pie dough\". Knowing this was somewhat of a custard filled pie, I opted to blind bake my crust. Further, I baked at 325 (due to not wanting a burnt crust) for around 45 minutes, and it turned out EXCEPTIONALLY well! I just did the ole cheese cake tap-check to see how the jiggle jiggle went, and once it jiggled a touch but then sprang back to form, I knew it was ready!! We let it sit overnight and we freaking crushed it on Thanksgiving!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mikeyrose"
+},
+"reviewBody": "Made it EXACTLY as shown. Best pumpkin pie I have ever had. Beats the warehouse store hands down."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John Anderson"
+},
+"reviewBody": "By far the best pumpkin pie filling I've had. We loved the flavor and the texture... Even thin slices stand up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I’ve been making this for a few a years now (with gf crust)but until this year I never used fresh and grated nutmeg. I think actually following the recipe on this one makes a difference! My favorite pumpkin pie!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Classic pumpkin pie! I made a crust of ground ginger snap cookies instead of pie dough. Succulent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This has been my family favorite for years and years. As soon as pumpkins are in season I am required to make it:) . I was reading some reviews here and I'd like to add a few things . I make my own pumpkin puree always ( I never used canned anything if i can help it) . The 5 Chinese spice blend is better if you make it yourself too and absolutely freshly grated nutmeg. Never use store bought crust and this recipe will be perfect. :)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Pam Peters"
+},
+"reviewBody": "All butter pastry was wonderful, I will keep that one. We didn't really care for the pie itself, I believe the sweetened condensed milk takes away from pretty much all the pumpkin flavor. It came out nice and pretty but it wasn't like pumpkin pie"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is my go-to recipe for pumpkin pie. Rich, creamy, and delicious! The only thing I do differently is: 1. Substitute ground cloves for the Chinese 5 spice. 2. Double the amount of cinnamon, ginger, and nutmeg."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "donpatters"
+},
+"reviewBody": "Nope. Not what you want in a pumpkin pie. Lacks that spicy taste. So..... Incredible waste of eggs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "getoverit"
+},
+"reviewBody": "I was so wanting to love this pie, Chef John's recipes are usually a got to for me. I followed the recipe to a \"T\". The texture was NOT to my liking and the taste was very bland. I ended up throwing the entire pie away."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is always sooooo good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aurora"
+},
+"reviewBody": "It was really good, my dad who hates pumpkin pie loved it!!! Changes I made: Instead of using canned pumpkin i used fresh pie pumpkins and after getting all strings and seeds out i baked them on a cookie sheet face down for an hour at 375F, one pie pumpkin is plenty, then i just pureed it. I did 2 or 3 teaspoons of cinnamon, 1 teaspoon of ginger, 1/2 teaspoon of ground ginger, a sprinkle of Chinese 5 spice, 1/2 cup of brown sugar and 1 tablespoon of bourbon, I do recommend doing more seasonings, brown sugar and bourbon as I feel it wouldn't have taste without. I used a premade pie crust and knowing they dry out quick, I made a milk wash. I first made buttermilk with 1/4 cup milk and a splash of lemon juice, after whipping it i put some brown sugar in and 2 tablespoons of bourbon. i would recommend doing this with any crust since it gave it a bit of flavor. while baking every 10 minutes i used the milk wash with some melted butter in it so that the crust didn't dry out or burn, because premade crusts bake quite quick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I’ve been making this recipe for a few years now and it’s the most requested, easiest and best tasting pumpkin pie I’ve ever made!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The pumpkin pie was perfect!! Thanks Chef John!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Aileen Lisette"
+},
+"reviewBody": "Wow! I love this pie. In the past, I have made the other two highly rated pumpkin pies on this site, but I like this one better. Creamier, without that \"wet\" taste. Instead of whipped cream, I make meringue with the extra egg whites. Why throw them away? I did not use the Chinese spice because I don't use it. The first time I made it, my family thought it was not so flavorful. So, I now use a heaping spoonful of the spices, except for the salt. Which remains the same amount. I also use a ready-made graham pie crust. After the first 15 minutes were up, I put a crust guard on the pie crust. It was done in 30 minutes. The center is a little jiggly and that's what you want. My family loves this pie!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "originalsixx"
+},
+"reviewBody": "Loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Chris"
+},
+"reviewBody": "Was it good? Yes. Was it great? Not really. Ultimately kind of bland. I hate to say it, but not worth the effort over Mrs. Smith's. For the record, I made it exactly as written, and I'm generally a big fan of Chef John's recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cboone62"
+},
+"reviewBody": "This was the best pumpkin pie I have ever made and up there with the best I have ever eaten. Super easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lotzahobbies"
+},
+"reviewBody": "Who woulda thunk a pumpkin pie this easy to make would be so delicious? The pie is gorgeous out of the oven and as a pumpkin pie fanatic, this is the best pumpkin pie I have ever tasted! I followed the recipe exactly. It was a huge hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deb H"
+},
+"reviewBody": "This is an easy and delicious pumpkin pie. I make it every Thanksgiving and probably three others times throughout the year."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynne"
+},
+"reviewBody": "I made this for Thanksgiving and it was a hit! Thanks Chef John for another great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BFS92861"
+},
+"reviewBody": "Sena made it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Genevieve "
+},
+"reviewBody": "It's one of the best pies EVER! my family members are not really into pumpkin pies, but I was determined to try this recipe this year because of how easy it was. Omg the best decision ever! Every one loved it! My sister who hates pumkin decided to try a bit and she ended up eating a whole slice! Lol. Thanks Chef John your recipes never ever disappoints."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KMcBeath"
+},
+"reviewBody": "BEST pumpkin pie I ever made and I followed the instructions exactly.\n\nI served 2 people that normally don’t like pumpkin and they wouldn’t stop raving how great it was and went for more. \n\nI will absolutely make this recipe going forward!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "victoriaefernandez31"
+},
+"reviewBody": "This recipe is amazing! It wows every time! The only thing I do differently is toast the spices on medium-low heat for about a minute."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "7sgqykypjh"
+},
+"reviewBody": "The recipe is easy enough to follow.\nI decorated mine with pie crust leaves because it’s a new recipe for my family and they tend to be resistant to anything new, so I had to make the one from the can label too.\n\nI’ll review again once it’s been tasted tomorrow evening. (11/2021)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mistermoroes"
+},
+"reviewBody": "Perfect, no cracks, fantastic taste. Had no Chinese 5 spice so I used cloves instead, worked well. I'd be so bold to say it was the best pumpkin pie I've had to date. Certainly going to be my 'go-to' PP."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "2HS PRN"
+},
+"reviewBody": "Best pumpkin pie filling ever! Family loves it and it's easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "brookshire22"
+},
+"reviewBody": "I've always used the recipe on the Libby's Pumpkin can and thoughit couldn't be improved. Saw this recipe in my email feed and decided to give it a try. I even purchased the whole nutmeg and the Chinese 5-spice (which I'd never heard of). I did increase it to 1/4 tsp as suggested by one reviewer. Well.... this is NOW my go-to holiday pumpkin pie recipe!! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MPiccione"
+},
+"reviewBody": "We love this recipe! I make it every year for the holidays. I use the left over egg whites to put a meringue on top. It’s delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "thedave6m"
+},
+"reviewBody": "I like the ease of making this pie - all you need is a whisk. I used an equivalent amount of pumpkin spice rather than the individual spices and I used 1/4 tsp arabic 7-spices from Al Rafidain market in El Cajon rather than Chinese spice. I didn't like the consistency but my wife did. I think two eggs and 2 yolks might make a more custardy pie (will try soon)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is the easiest and best pumpkin pie recipes I’ve come across. I’ve used it twice, once exactly as suggested and a second time where I added a couple table spoons of molasses and a dash ok cayenne. The molasses give it that little extra old fashioned pumpkin pie taste without compromising the mouth feel of the pie."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Vanessa"
+},
+"reviewBody": "I started this recipe realizing midway that my can of pumpkin was twice the size the recipe called for. I made adjustments to make two pies (thank goodness I had another crust). I didn't have all the eggs, but the double batch worked fine with 2 + 3 yolks. I also used pumpkin pie spice because I didn't have Chinese five spice. They turned out rich, creamy and yummy. Thanks again, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RabbitPatches"
+},
+"reviewBody": "My go to pumpkin pie recipe that has never failed. My family loves the pie, the creamy custard like consistency of this flavourful pie. Would one hundred percent recommend someone make this pie as it's the best recipe I've found yet. Follow it exactly and you'll have the best pie ever."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cap4mor"
+},
+"reviewBody": "It didn't crack! Very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melsy"
+},
+"reviewBody": "This is perfect as it is. No need for changes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristin"
+},
+"reviewBody": "This recipe was delicious! The pumpkin pie was moist and didn’t crack"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather"
+},
+"reviewBody": "I made this my first time for Thanksgiving 2020 and everyone loved it. I made it again today. I followed the recipe as written. This will be my go to recipe for pumpkin pie from now on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "T Mia"
+},
+"reviewBody": "The best and easier pumpkin pie recipe EVER! In the south, my family ate more of the pumpkin pie than the sweet potato pie for the first time. Who knew!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "COLE-BORING"
+},
+"reviewBody": "I will definitely make this pie again. Several compliments!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GellieBellie"
+},
+"reviewBody": "Definitely one of the tastiest pies I've ever had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christy"
+},
+"reviewBody": "Most amazing pumpkin pie ever"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "JamieP"
+},
+"reviewBody": "Seems to me that almost every good review omitted the Chinese 5 spice. I did try it with the 5 spice and it was just \"okay\". A little too much with that anise flavor. The other tips do work with this recipe though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jerri"
+},
+"reviewBody": "it looked wonderful. I dont usually like pumpkin pie, this changed my mind. will be taking it to my Mother's for X-mas. That will tell me how good it is. I think it's better than hers. No cracks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheila Butler Andrews"
+},
+"reviewBody": "This is the BEST and easiest pumpkin pie recipe there is! It bakes and cuts perfectly every single time! Thank you Chef John! I love your recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dyan Horikoshi Chin"
+},
+"reviewBody": "Love this recipe. I make it every year and every year I get compliments! Our \"go to\" pumpkin pie recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Dickson Buehler"
+},
+"reviewBody": "This is the only pumpkin pie I have eaten that I like and go back for more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Roper"
+},
+"reviewBody": "I made this pie for the 1st time to bring as THE Pumpkin pie for Thanksgiving dinner.\nI normally wouldn't bring a pie un-vetted to such an occasion, but I tried on a wing &amp; a prayer hoping the recipe wouldn't \"2020\" out on me.\nEveryone loved it, and so did I . Been searching for the perfect P-pie recipe, and I have found. \nThe one substitution I made: \nI could not be bothered to search out the 5-chinese seasoning blend, and instead subbed out 1/8 tsp of cayenne pepper, as this was the kicker and extra special ingredient from another pumpkin pie recipe I tried last year.\nIt worked perfectly, don't be afraid to try! It is subtle, &amp; just gives the pie a weeee extra kick"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amelia Kopf"
+},
+"reviewBody": "So delicious! Will definitely keep this to use year after year!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vulpes Kitsune"
+},
+"reviewBody": "Every time I make this pie, I am surprised at its perfect texture. I make it with fresh pumpkin with great success. I've never gotten bad feedback with this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charles Fraser"
+},
+"reviewBody": "its good i try irt and i was yummy an we put some wipped cream on it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Larry Schofer"
+},
+"reviewBody": "Easy &amp; delicious! I’ve already stocked up to make this a few more times soon. Thanks Chef John! And as always, Enjoy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dwayne Hayes"
+},
+"reviewBody": "Very good recipe, we had a store made and \n name brand store bought pie to do an impromptu taste test and this one was the better of the three. Will make this next time I get a craving for pumkin pie"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie Diaz"
+},
+"reviewBody": "So GOOD I made it TWICE! Everybody asked for seconds, and even husband wanted to hide some slices before sending people home with leftovers! It was very custardy, full of flavor, and not TOO sweet. I topped it with homemade whipped cream and dusted with cinnamon. Def a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crickett"
+},
+"reviewBody": "This is the BEST pumpkin pie recipe I’ve ever had. The pie set perfectly. No cracks. And the flavor was amazing! The whole family agreed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SANDYR54"
+},
+"reviewBody": "Perfect! Not too sweet or overly spiced."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "acowboysway"
+},
+"reviewBody": "Made for my wife who thinks my pecan pie is too sweet. I don't like buying spices I'll only use once a year so I used regular allspice instead of the Chinese 5 spice. Not sure how the two compare. This is likely the best pumpkin pie I've ever made. Great taste, not too sweet, great consistency if you let cool completely. Very easy to make, even for absolute beginners. Result is an upscale pie taste without the upscale pie hassle."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Liks2Cook"
+},
+"reviewBody": "I just made my first pumpkin pie with this recipe and it was so creamy and flavorful that I have now become a fan of pumpkin pie...my brother is already asking me to make it again for Christmas! (Actually, he wants me to make it now but I told him Christmas ha ha)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Blovesfoodxoxo"
+},
+"reviewBody": "I have never made a pumpkin pie (my brother always handles them for our family Thanksgiving). Because of CoVid and my brother being a nurse in a CoVid unit, we did not get to celebrate as we normally would. I was hoping this would come out ok for our small family dinner. It was better than ok, this pie turned out absolutely amazing and the flavor was rich and flavorful. I did use cloves instead of five spice because I didn’t have/couldn’t find it but it was excellent. I think I will be making it again very soon as the one I made is already wiped out! Yum!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alec Willey"
+},
+"reviewBody": "For not being the biggest fan of pumpkin pie (and for the record, I don't hate it either), it was pretty good. I didn't use the Chinese 5-spice or its substitute though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ANADAMABAKER"
+},
+"reviewBody": "creamy and wonderful! I didn't have any of the spice blend it called for so I added a dash of pepper, clove and other spices. YUMMY!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Dania Barroso"
+},
+"reviewBody": "The texture was great, and it baked well! I guess I just expected a bit more flavor. I guess I just like a stronger flavor versus this delicate one. Maybe my tastebuds aren't refined? I'll own it. But this is my honest opinion regardless."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ZenCoconut"
+},
+"reviewBody": "Believe the hype. So easy and so tasty. Perfect texture and it's true - no cracking. I've been using my grandmother's pumpkin pie recipe for years but decided to try this one and it's way better. Sorry, grandma!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SammyB"
+},
+"reviewBody": "This recipe is the BOMB! I used coconut condensed milk for a lactose free pie. The best pumpkim pie I’ve come across."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole D."
+},
+"reviewBody": "This was my first time making pumpkin pie and I needed a quick and easy recipe. I used Chef John's crust recipe, as well, and this was a massive crowd pleaser. Guests raved about the texture - perfectly silky and not at all grainy like some pumpkin pies - and the flavor was brilliant. I used 2 tsp. pumpkin pie spice and a pinch of white pepper in lieu of individual spices listed (plus the salt)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lora Clark"
+},
+"reviewBody": "I’ve made this pie every year for Thanksgiving for several years, it always turns out perfect. The only thing I do is is double the spices and leave out the Chinese Five Spice. I also add just a dash of white pepper. This is a smooth, creamy, flavorful pie. My go to pumpkin pie recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom Murray"
+},
+"reviewBody": "I am almost 70 years old and have been cooking for a long time and baking pumpkin pies for Thanksgiving dinner for 50 years or so. This is the BEST pumpkin pie I ever made or ate. Consistency and presentation are perfect. The only thing I will change next time is I will pre-bake the crust. This one was firm and done, but I like it flaky with a tiny bit of crunch. Otherwise, perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christianne"
+},
+"reviewBody": "Goof-proof &amp; best I’ve eaten! Forgive me Chef, I must admit I did only season with canned old fashioned year old “pumpkin pie” spice, so your version was likely better! But, this easy, smooth custard style pie recipe will be my only!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AvocatoMama"
+},
+"reviewBody": "Excellent!!!! This is the yummiest pumpkin pie. I've never made pumpkin pie from scratch before, mainly because it seems so intimidating. And I watched mY mom mess up so many pies when I was a kid. Your instructions were super easy to follow. The only thing I did differently was I omitted the Chinese spice, and added extra cinnamon. and a dash of pepper. OMG the flavor is AMAZING! I'll be making pumpkin pie from scratch every year from now on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jiny Green"
+},
+"reviewBody": "I'm literally crying. This is the best pumpkin pie I've ever made. I've failed for so many years. Thank you for perfecting your recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cristina Briese"
+},
+"reviewBody": "It is perfect, absolutely delicious, I make it every year!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelli"
+},
+"reviewBody": "Perfection ... just make sure your spices aren't out of date (LOL)...My nutmeg was 3 years old and I checked it but unfortunately after i put it in the pie. I've made this pie for the past three years always perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kate Rothschild"
+},
+"reviewBody": "I am in awe that a recipe this simple, can yield such an incredible, delectable pumpkin pie! You rock Chef John! I don’t like the ‘heat’ of the spices at the end, so I stuck with cinnamon and ginger. I find less is more; I like the flavor of the pumpkin to be the ‘main attraction’??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarani"
+},
+"reviewBody": "I’ve made this pie for the past few years now and it’s always been a hit! I LOVE it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Benjamin Taylor"
+},
+"reviewBody": "Not bad, but it isn't very sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Van Hoff"
+},
+"reviewBody": "I followed the recipe exactly as written and is perfect! My go to pumpkin pie recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kaylyn Campbell"
+},
+"reviewBody": "My in-laws are OBSESSED with my pumpkin pie! My secret? It’s this recipe. I’ve been making it every Thanksgiving for years and they’ve even requested it on birthdays in place of cake a few times..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "honeycooker46"
+},
+"reviewBody": "What a beautiful pie! The only change I made was omitting the Chinese Five Spice because I didn’t have any. I used a Tbs of pumpkin pie spice and a store bought pie crust. This pie is probably the best I’ve ever had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Croatian Bear"
+},
+"reviewBody": "The BEST is all I can say. So easy to make and best pumpkin pie we’ve ever tasted. Follow recipe to the T and you won’t be disappointed, and confirm no cracks! After 15 min at high temp was 35min in my oven."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Erik"
+},
+"reviewBody": "The texture was beautiful, and it didn’t crack. Silky, smooth. It’s a bit too sweet for my taste with the sweetened condensed milk, but the texture almost makes up for that."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dana Hickman"
+},
+"reviewBody": "11/5/20 - Z&amp;Z made this together, no changes to recipe except we had a fudge a little on the spices (didn't have everything separately but did have \"pumpkin pie spice mix\". Was delicious, cooked up in the 15 + 30 minutes perfectly! They are happy campers!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lillie Auger"
+},
+"reviewBody": "I'm not a fan of pumpkin pie, or sweet potatoes for that matter, but my son and husband love sweet potato pie. So, instead of using the pumpkin puree like the recipe calls for, I substituted with sweet potatoes instead and the pie was phenomenal! I can no longer say I don't like sweet potatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Theresia Clevenger"
+},
+"reviewBody": "Absolutely the best Pumpkin Pie I made so far. This pie is a big hit, been making it now for the past 5 years, no need to look any further for recipes. I did substitute the Chinese 5-spice with Allspice since that was difficult to find at first but now I am using it. it really didn't make much of a difference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ChefStella"
+},
+"reviewBody": "i didn't use chinese spice powder. IT was perfect!! stay safe from covid 19!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aimee George"
+},
+"reviewBody": "This was the best pumpkin pie I've ever eaten or made. I find most pumpkin pie recipes bland and unremarkable. I will never make pie any other way. Do not second guess ingredients it comes out perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Italiancook"
+},
+"reviewBody": "I made this in 2019 and it will be my pumpkin pie recipe for as long as I make it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jon Kislin"
+},
+"reviewBody": "I followed this recipe to the letter 5 years ago. I still fantasize about it. This is the pinnacle of pumpkin pies. I've never tasted one as good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Adrianna Stewart"
+},
+"reviewBody": "It was delicious! I have made a similar recipe every year, but this one did not split like mine usually do... this will be my new go-to :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mrs. C."
+},
+"reviewBody": "Read many of the reviews before making this pie. I did not use a can of pumpkin rather, I cooked my own pie pumpkin which yielded 3 pumpkin pies. I made each pie individually. This is an absolute keeper recipe. It did not crack at all. The spices are subtle and do not over power the pumpkin. The texture is rich and velvety and the condensed milk gives this pie some serious substance. Huge hit at our thanksgiving dinner. 5 star rating."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bakerma"
+},
+"reviewBody": "Amazing ! This one is a keeper. The family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Whole Chef"
+},
+"reviewBody": "Absolutely delicious! I used a gluten free crust (required for my household) and, since I didn't have any Chinese Five Spice, I added 1/8 tsp each cloves and allspice. Next time I will buy the Chinese Five Spice as I imagine it's worthwhile. No cracks, perfectly rich and satisfying. Thanks, Chef John! Another winner!"
+}
+]

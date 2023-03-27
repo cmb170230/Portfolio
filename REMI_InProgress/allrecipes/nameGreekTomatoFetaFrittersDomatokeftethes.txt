@@ -1,0 +1,91 @@
+,"name": "Greek Tomato Feta Fritters (Domatokeftethes)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "6"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "170 kcal"
+,"carbohydrateContent": "25 g"
+,"cholesterolContent": "19 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "1299 mg"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 cups diced fresh tomatoes with juices",
+"0.5 cup packed grated zucchini",
+"0.33 cup sliced green onions",
+"2 teaspoons kosher salt, or to taste",
+"1 teaspoon white sugar",
+"0.5 teaspoon freshly ground black pepper",
+"0.25 teaspoon dried oregano",
+"1 pinch cayenne pepper",
+"0.25 cup chopped fresh Italian parsley",
+"2 tablespoons chopped fresh mint",
+"2 tablespoons chopped fresh basil",
+"3 ounces feta cheese, crumbled",
+"0.75 cup all-purpose flour, or more as needed",
+"0.75 teaspoon baking powder",
+"vegetable oil for frying" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Stir together tomatoes, zucchini, green onions, kosher salt, sugar, black pepper, oregano, and cayenne in a bowl to combine."
+} ,{
+"@type": "HowToStep"
+,"text": "Let sit for 15 minutes for the sugar and salt to draw out liquids from the vegetables."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir the tomato mixture; add parsley, mint, and basil. Crumble in feta cheese. Add flour and baking powder; mix with a spoon until combined. Batter should be relatively loose but will hold its shape on a spoon. If too loose, add more flour; if too dry, add some water until desired consistency is reached."
+} ,{
+"@type": "HowToStep"
+,"text": "Wrap the bowl in plastic wrap and let chill in the refrigerator for at least 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 1 inch of vegetable oil in a frying pan over medium-high heat to 350 degrees F (175 degrees C), or use a deep fryer."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/RjxkyU984Vdxh4hjySjxt1df3Rw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1GreekTomatoFetaFritters-2000-88b7b037bc664a86b4e3aac7ba762395.jpg"
+}
+]
+,"text": "Place heaping tablespoonfuls of batter in the hot oil; reduce heat to medium. Fry until golden brown and cooked through, 2 to 3 minutes per side. Flip once more and fry for an additional 30 seconds, if desired. Serve warm or at room temperature."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT65M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wil"
+},
+"reviewBody": "No changes were made. The flavors came together to make a very savory , fantastic taste delight! This has to be the best fritters I have ever experienced!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Spot on Chef- just like they taste in Greece. I added a bit of dill and reduced the mint because I only had spearmint and it's a little strong. It needed a little extra flour for me (probably because my feta was softer and my tomatoes very ripe), but fried up beautifully. They would have been even better if I could have waited until they were cool before scarfing all of them. Really appreciate this delicious, seasonal vegetarian dish! I've had mixed luck with fritters in the past and these turned out the best by far. Thank you!"
+}
+]

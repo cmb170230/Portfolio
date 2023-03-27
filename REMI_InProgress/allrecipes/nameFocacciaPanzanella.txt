@@ -1,0 +1,87 @@
+,"name": "Focaccia Panzanella"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "314 kcal"
+,"carbohydrateContent": "29 g"
+,"fiberContent": "3 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "231 mg"
+,"fatContent": "20 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"5 cups cubed focaccia bread",
+"1 clove garlic, crushed",
+"0.5 teaspoon white sugar",
+"1 anchovy fillet",
+"0.33 cup red wine vinegar, or more to taste",
+"0.33 cup extra-virgin olive oil, or to taste",
+"3 vine-ripened tomatoes, cut into 1- to 2-inch pieces, or more to taste",
+"1 pint cherry tomatoes, halved",
+"salt and freshly ground black pepper to taste",
+"0.67 cup sliced fresh mozzarella cheese",
+"0.25 cup thinly sliced red onion",
+"0.5 cup fresh basil leaves, torn into small pieces" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper or a silicone baking mat."
+} ,{
+"@type": "HowToStep"
+,"text": "Place bread cubes on the prepared baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Toast bread in the preheated oven until browned and fully crisp, about 20 minutes. Remove from the oven and let cool down to room temperature."
+} ,{
+"@type": "HowToStep"
+,"text": "Mash garlic, sugar, and anchovy into a coarse paste using the back of a fork. Add vinegar and oil; whisk until combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Toss vine-ripened tomatoes, cherry tomatoes, salt, and pepper into the dressing with a spatula. Let sit for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/RwYjtSqtRh3opfOLNQix-gCOWvA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1Focaccia-Panzanella-2000-814f0ee15cf040b9aef6ba440cfc6f0d.jpg"
+}
+]
+,"text": "Add mozzarella and red onion to the tomato mixture and toss with a spatula to combine. Add bread cubes and mix until saturated as desired. Mix in basil. Taste for seasoning before serving."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Incredible recipe. Simple and unbelievably good. Served it to some friends and they loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mommy42ca"
+},
+"reviewBody": "Absolutely amazing! Bright and flavourful! A new summer go to for sure😊"
+}
+]

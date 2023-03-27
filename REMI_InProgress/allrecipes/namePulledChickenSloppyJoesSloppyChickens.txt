@@ -1,0 +1,363 @@
+,"name": "Pulled Chicken Sloppy Joes (Sloppy Chickens)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "25"
+}
+,"cookTime": "PT100M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "847 kcal"
+,"carbohydrateContent": "95 g"
+,"cholesterolContent": "140 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "53 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "2629 mg"
+,"sugarContent": "15 g"
+,"fatContent": "27 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 tablespoon vegetable oil",
+"4 cloves garlic, minced",
+"0.5 large yellow onion, diced",
+"1 tablespoon brown sugar, or to taste",
+"2 teaspoons kosher salt, or to taste",
+"1 teaspoon ground black pepper",
+"1 pinch cayenne pepper, or to taste",
+"2 pounds boneless, skinless chicken thighs",
+"0.75 cup ketchup",
+"1 tablespoon Dijon mustard",
+"0.5 teaspoon Worcestershire sauce",
+"1 tablespoon hot sauce, or to taste",
+"1 cup water",
+"2 tablespoons thinly sliced green onions",
+"0.5 cup diced jalapeno pepper",
+"4 medium hamburger buns - split, toasted and buttered" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Add vegetable oil to a saucepan, and then add (in this order) garlic, yellow onion, brown sugar, kosher salt, black pepper, cayenne, chicken thighs, ketchup, Dijon mustard, Worcestershire sauce, and hot sauce."
+} ,{
+"@type": "HowToStep"
+,"text": "Place over high heat and wait until you can hear the garlic sizzling in the bottom of the pan, about 30 seconds. Let garlic sizzle for about 30 seconds before adding the water. Stir everything together and wait for the mixture to boil."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce heat to medium-low and simmer, uncovered, until the chicken falls apart, about 1 1/2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in the green onions and peppers and cook until the peppers just turn tender, 3 to 5 minutes more. Taste for seasoning."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/r7SZjWag76AaeRZ1L4DLEIWRXjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9322663-40595fe4c758482c82c37c7cd79fd20b.jpg"
+}
+]
+,"text": "Remove from heat and serve on toasted hamburger buns."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT110M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nermal"
+},
+"reviewBody": "The only changes I made were using a small can of chopped green chiles, and using the whole onion. I don't like leaving onion behind. Second time I made it I had fresh jalapeños so two went in, finely chopped. This was even more deliciouser (it's a word NOW, okay?), and it's on the favs list. p.s. I only had 1 lb of b'less thighs left, and the local supermarket was out. Don't sub breast for the thighs. Too dry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "rich"
+},
+"reviewBody": "Followed the recipe exactly as it said. Very bland, no flavor. I even tried adding BBQ to it and it still was missing flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Daniel Nilssen"
+},
+"reviewBody": "A little spicy but then again I like spicy. The only I thing thing I would have done differently was add the water a little at a time if it gets too thick"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NKMELVIN"
+},
+"reviewBody": "I'm not sure where my original, lengthy review disappeared to, but this recipe was easy to follow and spot on with the instructions and ingredients. I stirred every 30 minutes and it came out completely delicious. We've made this several times now and enjoy the sandwiches everytime!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mollyscottid"
+},
+"reviewBody": "Husband loved it. So easy and had great flavor. Will definitely make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dr Gas"
+},
+"reviewBody": "Usually I stay away from BBQ chicken bc it tends to be dry. I almost invariably opt for the BBQ pork for that reason. But, listening to the Chef's mellifluous tones, I thought I might as well give this one a try. I am quite glad I did. This recipe was excellent. I had recently picked up a ten lb bag of frozen, skinless, boneless chicken thighs from the local restaurant supply house which was convenient. I used an orange pepper instead of green, since that's all I had. Also, I have been growing my own green onions which is actually easy to do, and quite handy. Anyway, I put the final product on buttered, toasted Ball Park Everything Burger Buns. I resisted the temptation of adding some extra Sweet Baby Ray's BBQ sauce. And it was quite tasty. I ended up eating two samiches and honestly I could have eaten 4. I will 100% be making this recipe again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce Giesler"
+},
+"reviewBody": "This was delicious. It's going on my list of easy crowd pleasing meals. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andimj"
+},
+"reviewBody": "The family thought it was yummy. I used everything I had on hand. I used Tapatio because we don't use \"hot sauce\". I also didn't have a jalapeno on had so that was out. Used ciabatta rolls toasted as well. Mmmmmm so good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alicia Tindall"
+},
+"reviewBody": "I skipped the brown sugar and eyed the other ingredients. I skipped the jalapeños and ate it over a salad. I will definitely repeat this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "MakMack"
+},
+"reviewBody": "First off, I’m a huge Chef John fan and I have loved all of his recipes I’ve tried. But this recipe was not my favorite. It was ok, meaning my family ate it, but I’m not looking forward to leftovers. It wasn’t bad and there is nothing negative I can point out, it just wasn’t noteworthy or very appetizing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CarolineFrance"
+},
+"reviewBody": "Absolutely great and so easy. I’ve made it twice now and can’t believe how good it is. The recipe is 5 stars just how it is written but I have started to add some extra BBQ sauce and a splash of liquid smoke to the mix. This will be a go-to now since I keep frozen chicken thighs and everything else is typically in my pantry anyways. Bravo Chef John, you never miss."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jon Jones"
+},
+"reviewBody": "Made it earlier today, mostly by the recipe--popped up the hot sauce and jalapeño for more kick. Turned out beautifully.\n\nServed it with a cool cucumber-tomato-olive-mint salad. Balanced things perfectly.\n\nDefinitely a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "All the Food"
+},
+"reviewBody": "Yup. Delicious. Do yourself a favor and make it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marissa Le Coz"
+},
+"reviewBody": "So good and so easy!! This is going to become part of my weekly dinner rotation!\n\nFor a non-hot version - I subbed out the jalapenos for poblanos instead. I also skipped the hot sauce. Loooooved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lainee Poo"
+},
+"reviewBody": "I follow many of chef John's recipes. He takes you step by step. Look up his Super Crispy Onion Rings."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise Kasz Willmarth"
+},
+"reviewBody": "My friend made this for lunch yesterday and I couldn't stop eating it! He used a poblano chili pepper and used half of the brown sugar and it was delicious. I bought chicken to make it this week!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Zapzup"
+},
+"reviewBody": "I made it with not enough defrosted bone in chicken thighs and half ratio and it turned out great. It only added 10-15mins to the cooking time and an additional splash of water to keep them submerged. Taking the bone out was easy but finding the cartilage in the meat wasn't. But yeah 10/10 would do it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Matt R"
+},
+"reviewBody": "I think this might be my new favorite Chef John recipe. I prepared the chicken exactly as listed and it came out super tender and juicy, with just the right amount of spice. Prep was quick and easy too, perfect for a weeknight. For a bonus, I added butter, garlic powder and grated parmesan when toasting the hamburger buns for some garlic bread sloppy chickens. Definitely will be making this one again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danielle Barge"
+},
+"reviewBody": "interesting take on sloppy joes ~ was delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jaime Stockwell O'Brien"
+},
+"reviewBody": "We had this for dinner tonight and the whole family loved it! So very delicious. Thank you for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heidi"
+},
+"reviewBody": "This was really good! Mine were a little more saucy than Chef John's, but, still very good. Thought it might be too sweet with ketchup AND brown sugar but NOPE--it was just right. In fact, I might add just a smidge more brown sugar next time. Paired this with Chef John's Classic Macaroni Salad and it was awesome!! Thanks, Chef John"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Chin"
+},
+"reviewBody": "Made it as meal-prep for a week of lunches! Very easy to make and tastes great. Wish we were eating it right now instead of saving it for lunch! Doubled the recipe without issue, took an extra 30 minutes on the simmer to reach the desired consistency."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "J K"
+},
+"reviewBody": "We just tried this recipe but without the jalapeños and with onion powder instead of onion. Super easy and delicious. We’ll make this again."
+}
+]

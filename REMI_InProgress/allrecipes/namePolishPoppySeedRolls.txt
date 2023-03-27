@@ -1,0 +1,124 @@
+,"name": "Polish Poppy Seed Rolls"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "3"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "405 kcal"
+,"carbohydrateContent": "46 g"
+,"cholesterolContent": "76 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "140 mg"
+,"sugarContent": "25 g"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"0.5 cup whole milk, warmed",
+"2 teaspoons active dry yeast",
+"1.5 cups all-purpose flour, divided, or more as needed",
+"2 large egg yolks",
+"3 tablespoons white sugar",
+"3 tablespoons unsalted butter, melted",
+"0.5 teaspoon kosher salt",
+"0.125 teaspoon pure vanilla extract",
+"3 tablespoons unsalted butter",
+"0.25 cup milk",
+"0.25 cup honey",
+"3 tablespoons white sugar",
+"2 tablespoons water",
+"1.5 cups poppy seeds",
+"3 tablespoons powdered sugar, or as needed",
+"1 teaspoon milk, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine warm milk, yeast, and 1/2 cup of flour for dough in the bowl of a stand mixer and whisk to combine. Let sit until a &#34;sponge&#34; forms, about 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add egg yolks, sugar, melted butter, salt, and vanilla extract to the &#34;sponge&#34; and whisk until combined. Add remaining 1 cup flour and mix using a dough hook attachment on low speed, scraping down the bowl occasionally with a spatula, until a soft, smooth, slightly elastic dough forms, about 5 minutes. Add more flour and continue to knead if the dough seems too wet and sticky."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove dough from the bowl and knead by hand, checking consistency, about 1 minute, adding a little more flour if necessary."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer the dough to a lightly greased bowl. Toss to coat, cover, and let rise in a warm spot until doubled in size, about 2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "While the dough is rising, add butter, milk, honey, sugar, and water to a saucepan and place over medium-high heat; bring to a simmer. Add poppy seeds and cook, stirring, until the mixture thickens up to a spreadable texture, about 5 minutes. Turn off the heat and allow to cool to room temperature before using, 20 to 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with a silicone baking mat (such as Silpat®)."
+} ,{
+"@type": "HowToStep"
+,"text": "Once the dough has risen, transfer to a lightly floured surface and use your hands to roll into a log shape, about 15 inches long. Switch to a rolling pin and roll the dough out into a 10x18-inch rectangle, about 1/8-inch thick."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread cooled filling over top, leaving about 1 1/2 inches of dough exposed on the longer side that you&#39;ll be rolling towards. Brush the exposed edge of dough very lightly with water."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll up the dough and filling toward the edge you just brushed, finishing with the seam on the bottom. Seal the ends and use your hands to shape the roll as evenly as possible. If you have lots of excess dough on either end, it can be trimmed off."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut the roll into 8 even pieces and lay flat on the prepared baking sheet. If possible, tuck any seams under the dough spiral as it&#39;s placed down. Let sit for 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until well-browned, 20 to 25 minutes. Transfer to a cooling rack and allow to cool to room temperature."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/pJn__9mQ6AvDrVxJhZJ9oMqCeO8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-231-52c7dd3c97d043c88a8d5e8da13bd36a.jpg"
+}
+]
+,"text": "While rolls are cooling, combine powdered sugar and milk in a bowl for glaze. Brush warm rolls with the glaze and serve."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT220M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "TaylorSmith"
+},
+"reviewBody": "Okay so the recipe itself is fine. I made it and they turned out quite well, I agree with those that said to not let the poppy seed mixture get too cold as it will be impossible to spread. However, my biggest gripe with these is that they're essentially tasteless. Maybe I should have added more vanilla or a more flavourful honey? Idk, the end result ended up tasting really bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jbsbigboy"
+},
+"reviewBody": "Tasty, but cooking time was too long, too hot. Only took 20 mins, but I also dropped the temp to 350 and put the tray on a lower rack for the last 5 mins. I would also opt to use only 2/3 of the poppy seed mix next time. As it, it's quite heavy on the poppyseeds."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah F"
+},
+"reviewBody": "Just watch them in the over, 20 minutes turned out to be too long and they got too dark! Also, make sure to make the poppy seed filling just before the dough finishes rising, or else the spread will harden. I had to microwave it for a few seconds beforehand since it cooled too much to spread."
+}
+]

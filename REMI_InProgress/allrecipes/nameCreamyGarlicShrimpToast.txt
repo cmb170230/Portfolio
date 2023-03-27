@@ -1,0 +1,272 @@
+,"name": "Creamy Garlic Shrimp Toast"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "16"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "835 kcal"
+,"carbohydrateContent": "26 g"
+,"cholesterolContent": "435 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "40 g"
+,"saturatedFatContent": "38 g"
+,"sodiumContent": "580 mg"
+,"fatContent": "64 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"12 ounces large shrimp, peeled and deveined",
+"1 pinch cayenne pepper",
+"0.25 teaspoon smoked paprika",
+"3 cloves garlic, crushed, or more to taste",
+"2 thick slices French bread",
+"6 tablespoons clarified butter, melted, divided",
+"2 teaspoons fresh lemon zest",
+"2 tablespoons fresh lemon juice",
+"0.5 cup heavy cream",
+"2 tablespoons minced fresh Italian parsley",
+"1 pinch salt, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Butterfly shrimp and place in a mixing bowl. Add cayenne, paprika, and garlic and stir until shrimp are evenly coated. Refrigerate until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Trim most of the crusts off of the bread."
+} ,{
+"@type": "HowToStep"
+,"text": "Add 4 tablespoons melted butter to a skillet over medium heat. Add both slices of bread and toast until golden brown, 3 to 4 minutes per side. Remove bread to a plate and wipe out any crumbs."
+} ,{
+"@type": "HowToStep"
+,"text": "Add remaining melted butter to the skillet and increase heat to high. When the pan is very hot and you see the first wisp of smoke, add shrimp and use tongs to spread into an even layer. Sear, without stirring or tossing, for 1 minute."
+} ,{
+"@type": "HowToStep"
+,"text": "Sprinkle with lemon zest and add lemon juice and cream. Stir with a spoon to scrape any browned bits off the bottom. Let cream boil and reduce for 1 ½ to 2 minutes as the shrimp finishes cooking and the sauce thickens up."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn off the heat and stir in parsley. Taste and add salt if needed."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/fhh6gdza6mXx72_ZHfZmmZjOrsg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Creamy-Garlic-Shrimp-Toast-2000-111562a1a04a4b42b60673e42433e885.jpg"
+}
+]
+,"text": "Divide shrimp and sauce evenly over each piece of toasted bread."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Janet Jaderen Hands"
+},
+"reviewBody": "This was delicious and decadent! My husband said “You can make this again!” Only thing I would do differently as per chef’s advice, is remove shrimp from pan before making sauce and add them back in when it’s almost thick enough to finish cooking. Otherwise, they do get overcooked. I served it over angel hair with the crispy toast…so good!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kga"
+},
+"reviewBody": "Incredible. SO easy, quick and fresh. Making this for Valentines day"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "alleycat5404"
+},
+"reviewBody": "Wow! Made this exactly as written and it was excellent! Very easy to make and the cream with all of the browned bits from the pan made a fantastic sauce. Thanks again, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet P Andy"
+},
+"reviewBody": "Delicious and super easy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "paige"
+},
+"reviewBody": "This is super rich and yummy and it's really a very simple recipe. I kinda worked with what I had around, but pretty much went with the recipe. Dont skip the SMOKED paprika, it really made an interesting flavor. My husband hates lemon, so I just hid a bit in the recipe then served lemon wedges on the side for me and my son. Everyone came back around looking for 2nds, but I didnt have any ! I'll probably do addition toasted bread next time to sop up the sauce - it's heavy shrimp loaded . It was super easy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue"
+},
+"reviewBody": "I've made this recipe three times now. Absolutely delicious. My new favorite shrimp recipe. Just remember to assemble your ingredients first. Once started, it goes pretty fast. Perfect recipe for two! Oh, and I did use a store bought sourdough bread. Gave a little extra tang to the shrimp sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie Treadwell"
+},
+"reviewBody": "This was absolutely wonderful for a light meal. I did add more garlic. This will be a recipe I use often."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Wowza…This was “lick the plate clean” good!! I didn’t even have fresh garlic OR the right kind of bread and it still turned out delicious. Creamy, lemony, unctuous goodness for the tastebuddies! I had to use garlic powder and some mini French rolls I had on hand (cut in half and crust cut off top and bottom to toast well), so I can only imagine how much BETTER this would be with all of the right ingredients! Recipe SAVED and on ROTATION :) PS: I did add a little ‘Nature’s Seasons’ blend to it for a little flavor boost and a sprinkle of Parmesan cheese"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I was easy to make....I actually used half &amp; half"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lacyanne"
+},
+"reviewBody": "I decided to make Shrimp Toast two ways for my husband who does not like shrimp to convince him that he is wrong. This was absolutely delicious. The sauce is a real game changer and would make a shoe tasty. I chose to not cut the crust off my bread (Chef John's No Knead Beer Bread) and obviously I was wrong. Definitely cut some of the crust off. It came together quickly and ate much lighter than you would think. The only complaint from the husband was there was too much shrimp and I was able to assist by adding them to my plate. Will definitely be making again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LadyBlue"
+},
+"reviewBody": "This was delicious! I used garlic herb parmesan bread that I'd made over the weekend. The flavors were wonderful! Definitely a keeper! Thank you for this recipe. I had a bag of shrimp in the freezer that I wasn't sure what to do with. Now I have to buy more shrimp!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bgrille"
+},
+"reviewBody": "Easy, absolutely delicious, and impressive looking!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made this tonight for 4...didn't have bread but instead served over cheese grits and paired with fried okra!! There wasn't a speck left!! Thanks for the great recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Make this recipe a couple times a month. It’s incredibly easy and delicious with such a small amount of prep and ingredients! My husband loves the toast I throw it all over roasted broccoli and top with sriracha. One of the greatest meals I’ve ever had and I can’t believe I’m able to make it at home. Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "junehjs"
+},
+"reviewBody": "easy and delicious! Chef John never disappoint me"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "spikewessels"
+},
+"reviewBody": "Great recipe! I put it on garlic mashed potatoes, per my husbands' request, and it was so good. I did add about two teaspoons of sweet cream sherry. Other than that, exactly per Chef John's recipe. So simple, elegant and quick!"
+}
+]

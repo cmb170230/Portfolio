@@ -1,0 +1,115 @@
+,"name": "Mini Croissant Crust Pecan Pies"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "4"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "547 kcal"
+,"carbohydrateContent": "58 g"
+,"cholesterolContent": "100 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "616 mg"
+,"fatContent": "34 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"0.25 cup unsalted butter",
+"1 cup light brown sugar",
+"1 cup light corn syrup",
+"2 teaspoons kosher salt",
+"1 teaspoon pure vanilla extract",
+"2 tablespoons bourbon whiskey",
+"4 large eggs",
+"3 cups pecan halves, coarsely chopped",
+"2 tablespoons unsalted butter, softened",
+"6 large croissants" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine butter, brown sugar, corn syrup, salt, vanilla, and bourbon whiskey in a saucepan over medium-high heat. Bring to a simmer, then whisk mixture and boil for 1 minute. Remove from the heat and let cool for 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add eggs and whisk quickly to combine. Stir in pecans. Set aside until mixture thickens a bit and cools down, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Use the butter to generously grease a 12-cup muffin tin."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut each croissant in half, then turn the halves and slice open like you&#39;re making a sandwich. Place each piece into a prepared muffin cup and press it down and into the sides to fit and line the cup. Remove any pieces that stick up over the edge of the muffin cup and patch those in where needed to cover the sides."
+} ,{
+"@type": "HowToStep"
+,"text": "Spoon the pecan filling evenly into the muffin cups, stirring between each spoonful to ensure you get an even amount of nuts and sauce. Use your fingers to press pecans into the cups and even out the tops so they don&#39;t burn. Clean up any syrup that dripped onto the pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until golden brown, about 25 minutes, with a pan on the rack underneath to catch any drips."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/nXjr45JjPlsijQPA5vQML1B0e-U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8303654-mini-croissant-crust-pecan-pies-Chef-John-1x1-1-dd89b6ba19ad4a00af1ae862638ad7d2.jpg"
+}
+]
+,"text": "Remove from the pan and let sit in the pan for 5 minutes. Turn each pie a bit, then lift out and place on a plate to continue cooling. Let cool completely before serving."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT75M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lacyanne"
+},
+"reviewBody": "Well these are just exceptionally delicious. I made them for pie day because I didn't want to deal with making crust and wow! They were gobbled up so quickly and the husband was convinced it was perfectly fine as a breakfast food. Who am I to argue with sound logic? I used leftover mini croissants and doubled the recipe. I probably could have filled them up a little more. These are truly foolproof and I will be making these for parties and whenever croissants are on sale! Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Hard to mess up and makes for a delicious treat! I decided to follow a naming trend: A croissant donut is a cronut, croissant muffin is a cruffin, and a croissant waffle is a craffle, so this is a pecan CRIE. Lol I have never baked anything from scratch in my life and it's incredibly easy. Please make sure to own a bread knife or slicing your croissant won't be so easy. Even then, however, once you manage it, it works quite easily. I didn't go for the high-quality stuff and just went with mini croissants from Ralphs. One mini croissant split down the middle is enough for one of these mini pies. Leaves a good bit of overhang though, but the ends are easily snipped and good for mopping up that sweet sauce right before cleanup! If you're looking for a tasty dessert to make for a group, this is an incredibly easy recipe. You HAVE to try it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Farvista"
+},
+"reviewBody": "I gave this recipe a test-drive, my husband ate one, and in a laconic Texas drawl, said \"Well....yah don't need ta make p'can pies anymore.\" (That means \"WHOO-DANG! I LOVE this!\") We took them to a party and folks VACUUMED them up. Some were near to burned, and one of our friends asked if he could have the extra-toasty ones, which he especially liked. I have NEVER had leftovers. One advantage to having these at a party is that you can pick it up to eat it, leaving your other hand free. Very convenient. This is now a winter party staple for us."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gomsoon"
+},
+"reviewBody": "Okay so, this is pretty fool proof and the results are phenomenal. Where I didn't follow directions: Used mini croissants from Walmart (lol), didn't have enough corn syrup and used 1/3 cup honey instead to fill out the cup, and my filling never got thick like it did in the video who knows why. AND EVEN THEN, these pies were amazing and a huge hit. Came out of the oven looking like they belonged in a display case at a bakery. The only annoying/time-consuming part about this was trying to grease the tins with cold butter, which was completely on me and not the recipe. P.S. Didn't include the bourbon, so if you're like me and don't want to bother with an extra trip to the liquor store for something you'll never use again, I'd just leave it out."
+}
+]

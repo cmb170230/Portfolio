@@ -1,0 +1,5403 @@
+<!DOCTYPE html>
+<html class='v2' dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/2975350028-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<meta content='IE=EmulateIE7' http-equiv='X-UA-Compatible'/>
+<meta content='width=1100' name='viewport'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://foodwishes.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://foodwishes.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Food Wishes Video Recipes - RSS" href="https://foodwishes.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://www.blogger.com/feeds/7173052990851751381/posts/default" />
+
+<link rel="alternate" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://foodwishes.blogspot.com/feeds/5907830273161716465/comments/default" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<link href='http://4.bp.blogspot.com/-byk0tjEcAig/Vjje2geIyTI/AAAAAAAARsI/qHT26eafZIY/s320/IMG_8641.JPG' rel='image_src'/>
+<meta content='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html' property='og:url'/>
+<meta content='Gingersnap Cookies – Hot, Hot, Sweet' property='og:title'/>
+<meta content='  I always tell people I’m not a cookie eater, but I guess that depends on the cookie, since when it comes to these gingersnaps, I can’t get...' property='og:description'/>
+<meta content='//4.bp.blogspot.com/-byk0tjEcAig/Vjje2geIyTI/AAAAAAAARsI/qHT26eafZIY/w1200-h630-p-k-no-nu/IMG_8641.JPG' property='og:image'/>
+<title>Food Wishes Video Recipes: Gingersnap Cookies &#8211; Hot, Hot, Sweet</title>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Watermark
+Designer: Josh Peterson
+URL:      www.noaesthetic.com
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="keycolor" description="Main Color" type="color" default="#c0a154"/>
+<Group description="Page Text" selector=".main-inner">
+<Variable name="body.font" description="Font" type="font"
+default="normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="body.text.color" description="Text Color" type="color" default="#333333"/>
+</Group>
+<Group description="Backgrounds" selector=".main-inner">
+<Variable name="body.background.color" description="Outer Background" type="color" default="#c0a154"/>
+<Variable name="footer.background.color" description="Footer Background" type="color" default="transparent"/>
+</Group>
+<Group description="Links" selector=".main-inner">
+<Variable name="link.color" description="Link Color" type="color" default="#cc3300"/>
+<Variable name="link.visited.color" description="Visited Color" type="color" default="#993322"/>
+<Variable name="link.hover.color" description="Hover Color" type="color" default="#ff3300"/>
+</Group>
+<Group description="Blog Title" selector=".header">
+<Variable name="header.font" description="Title Font" type="font"
+default="normal normal 40px Georgia, Utopia, 'Palatino Linotype', Palatino, serif"/>
+<Variable name="header.text.color" description="Title Color" type="color" default="#ffffff" />
+<Variable name="description.text.color" description="Description Color" type="color"
+default="#997755" />
+</Group>
+<Group description="Tabs Text" selector=".tabs-outer .PageList">
+<Variable name="tabs.font" description="Font" type="font"
+default="normal normal 5px Georgia, Utopia, 'Palatino Linotype', Palatino, serif"/>
+<Variable name="tabs.text.color" description="Text Color" type="color" default="#ac2e04"/>
+<Variable name="tabs.selected.text.color" description="Selected Color" type="color" default="#000000"/>
+</Group>
+<Group description="Tabs Background" selector=".tabs-outer .PageList">
+<Variable name="tabs.background.color" description="Background Color" type="color" default="transparent"/>
+<Variable name="tabs.separator.color" description="Separator Color" type="color" default="#929d77"/>
+</Group>
+<Group description="Date Header" selector=".Blog">
+<Variable name="date.font" description="Font" type="font"
+default="normal normal 16px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="date.text.color" description="Text Color" type="color" default="#997755"/>
+</Group>
+<Group description="Post" selector=".post">
+<Variable name="post.title.font" description="Title Font" type="font"
+default="normal normal 30px Georgia, Utopia, 'Palatino Linotype', Palatino, serif"/>
+<Variable name="post.background.color" description="Background Color" type="color" default="transparent"/>
+<Variable name="post.border.color" description="Border Color" type="color" default="#ccbb99" />
+</Group>
+<Group description="Post Footer" selector=".post-footer">
+<Variable name="post.footer.text.color" description="Text Color" type="color" default="#997755"/>
+</Group>
+<Group description="Gadgets" selector=".sidebar .widget">
+<Variable name="widget.title.font" description="Title Font" type="font"
+default="normal normal 20px Georgia, Utopia, 'Palatino Linotype', Palatino, serif"/>
+<Variable name="widget.title.text.color" description="Title Color" type="color" default="#000000"/>
+<Variable name="widget.alternate.text.color" description="Alternate Color" type="color" default="#777777"/>
+</Group>
+<Group description="Footer" selector=".footer-inner">
+<Variable name="footer.text.color" description="Text Color" type="color" default="#000000"/>
+<Variable name="footer.widget.title.text.color" description="Gadget Title Color" type="color" default="#505050"/>
+</Group>
+<Group description="Footer Links" selector=".footer-inner">
+<Variable name="footer.link.color" description="Link Color" type="color" default="#ac2e04"/>
+<Variable name="footer.link.visited.color" description="Visited Color" type="color" default="#b63104"/>
+<Variable name="footer.link.hover.color" description="Hover Color" type="color" default="#8bae28"/>
+</Group>
+<Variable name="body.background" description="Body Background" type="background"
+color="#929d77" default="$(color) url(http://www.blogblog.com/1kt/watermark/body_background_birds.png) repeat scroll top left"/>
+<Variable name="body.background.overlay" description="Overlay Background" type="background" color="#929d77"
+default="transparent url(http://www.blogblog.com/1kt/watermark/body_overlay_birds.png) no-repeat scroll top right"/>
+<Variable name="body.background.overlay.height" description="Overlay Background Height" type="length" default="121px"/>
+<Variable name="tabs.background.inner" description="Tabs Background Inner" type="url" default="none"/>
+<Variable name="tabs.background.outer" description="Tabs Background Outer" type="url" default="none"/>
+<Variable name="tabs.border.size" description="Tabs Border Size" type="length" default="0"/>
+<Variable name="tabs.shadow.spread" description="Tabs Shadow Spread" type="length" default="0"/>
+<Variable name="main.padding.top" description="Main Padding Top" type="length" default="30px"/>
+<Variable name="main.cap.height" description="Main Cap Height" type="length" default="0"/>
+<Variable name="main.cap.image" description="Main Cap Image" type="url" default="none"/>
+<Variable name="main.cap.overlay" description="Main Cap Overlay" type="url" default="none"/>
+<Variable name="main.background" description="Main Background" type="background"
+default="transparent none no-repeat scroll top left"/>
+<Variable name="post.background.url" description="Post Background URL" type="url"
+default="url(http://www.blogblog.com/1kt/watermark/post_background_birds.png)"/>
+<Variable name="post.border.size" description="Post Border Size" type="length" default="1px"/>
+<Variable name="post.border.style" description="Post Border Style" type="string" default="dotted"/>
+<Variable name="post.shadow.spread" description="Post Shadow Spread" type="length" default="0"/>
+<Variable name="footer.background" description="Footer Background" type="background"
+color="#000000" default="$(color) url(http://www.blogblog.com/1kt/watermark/body_background_navigator.png) repeat scroll top left"/>
+<Variable name="startSide" description="Side where text starts in blog language" type="automatic" default="left"/>
+<Variable name="endSide" description="Side where text ends in blog language" type="automatic" default="right"/>
+*/
+/* Use this with templates/1ktemplate-*.html */
+/* Content
+----------------------------------------------- */
+body, .body-fauxcolumn-outer {
+font: normal normal 15px Verdana, Geneva, sans-serif;;
+color: #000000;
+background: #929d77 url(//www.blogblog.com/1kt/watermark/body_background_birds.png) repeat scroll top left;
+}
+html body .content-outer {
+min-width: 0;
+max-width: 100%;
+width: 100%;
+}
+.content-outer {
+font-size: 92%;
+}
+a:link {
+text-decoration:none;
+color: #ac2e04;
+}
+a:visited {
+text-decoration:none;
+color: #b63104;
+}
+a:hover {
+text-decoration:underline;
+color: #8bae28;
+}
+.body-fauxcolumns .cap-top {
+margin-top: 30px;
+background: #929d77 none no-repeat scroll center center;
+height: 96px;
+}
+.content-inner {
+padding: 0;
+}
+/* Header
+----------------------------------------------- */
+.header-inner .Header .titlewrapper,
+.header-inner .Header .descriptionwrapper {
+padding-left: 20px;
+padding-right: 20px;
+}
+.Header h1 {
+font: normal normal 40px Verdana, Geneva, sans-serif;;
+color: #ffffff;
+text-shadow: 3px 3px rgba(0, 0, 0, .15);
+}
+.Header h1 a {
+color: #ffffff;
+}
+.Header .description {
+font-size: 50%;
+color: #83864a;
+}
+/* Tabs
+----------------------------------------------- */
+.tabs-inner .section {
+margin: 0 20px;
+}
+.tabs-inner .PageList, .tabs-inner .LinkList, .tabs-inner .Labels {
+margin-left: -11px;
+margin-right: -11px;
+background-color: transparent;
+border-top: 0 solid #ffffff;
+border-bottom: 0 solid #ffffff;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .3);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .3);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .3);
+box-shadow: 0 0 0 rgba(0, 0, 0, .3);
+}
+.tabs-inner .PageList .widget-content,
+.tabs-inner .LinkList .widget-content,
+.tabs-inner .Labels .widget-content {
+margin: -3px -11px;
+background: transparent none  no-repeat scroll right;
+}
+.tabs-inner .widget ul {
+padding: 2px 25px;
+max-height: 34px;
+background: transparent none no-repeat scroll left;
+}
+.tabs-inner .widget li {
+border: none;
+}
+.tabs-inner .widget li a {
+display: inline-block;
+padding: .25em 1em;
+font: normal normal 5px Georgia, Utopia, 'Palatino Linotype', Palatino, serif;
+color: #cc3300;
+border-right: 1px solid #929d77;
+}
+.tabs-inner .widget li:first-child a {
+border-left: 1px solid #929d77;
+}
+.tabs-inner .widget li.selected a, .tabs-inner .widget li a:hover {
+color: #000000;
+}
+/* Headings
+----------------------------------------------- */
+h2 {
+font: normal bold 14px Verdana, Geneva, sans-serif;;
+color: #505050;
+margin: 0 0 .5em;
+}
+h2.date-header {
+font: normal normal 16px 'Courier New', Courier, FreeMono, monospace;;
+color: #000000;
+}
+/* Main
+----------------------------------------------- */
+.main-inner .column-center-inner,
+.main-inner .column-left-inner,
+.main-inner .column-right-inner {
+padding: 0 5px;
+}
+.main-outer {
+margin-top: 0;
+background: transparent none no-repeat scroll top left;
+}
+.main-inner {
+padding-top: 10px;
+}
+.main-cap-top {
+position: relative;
+}
+.main-cap-top .cap-right {
+position: absolute;
+height: 0;
+width: 100%;
+bottom: 0;
+background: transparent none repeat-x scroll bottom center;
+}
+.main-cap-top .cap-left {
+position: absolute;
+height: 245px;
+width: 280px;
+right: 0;
+bottom: 0;
+background: transparent none no-repeat scroll bottom left;
+}
+/* Posts
+----------------------------------------------- */
+.post-outer {
+padding: 15px 20px;
+margin: 0 0 25px;
+background: #f2f6ea url(//www.blogblog.com/1kt/watermark/post_background_birds.png) repeat scroll top left;
+_background-image: none;
+border: dotted 1px #2e04ac;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+}
+h3.post-title {
+font: normal normal 24px Verdana, Geneva, sans-serif;;
+margin: 0;
+}
+.comments h4 {
+font: normal normal 24px Verdana, Geneva, sans-serif;;
+margin: 1em 0 0;
+}
+.post-body {
+font-size: 105%;
+line-height: 1.5;
+position: relative;
+}
+.post-header {
+margin: 0 0 1em;
+color: #83864a;
+}
+.post-footer {
+margin: 10px 0 0;
+padding: 10px 0 0;
+color: #83864a;
+border-top: dashed 1px #686868;
+}
+#blog-pager {
+font-size: 140%
+}
+#comments .comment-author {
+padding-top: 1.5em;
+border-top: dashed 1px #686868;
+background-position: 0 1.5em;
+}
+#comments .comment-author:first-child {
+padding-top: 0;
+border-top: none;
+}
+.avatar-image-container {
+margin: .2em 0 0;
+}
+/* Widgets
+----------------------------------------------- */
+.widget ul, .widget #ArchiveList ul.flat {
+padding: 0;
+list-style: none;
+}
+.widget ul li, .widget #ArchiveList ul.flat li {
+padding: .15em 0;
+text-indent: 0;
+border-top: dashed 1px #686868;
+}
+.widget ul li:first-child, .widget #ArchiveList ul.flat li:first-child {
+border-top: none;
+}
+.widget .post-body ul {
+list-style: disc;
+}
+.widget .post-body ul li {
+border: none;
+}
+.widget .zippy {
+color: #686868;
+}
+.post-body img, .post-body .tr-caption-container, .Profile img, .Image img,
+.BlogList .item-thumbnail img {
+padding: 5px;
+background: #fff;
+-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+-webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+-goog-ms-box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+}
+.post-body img, .post-body .tr-caption-container {
+padding: 8px;
+}
+.post-body .tr-caption-container {
+color: #333333;
+}
+.post-body .tr-caption-container img {
+padding: 0;
+background: transparent;
+border: none;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+}
+/* Footer
+----------------------------------------------- */
+.footer-outer {
+color:#bcc891;
+background: #000000 url(//www.blogblog.com/1kt/watermark/body_background_navigator.png) repeat scroll top left;
+}
+.footer-outer a {
+color: #ffd148;
+}
+.footer-outer a:visited {
+color: #d7aa23;
+}
+.footer-outer a:hover {
+color: #ffe26c;
+}
+.footer-outer .widget h2 {
+color: #e0ecb4;
+
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body {
+min-width: 1000px;
+}
+.content-outer, .content-fauxcolumn-outer, .region-inner {
+min-width: 1000px;
+max-width: 1000px;
+_width: 1000px;
+}
+.main-inner .columns {
+padding-left: 0;
+padding-right: 360px;
+}
+.main-inner .fauxcolumn-center-outer {
+left: 0;
+right: 360px;
+/* IE6 does not respect left and right together */
+_width: expression(this.parentNode.offsetWidth -
+parseInt("0") -
+parseInt("360px") + 'px');
+}
+.main-inner .fauxcolumn-left-outer {
+width: 0;
+}
+.main-inner .fauxcolumn-right-outer {
+width: 360px;
+}
+.main-inner .column-left-outer {
+width: 0;
+right: 100%;
+margin-left: -0;
+}
+.main-inner .column-right-outer {
+width: 360px;
+margin-right: -360px;
+}
+#layout {
+min-width: 0;
+}
+#layout .content-outer {
+min-width: 0;
+width: 900px;
+}
+#layout .region-inner {
+min-width: 0;
+width: auto;
+}
+--></style>
+<script type='text/javascript'>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1239220-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<meta content='XfDQyexKVqWZra8wFSODFO8OMmvfTPxC3Cpy8Us25Xk' name='google-site-verification'/>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7173052990851751381&amp;zx=31d715d2-3a8e-4947-adb5-759865afbd42' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7173052990851751381&amp;zx=31d715d2-3a8e-4947-adb5-759865afbd42' rel='stylesheet'/></noscript>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6116047697248916&host=ca-host-pub-1556223355139109" crossorigin="anonymous"></script>
+
+<!-- data-ad-client=ca-pub-6116047697248916 -->
+
+</head>
+<body class='loading'>
+<div class='navbar section' id='navbar'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d7173052990851751381\x26blogName\x3dFood+Wishes+Video+Recipes\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://foodwishes.blogspot.com/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttps://foodwishes.blogspot.com/\x26targetPostID\x3d5907830273161716465\x26blogPostOrPageUrl\x3dhttps://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html\x26vt\x3d-4030815930582625654',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div class='body-fauxcolumns'>
+<div class='fauxcolumn-outer body-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content'>
+<div class='content-fauxcolumns'>
+<div class='fauxcolumn-outer content-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content-outer'>
+<div class='content-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left content-fauxborder-left'>
+<div class='fauxborder-right content-fauxborder-right'></div>
+<div class='content-inner'>
+<header>
+<div class='header-outer'>
+<div class='header-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left header-fauxborder-left'>
+<div class='fauxborder-right header-fauxborder-right'></div>
+<div class='region-inner header-inner'>
+<div class='header section' id='header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<a href='https://foodwishes.blogspot.com/' style='display: block'>
+<img alt="Food Wishes Video Recipes" height="94px; " id="Header1_headerimg" src="//3.bp.blogspot.com/-KmGufCZW8FI/UIjCr0zRvoI/AAAAAAAAMic/KXVlQU4rrho/s1600/fwblog.jpg" style="display: block" width="1107px; ">
+</a>
+</div>
+</div></div>
+</div>
+</div>
+<div class='header-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</header>
+<div class='tabs-outer'>
+<div class='tabs-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left tabs-fauxborder-left'>
+<div class='fauxborder-right tabs-fauxborder-right'></div>
+<div class='region-inner tabs-inner'>
+<div class='tabs no-items section' id='crosscol'></div>
+<div class='tabs no-items section' id='crosscol-overflow'></div>
+</div>
+</div>
+<div class='tabs-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='main-outer'>
+<div class='main-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left main-fauxborder-left'>
+<div class='fauxborder-right main-fauxborder-right'></div>
+<div class='region-inner main-inner'>
+<div class='columns fauxcolumns'>
+<div class='fauxcolumn-outer fauxcolumn-center-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-left-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-right-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<!-- corrects IE6 width calculation -->
+<div class='columns-inner'>
+<div class='column-center-outer'>
+<div class='column-center-inner'>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Tuesday, November 3, 2015</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry'>
+<a name='5907830273161716465'></a>
+<h3 class='post-title entry-title'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html'>Gingersnap Cookies &#8211; Hot, Hot, Sweet</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content'>
+<div class="separator" style="clear: both; text-align: center;">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;"><a href="//4.bp.blogspot.com/-byk0tjEcAig/Vjje2geIyTI/AAAAAAAARsI/qHT26eafZIY/s1600/IMG_8641.JPG" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="254" src="//4.bp.blogspot.com/-byk0tjEcAig/Vjje2geIyTI/AAAAAAAARsI/qHT26eafZIY/s320/IMG_8641.JPG" width="320"></a></span></span></div>
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">I always tell people I&#8217;m not a cookie eater, but I guess
+that depends on the cookie, since when it comes to these gingersnaps, I can&#8217;t
+get enough. As soon as these cool, I chain-eat them until they&#8217;re gone; but
+that&#8217;s not my fault. I blame the amazing spicy-sweet flavor, and irresistible
+texture.
+</span></span><br />
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;"><br /></span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">Speaking of irresistible texture, I&#8217;ve got some homework for
+you. You&#8217;re going to have to make batches of these to find out your own optimum
+baking time. I know, it&#8217;s hard work, but you need to somehow find a way.&nbsp;</span></span><br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;"><a href="//3.bp.blogspot.com/-6ApJUW80vqw/VjjfDjpgn0I/AAAAAAAARsQ/Blgu1omqy8I/s1600/IMG_8575.JPG" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="225" src="//3.bp.blogspot.com/-6ApJUW80vqw/VjjfDjpgn0I/AAAAAAAARsQ/Blgu1omqy8I/s320/IMG_8575.JPG" width="320"></a></span></span></div>
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">Depending
+on the exact size of your dough balls, and how crispy, or chewy, you want
+these, the baking times will vary from 10 to 15 minutes. As far as ingredients go, the crystalized ginger is
+technically optional, but not too hard to find (check the bulk section), and it
+really gives the cookies that extra kick of ginger flavor and heat.&nbsp;</span></span><br />
+<br />
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">Obviously,
+you can also adjust the spices to suit your tastes, but don&#8217;t make these too
+mild. They&#8217;re called &#8220;snaps&#8221; for reasons other than their texture. I really hope
+you give these a try soon. Enjoy!</span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;"><br /></span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;"><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/Fac_E67gUFI" width="560"></iframe></span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;"><br /></span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">Ingredients for about 50 to 60 cookies (depending on size):</span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">2 cups plus 2 tablespoons all-purpose flour</span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">1 1/2 teaspoons baking soda</span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">1/2 teaspoon fine salt</span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">2 teaspoons ground ginger</span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">1 1/2 teaspoons ground cinnamon</span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">1/4 teaspoon ground cloves</span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">1/4 teaspoon ground black pepper</span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">1/8 teaspoon cayenne</span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">12 tablespoons room temp unsalted butter</span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">2/3 cup white sugar</span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">1/3 cup finely chopped candied ginger</span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">1/4 cup molasses</span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">1/2 teaspoon vanilla extract</span></span></div>
+<div class="MsoNormal">
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">1 large egg, beaten</span></span><br />
+<span style="font-family: Verdana,sans-serif;"><span style="font-size: small;">- Bake at 350 F. for 10 to 15 minutes, depending on desired texture. </span></span></div>
+<a data-pin-do='buttonBookmark' href='//pinterest.com/pin/create/button/'><img src='//assets.pinterest.com/images/pidgets/pin_it_button.png'/></a>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Posted by
+<span class='fn'>Chef John</span>
+</span>
+<span class='post-timestamp'>
+at
+<a class='timestamp-link' href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html' rel='bookmark' title='permanent link'><abbr class='published' title='2015-11-03T11:23:00-05:00'>11:23&#8239;AM</abbr></a>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=7173052990851751381&postID=5907830273161716465' title='Email Post'>
+<img alt="" class="icon-action" height="13" src="//img1.blogblog.com/img/icon18_email.gif" width="18">
+</a>
+</span>
+<span class='item-control blog-admin pid-1769715290'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7173052990851751381&postID=5907830273161716465&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Labels:
+<a href='https://foodwishes.blogspot.com/search/label/Cookies' rel='tag'>Cookies</a>,
+<a href='https://foodwishes.blogspot.com/search/label/Dessert' rel='tag'>Dessert</a>,
+<a href='https://foodwishes.blogspot.com/search/label/Spicy' rel='tag'>Spicy</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<div class='post-share-buttons'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=7173052990851751381&postID=5907830273161716465&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=7173052990851751381&postID=5907830273161716465&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=7173052990851751381&postID=5907830273161716465&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=7173052990851751381&postID=5907830273161716465&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=7173052990851751381&postID=5907830273161716465&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+<div class='comments' id='comments'>
+<a name='comments'></a>
+<h4>32 comments:</h4>
+<div id='Blog1_comments-block-wrapper'>
+<dl class='avatar-comment-indent' id='comments-block'>
+<dt class='comment-author ' id='c6981221736778006140'>
+<a name='c6981221736778006140'></a>
+<div class="avatar-image-container vcard"><span dir="ltr"><a href="https://www.blogger.com/profile/05077645270052587033" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-6981221736778006140-05077645270052587033"><img src="https://resources.blogblog.com/img/blank.gif" width="35" height="35" class="delayLoad" style="display: none;" longdesc="//2.bp.blogspot.com/-5LDOgp4M6rY/Wgs8C_ht_rI/AAAAAAAAz2U/-08HOiIYpPYx563Y3yIurD4OaLGtaekWQCK4BGAYYCw/s35/0704172048.jpg" alt="" title="Monica">
+
+<noscript><img src="//2.bp.blogspot.com/-5LDOgp4M6rY/Wgs8C_ht_rI/AAAAAAAAz2U/-08HOiIYpPYx563Y3yIurD4OaLGtaekWQCK4BGAYYCw/s35/0704172048.jpg" width="35" height="35" class="photo" alt=""></noscript></a></span></div>
+<a href='https://www.blogger.com/profile/05077645270052587033' rel='nofollow'>Monica</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-6981221736778006140'>
+<p>
+these look yummy, nice with ice cream and they make a great crust for lemon cheesecake.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1446571068313#c6981221736778006140' title='comment permalink'>
+November 3, 2015 at 12:17&#8239;PM
+</a>
+<span class='item-control blog-admin pid-1863050155'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=6981221736778006140' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c3866082121584500638'>
+<a name='c3866082121584500638'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><img src="//resources.blogblog.com/img/blank.gif" width="35" height="35" alt="" title="Anonymous">
+
+</span></div>
+Anonymous
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-3866082121584500638'>
+<p>
+Homerun, CJ!  You knocked this one out of the park!
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1446572021814#c3866082121584500638' title='comment permalink'>
+November 3, 2015 at 12:33&#8239;PM
+</a>
+<span class='item-control blog-admin pid-1393407894'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=3866082121584500638' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c6854709296154831949'>
+<a name='c6854709296154831949'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><img src="//resources.blogblog.com/img/blank.gif" width="35" height="35" alt="" title="Anonymous">
+
+</span></div>
+Anonymous
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-6854709296154831949'>
+<p>
+Fantastic!
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1446572059283#c6854709296154831949' title='comment permalink'>
+November 3, 2015 at 12:34&#8239;PM
+</a>
+<span class='item-control blog-admin pid-1393407894'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=6854709296154831949' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c161785891554465644'>
+<a name='c161785891554465644'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/07059859659123066118" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-161785891554465644-07059859659123066118"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="blergh">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/07059859659123066118' rel='nofollow'>blergh</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-161785891554465644'>
+<p>
+What type of molasses? I have some crazy dark unsulphured stuff
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1446573055624#c161785891554465644' title='comment permalink'>
+November 3, 2015 at 12:50&#8239;PM
+</a>
+<span class='item-control blog-admin pid-80607000'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=161785891554465644' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c5358357570504089499'>
+<a name='c5358357570504089499'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/11345254503348561365" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-5358357570504089499-11345254503348561365"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="meigancam01">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/11345254503348561365' rel='nofollow'>meigancam01</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-5358357570504089499'>
+<p>
+Very delicious and testy cookies..!!<br />Love it thanks for sharing.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1446579189683#c5358357570504089499' title='comment permalink'>
+November 3, 2015 at 2:33&#8239;PM
+</a>
+<span class='item-control blog-admin pid-1069019382'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=5358357570504089499' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c7651630190144022242'>
+<a name='c7651630190144022242'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/16025570388746735222" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-7651630190144022242-16025570388746735222"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Mary W">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/16025570388746735222' rel='nofollow'>Mary W</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-7651630190144022242'>
+<p>
+THANK YOU SO MUCH - I will make them when I wake up. I&#39;ve been wanting one for 3 years. That&#39;s a long time to be a wanting woman. And besides it&#39;s fall and I will let a few go to crispy for coffee dunking. You are my hero. I really need this recipe because this is my idea of a perfect cookie. THANK YOU AGAIN!
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1446609793835#c7651630190144022242' title='comment permalink'>
+November 3, 2015 at 11:03&#8239;PM
+</a>
+<span class='item-control blog-admin pid-14095148'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=7651630190144022242' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c2899553685593280231'>
+<a name='c2899553685593280231'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/13086846505445454992" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-2899553685593280231-13086846505445454992"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Unknown">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/13086846505445454992' rel='nofollow'>Unknown</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-2899553685593280231'>
+<p>
+Looks fire
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1446611070354#c2899553685593280231' title='comment permalink'>
+November 3, 2015 at 11:24&#8239;PM
+</a>
+<span class='item-control blog-admin pid-1825701496'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=2899553685593280231' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c4755332280130949889'>
+<a name='c4755332280130949889'></a>
+<div class="avatar-image-container vcard"><span dir="ltr"><a href="https://www.blogger.com/profile/12343555520628983687" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-4755332280130949889-12343555520628983687"><img src="https://resources.blogblog.com/img/blank.gif" width="35" height="35" class="delayLoad" style="display: none;" longdesc="//4.bp.blogspot.com/_NkFtNYXPXa8/SXpvziFd2GI/AAAAAAAAAAk/c-6ApPbAfGY/S45-s35/2785317080060163492wtCJMI_fs.jpg" alt="" title="Athena">
+
+<noscript><img src="//4.bp.blogspot.com/_NkFtNYXPXa8/SXpvziFd2GI/AAAAAAAAAAk/c-6ApPbAfGY/S45-s35/2785317080060163492wtCJMI_fs.jpg" width="35" height="35" class="photo" alt=""></noscript></a></span></div>
+<a href='https://www.blogger.com/profile/12343555520628983687' rel='nofollow'>Athena</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-4755332280130949889'>
+<p>
+Could I use Honey or Agave Syrup instead of molasses? I have no idea where to find it here in Italy.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1446839151159#c4755332280130949889' title='comment permalink'>
+November 6, 2015 at 2:45&#8239;PM
+</a>
+<span class='item-control blog-admin pid-644975228'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=4755332280130949889' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c7543251828081884079'>
+<a name='c7543251828081884079'></a>
+<div class="avatar-image-container vcard"><span dir="ltr"><a href="https://www.blogger.com/profile/07191356234278947651" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-7543251828081884079-07191356234278947651"><img src="https://resources.blogblog.com/img/blank.gif" width="35" height="35" class="delayLoad" style="display: none;" longdesc="//3.bp.blogspot.com/_M1zDhZxCG9Y/S5GYCjDd6II/AAAAAAAAAD4/mQd3xO05vHY/S45-s35/trainspotting.jpg" alt="" title="Pritiscu">
+
+<noscript><img src="//3.bp.blogspot.com/_M1zDhZxCG9Y/S5GYCjDd6II/AAAAAAAAAD4/mQd3xO05vHY/S45-s35/trainspotting.jpg" width="35" height="35" class="photo" alt=""></noscript></a></span></div>
+<a href='https://www.blogger.com/profile/07191356234278947651' rel='nofollow'>Pritiscu</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-7543251828081884079'>
+<p>
+Can I freeze these -Right after rolling into a ball, but before sprinkling the sugar ?<br />I would fraction the recipe, but then it uses only 1 egg.<br />50 - 60 cookies seems a lot if only 2 - 3 people will be eating with some afternoon coffee.<br />Anyway, Thanks for the recipe :) Looks really yummy !<br />
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1446839493470#c7543251828081884079' title='comment permalink'>
+November 6, 2015 at 2:51&#8239;PM
+</a>
+<span class='item-control blog-admin pid-2127441405'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=7543251828081884079' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c33862844078208724'>
+<a name='c33862844078208724'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/14287224250078215372" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-33862844078208724-14287224250078215372"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="ga in nc">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/14287224250078215372' rel='nofollow'>ga in nc</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-33862844078208724'>
+<p>
+Mmmmm....very addictive.   Figuring out how to justify having some with/as breakfast on Sunday.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1446942965691#c33862844078208724' title='comment permalink'>
+November 7, 2015 at 7:36&#8239;PM
+</a>
+<span class='item-control blog-admin pid-1433974272'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=33862844078208724' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c8878979786834041728'>
+<a name='c8878979786834041728'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/09667935478881387162" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-8878979786834041728-09667935478881387162"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Unknown">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/09667935478881387162' rel='nofollow'>Unknown</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-8878979786834041728'>
+<p>
+These are the best ginger snaps I&#39;ve ever had. They have just the right amount of spice. Thanks chef John!
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1447124355882#c8878979786834041728' title='comment permalink'>
+November 9, 2015 at 9:59&#8239;PM
+</a>
+<span class='item-control blog-admin pid-1773081584'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=8878979786834041728' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c8045669011161345795'>
+<a name='c8045669011161345795'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/04580730927842194338" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-8045669011161345795-04580730927842194338"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Unknown">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/04580730927842194338' rel='nofollow'>Unknown</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-8045669011161345795'>
+<p>
+Delicious!!!! ...and so crunchy!!!  :)
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1447574096473#c8045669011161345795' title='comment permalink'>
+November 15, 2015 at 2:54&#8239;AM
+</a>
+<span class='item-control blog-admin pid-1025435651'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=8045669011161345795' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c7188273944044970668'>
+<a name='c7188273944044970668'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/09416971566321586529" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-7188273944044970668-09416971566321586529"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Unknown">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/09416971566321586529' rel='nofollow'>Unknown</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-7188273944044970668'>
+<p>
+how many does this recipe make? 
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1447843732267#c7188273944044970668' title='comment permalink'>
+November 18, 2015 at 5:48&#8239;AM
+</a>
+<span class='item-control blog-admin pid-1883706319'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=7188273944044970668' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c4941268897371508421'>
+<a name='c4941268897371508421'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/08209416907168191907" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-4941268897371508421-08209416907168191907"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Unknown">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/08209416907168191907' rel='nofollow'>Unknown</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-4941268897371508421'>
+<p>
+I&#39;m not able to find candied ginger, but I really want to make these for thanksgiving. What alternatives could I use, Chef John or any other chefs out there?
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1448400757566#c4941268897371508421' title='comment permalink'>
+November 24, 2015 at 4:32&#8239;PM
+</a>
+<span class='item-control blog-admin pid-1186673037'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=4941268897371508421' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c8778604045787210441'>
+<a name='c8778604045787210441'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/07718561556728336297" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-8778604045787210441-07718561556728336297"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Unknown">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/07718561556728336297' rel='nofollow'>Unknown</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-8778604045787210441'>
+<p>
+Hey Chef John I really wanted to do this and I followed your recipe exactly but right now my dough is more of a cake batter consistency. What went wrong? I did use a room temperature egg. Could that have caused it? Is there any way I can fix this?
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1449255827656#c8778604045787210441' title='comment permalink'>
+December 4, 2015 at 2:03&#8239;PM
+</a>
+<span class='item-control blog-admin pid-1961615368'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=8778604045787210441' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author blog-author' id='c1460926421488049831'>
+<a name='c1460926421488049831'></a>
+<div class="avatar-image-container vcard"><span dir="ltr"><a href="https://www.blogger.com/profile/15030125427840815038" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-1460926421488049831-15030125427840815038"><img src="https://resources.blogblog.com/img/blank.gif" width="35" height="35" class="delayLoad" style="display: none;" longdesc="//1.bp.blogspot.com/_TtjHZtf6vtA/TUBygBRmnrI/AAAAAAAAJvs/L06mbEjw1g0/s35/gj-1.jpg" alt="" title="Chef John">
+
+<noscript><img src="//1.bp.blogspot.com/_TtjHZtf6vtA/TUBygBRmnrI/AAAAAAAAJvs/L06mbEjw1g0/s35/gj-1.jpg" width="35" height="35" class="photo" alt=""></noscript></a></span></div>
+<a href='https://www.blogger.com/profile/15030125427840815038' rel='nofollow'>Chef John</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-1460926421488049831'>
+<p>
+Just add some more flour! Flour is hard to measure. You may have really light flour, who knows? but doesn&#39;t matter, just fix it. :) 
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1449265954390#c1460926421488049831' title='comment permalink'>
+December 4, 2015 at 4:52&#8239;PM
+</a>
+<span class='item-control blog-admin pid-1769715290'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=1460926421488049831' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c3296039495179884773'>
+<a name='c3296039495179884773'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/08078840765458811457" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-3296039495179884773-08078840765458811457"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Everdyne">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/08078840765458811457' rel='nofollow'>Everdyne</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-3296039495179884773'>
+<p>
+I&#39;m curious to know if using Blackstrap Molassas would make a difference or not? For some reason I am having a very hard time finding molassas at the stores here in Nevada, but I was finally able to find some Blackstrap Molassas. I know Blackstrap has a richer flavor, I just want to make sure it would still work for these cookies. Thanks!
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1449564101084#c3296039495179884773' title='comment permalink'>
+December 8, 2015 at 3:41&#8239;AM
+</a>
+<span class='item-control blog-admin pid-403142648'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=3296039495179884773' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c7948269331162444307'>
+<a name='c7948269331162444307'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/17527340569353340577" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-7948269331162444307-17527340569353340577"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Jeremy">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/17527340569353340577' rel='nofollow'>Jeremy</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-7948269331162444307'>
+<p>
+Hey John I was just wonder.  I noticed on your apple chutney recipe you said do not oil your knife due to making it slippery but this video you recommend it.  Just wonder what your call is.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1449880099819#c7948269331162444307' title='comment permalink'>
+December 11, 2015 at 7:28&#8239;PM
+</a>
+<span class='item-control blog-admin pid-1059472942'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=7948269331162444307' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author blog-author' id='c7813341827238752320'>
+<a name='c7813341827238752320'></a>
+<div class="avatar-image-container vcard"><span dir="ltr"><a href="https://www.blogger.com/profile/15030125427840815038" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-7813341827238752320-15030125427840815038"><img src="https://resources.blogblog.com/img/blank.gif" width="35" height="35" class="delayLoad" style="display: none;" longdesc="//1.bp.blogspot.com/_TtjHZtf6vtA/TUBygBRmnrI/AAAAAAAAJvs/L06mbEjw1g0/s35/gj-1.jpg" alt="" title="Chef John">
+
+<noscript><img src="//1.bp.blogspot.com/_TtjHZtf6vtA/TUBygBRmnrI/AAAAAAAAJvs/L06mbEjw1g0/s35/gj-1.jpg" width="35" height="35" class="photo" alt=""></noscript></a></span></div>
+<a href='https://www.blogger.com/profile/15030125427840815038' rel='nofollow'>Chef John</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-7813341827238752320'>
+<p>
+As the politicians say, I&#39;ve evolved on the issue. ;) 
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1449941252649#c7813341827238752320' title='comment permalink'>
+December 12, 2015 at 12:27&#8239;PM
+</a>
+<span class='item-control blog-admin pid-1769715290'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=7813341827238752320' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c6024671803057800807'>
+<a name='c6024671803057800807'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/14382056033618326104" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-6024671803057800807-14382056033618326104"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Unknown">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/14382056033618326104' rel='nofollow'>Unknown</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-6024671803057800807'>
+<p>
+I am definitely going to make these for my Christmas Eve party.  My son and I were just watching your Pecan &amp; Apricot stuffing video when he suggested we look into another &#39;tastier&#39; recipe.  Thanks Chef John, you fill our kitchen with laughter...loved the Chewbacca jokes..hilarious!
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1450734313512#c6024671803057800807' title='comment permalink'>
+December 21, 2015 at 4:45&#8239;PM
+</a>
+<span class='item-control blog-admin pid-821918786'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=6024671803057800807' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c7340472342575360811'>
+<a name='c7340472342575360811'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/14990211295698619123" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-7340472342575360811-14990211295698619123"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Unknown">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/14990211295698619123' rel='nofollow'>Unknown</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-7340472342575360811'>
+<p>
+Hey Chef John!<br /><br />So I bought some candied ginger at trader joe&#39;s but they had both crsytallized and uncrystallized candied ginger. The uncrystallized looks more like what you use in the video as the crystallized version seems to have large granules of sugar on it, but I&#39;m not sure what to use.<br /><br />Thanks!<br />
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1450757901004#c7340472342575360811' title='comment permalink'>
+December 21, 2015 at 11:18&#8239;PM
+</a>
+<span class='item-control blog-admin pid-351761774'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=7340472342575360811' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c749995753271408851'>
+<a name='c749995753271408851'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/12408152814506194929" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-749995753271408851-12408152814506194929"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Yuuka">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/12408152814506194929' rel='nofollow'>Yuuka</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-749995753271408851'>
+<p>
+Hi everyone! I&#39;ve made this recipe a few times now. :) It&#39;s definitely a keeper.<br /><br />Fancy molasses seems to work best. I think cooking molasses would work if you (or your cookie recipients) like something less sweet. Blackstrap molasses would be much too bitter.<br /><br />From my experience, you can find candied ginger at A) Asian grocery stores/aisles, or B) specialty chocolate stores (like Purdy&#39;s if you&#39;re Canadian). 
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1452903937643#c749995753271408851' title='comment permalink'>
+January 15, 2016 at 7:25&#8239;PM
+</a>
+<span class='item-control blog-admin pid-565042262'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=749995753271408851' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c7131615050572076771'>
+<a name='c7131615050572076771'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/16496885753211576337" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-7131615050572076771-16496885753211576337"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="kate">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/16496885753211576337' rel='nofollow'>kate</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-7131615050572076771'>
+<p>
+Oh, dear.  Found out I was short of butter, but figured cream cheese would stand in to function for butter since it&#39;s so full of fat.  Deeelish.  
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1458231441399#c7131615050572076771' title='comment permalink'>
+March 17, 2016 at 12:17&#8239;PM
+</a>
+<span class='item-control blog-admin pid-306231694'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=7131615050572076771' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c7470607470784250051'>
+<a name='c7470607470784250051'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/17108428329732164637" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-7470607470784250051-17108428329732164637"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Unknown">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/17108428329732164637' rel='nofollow'>Unknown</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-7470607470784250051'>
+<p>
+Nikki 65 - I too had trouble finding the ginger. It ended up being in the baking section, not the candy or dried fruit or bulk nut section like I expected. Best of luck!
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1473375082793#c7470607470784250051' title='comment permalink'>
+September 8, 2016 at 6:51&#8239;PM
+</a>
+<span class='item-control blog-admin pid-499704105'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=7470607470784250051' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c9158124386937252090'>
+<a name='c9158124386937252090'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/17108428329732164637" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-9158124386937252090-17108428329732164637"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Unknown">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/17108428329732164637' rel='nofollow'>Unknown</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-9158124386937252090'>
+<p>
+Chef, what scoop is that? The smallest I can find is 2 tsp.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1473377978139#c9158124386937252090' title='comment permalink'>
+September 8, 2016 at 7:39&#8239;PM
+</a>
+<span class='item-control blog-admin pid-499704105'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=9158124386937252090' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c1024416490266233035'>
+<a name='c1024416490266233035'></a>
+<div class="avatar-image-container vcard"><span dir="ltr"><a href="https://www.blogger.com/profile/01128331413086355038" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-1024416490266233035-01128331413086355038"><img src="https://resources.blogblog.com/img/blank.gif" width="35" height="35" class="delayLoad" style="display: none;" longdesc="//1.bp.blogspot.com/-hsa7u-F4DM0/TaJil1VRNmI/AAAAAAAAAAk/dDkGFbJpWXM/s35/Crappy-Avant-Garde-Fashion-03.jpg" alt="" title="Femme Fatale">
+
+<noscript><img src="//1.bp.blogspot.com/-hsa7u-F4DM0/TaJil1VRNmI/AAAAAAAAAAk/dDkGFbJpWXM/s35/Crappy-Avant-Garde-Fashion-03.jpg" width="35" height="35" class="photo" alt=""></noscript></a></span></div>
+<a href='https://www.blogger.com/profile/01128331413086355038' rel='nofollow'>Femme Fatale</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-1024416490266233035'>
+<p>
+Thank you for this recipe. I think its the best out there. I&#39;ve been planing to make them for a while now and today is D-day. :)) I love your channel as well great content. Happy New Year and all the best.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1515723124398#c1024416490266233035' title='comment permalink'>
+January 11, 2018 at 9:12&#8239;PM
+</a>
+<span class='item-control blog-admin pid-1349845713'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=1024416490266233035' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c6426078904796855073'>
+<a name='c6426078904796855073'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/12642693146192183610" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-6426078904796855073-12642693146192183610"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Unknown">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/12642693146192183610' rel='nofollow'>Unknown</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-6426078904796855073'>
+<p>
+I have serious chronic pain.  I used a combination of prescription drugs and alcohol, usually alternating, until I started using edibles with CBD oil and some THC.  These ginger snaps are perfect, as they mask the funky flavor from the cannabis butter.  These have literally made my life much better and the pain much <br />more endurable.  I will have to make a batch with no medication just to glom on.  They really are great.  
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1536558689519#c6426078904796855073' title='comment permalink'>
+September 10, 2018 at 1:51&#8239;AM
+</a>
+<span class='item-control blog-admin pid-1366787390'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=6426078904796855073' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c775061539188002594'>
+<a name='c775061539188002594'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/10592887532146148229" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-775061539188002594-10592887532146148229"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Ann Schluchter">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/10592887532146148229' rel='nofollow'>Ann Schluchter</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-775061539188002594'>
+<p>
+can you freeze the cookie dough, or the cookies after baking? Which would be the best options.  Thanks
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1541985058792#c775061539188002594' title='comment permalink'>
+November 11, 2018 at 8:10&#8239;PM
+</a>
+<span class='item-control blog-admin pid-2118068667'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=775061539188002594' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c325366670910414418'>
+<a name='c325366670910414418'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/03919337561796399981" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-325366670910414418-03919337561796399981"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Mirminator">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/03919337561796399981' rel='nofollow'>Mirminator</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-325366670910414418'>
+<p>
+@ann schlucter, freezing the cookies or the dough is fine, but I like freezing b/c dough takes up much less freezer space and the cookies will taste much fresher.  FYI, if you free most dough in balls, you can toss them right in the oven from the freezer no problem.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1549850540120#c325366670910414418' title='comment permalink'>
+February 10, 2019 at 9:02&#8239;PM
+</a>
+<span class='item-control blog-admin pid-639480585'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=325366670910414418' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c3017571383983612559'>
+<a name='c3017571383983612559'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/03919337561796399981" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-3017571383983612559-03919337561796399981"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Mirminator">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/03919337561796399981' rel='nofollow'>Mirminator</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-3017571383983612559'>
+<p>
+I thought my mom&#39;s recipe was the best, but CJ&#39;s blows it out of the water. So good. Made both soft &amp; crispy versions &amp; was really surprised that I really didn&#8217;t like the soft ones much at all. I normally like both equally. <br /><br />Thank you, Chef Joe!
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1549850739234#c3017571383983612559' title='comment permalink'>
+February 10, 2019 at 9:05&#8239;PM
+</a>
+<span class='item-control blog-admin pid-639480585'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=3017571383983612559' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c5973592800626354749'>
+<a name='c5973592800626354749'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/15700326645850609992" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-5973592800626354749-15700326645850609992"><img src="//www.blogger.com/img/blogger_logo_round_35.png" width="35" height="35" alt="" title="Leslie">
+
+</a></span></div>
+<a href='https://www.blogger.com/profile/15700326645850609992' rel='nofollow'>Leslie</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-5973592800626354749'>
+<p>
+Thanks for another great recipe, Chef John!  My daughter and I decided on Mary Berry&#39;s lemon cheesecake with ginger snap crust for our joint birthday celebration.  These made an amazing crust (in fact, I doubled the crust for her recipe).  I saw that she serves hers with creme fraiche, so we had a twofer Chef John dessert!  
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1566763737668#c5973592800626354749' title='comment permalink'>
+August 25, 2019 at 4:08&#8239;PM
+</a>
+<span class='item-control blog-admin pid-2136384851'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=5973592800626354749' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c1408593467578381271'>
+<a name='c1408593467578381271'></a>
+<div class="avatar-image-container vcard"><span dir="ltr"><a href="https://www.blogger.com/profile/17817006362006690145" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-1408593467578381271-17817006362006690145"><img src="https://resources.blogblog.com/img/blank.gif" width="35" height="35" class="delayLoad" style="display: none;" longdesc="//2.bp.blogspot.com/-UPOEYwtcgUA/UmJI6bwAxSI/AAAAAAAAIlc/I4-7UTPEHXg/s35/ketutar.jpg" alt="" title="Ketutar">
+
+<noscript><img src="//2.bp.blogspot.com/-UPOEYwtcgUA/UmJI6bwAxSI/AAAAAAAAIlc/I4-7UTPEHXg/s35/ketutar.jpg" width="35" height="35" class="photo" alt=""></noscript></a></span></div>
+<a href='https://www.blogger.com/profile/17817006362006690145' rel='nofollow'>Ketutar</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-1408593467578381271'>
+<p>
+&quot;They&#8217;re called &#8220;snaps&#8221; for reasons other than their texture.&quot;<br /><br />Gingersnaps are actually called snaps exactly for their texture. If you&#39;re snaps don&#39;t snap, they aren&#39;t snaps, but sure, let&#39;s invent stories to explain why it&#39;s not wrong, as usual.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html?showComment=1571247188369#c1408593467578381271' title='comment permalink'>
+October 16, 2019 at 1:33&#8239;PM
+</a>
+<span class='item-control blog-admin pid-1552004009'>
+<a class='comment-delete' href='https://www.blogger.com/delete-comment.g?blogID=7173052990851751381&postID=1408593467578381271' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+</dl>
+</div>
+<p class='comment-footer'>
+<a href='https://www.blogger.com/comment.g?blogID=7173052990851751381&postID=5907830273161716465&isPopup=true' onclick='javascript:window.open(this.href, "bloggerPopup", "toolbar=0,location=0,statusbar=1,menubar=0,scrollbars=yes,width=640,height=500"); return false;'>Post a Comment</a>
+</p>
+</div>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-newer-link'>
+<a class='blog-pager-newer-link' href='https://foodwishes.blogspot.com/2015/11/crispy-farro-cakes-all-killer-no-filler.html' id='Blog1_blog-pager-newer-link' title='Newer Post'>Newer Post</a>
+</span>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='https://foodwishes.blogspot.com/2015/10/a-waldorf-salad-by-any-other-name.html' id='Blog1_blog-pager-older-link' title='Older Post'>Older Post</a>
+</span>
+<a class='home-link' href='https://foodwishes.blogspot.com/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='post-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='https://foodwishes.blogspot.com/feeds/5907830273161716465/comments/default' target='_blank' type='application/atom+xml'>Post Comments (Atom)</a>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='column-left-outer'>
+<div class='column-left-inner'>
+<aside>
+</aside>
+</div>
+</div>
+<div class='column-right-outer'>
+<div class='column-right-inner'>
+<aside>
+<div class='sidebar section' id='sidebar-right-1'><div class='widget BlogSearch' data-version='1' id='BlogSearch1'>
+<h2 class='title'>Find a Video Recipe</h2>
+<div class='widget-content'>
+<div id='BlogSearch1_form'>
+<form action='https://foodwishes.blogspot.com/search' class='gsc-search-box' target='_top'>
+<table cellpadding='0' cellspacing='0' class='gsc-search-box'>
+<tbody>
+<tr>
+<td class='gsc-input'>
+<input autocomplete='off' class='gsc-input' name='q' size='10' title='search' type='text' value=''/>
+</td>
+<td class='gsc-search-button'>
+<input class='gsc-search-button' title='search' type='submit' value='Search'/>
+</td>
+</tr>
+</tbody>
+</table>
+</form>
+</div>
+</div>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML2'>
+<div class='widget-content'>
+<script>
+var linkwithin_site_id = 18888;
+</script>
+<script src="//www.linkwithin.com/widget.js"></script>
+<a href="http://www.linkwithin.com/"><img src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-mnIg6HzUTUO88ScLo_iO864gDbUlZ5HkERD46WEW0241WXhBiUkAS0Mw9Dy1SPQgf-H2tUTg9nb32Mrll4LFedVCMvV-sK=s0-d" alt="Related Posts with Thumbnails" style="border: 0"></a>
+</div>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML4'>
+<div class='widget-content'>
+<!-- 300x250 Banner Ad -->
+<div id="div-gpt-square-fixed-1" data-tier="1" style="width:300px;height:250px"></div>
+</div>
+<div class='clear'></div>
+</div></div>
+<table border='0' cellpadding='0' cellspacing='0' class='section-columns columns-2'>
+<tbody>
+<tr>
+<td class='first columns-cell'>
+<div class='sidebar section' id='sidebar-right-2-1'><div class='widget PageList' data-version='1' id='PageList1'>
+<h2>Main Menu</h2>
+<div class='widget-content'>
+<ul>
+<li>
+<a href='https://foodwishes.blogspot.com/'>Home</a>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div><div class='widget Image' data-version='1' id='Image2'>
+<h2>Awards &amp; Honors</h2>
+<div class='widget-content'>
+<img alt='Awards &amp; Honors' height='150' id='Image2_img' src='//2.bp.blogspot.com/_TtjHZtf6vtA/TTt8IfXjm_I/AAAAAAAAJtk/h3hQKIu3d7A/s150/ukytfkyf.jpg' width='120'/>
+<br/>
+</div>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML11'>
+<div class='widget-content'>
+<a href="http://www.saveur.com"><img src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-mrV87P-SfRPiCduMlZTY_vP5-5N_1rxjR5jDRhQRRduR8hM9BdTcsThAuizwPnT64c3ZCIg66DhmIzff1YxI8mkd7MdbwBJp3z9nDJO15v7NIAEZ0Vo7TphH57uTt7OdNdQUtb=s0-d" alt="SAVEUR.com&#39;s Sites We Love"></a>
+
+
+<div style="text-align:left"><a href="http://www.foodista.com/fbod?src=fbod_badge"><img src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-k9n_zSpbP4IaYLIVMUjMmUXdMIdsh_-D2P34BGOFzk3gixyDtYuWMVPOUTOk1mUJGhLF88on1_m91fp6ujE3hZn4pYByjz9vZlEoPS7O7ApUYfLfjW=s0-d" alt="Foodista Food Blog of the Day Badge" title="Foodista Food Blog of the Day Badge" style="border:none;width:120px;height:120px"></a></div>
+</div>
+<div class='clear'></div>
+</div><div class='widget Image' data-version='1' id='Image1'>
+<div class='widget-content'>
+<a href='http://www.saveur.com/article/Kitchen/SAVEURs-1st-Annual-Food-Blog-Awards-The-Winners'>
+<img alt='' height='180' id='Image1_img' src='//4.bp.blogspot.com/_TtjHZtf6vtA/TJOHBT8VWYI/AAAAAAAAJDQ/yB2pWF5T9ms/S180/blog_awards_logo_lg.png' width='106'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+</div><div class='widget Label' data-version='1' id='Label1'>
+<h2>Video Recipe Categories</h2>
+<div class='widget-content list-label-widget-content'>
+<ul>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/African%20Cuisine'>African Cuisine</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Appetizer'>Appetizer</a>
+<span dir='ltr'>(293)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Asian%20Cuisine'>Asian Cuisine</a>
+<span dir='ltr'>(134)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Barbecue'>Barbecue</a>
+<span dir='ltr'>(31)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Beef'>Beef</a>
+<span dir='ltr'>(204)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Blog%20News'>Blog News</a>
+<span dir='ltr'>(531)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Breads'>Breads</a>
+<span dir='ltr'>(168)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Breakfast'>Breakfast</a>
+<span dir='ltr'>(150)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Buffalo'>Buffalo</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Candy'>Candy</a>
+<span dir='ltr'>(16)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Cheese'>Cheese</a>
+<span dir='ltr'>(186)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Chicken'>Chicken</a>
+<span dir='ltr'>(205)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Chocolate'>Chocolate</a>
+<span dir='ltr'>(60)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Cookies'>Cookies</a>
+<span dir='ltr'>(32)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Dessert'>Dessert</a>
+<span dir='ltr'>(233)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Dips'>Dips</a>
+<span dir='ltr'>(23)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Dressings'>Dressings</a>
+<span dir='ltr'>(45)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Drinks'>Drinks</a>
+<span dir='ltr'>(22)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Duck'>Duck</a>
+<span dir='ltr'>(21)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Dumplings'>Dumplings</a>
+<span dir='ltr'>(5)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Eggs'>Eggs</a>
+<span dir='ltr'>(12)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/French%20Cuisine'>French Cuisine</a>
+<span dir='ltr'>(92)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Fruit'>Fruit</a>
+<span dir='ltr'>(17)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/German%20Cuisine'>German Cuisine</a>
+<span dir='ltr'>(12)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Goose'>Goose</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Grains'>Grains</a>
+<span dir='ltr'>(19)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Grill%20Recipes'>Grill Recipes</a>
+<span dir='ltr'>(89)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/halloween'>halloween</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Indian%20Cuisine'>Indian Cuisine</a>
+<span dir='ltr'>(9)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Italian%20Cuisine'>Italian Cuisine</a>
+<span dir='ltr'>(194)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Lamb'>Lamb</a>
+<span dir='ltr'>(52)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Latin%20Food'>Latin Food</a>
+<span dir='ltr'>(23)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Legumes'>Legumes</a>
+<span dir='ltr'>(55)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Mediterranean%20Cuisine'>Mediterranean Cuisine</a>
+<span dir='ltr'>(62)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Mexican%20Food'>Mexican Food</a>
+<span dir='ltr'>(46)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Pasta'>Pasta</a>
+<span dir='ltr'>(117)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Pickles'>Pickles</a>
+<span dir='ltr'>(3)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Pie'>Pie</a>
+<span dir='ltr'>(15)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Pizza'>Pizza</a>
+<span dir='ltr'>(36)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Pork'>Pork</a>
+<span dir='ltr'>(190)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Portuguese%20cuisine'>Portuguese cuisine</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Potato'>Potato</a>
+<span dir='ltr'>(99)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Reader%20Poll'>Reader Poll</a>
+<span dir='ltr'>(7)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Relish'>Relish</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Rice'>Rice</a>
+<span dir='ltr'>(43)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Salads'>Salads</a>
+<span dir='ltr'>(83)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Sandwiches'>Sandwiches</a>
+<span dir='ltr'>(66)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Sauces'>Sauces</a>
+<span dir='ltr'>(234)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Seafood'>Seafood</a>
+<span dir='ltr'>(187)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Side%20Dish'>Side Dish</a>
+<span dir='ltr'>(143)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/snack'>snack</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Soups'>Soups</a>
+<span dir='ltr'>(87)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Spanish%20Cuisine'>Spanish Cuisine</a>
+<span dir='ltr'>(43)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Spicy'>Spicy</a>
+<span dir='ltr'>(219)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Stews'>Stews</a>
+<span dir='ltr'>(90)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Tips%20and%20Techniques'>Tips and Techniques</a>
+<span dir='ltr'>(140)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Turkey'>Turkey</a>
+<span dir='ltr'>(38)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Vegetables'>Vegetables</a>
+<span dir='ltr'>(260)</span>
+</li>
+<li>
+<a dir='ltr' href='https://foodwishes.blogspot.com/search/label/Weekend%20Filler'>Weekend Filler</a>
+<span dir='ltr'>(87)</span>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div></div>
+</td>
+<td class='columns-cell'>
+<div class='sidebar section' id='sidebar-right-2-2'><div class='widget HTML' data-version='1' id='HTML5'>
+<div class='widget-content'>
+<!-- 160x600 Banner Ad -->
+<div id="div-gpt-skyscraper-1" data-tier="1" style="width:160px;height:600px"></div>
+</div>
+<div class='clear'></div>
+</div><div class='widget Subscribe' data-version='1' id='Subscribe1'>
+<div style='white-space:nowrap'>
+<h2 class='title'>Subscribe To</h2>
+<div class='widget-content'>
+<div class='subscribe-wrapper subscribe-type-POST'>
+<div class='subscribe expanded subscribe-type-POST' id='SW_READER_LIST_Subscribe1POST' style='display:none;'>
+<div class='top'>
+<span class='inner' onclick='return(_SW_toggleReaderList(event, "Subscribe1POST"));'>
+<img class='subscribe-dropdown-arrow' src='https://resources.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+Posts
+</span>
+<div class='feed-reader-links'>
+<a class='feed-reader-link' href='https://www.netvibes.com/subscribe.php?url=https%3A%2F%2Ffoodwishes.blogspot.com%2Ffeeds%2Fposts%2Fdefault' target='_blank'>
+<img src='https://resources.blogblog.com/img/widgets/subscribe-netvibes.png'/>
+</a>
+<a class='feed-reader-link' href='https://add.my.yahoo.com/content?url=https%3A%2F%2Ffoodwishes.blogspot.com%2Ffeeds%2Fposts%2Fdefault' target='_blank'>
+<img src='https://resources.blogblog.com/img/widgets/subscribe-yahoo.png'/>
+</a>
+<a class='feed-reader-link' href='https://foodwishes.blogspot.com/feeds/posts/default' target='_blank'>
+<img align='absmiddle' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+                  Atom
+                </a>
+</div>
+</div>
+<div class='bottom'></div>
+</div>
+<div class='subscribe' id='SW_READER_LIST_CLOSED_Subscribe1POST' onclick='return(_SW_toggleReaderList(event, "Subscribe1POST"));'>
+<div class='top'>
+<span class='inner'>
+<img class='subscribe-dropdown-arrow' src='https://resources.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<span onclick='return(_SW_toggleReaderList(event, "Subscribe1POST"));'>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+Posts
+</span>
+</span>
+</div>
+<div class='bottom'></div>
+</div>
+</div>
+<div class='subscribe-wrapper subscribe-type-PER_POST'>
+<div class='subscribe expanded subscribe-type-PER_POST' id='SW_READER_LIST_Subscribe1PER_POST' style='display:none;'>
+<div class='top'>
+<span class='inner' onclick='return(_SW_toggleReaderList(event, "Subscribe1PER_POST"));'>
+<img class='subscribe-dropdown-arrow' src='https://resources.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+Comments
+</span>
+<div class='feed-reader-links'>
+<a class='feed-reader-link' href='https://www.netvibes.com/subscribe.php?url=https%3A%2F%2Ffoodwishes.blogspot.com%2Ffeeds%2F5907830273161716465%2Fcomments%2Fdefault' target='_blank'>
+<img src='https://resources.blogblog.com/img/widgets/subscribe-netvibes.png'/>
+</a>
+<a class='feed-reader-link' href='https://add.my.yahoo.com/content?url=https%3A%2F%2Ffoodwishes.blogspot.com%2Ffeeds%2F5907830273161716465%2Fcomments%2Fdefault' target='_blank'>
+<img src='https://resources.blogblog.com/img/widgets/subscribe-yahoo.png'/>
+</a>
+<a class='feed-reader-link' href='https://foodwishes.blogspot.com/feeds/5907830273161716465/comments/default' target='_blank'>
+<img align='absmiddle' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+                  Atom
+                </a>
+</div>
+</div>
+<div class='bottom'></div>
+</div>
+<div class='subscribe' id='SW_READER_LIST_CLOSED_Subscribe1PER_POST' onclick='return(_SW_toggleReaderList(event, "Subscribe1PER_POST"));'>
+<div class='top'>
+<span class='inner'>
+<img class='subscribe-dropdown-arrow' src='https://resources.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<span onclick='return(_SW_toggleReaderList(event, "Subscribe1PER_POST"));'>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+Comments
+</span>
+</span>
+</div>
+<div class='bottom'></div>
+</div>
+</div>
+<div style='clear:both'></div>
+</div>
+</div>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML1'>
+<div class='widget-content'>
+<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=306208382" title="Food Wishes Video Recipes" type="application/rss+xml"><img alt="Subscribe in Bloglines" style="border:0" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-nPStMuuNqL5s-nYDqrmZk4HnPfYZP7B4nT9EFt6jXVqeWnqfycmNX24Z9SL_WaMFGuKkPaARUuttMUKpl6PovTIpyfqqpZ5XPEVWFg-t-NTqecZcrEAQMiHZeviExHTLYT1V8Q=s0-d"></a>
+</div>
+<div class='clear'></div>
+</div><div class='widget LinkList' data-version='1' id='LinkList2'>
+<h2>My Food Friends</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://allrecipes.com/'>Allrecipes</a></li>
+<li><a href='http://makingsundaysauce.com/'>Andrew Scrivani's Making Sunday Sauce</a></li>
+<li><a href='http://www.averagebetty.com/'>Average Betty</a></li>
+<li><a href='http://bleedingespresso.com/'>Bleeding Espresso</a></li>
+<li><a href='http://www.chezus.com/'>Chez Us</a></li>
+<li><a href='http://www.dailyblender.com/'>Daily Blender</a></li>
+<li><a href='http://www.eatthelove.com/'>Eat the Love</a></li>
+<li><a href='http://foodcurated.com/'>Food Curated</a></li>
+<li><a href='http://foodforthethoughtless.com/about-2/'>Food for the Thoughtless</a></li>
+<li><a href='http://frickwinery.com/'>Frick Winery</a></li>
+<li><a href='http://hedonia.seantimberlake.com/'>Hedonia</a></li>
+<li><a href='http://www.injennieskitchen.com/'>In Jennie's Kitchen</a></li>
+<li><a href='http://blog.ruhlman.com/'>Michael Ruhlman</a></li>
+<li><a href='http://msglaze.typepad.com/'>Ms. Glaze</a></li>
+<li><a href='http://seductionmeals.com/'>Seduction Meals</a></li>
+<li><a href='https://www.simplyrecipes.com/'>Simply Recipes</a></li>
+<li><a href='http://sogood.tv/'>So Good</a></li>
+<li><a href='http://starvingofftheland.com/'>Starving Off the Land</a></li>
+<li><a href='http://steamykitchen.com/blog/'>Steamy Kitchen</a></li>
+<li><a href='http://www.strumerika.com/'>StrumErika</a></li>
+<li><a href='http://whiteonricecouple.com/'>White on Rice Couple</a></li>
+</ul>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML10'>
+<div class='widget-content'>
+<script src="//widgets.amung.us/small.js" type="text/javascript"></script><script type="text/javascript">WAU_small('rrn9oxesqvt5')</script>
+</div>
+<div class='clear'></div>
+</div><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>Video Recipe Archive</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2023/'>
+2023
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2023/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2023/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2023/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2022/'>
+2022
+</a>
+<span class='post-count' dir='ltr'>(90)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2022/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2022/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2022/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2022/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2022/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2022/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2022/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2022/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2022/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2022/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2022/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2022/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2021/'>
+2021
+</a>
+<span class='post-count' dir='ltr'>(91)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2021/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2021/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2021/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2021/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2021/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2021/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2021/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2021/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2021/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2021/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2021/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2021/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2020/'>
+2020
+</a>
+<span class='post-count' dir='ltr'>(83)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2020/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2020/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2020/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2020/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2020/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2020/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2020/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2020/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2020/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2020/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2020/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2020/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2019/'>
+2019
+</a>
+<span class='post-count' dir='ltr'>(94)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2019/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2019/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2019/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2019/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2019/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2019/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2019/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2019/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2019/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2019/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2019/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2019/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2018/'>
+2018
+</a>
+<span class='post-count' dir='ltr'>(94)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2018/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2018/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2018/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2018/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2018/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2018/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2018/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2018/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2018/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2018/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2018/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2018/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2017/'>
+2017
+</a>
+<span class='post-count' dir='ltr'>(102)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2017/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2017/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2017/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2017/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2017/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2017/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2017/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2017/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2017/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2017/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2017/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2017/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2016/'>
+2016
+</a>
+<span class='post-count' dir='ltr'>(119)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2016/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2016/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2016/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2016/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2016/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2016/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2016/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2016/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2016/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2016/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2016/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2016/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2015/'>
+2015
+</a>
+<span class='post-count' dir='ltr'>(156)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2015/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2015/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+<ul class='posts'>
+<li><a href='https://foodwishes.blogspot.com/2015/11/next-up-crepinettes.html'>Next Up: Crépinettes</a></li>
+<li><a href='https://foodwishes.blogspot.com/2015/11/happy-thanksgiving.html'>Happy Thanksgiving</a></li>
+<li><a href='https://foodwishes.blogspot.com/2015/11/crispy-turkey-flautas-great-reason-for.html'>Crispy Turkey Flautas &#8211; A Great Reason for Buying ...</a></li>
+<li><a href='https://foodwishes.blogspot.com/2015/11/turkey-rice-meatballs-albondigas.html'>Turkey &amp; Rice Meatballs (Albondigas) &#8211; Perfect for...</a></li>
+<li><a href='https://foodwishes.blogspot.com/2015/11/tuscan-bean-soup-cheer-up.html'>Tuscan Bean Soup &#8211; Cheer Up!</a></li>
+<li><a href='https://foodwishes.blogspot.com/2015/11/bacon-cheddar-and-spinach-strata-were.html'>Bacon Cheddar and Spinach Strata &#8211; We&#8217;re Rocking t...</a></li>
+<li><a href='https://foodwishes.blogspot.com/2015/11/sweet-potato-muffins-sweet-potato-pie.html'>Sweet Potato Muffins &#8211; The Sweet Potato Pie of Muf...</a></li>
+<li><a href='https://foodwishes.blogspot.com/2015/11/crispy-farro-cakes-all-killer-no-filler.html'>Crispy Farro Cakes &#8211; All Killer, No Filler</a></li>
+<li><a href='https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html'>Gingersnap Cookies &#8211; Hot, Hot, Sweet</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2015/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2015/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2015/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2015/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2015/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2015/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2015/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2015/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2015/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2015/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2014/'>
+2014
+</a>
+<span class='post-count' dir='ltr'>(222)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2014/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2014/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2014/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2014/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2014/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2014/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2014/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2014/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2014/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2014/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2014/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2014/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2013/'>
+2013
+</a>
+<span class='post-count' dir='ltr'>(230)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2013/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2013/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2013/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2013/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2013/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2013/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2013/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2013/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2013/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2013/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2013/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2013/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2012/'>
+2012
+</a>
+<span class='post-count' dir='ltr'>(202)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2012/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2012/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2012/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2012/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2012/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2012/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2012/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2012/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2012/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2012/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2012/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2012/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2011/'>
+2011
+</a>
+<span class='post-count' dir='ltr'>(248)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2011/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2011/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2011/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2011/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2011/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2011/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2011/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2011/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2011/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2011/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2011/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2011/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2010/'>
+2010
+</a>
+<span class='post-count' dir='ltr'>(289)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2010/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2010/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(27)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2010/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2010/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2010/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2010/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2010/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(27)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2010/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2010/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2010/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2010/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2010/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2009/'>
+2009
+</a>
+<span class='post-count' dir='ltr'>(289)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2009/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2009/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2009/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2009/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2009/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2009/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2009/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2009/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(27)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2009/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2009/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2009/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2009/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2008/'>
+2008
+</a>
+<span class='post-count' dir='ltr'>(230)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2008/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2008/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2008/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(27)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2008/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2008/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2008/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2008/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2008/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2008/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2008/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2008/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2008/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2007/'>
+2007
+</a>
+<span class='post-count' dir='ltr'>(243)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2007/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2007/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2007/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2007/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2007/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2007/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2007/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2007/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2007/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2007/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(27)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://foodwishes.blogspot.com/2007/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(44)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+</div></div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class='sidebar section' id='sidebar-right-3'><div class='widget Profile' data-version='1' id='Profile1'>
+<h2>Chef John"s Bio</h2>
+<div class='widget-content'>
+<ul>
+<li><a class='profile-name-link g-profile' href='https://www.blogger.com/profile/15030125427840815038' style='background-image: url(//www.blogger.com/img/logo-16.png);'>Chef John</a></li>
+<li><a class='profile-name-link g-profile' href='https://www.blogger.com/profile/18069618185712853353' style='background-image: url(//www.blogger.com/img/logo-16.png);'>Jim Sheetz</a></li>
+<li><a class='profile-name-link g-profile' href='https://www.blogger.com/profile/13922281224992775824' style='background-image: url(//www.blogger.com/img/logo-16.png);'>Ukant Cmee</a></li>
+<li><a class='profile-name-link g-profile' href='https://www.blogger.com/profile/12786803036714585097' style='background-image: url(//www.blogger.com/img/logo-16.png);'>Unknown</a></li>
+<li><a class='profile-name-link g-profile' href='https://www.blogger.com/profile/01364185839861451478' style='background-image: url(//www.blogger.com/img/logo-16.png);'>Unknown</a></li>
+<li><a class='profile-name-link g-profile' href='https://www.blogger.com/profile/14772727555320384483' style='background-image: url(//www.blogger.com/img/logo-16.png);'>Unknown</a></li>
+<li><a class='profile-name-link g-profile' href='https://www.blogger.com/profile/15359152647949883975' style='background-image: url(//www.blogger.com/img/logo-16.png);'>Unknown</a></li>
+</ul>
+<div class='clear'></div>
+</div>
+</div><div class='widget Followers' data-version='1' id='Followers1'>
+<div class='widget-content'>
+<div id='Followers1-wrapper'>
+<div style='margin-right:2px;'>
+<div><script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<div id="followers-iframe-container"></div>
+<script type="text/javascript">
+    window.followersIframe = null;
+    function followersIframeOpen(url) {
+      gapi.load("gapi.iframes", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          window.followersIframe = gapi.iframes.getContext().openChild({
+            url: url,
+            where: document.getElementById("followers-iframe-container"),
+            messageHandlersFilter: gapi.iframes.CROSS_ORIGIN_IFRAMES_FILTER,
+            messageHandlers: {
+              '_ready': function(obj) {
+                window.followersIframe.getIframeEl().height = obj.height;
+              },
+              'reset': function() {
+                window.followersIframe.close();
+                followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d7173052990851751381\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaByMwMDAwMDAiByNhYzJlMDQqC3RyYW5zcGFyZW50MgcjNTA1MDUwOgcjMDAwMDAwQgcjYWMyZTA0SgcjNjg2ODY4UgcjYWMyZTA0Wgt0cmFuc3BhcmVudA%3D%3D\x26pageSize\x3d21\x26postID\x3d5907830273161716465\x26origin\x3dhttps://foodwishes.blogspot.com/");
+              },
+              'open': function(url) {
+                window.followersIframe.close();
+                followersIframeOpen(url);
+              },
+              'blogger-ping': function() {
+              }
+            }
+          });
+        }
+      });
+    }
+    followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d7173052990851751381\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaByMwMDAwMDAiByNhYzJlMDQqC3RyYW5zcGFyZW50MgcjNTA1MDUwOgcjMDAwMDAwQgcjYWMyZTA0SgcjNjg2ODY4UgcjYWMyZTA0Wgt0cmFuc3BhcmVudA%3D%3D\x26pageSize\x3d21\x26postID\x3d5907830273161716465\x26origin\x3dhttps://foodwishes.blogspot.com/");
+  </script></div>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+</div></div>
+</aside>
+</div>
+</div>
+</div>
+<div style='clear: both'></div>
+<!-- columns -->
+</div>
+<!-- main -->
+</div>
+</div>
+<div class='main-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<footer>
+<div class='footer-outer'>
+<div class='footer-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left footer-fauxborder-left'>
+<div class='fauxborder-right footer-fauxborder-right'></div>
+<div class='region-inner footer-inner'>
+<div class='foot no-items section' id='footer-1'></div>
+<table border='0' cellpadding='0' cellspacing='0' class='section-columns columns-2'>
+<tbody>
+<tr>
+<td class='first columns-cell'>
+<div class='foot no-items section' id='footer-2-1'></div>
+</td>
+<td class='columns-cell'>
+<div class='foot no-items section' id='footer-2-2'></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- outside of the include in order to lock Attribution widget -->
+<div class='foot section' id='footer-3'><div class='widget Attribution' data-version='1' id='Attribution1'>
+<div class='widget-content' style='text-align: center;'>
+(c) 2007-2014 Food Wishes Video Recipes. All Rights Reserved. Powered by <a href='https://www.blogger.com' target='_blank'>Blogger</a>.
+</div>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML3'>
+<div class='widget-content'>
+<!-- Karma Targeting (ads) -->
+<script>
+    (function(window) {
+        window.adService = {
+            mobileAds: false,
+            unitValues: {
+        adDomain: 'foodwishes.mdp.com',
+                channel: 'foodwishes'
+            },
+            pageTargetingValues: {
+                type:  'post'
+            },
+            allTiersAllTheTime: true,    
+        };
+        /* Load KARMA core */
+        var karmaCore=document.createElement("script");
+        karmaCore.src="https://karma.mdpcdn.com/service/js-min/karma.core.js";
+        var node=document.getElementsByTagName("script")[0];
+        node.parentNode.insertBefore(karmaCore,node);
+    })(window);
+</script>
+</div>
+<div class='clear'></div>
+</div></div>
+</div>
+</div>
+<div class='footer-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</footer>
+<!-- content -->
+</div>
+</div>
+<div class='content-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace('loading', '');
+      }, 10);
+  </script>
+<script src='//assets.pinterest.com/js/pinit.js' type='text/javascript'></script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3855953344-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY5FBgJdoRNqsDZG7_PwwfCii4VnWw:1679710356357';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7173052990851751381','//foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html','7173052990851751381');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7173052990851751381', 'title': 'Food Wishes Video Recipes', 'url': 'https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html', 'canonicalUrl': 'https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html', 'homepageUrl': 'https://foodwishes.blogspot.com/', 'searchUrl': 'https://foodwishes.blogspot.com/search', 'canonicalHomepageUrl': 'https://foodwishes.blogspot.com/', 'blogspotFaviconUrl': 'https://foodwishes.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Food Wishes Video Recipes - Atom\x22 href\x3d\x22https://foodwishes.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Food Wishes Video Recipes - RSS\x22 href\x3d\x22https://foodwishes.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Food Wishes Video Recipes - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/7173052990851751381/posts/default\x22 /\x3e\n\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Food Wishes Video Recipes - Atom\x22 href\x3d\x22https://foodwishes.blogspot.com/feeds/5907830273161716465/comments/default\x22 /\x3e\n', 'meTag': '', 'adsenseClientId': 'ca-pub-6116047697248916', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': true, 'adsenseAutoAds': true, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/fe94b0ed9ed3696d', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': true, 'jumpLinkMessage': 'Click here to read more and watch video...', 'pageType': 'item', 'postId': '5907830273161716465', 'postImageThumbnailUrl': 'http://4.bp.blogspot.com/-byk0tjEcAig/Vjje2geIyTI/AAAAAAAARsI/qHT26eafZIY/s72-c/IMG_8641.JPG', 'postImageUrl': 'http://4.bp.blogspot.com/-byk0tjEcAig/Vjje2geIyTI/AAAAAAAARsI/qHT26eafZIY/s320/IMG_8641.JPG', 'pageName': 'Gingersnap Cookies \u2013 Hot, Hot, Sweet', 'pageTitle': 'Food Wishes Video Recipes: Gingersnap Cookies \u2013 Hot, Hot, Sweet'}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Gingersnap Cookies \u2013 Hot, Hot, Sweet', 'description': '  I always tell people I\u2019m not a cookie eater, but I guess that depends on the cookie, since when it comes to these gingersnaps, I can\u2019t get...', 'featuredImage': '//4.bp.blogspot.com/-byk0tjEcAig/Vjje2geIyTI/AAAAAAAARsI/qHT26eafZIY/s320/IMG_8641.JPG', 'url': 'https://foodwishes.blogspot.com/2015/11/gingersnap-cookies-hot-hot-sweet.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': false, 'isPost': true, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'postId': 5907830273161716465}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogSearchView', new _WidgetInfo('BlogSearch1', 'sidebar-right-1', document.getElementById('BlogSearch1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar-right-1', document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'sidebar-right-1', document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'sidebar-right-2-1', document.getElementById('PageList1'), {'title': 'Main Menu', 'links': [{'isCurrentPage': false, 'href': 'https://foodwishes.blogspot.com/', 'title': 'Home'}], 'mobile': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image2', 'sidebar-right-2-1', document.getElementById('Image2'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML11', 'sidebar-right-2-1', document.getElementById('HTML11'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image1', 'sidebar-right-2-1', document.getElementById('Image1'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'sidebar-right-2-1', document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'sidebar-right-2-2', document.getElementById('HTML5'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_SubscribeView', new _WidgetInfo('Subscribe1', 'sidebar-right-2-2', document.getElementById('Subscribe1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar-right-2-2', document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList2', 'sidebar-right-2-2', document.getElementById('LinkList2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML10', 'sidebar-right-2-2', document.getElementById('HTML10'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar-right-2-2', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar-right-3', document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar-right-3', document.getElementById('Followers1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer-3', document.getElementById('Attribution1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'footer-3', document.getElementById('HTML3'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>

@@ -1,0 +1,584 @@
+,"name": "Air Fryer French Fries"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "48"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "108 kcal"
+,"carbohydrateContent": "20 g"
+,"fiberContent": "3 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "247 mg"
+,"sugarContent": "1 g"
+,"fatContent": "2 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+, "recipeCategory": ["Dinner","Side Dish"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"1 pound russet potatoes, peeled",
+"2 teaspoons vegetable oil",
+"1 pinch cayenne pepper",
+"0.5 teaspoon kosher salt" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/hlN3RcpoVUj-4AGyPzfooqp9TKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/278581-AirFryerFrenchFries-Step1-0463-4x3-aeeccc7f58f64176a4d01db9d6ed9f52.jpg"
+}
+]
+,"text": "Gather all ingredients."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/BYpg7QcYGVd1tflibTpAfEklUVI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/278581-AirFryerFrenchFries-Step2-0467-4x3-f48a81caa7194802ac3fb6e72ae3d674.jpg"
+}
+]
+,"text": "Cut each potato lengthwise into 3/8-inch-thick slices, then slice sections into 3/8-inch-wide sticks. Place potatoes in a bowl of cold water. Let soak to release excess starches, about 5 minutes; drain."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour boiling water over the potatoes until they&#39;re covered by a few inches. Let sit for 10 minutes. Drain potatoes and transfer onto some paper towels. Blot off excess water and let cool completely, at least 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/nqnvFlGNYqqjTpTX2w00uWFRT4g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/278581-AirFryerFrenchFries-Step3-0470-4x3-fc1dcaecb60e460fa0a8ddf15837d780.jpg"
+}
+]
+,"text": "Place cooled potatoes in a mixing bowl. Drizzle with oil and season with cayenne; toss to coat."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an air fryer to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/FltDYsqx0QFIspsUXyKXbLbTCYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/278581-AirFryerFrenchFries-Step3-0476-4x3-a8dcf01282ca4a97bb6ade9605577327.jpg"
+}
+]
+,"text": "Stack potatoes in a double layer in the fryer basket."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook for 15 minutes. Slide basket out and toss fries. Continue frying until golden brown, about 10 minutes more. Toss fries with salt in a mixing bowl. Serve immediately."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I was looking for time and temp. Not an autobiography. TIME AND TEMP! Did not read. Did not try. Waste of my time"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Homesteader"
+},
+"reviewBody": "I did not have the cayenne pepper so I used Penzeys Southwest seasoning. The results were quite good and I look forward to trying it with the cayenne."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patty"
+},
+"reviewBody": "I only added garlic powder, onion powder and parsley to mine. I had to cook it a little longer, but they were fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These were great fries, super easy to make and tasted amazing, I doubled the recipe, and it tasted really good, I would recommend this recipe as they are some of the best fries I have ever had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mlinc"
+},
+"reviewBody": "GREAT...I love to cook Southern style, this one will be a repeat..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "aggied"
+},
+"reviewBody": "Followed recipe. Very tasty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "They are pretty good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue"
+},
+"reviewBody": "These sound delish, but I'll stick with my air fried frozen French fries, which are ready in 15 minutes and require only a quick spray of oil. Add the seasonings of your choice and you're good to go. However, I've had the fries made from scratch and they are the best, just too time consuming for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Really good. Wasn't sure about all the soaking (cold then hot) but obviously was the key."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "IndianChef649"
+},
+"reviewBody": "I made both 1/4\" as well as 3/8\". Well, lets just say thin and thick in the same cook. :-) While they turned out to be very delicious, I will just buy the frozen ones going forward. Great recipe and method and I highly recommend it. I can always kick up the frozen ones quite easily. The ones by Great Value that indicate a level of spice. Those do very well in the toaster oven on convection mode."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pessy1946"
+},
+"reviewBody": "Very easy and healthier than deep fried. Very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doris Naser"
+},
+"reviewBody": "Great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jazzyzambrano"
+},
+"reviewBody": "It turned out good with a side of ranch"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Evan Eurich"
+},
+"reviewBody": "He was making up dinner/breakfast and lunch"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wendy Lyons"
+},
+"reviewBody": "This is the way I'll make air fryer French fries from now on. The boiling water step made a HUGE difference because it slightly precooked the fries. Of all my air-fryer attempts at fries, the texture and doneness of these fries have been the best so far."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna May"
+},
+"reviewBody": "I cut the potatoes as shown on video, a bit larger than normal. Soaked in tap water 60 minuets and then patted dry. After tossing with olive oil and cayenne, air fried 20 mins. The best fries I have ever made, crispy on outside, fluffy inside, delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Buckwheat Queen"
+},
+"reviewBody": "This is a wonderful Way to make French fries in an air fryer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bayla Meltzer"
+},
+"reviewBody": "Excellent but I took off 1 star because I didn’t do the whole soaking the potatoes part. Cut the potatoes up, tossed with 2 tsps oil and baked for 25 minutes, checking after the first 15 minutes to shake the fries around. These were delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Scott"
+},
+"reviewBody": "It made perfect fries. My wife is from Scotland so \"chips\" is something near to a religion to her. When she tasted these her eyes rolled back in her head and said something that sounded like, \"Och aye, Mon! Tha's a right wee chip straight from Sauchiehall Street, so it is!\"\n\nOr maybe she burned her tongue and couldn't speak properly.\n\nEither way, I was very happy.\n\nThanks, Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Icon699"
+},
+"reviewBody": "Thanks Chef John, loved these!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janelle Vandervort Dvorak"
+},
+"reviewBody": "Loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathleen Kaufman"
+},
+"reviewBody": "So good, I left the in the air fryer for 12 minutes on the second round abs could’ve left them in a little longer but great recipe all around"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Donald Shade"
+},
+"reviewBody": "Tried both ways. Omitted the boiling water step in this recipe and the fries were better. Don't waste your 20 minutes of extra time. I liked the cayenne pepper suggestion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patricia Early"
+},
+"reviewBody": "Fries are not greasy. Therefore healthy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Rusty Brown"
+},
+"reviewBody": "Made French fries per recipe and they were fine, but to me, they didn’t turn out any differently than just slicing up the potatoes, tossing them with oil, and air frying them. The soaking and boiling and cooling and drying were more work and time for no gain I could perceive."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dave Hicks"
+},
+"reviewBody": "Easy.\nVery good flavor.\nBut did not brown well / crisp up well.\nCenter of the FF was perfect. Outside was more chewy than a crisp / brittle surface.\n\nWill try again with a higher temperature setting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Krystal"
+},
+"reviewBody": "I made this last night with delicious burgers! I also made my homemade fry sauce to go with the fries it was delicious! Easy an the kids loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donnie Meyers"
+},
+"reviewBody": "Made per directions"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Catherine Ooyama"
+},
+"reviewBody": "I followed the recipe, but used more cayenne pepper. They were delicious! I didn’t expect them to be because after I started making them, I saw the tip that red potatoes wouldn’t work at all. Perhaps it was a fluke, but they were awesome! I did pick up some russets to make next time"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason Dobbs"
+},
+"reviewBody": "Followed the recipe exactly and dumped 1# into my 5 quart fryer. Worked great. I am not sure the boiling water step is required but I’ll experiment some more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kormath"
+},
+"reviewBody": "Great recipe, i've been making them this way for quite a while. i like to add salt and garlic powder to mine. These work amazingly well for chili fries, or cheesey fries also. sprinkle shredded cheese on them before tossing with the season so it melts best."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alma"
+},
+"reviewBody": "Followed recipe except I added some turmeric for color and bit of smoked paprika. I added sea salt right before serving. They looked and tasted delicious and all gone!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bren"
+},
+"reviewBody": "Best Air Fryer fries, so far. I made these as written with the exception of adding more cayenne. I will definitely make these again. Thanks for another great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue Robins"
+},
+"reviewBody": "Made them in a Foodi. Used garlic flavored olive oil - excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jrowe2"
+},
+"reviewBody": "Dusted off the air fryer I got for Christmas 2 years ago! This recipe made great fries. I soaked the peeled fries in hot tap water 15 minutes, 3 times to remove starch, followed recipe exactly otherwise. They were crispy and delicious! Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LDALLAS"
+},
+"reviewBody": "Easy and delicious! I cut into steak fries because that’s what hubs prefers. Also use regular salt and no cayenne.\nDefinitely worth the extra steps for perfect fries."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Best air fryer fries yet... something about taking the starch out by soaking them... last time I did it, it was trash, this recipe works."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mommyof6"
+},
+"reviewBody": "Amazing fries! These were so good, and just the perfect balance of crispy on the outside and soft on the inside. I made them just as the recipe directed, and we loved them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Asis"
+},
+"reviewBody": "Great recipes. Simple yet fantastic . Easy to make yet tasty on palate."
+}
+]

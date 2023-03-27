@@ -1,0 +1,209 @@
+,"name": "Lemon Blueberry Pavlova"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "9"
+}
+,"cookTime": "PT80M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "424 kcal"
+,"carbohydrateContent": "62 g"
+,"cholesterolContent": "165 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "76 mg"
+,"sugarContent": "58 g"
+,"fatContent": "19 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"0.5 cup unsalted butter",
+"4 large eggs",
+"2 tablespoons lemon zest",
+"1 pinch salt",
+"0.5 cup white sugar",
+"0.25 cup lemon juice",
+"cooking spray",
+"1 tablespoon cornstarch",
+"1 cup white sugar",
+"1 pinch cream of tartar",
+"2 teaspoons lemon juice",
+"0.25 teaspoon pure vanilla extract",
+"1 cup blueberries",
+"2 tablespoons white sugar",
+"0.5 cup cold water",
+"0.5 cup fresh blueberries, or more to taste",
+"1 sprig fresh mint" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Prepare lemon curd filling: Cut butter into small pieces and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Separate eggs, placing yolks in a heat-proof bowl and whites in glass, metal, or ceramic bowl. Cover egg whites and leave on the counter to come to room temperature for the meringue."
+} ,{
+"@type": "HowToStep"
+,"text": "Add lemon zest, salt, sugar, and lemon juice to egg yolks. Whisk until thoroughly combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Add 1 to 2 inches water to a saucepan over low heat; bring to a simmer. Place bowl of filling over the simmering water. Cook, stirring constantly with a spatula, until mixture is very hot to the touch and thick enough to coat the back of a spoon, 10 to 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in butter, 3 or 4 pieces at a time, waiting until butter has melted before each addition. Remove from the heat and pour filling into a bowl to cool, about 15 minutes. Lay plastic wrap on top of the filling, pressing down so it doesn&#39;t develop a skin, and place in the refrigerator until well chilled, 2 to 3 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 250 degrees F (120 degrees C). Line a baking sheet with a silicone liner, such as Silpat®. Lightly spray with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Begin meringue: Mix cornstarch into sugar and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Add cream of tartar, lemon juice, and vanilla to the reserved egg whites. Whisk with a large whisk until very soft peaks form, about 3 minutes. Whisk in sugar mixture, 2 tablespoons at a time, whisking about 1 minute between each addition, until incorporated. When all sugar mixture has been added, continue to whisk until relatively stiff peaks form and whites are firm enough to hold their shape."
+} ,{
+"@type": "HowToStep"
+,"text": "Use 2 spoons or a piping bag to transfer whites onto the prepared baking sheet, forming a ring of dollops about 8 or 9 inches across. Fill in the middle with meringue, then go back around the edges adding more meringue to build up the outside edge."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven for exactly 1 hour. At 1 hour, turn off the oven and crack the door. Let meringue sit in the oven until its cooled completely, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, prepare blueberry sauce: combine 1 cup blueberries, sugar, and water in a saucepan over medium heat; bring to a simmer. Cook, stirring occasionally, until blueberries collapse and liquid thickens, about 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the heat and pass through a fine mesh strainer. Place in the refrigerator until fully chilled, about 45 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Very carefully transfer cooled meringue to a serving platter using 2 large spatulas if necessary; you may get some cracks but that&#39;s okay. Use a spoon to crack the center a bit to make room for the filling."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/gUlnPkz3PiTPaizpA28-fr1sU0Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-222-c8d631b51cb44b98ab2e614e527e3c30.jpg"
+}
+]
+,"text": "Fill the center with chilled lemon curd filling. Place remaining blueberries over top and drizzle with blueberry sauce. Garnish with mint."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT300M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise"
+},
+"reviewBody": "I didn’t have unsalted butter so I had to use salted. It was a hit with my family. I think they felt treated in a special way. I wish I’d been a little more patient and whisked the egg whites a little longer because they weren’t quite stiff enough. However, the pavlova went over well. It’s a dreamy dessert."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Scott"
+},
+"reviewBody": "Delicious! Don't let the number of steps scare you away."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "caralschuyler"
+},
+"reviewBody": "This recipe and instruction helped me make a delightful, first attempt at Pavlova. I had been wanting to try my hand at one, and Chef John never disappoints in his tutorials! You must absolutely try this recipe! I made it for an Australian friend, and he said it 100% authentic. I did add other berries and kiwi fruit along with the blueberries, but it was an absolute hit with the party guests. I will be making this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Zirkander"
+},
+"reviewBody": "Just made this with strawberries and it turned out amazing! Love it! Thanks so much for an easy to follow recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DeeDee"
+},
+"reviewBody": "I loved it. Elegant but pretty easy to make. Soooo tasty!! I kept the whole blueberries in the sauce. I didn’t want to strain them. The flavors blended perfectly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debz Van T"
+},
+"reviewBody": "Awesome ????"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica C."
+},
+"reviewBody": "This dessert was a huge hit at Easter! I've admired the pavlovas I'd seen on a certain british baking show for years, but I never imagined that I could make one. It just seemed beyond my very average baking ability. I should have known that Chef John would demystify this dessert and make creating it possible. The instructions are very clear and easy to follow just as written. The only thing that I did differently was that I traced the bottom of a spring form pan onto my parchment paper, then flipped it (so the outline could be seen through the paper, but we didn't eat graphite) so I could get a perfect circle of merengue. I otherwise followed the directions exactly and it came out beautiful and delicious! If you're \"merengue-curious\", I would absolutely urge you to try this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise Dukett Caselli"
+},
+"reviewBody": "So, I made a pavlova,\nA decadent sweet\nJust saying ‘pavlova’\nIs, for this gal, a treat! \n\nMeringue of white sugar,\nWith egg whites whipped stiff,\nWhat my whisk couldn’t handle,\nMy stand mixer did; \n\nThe recipe called for a curd\nMade of lemon,\nChef John, just a taste of it\nSent me to Heaven!\n\nThen with some blueberries \nReduced to a sauce,\nWith a spoon I made sure \nIt was drizzled on top.\n\nAnd though I’m not prone\nTo oblige my sweet tooth\nI did, and will do it again\nYes, it’s truth.\n\nIt made Easter special\nAs it always is,\nWith music and worship,\nWith bunnies and chicks;\n\nBut, may I keep first \nIn my heart EVERY day\nJesus died yet He lives, \nYes, He conquered the grave!\n\n\nHey, Chef John - thanks from two of your Finger Lakes fans (one of whom grew up near Paul Smiths College). This was my first try at a pavlova and served it as our Easter dessert. It was fun to make and even more fun to eat! Delicious! Thanks again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue Moss"
+},
+"reviewBody": "Delicious and easier than it looks. It tastes like what lemon meringue pie wishes it could."
+}
+]

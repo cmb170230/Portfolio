@@ -1,0 +1,49 @@
+,"name": "Three Cheese Ham Involtini"
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "381 kcal"
+,"carbohydrateContent": "13 g"
+,"cholesterolContent": "71 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "25 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "1164 mg"
+,"fatContent": "26 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 tablespoons olive oil",
+"1.5 cups sliced brown or white mushrooms",
+"1 large yellow onion, diced",
+"3 cloves garlic, minced or crushed",
+"1 red bell pepper, diced",
+"salt to taste",
+"freshly ground black pepper to taste",
+"pinch of cayenne pepper",
+"4 slices smoked ham",
+"0.5 cup shredded Monterey Jack cheese for the top",
+"12 ounces ricotta cheese",
+"2 ounces Monterey Jack cheese, grated",
+"0.5 ounce finely grated Parmigiano-Reggiano (1/2 cup packed if grated on a microplane)",
+"1 teaspoon kosher salt, or to taste",
+"0.25 teaspoon freshly ground black pepper",
+"1 pinch nutmeg",
+"2 tablespoons freshly chopped Italian parsley" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a skillet over medium-high heat. Add mushrooms, onions, and a large pinch of salt. Sauté, stirring occasionally, until mushrooms start to turn golden brown and onions are transparent, about 5 minutes. Make space in the center of the pan, add garlic, and cook until fragrant, about 30 seconds, adding more olive oil if needed. Add bell peppers and sauté until they just start to soften, about 2 minutes. Season with black pepper, cayenne, and more salt to taste if needed. Remove from heat and transfer to a baking dish or pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees F)."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine ricotta, Parmesan, and Monterey Jack cheese in a bowl. Season with parsley, salt, pepper, and nutmeg. Mix well until all ingredients are incorporated. Divide filling between 4 slices of ham, and roll each up into a tube. Set on top of vegetable mixture, and top with grated Monterey Jack cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until cheese is melted and everything is heated through, 25 to 30 minutes. Garnish with parsley if you like."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT55M"

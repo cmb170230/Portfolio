@@ -1,0 +1,84 @@
+,"name": "Low and Slow Prime Rib"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "2152 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "429 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "90 g"
+,"saturatedFatContent": "86 g"
+,"sodiumContent": "3176 mg"
+,"fatContent": "196 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"5 pounds prime rib roast",
+"1 tablespoon kosher salt",
+"2 tablespoons very soft unsalted butter",
+"1 tablespoon kosher salt",
+"2 teaspoons freshly ground black pepper",
+"0.125 teaspoon cayenne pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place beef on a pan, and rub with salt. Place meat on a rack or twisted foil so air can circulate under roast, and transfer to the fridge for 24 to 48 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the refrigerator and let it rest for a few hours to come to room temperature (optional)."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 300 degrees F (150 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer roast into a roasting pan, preferably on a rack."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix butter with coarse salt, pepper, and cayenne in a small bowl and spread onto the sides and top of the roast. Then add more salt to the top. Pour water into the bottom of the pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Roast in the preheated oven until internal temperature is 115 to 120 degrees F (46 to 48 degrees C), about 1 hour and 20 minutes (about 20 minutes per pound). Remove from the oven, cover with foil and let rest for at least 20 minutes before serving."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/AAECp1PZJVjYexXR8q8p1HBpOLU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Low-and-Slow-Prime-Rib-IMG-1x1-1-2000-5c3cdc1760604965ac4912915637986c.jpg"
+}
+]
+,"text": "Drippings from the pan can be deglazed with broth or water, and served alongside meat."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT1555M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Excellent recipe. I have tried several times in the past to cook a prime rib with dismal failures this recipe is so simple and it is delicious. As I have young grandchildren I omitted the cayenne. Entire family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Whoa- I truly adore Chef John.. his recipes are accessible and no-nonsense making an intimidating prime rib taste absolutely delicious. Stupid simple and everyone loved it. This is definitely the recipe to follow for anyone feeling apprehensive about cooking big meats. So so good!"
+}
+]

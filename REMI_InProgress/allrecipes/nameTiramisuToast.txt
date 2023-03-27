@@ -1,0 +1,72 @@
+,"name": "Tiramisu Toast"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "1"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "472 kcal"
+,"carbohydrateContent": "36 g"
+,"cholesterolContent": "163 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "11 g"
+,"saturatedFatContent": "15 g"
+,"sodiumContent": "400 mg"
+,"fatContent": "30 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 large egg",
+"1 tablespoon white sugar",
+"2 tablespoons strongly brewed espresso",
+"0.25 teaspoon vanilla extract",
+"2 (1 inch thick) slices day-old Italian bread",
+"3 tablespoons dry Marsala wine",
+"1 tablespoon white sugar",
+"0.5 cup mascarpone cheese",
+"1 tiny pinch salt" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Line a baking pan with aluminum foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Crack egg into a baking dish. Add white sugar, espresso, and vanilla extract. Whisk to combine. Place bread slices into the dish and toss in the mixture to saturate; let sit for 10 to 15 minutes to fully absorb."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer bread slices to the prepared pan and drizzle any accumulated coffee mixture liquid over top."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake toast in the center of the preheated oven until custard is cooked and bread bounces back slightly when touched, 20 to 25 minutes. Transfer slices to a wire rack to cool to room temperature."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, pour wine into a saucepan. Add sugar and cook over medium heat until reduced to about 1 tablespoon. Remove from heat and let cool."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/2-eHtmg-0ocIkupdDaawcE-vU0c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1Tiramisu-Toast-2000-21456be0bd5c4d35966408f82ed39ff4.jpg"
+}
+]
+,"text": "Place mascarpone cheese into a bowl and add cooled wine reduction and a very small pinch of salt. Stir with a spatula until combined. Chill before piping or spreading on cooled toast. Top with shaved chocolate."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I used Kahlua instead of the Marsala wine."
+}
+]

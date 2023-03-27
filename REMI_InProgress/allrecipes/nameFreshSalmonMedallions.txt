@@ -1,0 +1,218 @@
+,"name": "Fresh Salmon Medallions"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "12"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "509 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "117 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "39 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "265 mg"
+,"sugarContent": "0 g"
+,"fatContent": "38 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"2 teaspoons olive oil, divided",
+"1 pound boneless salmon tail fillet",
+"aluminum foil",
+"2 tablespoons mayonnaise",
+"1 pinch cayenne pepper, or to taste",
+"1 tablespoon fresh lemon juice",
+"salt to taste",
+"1 tablespoon chopped fresh dill" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C). Line a baking sheet with foil and lightly grease with 1 teaspoon olive oil."
+} ,{
+"@type": "HowToStep"
+,"text": "Place salmon tail skin-side down onto a paper towel. Place a knife at the point of the tail; use a sawing motion to carefully cut the salmon away from the skin. Trim off any connective tissue. Cut salmon in half lengthwise into 2 equal pieces. Cut each piece lengthwise into 3 long strips."
+} ,{
+"@type": "HowToStep"
+,"text": "Place 1 strip of salmon on the prepared baking sheet. Wind the strip into a spiral, with the thickest part in the center. Overlap the thin end of a second strip over the first; wrap around the spiral. Position the third strip in a way that maintains the circular shape. Repeat with the other 3 strips to form the second medallion."
+} ,{
+"@type": "HowToStep"
+,"text": "Fold a 15x4-inch piece of aluminum foil a few times to make a long strip about 1 1/2-inches wide. Rub the foil with the remaining oil and wrap it around the outside edges of a salmon medallion, creating a collar. Pinch foil together and make sure salmon is as round and uniformly thick as possible. Repeat with the second medallion."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix mayonnaise, cayenne pepper, and lemon juice together in a small bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Season the tops of the medallions with salt; spread the mayonnaise mixture evenly over each one."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/6OSxkkG1kMgfiw8rfEinqroQ3Ng=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8308640-47755b309ae140249bbbe807876e516c.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until just cooked through, about 10 minutes. Carefully remove foil."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Just Tabitha & me"
+},
+"reviewBody": "I loved it, as into each batch of salmon a little tail must happen, and it was terrific! I prefer my salmon in Steak format, simply because I am SO finicky about my salmon being *medium-rare* throughout. I measure height &amp; weight of piece precisely, and calculate exactly how long to bake, turn, re-baste, bake, broil last 45 seconds, then rest under foil. When I take it out, it is not done, but finishes during resting! All this with an old Cuisinart toaster oven! Love that puppy!!! My question is, I’ve wrapped the “flaps” around, but what if I cut them off and join them as a little flat raft using this recipe! I bought recently bought 4 steaks when my market had them, &amp; I individually wrapped for freezer. I cut the tails off all, originally bagging for freezer to use to make my own broth. However, I think I may try this with one set of 4. Hmmmm! I’ll re-post!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CDNisbet"
+},
+"reviewBody": "Amazing.... My wife usually is the one who always makes the salmon dish, but I made this tonight Amd she said that is the dish for here."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Demona Pastime"
+},
+"reviewBody": "A winner for saturday brunch, no cucumber so I add apple salad instead. Perfect for hot spring weather"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda B"
+},
+"reviewBody": "Honestly, I didn’t know I shouldn’t buy the tail end of salmon. But now that I have made one into medallions I may search for this cut of salmon! This was easy and stayed juicy and flavorful with such a short cooking time. We will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MEGJ"
+},
+"reviewBody": "This is an add on to my post.... although not difficult it helps to watch the video and listen to Chef John. A real wow for company! do everything but the sauce before arrival and you can be part of the party. Happened to see a note about the cucumber salad , add the vinegar first then the oil. Picked that up from recipe I think on thu"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paul G"
+},
+"reviewBody": "Followed directions and, WOW! Mighty good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lee Wagar"
+},
+"reviewBody": "Watched Chef John make this dish and although I have lots of salmon in the freezer, went to the grocery and picked up the tail just to try this recipe. It came out just perfect as I followed him as I made the fun spirals. Loved the sauce on top and the dill just made them! I even made up a cucumber salad to serve it on. Anyway, I didn't change a thing (never do with Chef John's recipes) and can't wait to make them for company. They look so cool on the plate and take no time to cook. Ten minutes was just right! Loved this so much! Just a different little spin on salmon......."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "It was super good and easy! I dove in and made the Alabama-Style White Bar-B-Que sauce for the top. Great looking meal! I never buy the end cut of salmon, but will just to make this! Ten minutes in my oven was just a tad too long but we didn't complain."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Philip Staff"
+},
+"reviewBody": "Delicious and easy to make"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Muhammad Al-Mahdi"
+},
+"reviewBody": "Great recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Austin"
+},
+"reviewBody": "I thought this was excellent! I prepared it as directed with zero exceptions. The only thing that could have been added would have been Chef John's Cucumber Salad recipe which the Salmon sat on! No worries! I used my own and served this with a side of Steamed Broccoli and dinner was divine!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cookismark"
+},
+"reviewBody": "You failed to give us recipe for the cucumber dill salad base, so I used lightly roasted asparagus instead. It was swell."
+}
+]

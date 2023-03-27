@@ -1,0 +1,114 @@
+,"name": "One-Bite Thai &#34;Flavor Bomb&#34; Salad Wraps (Miang Kham)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "4"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "225 kcal"
+,"carbohydrateContent": "24 g"
+,"cholesterolContent": "13 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "327 mg"
+,"sugarContent": "16 g"
+,"fatContent": "12 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT45M"
+,"recipeIngredient": [
+"0.33333334326744 cup unsweetened shredded dried coconut",
+"2 tablespoons finely chopped roasted peanuts",
+"2 tablespoons minced shallot",
+"1 tablespoon finely minced fresh ginger",
+"1 small lime, zested and juiced",
+"0.5 cup packed dark brown sugar",
+"2 tablespoons fish sauce",
+"0.66666668653488 cup water",
+"1 cup cubed cooked chicken",
+"32 leaves fresh spinach",
+"0.5 cup toasted unsweetened coconut flakes",
+"0.33333334326744 cup roasted peanuts",
+"32 leaves Thai basil",
+"8 slices lime, quartered",
+"0.25 cup finely chopped Thai chile peppers",
+"0.33333334326744 cup diced shallot",
+"0.33333334326744 cup diced fresh ginger" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine coconut, peanuts, shallot, ginger, lime zest and juice, brown sugar, fish sauce, and water in a small saucepan, swirl to mix, and bring to a simmer over medium-high heat. Reduce heat to medium and simmer, stirring occasionally, until the mixture reduces by about half and starts to thicken up."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from heat and let cool to room temperature before using. Sauce will get thicker once cooled. If sauce is too thick, thin out with a little bit of water. If it&#39;s too runny, simply put it back on the heat and reduce it a little more."
+} ,{
+"@type": "HowToStep"
+,"text": "To make the wraps, place a heaping teaspoon of chicken in a spinach leaf, top with a big pinch of toasted coconut, a few peanuts, a Thai basil leaf, one piece of lime, one piece of Thai chili, one or two pieces of shallots, and one or two cubes of ginger."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/1HYDPkj08bJD3lO0Ym29NtqfZbs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-243-e4dbf262958f456697f7addbd8d23780.jpg"
+}
+]
+,"text": "Top with 1 teaspoon of the sauce and wrap everything into one neat bite. These must be eaten in a single bite to get all the flavors working properly together."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Just so, so good!! I did add chopped cilantro and subbed sriracha for the peppers. Can’t wait to make these for a lettuce wrap bar at our next party. Winner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "zhendrei"
+},
+"reviewBody": "We made these as appetizers and everyone couldn't stop eating them. Chef John is right, a single bite is the way to enjoy them. We landed up passing on dinner and ate these instead. The sauce really brings out the flavor profile. Definitely recommend making these."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jason"
+},
+"reviewBody": "These were tasty! Made them exactly as per the recipe. Everyone loved them, but next time I’ll cut down on the lime juice used (only a little). It’s a definite keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bryan Shull"
+},
+"reviewBody": "I used habenero and regular basil everything else is the same this is a great recipe for light eating."
+}
+]

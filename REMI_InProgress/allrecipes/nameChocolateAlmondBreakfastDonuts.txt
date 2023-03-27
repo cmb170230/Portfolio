@@ -1,0 +1,225 @@
+,"name": "Chocolate Almond Breakfast Donuts"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "13"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "246 kcal"
+,"carbohydrateContent": "14 g"
+,"cholesterolContent": "62 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "307 mg"
+,"sugarContent": "7 g"
+,"fatContent": "19 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"nonstick vegetable oil cooking spray",
+"2 large eggs",
+"2 tablespoons vegetable oil",
+"3 tablespoons maple syrup",
+"1.25 cups finely ground almond flour",
+"1.5 teaspoons baking powder",
+"0.5 teaspoon kosher salt",
+"2 tablespoons Dutch-process cocoa powder" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Generously spray or brush a nonstick donut pan with cooking spray; set aside until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Place eggs, vegetable oil, and maple syrup into a mixing bowl and whisk thoroughly until the mixture is emulsified, light, and a little bit foamy, 3 to 4 minutes. Add almond flour, baking powder, salt, and cocoa powder; mix everything together thoroughly with a spatula until all the almond flour is incorporated and you&#39;ve achieved a very thick batter."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer batter into a pastry bag, or a plastic zip-top bag with one of the corners cut off. Pipe the batter evenly into the prepared donut pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Dip a finger in water and smooth the tops of the batter to even out. Tap the pan on a work surface a few times to settle the batter even more."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/IKoKZBSuGc01y2aMmBRc2h580t4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-181-87ce30a0dd094461b848e45363f8385a.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until a wooden skewer inserted into a donut comes out clean, 9 to 10 minutes. Let cool in the pan for 10 minutes before inverting onto a wire cooling rack. Cool completely before serving."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ryantucker1986"
+},
+"reviewBody": "Pretty easy to make and a good low carb/gluten free snack."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie Diaz"
+},
+"reviewBody": "WOW! THE BOMB DOT COM! I made these for my husband as his BIRTHDAY donuts. They were a HIT! I added vanilla, cinnamon, and Chef John's signature...a pinch of cayenne pepper! DELICIOUS all the way around. I doubled the recipe to make a full dozen. For toppings I dipped the donuts in melted dairy free chocolate, then in toasted coconut flakes or roughly chopped roasted almonds with a sprinkle of sea salt, or drizzled peanut butter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ForkDontLie"
+},
+"reviewBody": "This is a great recipe! The first time I made it, I followed the instructions and came out with light and tasty donuts. The second time, I swapped the cocoa for cinnamon and added a little vanilla. If possible, we liked them even more! Either way, I think these will probably be a weekly bake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kcdflem"
+},
+"reviewBody": "I luv these! I Enjoyed them plain! drizzled with melted choc chips for spouse. I used mini donut pans."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Connie Sanders"
+},
+"reviewBody": "I did not make any changes, other than to bake it a bit longer, because I was a little short on flour and the batter was runnier than in the video. Because of this, I did not bag and pipe it, just poured it in from a spouted container. I dipped the doughnuts in melted 65% chocolate and dipped half of those in chopped pecans."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Kirbe Strom"
+},
+"reviewBody": "Used sugarfree maple syrup. Ended with a very bitter aftertaste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vaishnave Sivasubramanian"
+},
+"reviewBody": "Easy,to-go recipe..My family really loved it.The changes I made is 1) Used honey instead of maple syrup 2) Used cupcake pan (I don't have donut pan in home)..I have pics but not able to upload in mobile."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pauline"
+},
+"reviewBody": "Easy gluten free recipe that is grandson approved! I will definitely make these again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ranergeo"
+},
+"reviewBody": "After watching Chef John make these, I needed to try them! However, I didn’t have a donut silicone for them. So, I simply used 6 spots in a muffin tin and subbed paper liners for the non stick spray. Aside from needing to add a minute to the cooking time, they turned out perfectly and had enough dome over the paper to allow for easy dipping into dark chocolate for the same chocolate covered result! The only thing I might do next time around is reduce the kosher salt by half (Morton’s, which I was using, tends to be a bit denser than Diamond Crystal.). Otherwise, a great low-calorie, low carb breakfast snack!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle J."
+},
+"reviewBody": "I was excited to see Chef John do a low-carb donut and I promptly made these over the weekend. I've been trying to follow a (somewhat) keto diet since the beginning of the year, so I did tweak this recipe by substituting the maple syrup with 1/4 cup of allulose. I also added a 1/2 teaspoon of xanthan gum to help with binding. Although not included in the recipe above, Chef John did add melted chocolate and toppings to his donuts and I used melted Lily's sugar free chocolate chips and unsweetened coconut for my toppings. The results were GREAT! I will say the dough was extremely sticky to work with and I was only able to get 5 donuts out of the recipe vs. 6, likely due to overfilling the donut tins and not being able to get every bit of the dough out of the piping bag. Donuts still tasted great 3 days after baking. Will definitely make again. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yenchia Feng"
+},
+"reviewBody": "I went through the pain of making an account just to say how much I love this recipe!! Came out perfect - so chocolatey, moist, and delicate. Yum!! So glad I have this a try. This is going to be a staple treat for me!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paulina Ung"
+},
+"reviewBody": "Came out perfectly just like in the video. I would post a picture but allrecipes is horrid to use on mobile. The donuts came out a bit saltier than I'd prefer but that can be tweaked next time I make these."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Yadayada Yanyan"
+},
+"reviewBody": "I don't know what I was wrong. Totally collapsed after baking.\nI did exactly following this recipe. First time ever I failed Chef John recipe."
+}
+]

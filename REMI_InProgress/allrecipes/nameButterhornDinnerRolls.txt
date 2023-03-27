@@ -1,0 +1,93 @@
+,"name": "Butterhorn Dinner Rolls"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "272 kcal"
+,"carbohydrateContent": "34 g"
+,"cholesterolContent": "49 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "279 mg"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"1 (.25 ounce) package active dry yeast",
+"0.25 cup warm water",
+"0.5 cup unsalted butter",
+"1 cup milk",
+"3 tablespoons white sugar",
+"3.75 cups all-purpose flour, divided",
+"1.5 teaspoons kosher salt",
+"1 large egg yolk",
+"0.25 cup butter, melted" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Sprinkle yeast onto warm water. Stir gently and let sit until foamy and frothy, 15 to 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "While the yeast is proofing, place butter in a saucepan with milk and white sugar. Turn heat to medium and cook, stirring occasionally, until butter melts and sugar dissolves, 3 to 4 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the heat and pour into a large mixing bowl; let cool until just very warm to the touch and about 120 degrees F (49 degrees C), 2 to 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add 3 cups flour, kosher salt, yeast mixture, and egg; mix gently with a spatula until it all comes together and forms a very thick and wet batter. Add remaining 3/4 cup flour and mix with your fingers, incorporating just the amount of flour you need, until dough comes together into a soft, sticky ball."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover and let rise until almost doubled in size, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough to a floured surface and knead until smooth and elastic, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Grease the bowl with butter. Place the dough back into the bowl, cover, and let rise for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with a silicone liner (such as Silpat®)."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough back to a work surface and press it into a 1-inch thick circle. Flip over and continue pressing until circle is 1/2-inch thick; use a rolling pin if needed to achieve correct thickness. Use a pizza tool to cut dough into 12 equal wedges."
+} ,{
+"@type": "HowToStep"
+,"text": "Starting at the larger end of one wedge, roll toward the point, stretching the ends of the dough out for the first few inches. Pinch and press the point into the dough to seal and place, seam-side down, on the prepared baking sheet. Repeat with remaining dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Let rolls sit until they puff up a little, 15 to 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until cooked through and just starting to turn a light golden brown, 20 to 25 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/JEqh1ntXJ2BsJFlKafZUtdwwQ78=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_1417-2000-26eae467558041fbbf825d45468189b4.jpg"
+}
+]
+,"text": "Remove from the oven and immediately brush hot rolls with melted butter. Transfer to a wire rack to cool completely, 15 to 20 minutes."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT180M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I have made these as instructed, I have froze the raw rolls and baked them later, I have used the dough as a base for bakes that use crescent rolls and everything has been good. I do use freshly ground whole turkey red wheat flour and it has not been an issue. I add a pinch of cayenne, of course."
+}
+]

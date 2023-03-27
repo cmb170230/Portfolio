@@ -1,0 +1,70 @@
+,"name": "Cacio e Pepe Taralli (Savory Italian Pretzels)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "77 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "3 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "212 mg"
+,"sugarContent": "0 g"
+,"fatContent": "3 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT60M"
+,"recipeIngredient": [
+"1 cup all-purpose flour",
+"2 teaspoons freshly ground black pepper",
+"1 teaspoon kosher salt",
+"0.25 cup white wine",
+"2 tablespoons olive oil",
+"0.5 cup finely grated Parmigiano-Reggiano cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine flour, pepper, and salt in a mixing bowl, and stir with a spoon to combine. Pour in wine and olive oil. Mix until dough starts to come together. Knead by hand until dough is smooth and slightly elastic, about 3 minutes. Wrap dough in plastic and let rest at room temperature for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Unwrap dough and cut into 4 pieces. Roll each piece out with your palms into ropes about 10 to 12 inches long. Cut each rope into 3 pieces; roll each piece to a length of 5 or 6 inches. Twist the ends a few times and press them together to form a ring, twisting as needed to fully seal the ends."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with a silicone mat (such as SILPAT®)."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring a pan of water (at least 3 inches) to a boil. Drop in 4 rings of dough at a time. Boil until rings float to the top, 3 to 5 minutes. Remove with a slotted spoon onto a towel-lined plate. Transfer to the prepared baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Sprinkle Parmigiano-Reggiano cheese over each ring; flip and grate more cheese on the other side. Flip back to the first side and apply one last grating of cheese, or until rings are thoroughly coated."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/5P0mfSJr7njsLYcGVfaJuOEUfMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7663131-c0c048dffb77492dbd4a8254527ddb9c.jpg"
+}
+]
+,"text": "Bake in the preheated oven until lightly golden and crunchy, 25 to 30 minutes. Remove from the baking sheet onto a wire rack and let cool completely before serving."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT125M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "addielleyes"
+},
+"reviewBody": "Very tasty! I thought from watching the video they might turn out too crunchy crackery, but no! They still had that satisfying sort of chewy bready bite and were only crunchy on the outside. I might double the recipe next time."
+}
+]

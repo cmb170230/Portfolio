@@ -1,0 +1,520 @@
+,"name": "Korean Street Toast"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "36"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "938 kcal"
+,"carbohydrateContent": "50 g"
+,"cholesterolContent": "515 mg"
+,"fiberContent": "6 g"
+,"proteinContent": "32 g"
+,"saturatedFatContent": "34 g"
+,"sodiumContent": "2595 mg"
+,"sugarContent": "15 g"
+,"fatContent": "70 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 cup thinly sliced green cabbage",
+"0.33333334326744 cup julienned carrot",
+"1 stalk green onion, thinly sliced",
+"0.5 teaspoon kosher salt, or to taste",
+"0.25 teaspoon ground black pepper",
+"1 pinch cayenne pepper",
+"2 large eggs",
+"3 tablespoons salted butter, divided",
+"2 thick slices white bread",
+"0.5 teaspoon white sugar, or to taste",
+"2 thin slices smoked ham",
+"1 slice mild Cheddar cheese",
+"1 tablespoon ketchup, or to taste",
+"1 tablespoon mayonnaise, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix cabbage, carrot, green onion, salt, pepper, and cayenne with your hands in a bowl until soft, about 30 seconds. Mix in eggs with a fork until thoroughly combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt 2 tablespoons butter in a nonstick skillet over medium heat. Add bread slices and flip a few times to make sure both sides are coated with butter. Grill bread until beautifully toasted, golden brown, and a little crispy on both sides. Transfer to a plate."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt remaining 1 tablespoon butter in the same skillet over medium heat. Add cabbage mixture; cook and simultaneously mix by using the edge of a spatula to chop down on the surface while pushing the edges up and over the top. As the mixture starts to hold its shape, form it into a rectangle that&#39;s about twice as long as it is wide. Split the rectangle in half into two square patties; continue to cook until golden brown, 1 1/2 to 2 minutes per side."
+} ,{
+"@type": "HowToStep"
+,"text": "Stack patties on top of one another onto one slice of toast and sprinkle with sugar."
+} ,{
+"@type": "HowToStep"
+,"text": "Place ham slices into the hot skillet; cook over medium heat until sizzling, 1 to 2 minutes. Flip and top with Cheddar slice; cook until melted, about 1 minute."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/rAk-AUbcmE43iwpbjqvNnx1T6CQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8792389-korean-street-toast-Chef-John-1x1-1-5d894df5606e4827af4620b4374d8139.jpg"
+}
+]
+,"text": "Place ham and cheese on top of patties; top with ketchup, mayonnaise, and remaining slice of toast. Cut in half and serve."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Botelho"
+},
+"reviewBody": "It was LUV at first bite, YUM :&gt;)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lacyanne"
+},
+"reviewBody": "This sandwich had absolutely no business being this good. I used up some leftover spiral ham and kewpie mayonnaise. I was concerned about the ketchup overpowering the whole sandwich, however, the sweetness and acidity were very balanced. I will definitely be making this again and experimenting with differently vegetables. Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DREGINEK"
+},
+"reviewBody": "This was so great! A little extra work for a sandwich but the results are worth it! Didn’t change a thing but I eyeballed the cabbage; I ended up having enough to make two sandwiches? While some of the ingredients seem odd together- they work!! Hands down wonderful and would absolutely make this again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HungryHolly"
+},
+"reviewBody": "Ketchup on an egg sandwich? Added Sugar? Nope, no thank you. But as advised in the video, I did not alter this recipe one bit and it was so so good! The green onions made it and that coming from a girl who rarely cooks with onions at all. One note, I only had a medium thick white bread, I cooked the first sandwich exactly as presented and was a bit soft. So the next one I pre-toasted in the toaster before \"grilling\" in the pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Hadden"
+},
+"reviewBody": "Delicious! I was skeptical with the ingredients list but the end result of the Korean Street Toast in Chef John's video had me intrigued. I'm so happy I finally made it. As a suggestion chop extra veg as you and everyone else is going to want another. The fried toast didn't stay crunchy for long, next time I will use the toaster and butter it up nicely, maybe let the egg and veg cool down a bit so the steam won't soften the toast so much. Thanks again, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristine Stolworthy"
+},
+"reviewBody": "This took a while to make. No prob. I was only making one serving and it is very filling! I needed a nap afterwards. But it is delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mike"
+},
+"reviewBody": "Loved it. Used angel hair cabbage and shred my own carrot with a box grater. Gotta use Kewpie mayo and a little extra cayenne."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nonnisaysmangia"
+},
+"reviewBody": "different and tasty. I did cheat and use bagged slaw"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nyssa"
+},
+"reviewBody": "This is one of my favorite recipes. I make this regularly now, and I never get tired of it. I just follow Chef John's instructions and it turns out perfectly every time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KatieW9908"
+},
+"reviewBody": "I added one more egg and cooked the mixture in the bottom of a loaf pan at 350 for about 12 minutes. It came out the perfect size and shape for two sandwiches."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debi George"
+},
+"reviewBody": "This is my best new favorite sandwich! Very unusual and delicious. Don't skip the sugar, mayo and ketchup which I normally would never think of putting on a sandwich but it really works and a must for this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Robertjm"
+},
+"reviewBody": "Another one of Chef John's recipes I bookmarked after seeing his YouTube Channel. \n\nFlavor was really great. The egg mixture while cooking in the pan. But, I didn't lose much. It was a bit on the soft side when I took it out of the pan. Going to have to go back and watch his video to see what his looked like.\n\nI used pre-shredded coleslaw and preshredded juliend egg rather than cutting my own, and that seemed to work OK for cutting time.\n\nFor bread I used Texas Toast slices from Safeway. They never really got hard as toast that comes out of a toaster, and I wonder if I either used too much butter, or my pan temp wasn't high enough. \n\nSugar was an intriguing add. Probably used about 1/2 tsp at most, and there really wasn't an overtly sweetness to it all. \n\nI went to cut the assembled sandwich. But, I was afraid it was going to squish out so ate it as is.\n\nOverall it turned out well. I'll definitely make it again once I've went through my process to see what I need to do to improve it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Silver Vial"
+},
+"reviewBody": "Great, easy recipe. Left out the cayenne. To me, it tasted like a cheeseburger. Spouse loved this sandwich, too. Chef John has not failed us yet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brian"
+},
+"reviewBody": "Absolutely incredible flavors -- much more than the sum of its parts, and incredible given how easy this came together."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "blackhighheels"
+},
+"reviewBody": "Yum, yum, yum, yum, yum! Even better than the sandwiches I've had on the streets in Korea. :) And very customizable, although I suggest making it as is the first time. I agree - try it with the sugar at least once. It adds a bit of oomph that would otherwise be lacking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mme Magoo"
+},
+"reviewBody": "Who would have thought such seemingly odd ingredients would go together so well. Do not leave out the sugar even though you might be tempted. Delish. Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "femm"
+},
+"reviewBody": "Soo delish! I wouldn't change a thing~!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Veronica Chadwick Nash"
+},
+"reviewBody": "The first time making this will most likely take much more than 15 min prep time. \n Between washing and cutting up cabbage, carrots and green onion and then frying the bread and ham, this took closer to 45 min. We made it for dinner where we plan a bit more prep time. The sandwiches were delicious and huge. Even my 3 teenagers ate only half each and a bit of soup. The first few I forgot the mayo and ketchip but we added it later. We enjoyed it both ways. Overall this was a unique meal we will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "emma"
+},
+"reviewBody": "Make this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "scott"
+},
+"reviewBody": "This is definitely a keeper, thanks chef John for sharing this recipe, great flavor, I was very surprised all these ingredients work very well together, watch the video if it’s your first time to make,"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Laurel Anne"
+},
+"reviewBody": "It was a VERY BIG sandwich! Like others have commented, it would be been OK to half the amount of filling or skip the ham - I think there is a lot of room for creativity here. After all, I was the Jeff Probst of my street toast, and I will probably make some changes when I make it again. This is something to eat quarterly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Leslie Hart Register"
+},
+"reviewBody": "Well, I say I made it. I basically did (i giggle because I loathe when someone says they made a recipe and when I read what they did, it sounds like they reworked the entire recipe)\nInstead of the carrots and cabbage as in the recipe, I bought a bag of slaw mix with some carrots in it. I mixed the eggs up in a couple of handfuls of the slaw mix and cooked that at the time specified in the recipe. Heated up the ham while I was cooking the egg/slaw mixture. Applied a thin smear of mayo to both bread slices and dotted that with ketchup. Sprinkled a bit of sugar over all that. Put the sammich together from there. Had enough egg/slaw mixture to cook later today. \nAnd as always...\nEnjoy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tilly sirota"
+},
+"reviewBody": "I used purple cabbage so my eggs turned blue, which was fun. I thought this recipe was pretty good, but my boyfriend said it was the one of the best things i ever made. For how little effort this is it is definitely worth trying!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "?????? ???????"
+},
+"reviewBody": "I reduced the amount of mayo for a drier but still delicious sandwitch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Foodwarrior"
+},
+"reviewBody": "Chef John is 100% right. The whole time I was making this I kept saying...this can't be right. In the end it was really good. One thing to note, it is really filling and half a sandwich is plenty for one person."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shona"
+},
+"reviewBody": "I've made this a few times since learning the recipe, it's so tasty an easy to make. \n\nOne thing I've changed is only adding the salt to the julienned vegetables prior to the mix/crushing step. The salt is part of what breaks down the carrot and cabbage, and I end up wasting less cayenne and pepper if I add it at the same time as the eggs. There seems to be a lot of variation in what can go into one of these too, if my YT recommendations are anything to go by."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tina"
+},
+"reviewBody": "Great recipe. I made it without the ham and cheese and didn't miss it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pat J"
+},
+"reviewBody": "Ug, so good! Was excited to make this after everyone’s favorable comments and it still exceeded expectations. Besides some chopping, relatively quick and easy. As a Chicagoan, I legally can’t keep ketchup in the house but a couple dashes of sriracha did the trick. Will be eating this again (and likely soon!)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy"
+},
+"reviewBody": "This was so simple to make and very satisfying! I bought a bag of coleslaw mix and a bag of julienned carrots. I added some green onions from my garden and didn’t worry about the ratio — just mixed up about a cups worth. I really didn’t want to use sugar or catsup but his video said it was a must. All the ingredients blended so perfectly that neither stood out. I will definitely make this again and probably for my friends. I had this for dinner with a beer. Delish comfort food!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jon Stotter"
+},
+"reviewBody": "Delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "screwball"
+},
+"reviewBody": "cheap and easy to make"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Colin McDonald"
+},
+"reviewBody": "I made the sandwiches exactly as the recipe says. I quadrupled the recipe to make 4 sandwiches. They were extremely delicious. The sweetness of the sugar and ketchup balanced well with the saltiness of the ham, egg, mayo, and vegetables. Everything in the sandwich worked together to make something very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steve"
+},
+"reviewBody": "This has ruined every concept of my plain egg, ham, &amp; cheese breakfast sandwich. Just the egg &amp; cabbage mixture alone is delicious. I could eat that by itself. I made this exactly as written. Next time I might cut down the salt a bit, or perhaps try fish sauce. I will also use less ketchup and mayonnaise. Overall, 5 stars. And as always, enjoy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kaori A."
+},
+"reviewBody": "Hearty and very satisfying! I'll definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carrie Kinnison"
+},
+"reviewBody": "This is a flavorful Asian-inspired meal that's quick to make. Enjoyed the recipe as is. Next time I'll substitute fish sauce for salt and brown sugar for white (probably mix that right into the egg and veggie mixture)."
+}
+]

@@ -1,0 +1,257 @@
+,"name": "Strawberry Dream"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "16"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "568 kcal"
+,"carbohydrateContent": "44 g"
+,"cholesterolContent": "163 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "27 g"
+,"sodiumContent": "46 mg"
+,"sugarContent": "37 g"
+,"fatContent": "44 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 cups quartered fresh strawberries",
+"1 tablespoon white sugar",
+"0.5 cup white sugar",
+"2 cups heavy cream",
+"0.25 teaspoon pure vanilla extract",
+"0.25 cup freshly squeezed lemon juice",
+"0.66666668653488 cup diced fresh strawberries",
+"1 tablespoon white sugar" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Prepare strawberry puree: Mix quartered strawberries and sugar in a 2-cup liquid measure or bowl. Let sit and macerate for 1 hour, stirring every 10 to 15 minutes. Use an immersion blender to blend into a smooth puree. Pass through a mesh strainer to remove seeds, if desired. Cover and refrigerate until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Prepare cream mixture: Combine sugar and cream in a saucepan. Set heat to medium-high and bring to a boil while whisking occasionally; be careful, since cream can easily boil over. Once cream just starts to boil, reduce heat to between medium and medium-low and maintain a steady simmer. Simmer for 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the heat and whisk in vanilla, lemon juice, and 1/3 cup of the reserved strawberry puree until completely incorporated. Let cool for 10 to 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "While the cream is cooling, pour the remaining strawberry puree evenly into 4 dessert glasses."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour the cooled cream mixture into the glasses. Wrap with plastic wrap and pop in the refrigerator until thoroughly chilled, 3 to 4 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, prepare topping: Toss diced strawberries and sugar together in a small bowl. Wrap with plastic wrap and chill alongside the strawberry dreams."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ocllQKClwQHd-R0t5eaZAUfpn2c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-266-b2945082b4d54bfebaf1eeb748608301.jpg"
+}
+]
+,"text": "When ready to serve, remove strawberry dreams and topping from the refrigerator. Stir the topping and spoon strawberries and any accumulated juices on top of each dream."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT285M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deb Y."
+},
+"reviewBody": "Make this! It's so easy, SO fun and so much more elegant than the effort it takes to create it. I've now made it three times, once each with strawberries, blackberries and raspberries. All three turned out beautifully and not a bite was left by any of my guests. This picture is my raspberry version."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "slabaze"
+},
+"reviewBody": "I love this dessert. It has easily become one of my family's favorite treats."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JENCHAO"
+},
+"reviewBody": "Easy and delicious! A new family fave!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Natalie"
+},
+"reviewBody": "This is amazing!!! I signed up for Allrecipes just so I could give this 5 stars. It's fresh and light yet rich and creamy all at the same time. I made it exactly as directed and it turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "UnkleZed"
+},
+"reviewBody": "Made it and it was great. Thought about trying it with our peaches that are in now."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mama Bear"
+},
+"reviewBody": "I've made this twice now. First time, it was a bit too soft - I think because I had my temperature set too low for the 5 minute cook time. Only change I made in the recipe was in the order of operations. I cut up the entire quart of strawberries and covered them with the 2 T of sugar and then after the hour of maceration, just reserved the 2/3 cup for topping. Also, this is super rich. Can easily reduce serving size and pour into 5 dishes instead of 4. Finally, it took one large lemon to make 1/4 cup of lemon juice. Now I'm wondering how this would taste with other fruits. Looking forward to experimenting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Glenn Strycker"
+},
+"reviewBody": "Family loved it - second helpings requested!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "PaulC"
+},
+"reviewBody": "Turned out great, just as Chef John explained how to make it. The milk posset is not as thick as I would prefer, I may skip adding the strawberry puree to help the posset set better and give the desert a less blended effect. I made it twice and plan on making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Will"
+},
+"reviewBody": "Made this special treat for a wedding. This was a huge hit . I have made this recipe 3 times and each time was exactly the same. Great recipe and thank you for sharing it. Highly recommend this to impress your special someone."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurel Wright"
+},
+"reviewBody": "This \"posset\" is really delicious. However. Once I strained the seeds and froth out of the puree, I discovered that I had almost nothing left. The cream was cooling, and I didn't have time to let another batch of strawberries macerate for an hour, so I had to quickly improvise. I cooked some chopped strawberries and sugar and water, and then used the immersion blender on them, strained the puree into a small bowl and placed that bowl into a larger bowl full of ice to cool it down. Then I had plenty of puree for the 4 servings. \n\nI also added diced strawberries in the bottom of the glass, in the puree layer. \n\nI'm definitely going to make this again. \n\nAlso, I might like some pound cake in it, cut into cubes and put in the glass, making it have more textures.\n\nAgain, this was really enjoyable. Light, fresh, lovely. Thanks, Chef John!\n(And I like to say the word \"posset\" so I said it a lot tonight.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LeaAnne"
+},
+"reviewBody": "This dessert is so easy and delicious. It is delicious even if you forget to mix some puree into the cream. I think that peaches may also work as they are fairly high in pectin. I will make this again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elaine Gloeckle"
+},
+"reviewBody": "This was relatively easy and tasty! I gave up pressing the strawberry purée through the fine mesh strainer and there were some seeds in my purée, but it was delicious nonetheless! This recipe made 4 3/4 cup servings with purée and 1 extra 3/4 cup serving of just the cream mixture which I served with the diced strawberries. Yumm!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heathins"
+},
+"reviewBody": "Simply Amazing! Served it for guests, and received rave reviews! Plated it in smaller servings. Original recipe states 4, we served 8. So much flavor! My first posset!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Krisinthekitchen"
+},
+"reviewBody": "This dessert launched me out of this world on a strawberry rocket. I was fortunate enough to score fresh, in-season strawberries. I followed the recipe exactly except that I used a blender instead of the recommended immersion blender, so when I strained the mixture there was virtually no pulp or seeds to remove. I used mason jars for presentation, which also allowed me to easily stack them in the fridge."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becky Clark"
+},
+"reviewBody": "I made this with my six year old and he was in heaven. There were many elements he could help with like cutting the strawberries . It was a super simple and delicious recipe."
+}
+]

@@ -1,0 +1,273 @@
+,"name": "Chef John&#39;s Sweet Potato Gnocchi"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "20"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "237 kcal"
+,"carbohydrateContent": "36 g"
+,"cholesterolContent": "41 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "531 mg"
+,"sugarContent": "3 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 large orange sweet potato",
+"0.25 cup whole-milk ricotta cheese",
+"1 large egg, beaten",
+"1.5 teaspoons kosher salt",
+"1 pinch cayenne pepper",
+"2 cups all-purpose flour, or more as needed",
+"2 slices bacon, cut into 1/2-inch pieces",
+"3 tablespoons unsalted butter",
+"1 teaspoon minced fresh rosemary",
+"salt to taste",
+"2 tablespoons freshly grated Parmigiano-Reggiano, divided, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Prick a sweet potato all over with a sharp knife and microwave until very soft, 5 to 7 minutes. Let sit until cool enough to handle."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut potato in half and scoop flesh into a bowl. Mash or blend until smooth. Add ricotta cheese, egg, kosher salt, and cayenne; mix with a spoon until smooth and combined. Stir in flour until mixture comes together into a sticky ball of dough, adding more flour as needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer to a floured surface and knead gently, adding flour as needed, until no longer sticky. Divide into 8 portions. Roll into ropes about 1/2-inch thick, using flour as needed. Dust ropes with flour and cut with a bench scraper into 1/2-inch pieces. Transfer pieces onto a sheet pan and let dry on the pan for 15 to 20 minutes, or refrigerate until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "While gnocchi dry, bring a large pot of salted water to a boil."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook bacon in a skillet over medium heat until browned and crisp, 7 to 10 minutes. Add butter and cook until lightly toasted, 2 to 3 minutes. Turn off heat and stir in rosemary. Reserve until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir gnocchi into the pot of boiling water and cook until they float to the top, 3 to 4 minutes. Use a slotted spoon to transfer cooked gnocchi to the sauce."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/FHspFEqUZHeV0rA_Cr_bNMyqPd8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8045367-d95a631782954437b4df639ceede236c.jpg"
+}
+]
+,"text": "Heat over medium to medium-high heat, coat with sauce, and season with salt. Turn off heat and stir in 1 tablespoon Parmigiano-Reggiano cheese. Transfer to a warm serving bowl and top with additional Parmigiano-Reggiano."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Land of Yip"
+},
+"reviewBody": "I used puréed cottage cheese instead of ricotta and added Parmesan. This was very good boiled but was heavenly when fried."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chuck Rodgers"
+},
+"reviewBody": "Good recipe. My wife loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Simone Essar"
+},
+"reviewBody": "Could use a bit more flavor, but that might be my bacon sauce, next time I'll try gorgonzola. I thought it would be more difficult to make than it was, so I was happy that it turned out so good, and didn't take me as long as I though. \n\nI always like Chef's John's videos, he is so amusing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kenskitchenneedshelp"
+},
+"reviewBody": "Quick and easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "andium"
+},
+"reviewBody": "So delicious! Easy recipe. Enjoyed making it and eating It. - with fresh spinach + toasted crumbs on the side"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chiiri"
+},
+"reviewBody": "I don't cook much at all and followed this recipe. It was delicious and I can't wait to make them again! Thank you Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Gina Soncrant"
+},
+"reviewBody": "Amazing!! Didn't change a thing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dave Williams"
+},
+"reviewBody": "I'm not much of a cook/chef but I use the Allrecipes site all the time and I've never been disappointed. Chef John is a favorite...although I'd love to ask him why it seems he uses cayenne pepper in EVERYTHING.\nThis Sweet Potato Gnocchi in particular turned out great. It was a little complex for an absolute novice like myself but the instructions were clear and the video was really helpful...and entertaining.\nIt was absolutely delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jonathan Malinconico"
+},
+"reviewBody": "Tasted great, the dough was tough to get used to being so wet but you get used to it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ed Adams"
+},
+"reviewBody": "The flavor was exactly what I hoped for but this was my first time making gnocchi and it turned out too dense for my liking. I think it was because I overworked it, either that or too much flour but probably overworked it. I'll try it again for sure, nothing like practice. Flavor was still spot on though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Richard Ralston"
+},
+"reviewBody": "I added mushrooms and green onions to it. Came out a treat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "farmerdan"
+},
+"reviewBody": "I followed the directions exactly (except for Sage instead of rosemary, which chef John suggest) and it was delicious. The gnocchi were soft and pillowy and the sauce was light and flavorful. They do take time (1hr+) and a little bit of work to make but nothing that is out of reach for even basic cooks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kristen"
+},
+"reviewBody": "We just happened to have all the ingredients for this on hand (minus the rosemary.) I beefed it up a bit by adding some kale (ours was about to go bad.) Both the hubs and the 6 year old LOVED it. Definitely will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ariella Ribalko"
+},
+"reviewBody": "It was easy to make and it turned out delicious. Thank you Chef John for another amazing recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Hoppmichelled"
+},
+"reviewBody": "So yum! I didn’t have the ricotta, but still so light and pillowy. Will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Clara Kang"
+},
+"reviewBody": "I watched the video today and spntaneously decided to pick up the ingredients on my way home from work. I've never made gnocchi before but Chef John's instructions and recipes are always beginner friendly. The recipe was flexible and I made a half batch! They turned out soft and pillowy on the inside and crispy on the outside. The sauce was okay but thats because I'm not a big fan of bacon. I'll pass on the sauce next time but I'll definitely make this recipe again in the future!"
+}
+]

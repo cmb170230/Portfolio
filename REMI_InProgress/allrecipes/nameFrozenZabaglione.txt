@@ -1,0 +1,91 @@
+,"name": "Frozen Zabaglione"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "3"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "298 kcal"
+,"carbohydrateContent": "22 g"
+,"cholesterolContent": "259 mg"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "51 mg"
+,"sugarContent": "19 g"
+,"fatContent": "19 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"6 large egg yolks",
+"1 pinch salt",
+"0.5 cup white sugar",
+"0.66666668653488 cup dry Marsala wine",
+"1 cup cold heavy cream" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Whisk egg yolks, salt, sugar, and Marsala wine together in a metal mixing bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Set the bowl over a medium-low heat, or over a double boiler. Hold the bowl with one hand using a towel or pot-holder, while whisking constantly with the other. Continue cooking until the mixture is very thick and reaches the ribbon stage, about 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove custard from heat and allow to cool completely, preferably over an ice bath, whisking occasionally, 20 to 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour cold heavy cream into another bowl and whisk until soft peaks form. Transfer into the cooled custard and gently fold everything together until just barely combined; do not overmix."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/XQXykUb1W5yLrv8Nyxg73jhh5Hc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8477732-fd52c2945e914d25a239d99cad842c9a.jpg"
+}
+]
+,"text": "Transfer into an airtight container, cover the top with plastic wrap, and seal. Place in a freezer until firm, at least 4 hours, or up to overnight."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT280M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Neko Hirsch"
+},
+"reviewBody": "It turned out to look just like in the picture! It does have a very strong wine taste, so do not recommend it for kids (the ones I served it to practically spit it out). Though this is the perfect recipe for your adult friends!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "McBoss"
+},
+"reviewBody": "The ultimate home ice cream recipe. Didn't need to adjust any amounts, and it made enough for a party of 6 (with leftover). Using a double boiler takes a lot longer to get the mixture to thicken. Still, it was super easy to make - even when everything went wrong in the kitchen (hotplate stopped working, bowl cracked, didn't have a replacement bowl &amp; had to use a saucepan), it still worked out perfectly! An absolute hit at our dinner party. The other half now wants me to try it with other flavoured alcohols."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "margaret moseley"
+},
+"reviewBody": "It was yummy.... but I must have done something wrong in the making! I had to cook over a double boiler for 25 min. And when in the freezer, the Marsala separated and laid on the bottom. It was still awesome and creamy and actually looked pretty cool served. Not sure where I went wrong. Would definitely do again."
+}
+]

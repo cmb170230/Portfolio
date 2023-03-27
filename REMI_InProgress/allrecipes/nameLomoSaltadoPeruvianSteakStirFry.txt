@@ -1,0 +1,238 @@
+,"name": "Lomo Saltado (Peruvian Steak Stir-Fry)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "13"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "585 kcal"
+,"carbohydrateContent": "42 g"
+,"cholesterolContent": "61 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "30 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "1110 mg"
+,"sugarContent": "7 g"
+,"fatContent": "34 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1.25 pounds top sirloin steak",
+"3 tablespoons soy sauce, divided",
+"1 teaspoon white sugar",
+"6 tablespoons olive oil, divided",
+"1 (16 ounce) package frozen crinkle-cut French fries",
+"1.5 cups sliced red onion",
+"1 medium orange bell pepper, sliced",
+"1 habanero pepper, seeded and minced",
+"0.5 cup sliced green onion",
+"kosher salt to taste",
+"2 cloves garlic, minced",
+"1 teaspoon minced fresh ginger root",
+"4 medium roma (plum) tomato",
+"0.25 cup white vinegar",
+"0.25 cup chopped fresh cilantro" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Slice beef horizontally into 1/4-inch strips and transfer into a mixing bowl. Add 1 tablespoon of soy sauce, and the sugar. Mix well and place in the refrigerator for at least 1 hour; longer is fine."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an oven to 200 degrees F (90 degrees C). Line a sheet pan with a silicone liner (such as Silpat®)."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 2 tablespoons olive oil in a large, nonstick skillet over medium-high heat. Add French fries and cook until golden and crisp, 5 to 7 minutes. Transfer to the prepared pan and place in the preheated oven to keep warm."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 2 tablespoons olive oil in the same skillet over high heat until the oil begins to smoke. Sear the beef strips in 2 or 3 smaller batches, until browned but still pink in places, for 1 to 2 minutes per batch. You don&#39;t want to cook the meat all the way through, as it will finish cooking with the vegetables later. As each batch of beef is browned, transfer to a plate or bowl, and reserve."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the skillet back over high heat, and add remaining 2 tablespoons olive oil. Transfer in red onion, bell pepper, habanero, and green onion, along with a large pinch of salt. Cook, stirring, until the onions and peppers just begin to soften, 3 to 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add garlic and ginger to the pan; cook and stir for 1 minute. Add tomato wedges and cook, stirring, until they begin to soften and start to release their juices, about 3 minutes. Add remaining 2 tablespoons of soy sauce, white vinegar, and the browned beef into the pan, along with any accumulated juices, and stir to combine."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/GZaG7vwD1YFL0ut9gBNr6Ayqunw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8586543-lomo-saltado-peruvian-steak-stir-fry-Chef-John-1x1-1-d1b90725e58846f480ef3beeadef4817.jpg"
+}
+]
+,"text": "Stir cilantro and crispy, cooked French fries into the pan, tossing everything to combine. Taste for salt and adjust if needed. Serve immediately."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT110M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jkg7t"
+},
+"reviewBody": "Can never go wrong with a Chef John recipe. I've never had lomo saltado before so I dont have anything to compare it to but the flavors were delicious and it was a hit in our house. My husband was expecting more spice from the habanero and was surprised by the sweetness of the sauce so I think next time I'll include the seeds and cut the sugar a little in the marinade. We used tater tots just because the grocery stores have been sold out of fries lately. Still a success and we will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "claire"
+},
+"reviewBody": "Really good recipe! We love spicy food so changed the 1 habanero to 5. My hands and lips are still burning. The other thang I did was cook the fries in the oven and add them just before. For my husband, he doesn’t like food touching so they were on the side but mine were mixed. We had plenty of sauce and now lots of leftovers! Next time I would use normal fries and cut the spring onions a bit longer. Fantastic recipe, I highly recommend it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MrsHughes"
+},
+"reviewBody": "Chef John hit this one out of the park! The entire family complained when I explained the dish. That same family devoured the entire thing when I made it!! The only change I’d make is that next time I’ll cook the fries in the air-fryer as the rest of the stuff is cooking. I wasn’t a fan of doing them in the skillet. We will make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FrackFamily5 CA—>CT"
+},
+"reviewBody": "We liked this. The flavor was very good. I couldn’t find a habanero so I subbed a jalapeño. It worked. I really loved the ease of this. I saw a review saying the mix was dry; make sure to dump all the steak and pan drippings into a bowl prior to frying the veggies. Then dump all of it back into skillet at the end. The tomato should also give some nice liquid. I used a wok and kept it on high heat. It cooked up fast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lulu_Belle"
+},
+"reviewBody": "Super delicious. The hardest part was prepping. I could not find Sirloin steak at my grocery so had to use a difference type of beef that was sliced thinly and it worked amazingly well. Also only used orange peppers as I could not find the aji amarillo or habanero peppers. It still worked out well. Outside of prepping, the cooking time itself was real fast. So this is the type of meal I like to prepare - quick and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie Sheehan"
+},
+"reviewBody": "this recipe is fantastic! I made it just as recipe stated and it turned out perfect ! Thanks for a great recipe Chef Jon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cdiantonio10"
+},
+"reviewBody": "Absolutely delicious! Since my kids don't like spicy food, I substituted the habanero pepper for a sweet pepper. It still came out amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Catherine"
+},
+"reviewBody": "This is not how my Peruvian husband makes the dish, but I trust Chef John enough to know that it's probably just as good (if not better - sorry, amorcito!). I had to laugh when I saw the little carefully molded mound of rice - very Peruvian! And the carb on carb comment - spot on. After 10 years together I have gotten mi amor to just eat this dish with French fries. On the side, BTW. Finally, you can find aji amarillo in a paste at international markets, so do try, the flavor is wonderfully unique. Gracias, Chef Juanito!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joy"
+},
+"reviewBody": "I’ve actually eaten this in Peru and was pleased with the outcome."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "freebird0.5"
+},
+"reviewBody": "Fantastic flavor! I followed the recipe exactly as written except I couldn’t find habanero pepper and used 2 Serrano. My family loved it. Will make again and probably add an extra pepper as we love spicy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mooch"
+},
+"reviewBody": "Very tasty! I highly recommend using the largest pan you have (there's quite a lot of stuff to mix together in the end) and be sure it is non-stick so the fries don't get stuck on the bottom. But the recipe is excellent as is! Sweet, spicy, salty . . . and tasty. Thank you Chef John for another great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joshua Taylor"
+},
+"reviewBody": "Serving in Latin America, this is a very well known cultural dish of Peru. It is one of the best ones that I know of! Usually when I ate it, the fries were either mixed or under the meat mix and never to the side. Usually you can find yellow peppers at any Spanish Market, but if you can't find those there is a paste that you can buy too that works really well. For the fries, I personally wouldn't use the crinkle cut because of how thick they are. How I usually ate it was with some normal fries. But it's all to taste and what you have. You always have to include the rice too. That is a must.\nAnyways, well done Chef John for another great recipe! A personal favorite for me!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kevin R. Sullivan"
+},
+"reviewBody": "Great dish, The mix of steak and potatoes and pepper in 1 bite is way better than I expected. It would be nice with some sort of sauce, between the potatoes and rice it was kinda dry."
+}
+]

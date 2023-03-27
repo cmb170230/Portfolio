@@ -1,0 +1,249 @@
+,"name": "Stuffed Pasta Wheels"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "15"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "685 kcal"
+,"carbohydrateContent": "73 g"
+,"cholesterolContent": "184 mg"
+,"fiberContent": "9 g"
+,"proteinContent": "37 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "2066 mg"
+,"sugarContent": "18 g"
+,"fatContent": "27 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1.5 cups all-purpose flour, or more as needed",
+"0.25 teaspoon salt",
+"1 large egg",
+"3 tablespoons water, or more as needed",
+"1 (7.5 ounce) can wild salmon",
+"0.33333334326744 cup dry bread crumbs",
+"0.75 cup grated Parmesan cheese",
+"1 (10 ounce) package frozen chopped spinach, thawed and drained",
+"2 large eggs",
+"2 cloves garlic, crushed",
+"0.25 teaspoon freshly ground black pepper",
+"1 pinch cayenne pepper",
+"1 teaspoon kosher salt",
+"2 tablespoons extra-virgin olive oil, divided, or as needed",
+"3 cups prepared marinara sauce, or more to taste",
+"1 teaspoon ground cumin",
+"1 teaspoon smoked paprika",
+"0.25 cup water, or as needed",
+"0.25 cup grated Parmesan cheese",
+"1 tablespoon freshly chopped Italian parsley, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine flour and salt in a large bowl. Crack egg into the center and add cold water. Stir until it comes together in a shaggy dough. Combine with your hands. Knead on a work surface until it smoothes out and is a relatively firm disc of dough, adding flour as needed. Wrap in plastic wrap and let rest in the refrigerator for at least 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, place salmon in a bowl and mix with a fork. Add bread crumbs and Parmesan cheese; mix with a fork to combine. Add spinach, eggs, garlic, black pepper, cayenne, and salt; stir together until combined. Cover with plastic wrap and refrigerate until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Place pasta dough on a floured surface and pat into a rectangle. Roll with a floured rolling pin into a 14x12-inch rectangle, about 1/8 inch thick."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread filling evenly over the dough, leaving a 3-inch border on one of the long sides. Lightly brush the exposed dough with water and roll up starting from the side closest to you. Finish with the seam on the bottom and use your hands to shape the tube as uniformly as possible."
+} ,{
+"@type": "HowToStep"
+,"text": "Trim off any excess dough on the ends if necessary. Slice the stuffed tube of dough into 8 equal &#34;wheels&#34; and turn onto their sides. Gently press with floured fingers to flatten slightly."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 1 tablespoon olive oil in a nonstick pan over medium heat. Cook wheels until golden brown, about 3 minutes per side."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour marinara sauce into an 8x10- or 9x12-inch baking dish and stir in cumin and paprika. Add wheels and top with Parmesan cheese."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/WaFj074hWu8K9znRtTdM4MYoKZY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8139993-9916863012fc4a119662ebb243e7e608.jpg"
+}
+]
+,"text": "Bake in the preheated oven until browned and bubbly, 25 to 30 minutes. Let rest for 5 minutes. Serve with a drizzle of olive oil and chopped parsley."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT120M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hurricane"
+},
+"reviewBody": "My family devoured these! They’re a definite do again!!! I love making my own pasta and *any* new recipe that gives me a chance to do so I’ll try. I used de-cased hot Italian turkey sausage and made a stuffing using Italian bread crumbs, onions, peppers, egg, parsley, &amp; basil. My stuffing creation was a little looser than I would of liked but other than that they were delicious! The technique was a VERY welcome change to my repetitive fresh pasta recipes of ravioli, lasagna, spaghetti &amp; linguine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "These were fantastic! They looked pretty and such an easy dish to put together! I sautéed mushrooms, baby spinach and baby arugula (squeezed dried) for the frozen spinach and used leftover grilled salmon for the canned. I added more garlic and a bit of nutmeg to the greens mix. Will do again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Crain"
+},
+"reviewBody": "Sooooooo good!! Next time I week do a better job of rolling it more tightly, but still, this was fun AND delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Young"
+},
+"reviewBody": "I love this recipe, though I’ve never made this exact filling. I’ve made it several times stuffing it with everything from Hungarian Sausage and peppers to traditional pizza toppings. Everytime it has turned out amazing. The pasta has such a good texture and taste. It’s a very versatile recipe. Have fun!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elijah Price"
+},
+"reviewBody": "I used crab shrimp and spinach and instead of marinara I made a homemade Alfredo sauce. It turned out great and the whole family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kalle"
+},
+"reviewBody": "I made it with ricotta and spinich stuffing as well as adding tiny meatballs. It smelled just like lasagna when it was cooking. It came out delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kim Johnson"
+},
+"reviewBody": "I used mild Italian sausage meat instead of salmon. And GF panko crumbs because that’s what I had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "WillTravel4Food"
+},
+"reviewBody": "My lack of skill and experience making pasta was my downfall. It was all just fine, except for the tough, rubbery pasta. Not sure if I did a bad job with the kneading (Bad technique), the mixing (too dry), or the baking (the wheels may have been too tightly bunched in the pan). This is our first Chef John recipe that failed to meet expectations, but he did say it was all about technique so I forgive him. After all, I am a disaster at making my pasta."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce Cordova"
+},
+"reviewBody": "Made this for lunch today with some minor revisions. I used fresh baby spinach since that’s what I had on hand. I also browned the pasta wheels in my round wide Dutch oven, took them out, put the sauce and spices in, then put the pasta wheels back in so I would only have one pot to wash. This turned out much better than I thought it would since it’s my first time making pasta. Thank you for sharing this recipe, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sharyl"
+},
+"reviewBody": "Interesting combination of pantry flavors. Had to make my own marinara sauce so had an extra step. Enjoyed trying a new technique. Used my pasta roller and it worked well - four 12x7 sheets. I would cover the dish while cooking to keep the pasta from drying out and maybe put even more sauce in the bottom."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judi Graham"
+},
+"reviewBody": "I made these using crumbled hot Italian sausage, cheese and chopped spinach and they were super easy to make and tasted delicious!. I cooked 4 and froze the other 4. I made the filling and the pasta dough yesterday and made the pinwheels today! Great recipe Chef John!! Well Done!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Ann Hudson"
+},
+"reviewBody": "Never made pasta before. I subbed chicken and mushrooms in the stuffing. It was just great. Thanks for inspiring folks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doug Kase"
+},
+"reviewBody": "Great quarantine recipe Chef John! Made it using almost the same ingredients. The shelves are a little bare. I used only one egg for the filling, we raise Muscovy and their eggs are about 1 1/2 times larger than an extra large egg. We are all out of parmigiana so I was left to use an alternate cheese. Other than that kept it the same. The family really enjoyed the recipe and made us feel like we were out to eat instead of being stuck at home! Can’t wait to try a different filling next time!"
+}
+]

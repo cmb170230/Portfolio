@@ -1,0 +1,120 @@
+,"name": "Baked Puffy Fish Tacos"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "4"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "371 kcal"
+,"carbohydrateContent": "23 g"
+,"cholesterolContent": "41 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "20 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "758 mg"
+,"fatContent": "23 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.25 cup sour cream",
+"0.25 cup mayonnaise",
+"0.25 teaspoon ground chipotle pepper",
+"1 pinch salt",
+"1 dash hot sauce, or to taste",
+"1 tablespoon fresh lime juice, or to taste",
+"0.75 pound rockfish",
+"2 teaspoons olive oil",
+"0.5 teaspoon kosher salt",
+"0.125 teaspoon cumin",
+"0.125 teaspoon ground chipotle pepper",
+"0.25 teaspoon chili powder",
+"2 cups very thinly sliced green cabbage",
+"0.25 teaspoon kosher salt",
+"2 teaspoons fresh lime juice",
+"1 pinch dried Mexican oregano",
+"4 (6 inch) flour tortillas",
+"2 teaspoons olive oil, divided",
+"2 tablespoons thinly sliced radishes",
+"1 tablespoon thinly sliced jalapeno pepper",
+"2 tablespoons torn cilantro leaves",
+"1 medium lime, cut into wedges" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Whisk sour cream, mayonnaise, chipotle powder, salt, hot sauce, and lime juice for sauce in a bowl until smooth. Taste and adjust as needed. Refrigerate until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut fish into eight 1 ½-inch pieces."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer fish to a bowl; add olive oil, salt, cumin, chipotle pepper, and chili powder. Toss with tongs, thoroughly but gently, until coated."
+} ,{
+"@type": "HowToStep"
+,"text": "Let fish marinate in the refrigerator for 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, preheat the oven to 500 degrees F (260 degrees C). Line a baking sheet with parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Toss cabbage, salt, lime juice, and dried oregano together in a bowl with your hands until coated."
+} ,{
+"@type": "HowToStep"
+,"text": "Place 2 tortillas on the prepared baking sheet and coat lightly on both sides with some olive oil. Place 3 ounces of sliced fish on each tortilla, on only one side so that you can fold the tacos after baking."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until fish flakes easily with a fork and tortillas are browned and puffy, 7 to 8 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/O8bZTpSYMvlCMf-TdxnCYPp_RHY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_6686-287ff70ab179413183bbd63797bacc2f.jpg"
+}
+]
+,"text": "Fold tacos in the center of each tortilla to crease. Top with cabbage, followed by jalapenos, radishes, and sauce. Sprinkle with cilantro and serve with lime wedges to squeeze over. Repeat for remaining 2 tacos."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "orrinonken"
+},
+"reviewBody": "This recipe is not getting enough love. Chef John is right. The texture on a lot of home made fish tacos is wrong because they lack sufficient crunch. These tacos are easy to make. The fish cooks and the flour tortilla crisps up at the same time. The tortillas add just enough crunch to round out the dish in a way that I love. By the way, you can also just crisp up the flour tortillas using the same technique and add something like shrimp, cooked separately, and the toppings. The folding is always a little tricky, but after a couple of tries you will have it down and fish tacos become an extremely easy meal to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "glassofwater"
+},
+"reviewBody": "Pretty easy to make and very tasty. I didn't have sour cream, so I substituted natural yoghurt and it turned out OK (though I'm sure not as nice as the real deal). Folding the tacos is finger sizzling so be quick!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Decided to make it as a tostada to avoid fiddling with folding the tortillas. Great flavors but didn't puff up at all. Maybe my tortillas weren't fresh enough? Not sure where I went wrong."
+}
+]

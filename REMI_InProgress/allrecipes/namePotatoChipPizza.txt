@@ -1,0 +1,79 @@
+,"name": "Potato Chip Pizza"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "506 kcal"
+,"carbohydrateContent": "37 g"
+,"cholesterolContent": "34 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "17 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "792 mg"
+,"sugarContent": "3 g"
+,"fatContent": "32 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"4 tablespoons olive oil, divided",
+"1 tablespoon cornmeal",
+"2 (10 ounce) containers prepared pizza dough",
+"1 cup prepared pesto sauce",
+"1.5 cups grated sharp white Cheddar cheese",
+"1 (10 ounce) bag kettle-cooked potato chips",
+"1 small red onion, thinly sliced",
+"1.5 cups grated mozzarella cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 500 degrees F (260 degrees C). Rub 2 sheet pans with a few teaspoons of olive oil, and sprinkle over a light dusting of cornmeal. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll each dough ball into an oval shape about 1/8-inch thick and transfer onto the prepared pans. Cover each with pesto sauce, reserving about 2 tablespoons for the topping. Sprinkle each with Cheddar cheese. Add potato chips in one thick layer, overlapping chips as need to cover the surface."
+} ,{
+"@type": "HowToStep"
+,"text": "For each pizza, thin out reserved pesto with a tablespoon of olive oil, and then drip and drizzle it over the top of the chips. Top with red onions and mozzarella. Drizzle the tops of the pizzas with a little bit of olive oil."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/14aegUqsQsQykl44s5kicL1uCJs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-585-29d45facf0a44d268b17ec5963590ec3.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until top and bottom crust of pizza is browned, 12 to 15 minutes. Let rest for 5 minutes before cutting."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yancando"
+},
+"reviewBody": "I would have never in a million years have thought potato chip pizza would be “a thing”. Or that it would be good… elevated, even! But it is EXCELLENT, even if you don’t make your own pizza dough. I used Boboli for a short cut. My husband called this another win for me and Chef John! Ha"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie"
+},
+"reviewBody": "This is delicious. I used all the same ingredients as written but I didn't measure. I used whatever looked like enough. I also used a store bought pizza dough for the crust. It came out fantastic! It was a big hit!"
+}
+]

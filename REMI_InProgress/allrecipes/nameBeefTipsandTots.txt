@@ -1,0 +1,262 @@
+,"name": "Beef Tips and Tots"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "16"
+}
+,"cookTime": "PT120M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "750 kcal"
+,"carbohydrateContent": "54 g"
+,"cholesterolContent": "121 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "43 g"
+,"saturatedFatContent": "15 g"
+,"sodiumContent": "985 mg"
+,"sugarContent": "2 g"
+,"fatContent": "45 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1.5 pounds beef round steak",
+"1 teaspoon kosher salt, or to taste",
+"0.5 teaspoon freshly ground black pepper",
+"1 tablespoon vegetable oil",
+"2 teaspoons tomato paste",
+"2 cloves garlic, minced",
+"4 tablespoons butter",
+"2 tablespoons all-purpose flour",
+"2.25 cups low-sodium beef broth",
+"1 (28 ounce) package frozen bite-size potato nuggets (such as Tater Tots®)" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Slice beef into 3/4-inch strips; then slice these pieces, at an angle, into smaller &#34;tips.&#34; Season beef with salt and pepper."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a large skillet over high heat until shimmering. Transfer in beef, arranging in a single layer. Let the meat sear until browned, 3 to 5 minutes, before turning over and browning the other side."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce heat to medium and add tomato paste, garlic, and butter. Stir everything until the butter melts, and then stir in the flour. Cook and stir for 1 minute."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in broth. Raise heat to high and bring to a simmer. Reduce to low, cover, and cook until beef is starting to get tender, about 1 hour and 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, preheat the oven to 425 degrees F (220 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Uncover, turn heat to medium, and simmer, stirring occasionally, until the sauce has thickened, and the meat is tender, about 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "While meat simmers, bake potato nuggets in the preheated oven until crispy and heated through, 20 to 25 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/2wmCpXybB4NPSglE_OB4Z8XUtr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-251-5066f03dd86b4ca58a11f1bc0fb27999.jpg"
+}
+]
+,"text": "Taste beef tips and adjust the seasoning. Serve immediately over hot potato nuggets."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT135M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Husband loved how tender this cheaper cut of beef was. I cut it against the grain to 1/2 “ cubes. I added 1 lb. Button mushrooms to browned meat and used 1/4 cup left over jar spaghetti sauce instead opening a can of tomato paste. It was delicious and I will make this again soon. Served it with egg noodles or mashed potatoes- no tots."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jacob Hugart"
+},
+"reviewBody": "This got rave reviews from my family, and it is very easy to make. The process worked out just as Chef John's video showed it. I do recommend using a pan more than a pot, and have a tight-fitting lid for the time it spends simmering. It is easier to flip the meat with tongs for the browning step when it is in a pan rather than a pot. The sauce is luscious and smells fantastic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "abbyz2000"
+},
+"reviewBody": "We all liked this a lot. I wish it made more. Mushrooms would be good in it but my daughter can’t have mushrooms. Maybe I’ll add some steamed broccoli instead of tots, that way it’s healthier. Or add broccoli so we aren’t eating as much of the unhealthy ingredients in one sitting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "plates4u"
+},
+"reviewBody": "Had some tenderloin lying around and used it. Made it as is however I served with a bit less of the tater tots that the recipe calls for. It was delicious and actually a good detour from the typical mashed potatoes. The contrast of crisp with the hearty sauce is just fantastic. Will make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KWatt"
+},
+"reviewBody": "Loved this! I didn't have tots but used fetticine instead (I think egg noodles would have been better). I used the beef base and water, and did not add any salt except on the meat prior to cooking. The gravy was delicious! Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cynthia brown"
+},
+"reviewBody": "Made the many times now and each time to save reviews."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "Hubs absolutely loved this! Scaled it down to one serving, used thin sliced round steak and definitely use the tots!.... topped with sour cream and white and green onions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie Cotton Rhinehart"
+},
+"reviewBody": "Excellent recipe it worked perfectly! For ME, Even with reduced (50% less) sodium beef broth it was to salty to me! I will not salt the beef in prep, next time! I also added three slices of green pepper to the gravy in the one hour and 15 min cook time. Delish!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "teeko train"
+},
+"reviewBody": "I knew by watching this recipe is would be great. I wish I could have taken a better picture but I had no idea I'd end up leaving a review because it turned out to be addictive. \n\nBut like any perfectly good recipe I can't leave it alone. Also, I don't always have exactly the same ingredients. So I used better than bouillon vegetable paste instead of beef bc that's what I had. I used less because instead of plain water I threw in some worsterchire sauce and soy sauce with that much less water. Do it to taste but be mindful of the salt. I did 2 parts worsterchire from one part soy sauce, 3 drops liquid smoke. Towards the end I added some canned mushrooms bc I needed to use them. I didn't have tots so I used mashed potatoes, and I had fresh zucchini I had to use so I lightly seasoned it and grilled that up to serve with. I tossed some chives on top from the garden and let me tell you... Amazing. \n\nI knew it would be good but had no idea it would be THIS good. The flavors completely transform and yes, the meat gets super tender so don't shy away from the tough cheaper cuts. I had elk stew meat that needed to be used and I can't imagine a better way of cooking it. The next time I will be using beef but everything else will stay the same. So so good. And so glad I was out of instant gravy mix (what as I thinking?), because it's what led me to this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lopezcook"
+},
+"reviewBody": "Great recipe....and easy, didn’t change a thing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Steppenbacker"
+},
+"reviewBody": "Made as written and served over rice. It smelled heavenly and we were hungry long before it was finished."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Aker-Finney"
+},
+"reviewBody": "Delicious!!! Served with mashed potatoes. Meat was so tender!! Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Kyle"
+},
+"reviewBody": "No changes made. Severely lacked in sweetness, even paired with a sweet red wine. It looked amazing in the pan. First Chef John recipe I haven't loved."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurel Anne"
+},
+"reviewBody": "We purchased 6 sirloin steaks. I pounded 4 of them. I marinated them overnight. I sous vide cooked them to perfection and seared on the grill. These steaks were tough as leather, husband broke a tooth on it. I decided to use the remaining 2 steaks for this recipe (I was ready to throw them away). WOW! This recipe redeemed our garbage! It was delicious, tender, and now I have carte blanche to purchase terrible steaks and make them tender and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kinjun"
+},
+"reviewBody": "Excellent as usual from CJ."
+}
+]

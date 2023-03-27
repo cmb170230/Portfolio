@@ -1,0 +1,126 @@
+,"name": "Czech Bread Dumplings (Knedlíky)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "6"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "169 kcal"
+,"carbohydrateContent": "35 g"
+,"cholesterolContent": "26 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "262 mg"
+,"fatContent": "2 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 cup warm milk (105 degrees F (40 degrees C))",
+"1 tablespoon white sugar",
+"1 teaspoon active dry yeast",
+"1 teaspoon kosher salt",
+"1 large egg, beaten",
+"2.75 cups quick-mixing flour (such as Wondra®), or more as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine warm milk, sugar, and yeast in a bowl. Let sit and bloom for about 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add egg and kosher salt to the yeast mixture. Pour in 2 ¾ cups flour. Stir with a wooden spoon until it starts to pull away from the sides of the bowl and forms a dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Knead on a lightly floured surface until dough is smooth and slightly elastic, about 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer to a lightly oiled bowl, flipping the dough to coat the top in oil. Cover and let rise in a warm spot until doubled in size, about 2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer back to your work surface; press out the excess air and form dough into a relatively uniform ball."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut dough into two equal pieces. Form each piece into a uniform ball. Roll each ball into a tube, 2 to 2 ½ inches wide."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover with plastic wrap or a clean kitchen towel and let proof for 20 to 25 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, bring a large pot of salted water to a steady simmer."
+} ,{
+"@type": "HowToStep"
+,"text": "Carefully pick up a risen piece of dough and transfer to the simmering water. Bring back to a simmer. Cover tightly and let simmer for 10 minutes. Uncover, flip, and continue to simmer for another 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer to a plate and poke all over with a toothpick or wooden skewer, which releases the steam from the center."
+} ,{
+"@type": "HowToStep"
+,"text": "Use a piece of string or thread to cut into 3/4- to 1-inch dumplings. Transfer to a serving plate."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/wG4U_t-SM5GKD4evxlS1gdQZQNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_6315-2000-f3b8209dc5234a308103478014f9c7c8.jpg"
+}
+]
+,"text": "Repeat Steps 9 to 11 to cook remaining dough."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT220M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lacyanne"
+},
+"reviewBody": "I had no idea what this would be like...but I trust Chef John. So I went out and bought Wondra flour but I did not buy enough and just supplemented with ap flour. When I put them in the water they looked very similar to Chef John's but what emerged was a small planet. I was very devastated because I was pulling out my Bohemian Orange Chicken to serve atop my small child size dumplings. However, I pressed on and sliced a few dinner plates and fried them in butter. I let them get a little darker than Chef John but they tasted extraordinary. They are wonderful on their own but when you add the chicken it becomes a remarkable meal. The husband informed me he was interested in having this weekly. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It is awesome. Quick to make and tastes good. Made with cake flour"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Loved this with the Bohemian Chicken. I will note that I needed the whole container of flour in order to make a workable dough (then had to add some AP, actually), but it turned out like a delicious, absorbent little cloud with a fantastic texture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This made this tonight. As with all Chef Johns recipes this is outstanding. I now have a new favorite dumpling recipe. This is very versatile as well, and can be used in a lot of different recipes to soak up sauce."
+}
+]

@@ -1,0 +1,104 @@
+,"name": "Irish Beer Cheese Puffs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "3"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "159 kcal"
+,"carbohydrateContent": "7 g"
+,"cholesterolContent": "60 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "252 mg"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"4 tablespoons Irish-style butter",
+"0.5 cup Irish stout beer (such as Guinness® Extra Stout)",
+"0.5 teaspoon kosher salt",
+"0.5 teaspoon white sugar",
+"0.5 cup all-purpose flour",
+"2 large eggs",
+"0.75 cup grated sharp Irish Cheddar cheese, plus more to taste",
+"1 pinch cayenne pepper, or to taste",
+"1 tablespoon olive oil",
+"2 cups chopped leeks, washed thoroughly and drained",
+"0.5 teaspoon kosher salt, or more to taste",
+"2 tablespoons water, or as needed",
+"0.5 cup sliced green onions",
+"1 tablespoon fresh lemon juice",
+"0.5 cup mascarpone cheese",
+"freshly ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C). Line a baking sheet with a silicone liner (such as Silpat®)."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine butter, beer, salt, and sugar in a saucepan over medium-high heat. Let butter melt and bring to a simmer. Add flour all at once and stir with a wooden spoon until it all comes together, about 30 seconds. Continue to cook and stir until the dough dries out a bit and starts sticking to the bottom of the pan, another minute or so. Turn off the heat and continue stirring for another 1 to 2 minutes, scraping as much off the bottom of the pan as you can."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough into a bowl. Add one egg and whisk it into a bit of the hot dough. Keep whisking in more dough until incorporated. Repeat with remaining egg, cleaning out the whisk as needed, until well combined and dough is sticky."
+} ,{
+"@type": "HowToStep"
+,"text": "Add ¾ cup Cheddar cheese and cayenne and stir until incorporated."
+} ,{
+"@type": "HowToStep"
+,"text": "Scoop 12 rounded tablespoons of dough onto the prepared baking sheet. Press a little Cheddar on the tops and sides of each puff."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until nicely puffed and beautifully browned, about 25 minutes. Turn off the oven and crack the door; let cheese puffs cool, undisturbed, for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, make the spread: Heat olive oil in a pan over medium heat. Add leek and ½ teaspoon salt; cook and stir until just barely tender, 7 to 10 minutes, adding a splash of water every few minutes to prevent browning."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in green onions and sauté briefly for 1 to 2 minutes. Transfer leek-onion mixture to a bowl and let cool for 5 to 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add lemon juice and mascarpone cheese and mix until well combined. Season with salt and pepper to taste. Refrigerate until cheese puffs have finished cooling."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/QtqYbKuCxuLWSVOU2cgr9Kw5oIg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Irish-Beer-Cheese-Puffs-2000-780dc2eaa0fe4f33baccb45a61884c9c.jpg"
+}
+]
+,"text": "Serve cheese puffs with spread."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT90M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "hayde"
+},
+"reviewBody": "These came out wonderful, i tripled the recipe and baked 24 of them, freezing the other third. I don’t even enjoy beer but this was delicious! Next time i would bake/cool them for less time (my oven runs hot). They’re extremely light and airy, with a flaky, warm, cheesy inside. the aroma was amazing. I also replaced the mascarpone spread with cream cheese and still tasted super good. great recipe Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Galina Lutz"
+},
+"reviewBody": "Omg this are so good, I thought I got the recipe wrong when making dough, but no I kept going and the result it's delicious, definetelly to quadruple the recipe. My husband and I ate it in 5 min., all 12 pieces. Made the dip too, also a keeper. Thank you chef, we live it. P. S. That's how many had left before remembered to take picture... Lol"
+}
+]

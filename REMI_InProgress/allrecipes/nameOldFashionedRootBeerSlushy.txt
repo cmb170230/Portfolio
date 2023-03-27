@@ -1,0 +1,99 @@
+,"name": "Old-Fashioned Root Beer Slushy"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "4"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "256 kcal"
+,"carbohydrateContent": "47 g"
+,"cholesterolContent": "31 mg"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "65 mg"
+,"sugarContent": "46 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 (16 ounce) bottle root beer",
+"3 tablespoons cold heavy cream",
+"0.25 teaspoon vanilla extract",
+"1.5 cups root beer, cold" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Pour 1 bottle root beer into a standard-sized ice cube tray. Carefully transfer to the freezer until frozen, 3 to 4 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk cold cream and vanilla in a small bowl until slightly thickened. Cover and place in the refrigerator until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer root beer ice cubes into a blender. Add 1 1/2 cups cold root beer and blend until a smooth, thick slush forms, stopping and shaking the blender as needed."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/CYzlH-LgFMuzmIoOJ-scayGKjOE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-346-ec8ae8f6e0d6479ba83c84efbaf2f77c.jpg"
+}
+]
+,"text": "Pour into 2 frozen mugs, leaving about 1 inch of room at the top. Spoon vanilla cream over top and serve."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT190M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Angela"
+},
+"reviewBody": "Delicious! Made no changes. May try orange or cream soda next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Yan"
+},
+"reviewBody": "Root beer + cream is such a great combo! So easy to make at home and very good for entertaining guests!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "C Cardenas"
+},
+"reviewBody": "Nice refreshing summer treat"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna M Becker"
+},
+"reviewBody": "I follow a low carb diet and I already do this with diet root beer and it’s great with diet orange soda too. A creamsicle. I didn’t add the vanilla but will now. It’s so good!!!"
+}
+]

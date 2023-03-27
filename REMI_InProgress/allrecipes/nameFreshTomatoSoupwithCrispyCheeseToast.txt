@@ -1,0 +1,354 @@
+,"name": "Fresh Tomato Soup with Crispy Cheese Toast"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "23"
+}
+,"cookTime": "PT55M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "578 kcal"
+,"carbohydrateContent": "37 g"
+,"cholesterolContent": "76 mg"
+,"fiberContent": "6 g"
+,"proteinContent": "18 g"
+,"saturatedFatContent": "19 g"
+,"sodiumContent": "1138 mg"
+,"sugarContent": "11 g"
+,"fatContent": "42 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"3.5 pounds vine-ripened tomatoes",
+"4 tablespoons unsalted butter",
+"2 tablespoons olive oil",
+"2 cloves garlic, minced",
+"1 anchovy fillet",
+"1 teaspoon salt, or to taste",
+"1 pinch red pepper flakes",
+"2 tablespoons olive oil",
+"8 slices Italian bread",
+"0.25 cup thinly sliced basil leaves",
+"6 ounces shredded sharp white Cheddar cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Prepare the tomato soup: Remove cores from tomatoes and cut in half crosswise. Reserve until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat butter and olive oil in a saucepan over medium-high heat. Add garlic and anchovy and cook until garlic is sizzling in the hot fat, 45 seconds to 1 minute. Carefully add tomatoes with their juices, salt, and red pepper flakes. Toss with a spoon every few minutes until tomatoes release their liquid and start to break down."
+} ,{
+"@type": "HowToStep"
+,"text": "Once tomatoes have softened and started to collapse, reduce heat to medium-low and cook, stirring occasionally, until tomatoes have fallen apart and the soup resembles a coarse tomato sauce, about 45 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, prepare the cheese toast: Preheat the oven to 450 degrees F (230 degrees C). Line a baking sheet with foil or a silicone liner. Drizzle with 2 tablespoons olive oil."
+} ,{
+"@type": "HowToStep"
+,"text": "Place bread slices on the prepared baking sheet. Top each slice with sliced basil, and then Cheddar cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until the cheese is well browned and crispy around the edges, 15 to 20 minutes. Let cool to room temperature."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove soup from heat and pass through a mesh strainer into a bowl. Use the back of a ladle to push all the tomato mixture through. Discard the skins and seeds, which should be the only things left in the strainer."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/vBQM1Lg6d9XG8yNCJ1BPt_vnWXY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8529792-f8f4f785df9b4b5cbb94bbea70652583.jpg"
+}
+]
+,"text": "Transfer the strained tomato soup back into the saucepan and place back over medium-low heat. Continue cooking to thicken slightly, if desired, or simply bring back to a simmer and serve immediately with the cheese toasts."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lacyanne"
+},
+"reviewBody": "This was a very delicious soup and easy to put together. It was a great way to use up my less than perfect tomatoes and some stragglers in the garden. It was a terrific lunch and the cheese toast was a great accompaniment. I made as written minus the fresh basil. The flavor of the soup with the anchovies had a great depth and the texture was perfect. Will definitely be making this again. Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Barton"
+},
+"reviewBody": "Excellent! My family loved this! I made it with fresh tomatoes I needed to use up. The only omission was the anchovy, but only because I didn't have it. I'll be making this again and again! thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My first time making tomato soup from fresh . Absolutely wonderful !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diane Mullen"
+},
+"reviewBody": "Just finished eating this. It was soooo simple! I guess our tomatoes really are delicious. The soup was better than I'd imagined it could be with so few ingredients and simple steps. I used some leftover ciabatta bread made by a local restaurant, sliced it open and sprinkled a fair amount of pepper jack cheese on it topped with provolone. Since it's hot and humid these days, I didn't want to heat the oven up, so instead I broiled it in my Ninja Foodi Tendercrisp for 5 minutes. The perfect combination of crispy and soft for eating on the side of dipping into the soup. Thank you for this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "busymom"
+},
+"reviewBody": "OMG out of this world!!! Absolutely delicious. I used anchovy paste because I had that on hand and added a bit more garlic because we love it. Thank you Chef John for sharing another wonderful recipe. Oh and I only used plum tomatoes because they were on sale and its winter...Still amazing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Adi Mikulic"
+},
+"reviewBody": "Anchovies are permanently stocked in the fridge after this one"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy"
+},
+"reviewBody": "I made the tomato soup twice. It was delicious! It tasted so fresh and really has a true tomato taste. I love that there is no added sugar or cream to this recipe. I will not hesitate to recommend this soup and will certainly make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Viva"
+},
+"reviewBody": "Yummy! I didn't have anchovies so I used Worcester sauce as suggested by another reviewer. Delish will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heidi Laurin"
+},
+"reviewBody": "This recipe is fantastic. Lovely robust flavor. It uses large amounts of garden tomatoes with minimal prep. I didn't have the bread on hand when I made it, but am definitely making more batches of this while my tomatoes ripen over the next few weeks and will make a point of making the toast too! I plan on freezing some of the soup so I can enjoy this over the next couple months!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Catherine Chung"
+},
+"reviewBody": "Loved the soup!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jtbutz"
+},
+"reviewBody": "made as described, but added 1 tsp of salt. delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Myeh"
+},
+"reviewBody": "This is my go-to tomato soup! I've made it too many times to count. I usually blend it with an immersion blender and skip the straining step. I add a can of drained, rinsed beans (cannellini or chickpeas) before serving."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Beatrice"
+},
+"reviewBody": "Amazing taste and so easy. Ive made it every few days since CJ published the recipe because it is so delicious. Tempted to freeze some for winter while field tomatoes are still in season.\n\nDo make the toast - the soup is fantastic by itself but becomes Michelin star worthy with the crispy, cheesy basil toast. Never imagined something so simple could be this flavourful. Thank you Chef John, another winner (and i didn’t use to like tomato soup; I do now!)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tina"
+},
+"reviewBody": "I'm not much of a soup person and I hadn't have tomato soup for a decade or so. This was a fantastic soup. The cheesy toast made it even better. I put some Tabasco, freshly ground black pepper and creme fraiche on top for serving. I will make this again next tomato season! \n\nAs for the anchovis: I think it's perfectly good without it if you want to keep it vegetarian."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cinnamon"
+},
+"reviewBody": "I used Roma Tomatoes harvested from my own garden. And this recipie was amazing. Oh I also used Kosher salt ans as with most other things it turned out really REALLY well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "digitalsignalx"
+},
+"reviewBody": "I made the soup (almost) as written with a sale basket of farmers market tomatoes and worcestershire sauce instead of the sardine. I found to be rather bland so I slowly heated and stirred in some onion powder, about a half cup fresh finely diced basil, some parmesan cheese, and a half cup of whipping cream. Wow. That was a super kick up a notch an it was utterly delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "VogueSense"
+},
+"reviewBody": "This was absolutely delicious! I had enough tomatoes from my garden to make a half batch, which was perfect for two people. I wish I had anchovies but I don't keep those on hand. Instead I used a couple dashes if worcestershire sauce. For the bread, I sliced up a french baggett and spread goat cheese on it and topped it with basil. The bread softens just enough when you dip it in the soup just tastes like a grown up grilled cheese and tomato soup. My hubby loved this and I will make it again. It was so easy to make everything.\nTip: if your soup is a little too acidic, add a bit of sugar to help balance it out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Kastner"
+},
+"reviewBody": "My husband loved this!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Whiskeyjelly"
+},
+"reviewBody": "Oui Chef! I added that anchovy as directed. Beautifully simple and delicious. I only had cheap sliced Italian bread, but frying it in olive oil and adding extra sharp white cheddar made it much better. All the tomatoes are off my countertop too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sara"
+},
+"reviewBody": "Tastes great and is really easy to make! I swapped the bread with chesse in the recipe for slices of baguette with garlic, butter and chili flakes, and those were great too. Highly recommend this dish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kikurage"
+},
+"reviewBody": "This is how you make justice to a gloriously ripened season tomato!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Madison Ryan"
+},
+"reviewBody": "Delish!! I made only the soup and it was incredible. Added a little extra garlic because my boyfriend and I are garlic-fiends. I didn’t have any anchovies on hand, but the soup turned out just fine! Thanks for the tasty and easy recipe!"
+}
+]

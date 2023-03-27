@@ -1,0 +1,55 @@
+,"name": "Spanish-Style Hot Chocolate"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "216 kcal"
+,"carbohydrateContent": "18 g"
+,"cholesterolContent": "7 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "65 mg"
+,"sugarContent": "12 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+, "recipeCategory": ["Dessert"]
+,"recipeCuisine": ["Spanish"]
+,"recipeIngredient": [
+"4 ounces dark chocolate (70% cacao), broken or cut into 1/2-inch pieces ",
+"2 1/4 cups milk",
+"2 teaspoons white sugar, or to taste ",
+"pinch salt",
+"1/2 teaspoon cornstarch",
+"cayenne pepper to garnish top" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Break up chocolate into small pieces and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Add milk, sugar, salt, and cornstarch to a saucepan, and whisk thoroughly."
+} ,{
+"@type": "HowToStep"
+,"text": "Place over medium to medium-high heat, and cook stirring until the milk just starts to simmer."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove milk from heat, and quickly whisk in chocolate until completely melted and emulsified."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/LNHrJSFjgFl_sgGfinBRIBpNDxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7254611SpanishStyleHotChocolate4x3-1cd44c92ab5b497b879463044596798e.jpg"
+}
+]
+,"text": "Serve immediately in hot cups, garnished with a pinch of cayenne on top if desired. Cook&#39;s Notes: This is the thinner, drinkable version of Spanish-Style Hot Chocolate. For the thicker, richer version, used for dipping churros, increase the cornstarch from 1/2 teaspoon to 1 teaspoon, and increase the chocolate amount from 4 ounces to 6 ounces. If semi-sweet chocolate is used instead of dark, bittersweet chocolate, the white sugar amount may need to be reduced, according to taste."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT10M"

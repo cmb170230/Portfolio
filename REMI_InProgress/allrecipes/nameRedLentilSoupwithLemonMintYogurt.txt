@@ -1,0 +1,360 @@
+,"name": "Red Lentil Soup with Lemon Mint Yogurt"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "29"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "294 kcal"
+,"carbohydrateContent": "41 g"
+,"cholesterolContent": "22 mg"
+,"fiberContent": "17 g"
+,"proteinContent": "16 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "1654 mg"
+,"sugarContent": "7 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 tablespoons butter",
+"1 large yellow onion, diced",
+"3 tablespoons tomato paste, or more to taste",
+"1 teaspoon kosher salt, or more to taste",
+"4 cloves garlic, crushed",
+"2 teaspoons ground cumin",
+"0.125 teaspoon cayenne pepper",
+"1 quart chicken broth",
+"1 cup red lentils",
+"1 rib celery, diced",
+"1 large carrot, diced",
+"6 leaves fresh mint, thinly sliced",
+"1 pinch salt",
+"3 tablespoons plain Greek yogurt, or more to taste",
+"0.5 lemon, juiced",
+"0.5 teaspoon lemon zest" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Melt butter in a saucepan over medium-high heat. Add onion, tomato paste, and salt to melted butter. Cook, stirring often, until onion softens and tomato paste turns a deep brick red or brown color, 5 to 7 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add garlic, cumin, and cayenne pepper; cook and stir for 2 minutes. Stir in broth and bring to a boil. Stir in lentils, celery, and carrot. Reduce heat to medium-low and simmer, stirring occasionally, until lentils and vegetables are very tender, 30 to 40 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, make lemon-mint yogurt: Grind mint and salt in a mortar and pestle to a paste. Add yogurt, lemon juice, and zest; stir together until combined. Refrigerate until ready to serve."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/5mJhfMmPJUqlSa5aNHmM2mghLLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7724141-902d716da6064023a5df6026de45c970.jpg"
+}
+]
+,"text": "Taste soup for seasoning. Use an immersion blender to purée about 1/2 of the soup to achieve a creamier texture. Serve hot with spoonfuls of lemon-mint yogurt."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "M. Jeddah"
+},
+"reviewBody": "In addition to the fact that this soup is absolutely delicious, I like the simplicity of it. It's become my favorite for the fact that it is slightly exotic and yet easy enough to make for weeknight dinner. It's an all around winner in my opinion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Beth Leath"
+},
+"reviewBody": "I added red pepper flakes to spice it up and it was wonderful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maryanne"
+},
+"reviewBody": "It was easy, and I always enjoy chef John’s videos. It was meaty just like he said, and I will definitely make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MNMMICHELLE"
+},
+"reviewBody": "First time I ever made anything with red lentils. I really liked it. Nice thick soup. Next time for my taste I’ll reduce cumin, increase cayenne, and just use plain yogurt or sour cream. This is a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "augboilerdawes"
+},
+"reviewBody": "Very good. Topping is a must!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Zoe Reese"
+},
+"reviewBody": "Absolutely delicious and guilt-free. The yogurt really makes it taste great. Everyone will love this and its"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Kiker III"
+},
+"reviewBody": "This is an amazing meal, and I will be making it quite often from now on. Here were my mods: Added a little spicy curry powder with the cumin and cayenne. Also, added some diced mushrooms with the carrot and celery. But the mushrooms did not add anything really, so not sure I would do that again. But the curry powder was a great addition imo. Love this (Picture wont upload for some reason but still amazing)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rnam"
+},
+"reviewBody": "Nice soup but I HIGHLY RECOMMEND to remove some of the soup and blend separately then add back.. blending it in the same pot like the video, resulted in an ugly mush all over with hardly any whole lentils left.. otherwise the taste is nice and recommended"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rose.rock014"
+},
+"reviewBody": "Was delicious! The lemon-mint yogurt is just the right touch!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alyssa Muller"
+},
+"reviewBody": "DELICIOUS. made it without the broth for a vegetarian friend of mine. By the end everyone was begging for more and we finished a large pot in one sitting between just four of us!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Revibebe"
+},
+"reviewBody": "I love this healthy soup. The only change I made was instead of adding lemon yogurt and mint, I used a dab of sour cream. Delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bart Jasiewicz"
+},
+"reviewBody": "Made it exactly as the recipe called for. My tomato paste didn't look like the one in the movie when it was cooking, maybe I didn't put as much as Chef John did or perhaps my onion amount as larger. In any case, I struggled to watch it turn to that red brick color as it was cooking. Nonetheless, the final product came out fabulous. I ground my own cumin in a mortar and pestle because I find the flavor is way bolder than with the store bought stuff. Will definitely make it again, a nice change from the brown/green lentil recipes I have made in the past"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kathryny"
+},
+"reviewBody": "Fantastic! Couldn't find mint anywhere so used parsley instead. Still had the citrusy colourful aspect of the sauce and worked fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Claire Fender"
+},
+"reviewBody": "Very delicious and comforting soup \nChef John nailed it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Edward Alvarez"
+},
+"reviewBody": "I added extra vegetables, like carrots and squash and mushrooms. I also did not have chicken stock but I had some veg stock from a disaster refried beans experiment on the Instant pot. Turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gotrecipe?"
+},
+"reviewBody": "This is the first time for me to make red lentil anything, but I can tell you this soup has made a lentil fan out of me. My hubby and I enjoyed this tasty soup. Though have to say, not a fan of the sauce. Maybe it was the yogurt I used, but something wasn't right about it. We just topped ours with a dollop of sour cream and Aged Italian Cheese Blend...so, so good! Another Chef John winner recipe. Thanks!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is a fantastic recipe, simple and full of flavor. It will definitely be in the rotation from here on out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tim Lewis"
+},
+"reviewBody": "super good, the mint lemon yogurt was crucial for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ken Slivken"
+},
+"reviewBody": "Absolutely Loved it. Recipe very similar but BETTER than one I’ve used in the past from The NY Times. Chef John is the best."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carolyn Black"
+},
+"reviewBody": "Incredibly yummy. Really good without the lemon mint sauce, but the sauce takes this to another level."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mike Lib"
+},
+"reviewBody": "Good Soup, next time I would cook the carrots and celery with the onions at the beginning. The yogurt was not worth the effort, a good dollop of EVOO and some Parmesan was a better topper. Overall worth making again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KevinJ"
+},
+"reviewBody": "Yum, turned out really tasty, although I was too lazy to do the mint in a mortar/pestle. Really felt it needed a big drizzle of olive oil on top! I had the heat on a little low and the carrots were a bit firmer and not mushy... preferred it that way. Flavors were better the next day, but carrots got softer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Martin Sparks"
+},
+"reviewBody": "Easy, healthy. One thing, though -- 30 minutes is a long time for this simmer uncovered -- it will reduce all your liquid. I simmered for 15 minutes partially covered, -- shut off heat and just covered it to finish softening lentils. Or, you can add more stock. Grateful I had all ingredients. I get a lot of mint during summer -- I clip, rinse and freeze in vac paks to have on hand. Red lentils are great because they have none or less skin hence they do cook quicker."
+}
+]

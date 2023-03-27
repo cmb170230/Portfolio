@@ -1,0 +1,306 @@
+,"name": "Italian Sausage Spaghetti"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "19"
+}
+,"cookTime": "PT115M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "1336 kcal"
+,"carbohydrateContent": "123 g"
+,"cholesterolContent": "119 mg"
+,"fiberContent": "10 g"
+,"proteinContent": "58 g"
+,"saturatedFatContent": "22 g"
+,"sodiumContent": "3325 mg"
+,"sugarContent": "25 g"
+,"fatContent": "65 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1 tablespoon olive oil",
+"4 (6 ounce) sweet Italian sausage links",
+"0.25 cup white wine",
+"1 (32 ounce) jar marinara sauce",
+"1.5 cups water",
+"1 (16 ounce) package spaghetti",
+"0.5 cup freshly grated Parmigiano-Reggiano cheese",
+"2 tablespoons chopped flat-leaf (Italian) parsley, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a saucepan over medium heat. Transfer sausage links into the hot pot. Cover with a lid and cook until beautifully browned and just barely cooked through, about 5 minutes per side. You can increase the heat a little if you like, but make sure the oil does not smoke. Turn off the heat and remove sausages to a plate to cool completely."
+} ,{
+"@type": "HowToStep"
+,"text": "While the sausages are cooling, add wine to the same pot over medium-high heat. As it comes up to a simmer, stir the caramelized bits on the bottom of a pan with a spoon or spatula. Simmer until it reduces by about half, 1 to 2 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add marinara sauce. Pour water into the jar of pasta sauce, seal, and shake to rinse out the jar. Pour that liquid into the pot and return to a simmer. Reduce heat to low."
+} ,{
+"@type": "HowToStep"
+,"text": "Slice each fully cooled sausage into 4 pieces. Transfer sausage and any accumulated juices into the simmering sauce. Stir and increase heat to just between low and medium-low. Cook at a gentle, steady simmer, stirring occasionally, for 1 hour. Taste and adjust seasonings. Skim about 1/2 of the fat from the surface, and continue to cook until reduced and thick, about 30 minutes longer."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, bring a large pot of generously salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until almost tender yet firm to the bite, 10 to 11 minutes. Drain spaghetti and transfer it directly into the pot of hot sauce. Mix until thoroughly combined. Cover with the lid and let sit for 1 minute so the pasta can absorb some of the sauce."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/FYDQuXG8T3O4nBIj2eP8ni0QNds=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-185-f4c8155da88c4ed09ae2566629325900.jpg"
+}
+]
+,"text": "Evenly divide pasta onto 4 plates and top each serving with 4 pieces sausage. Sprinkle with Parmigiano-Reggiano and parsley."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT120M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I'm sorry but pasta sauce requires onion, carrots, celery etc. This was too bland, acidic without it. I love Chef John but this required far more than what it called for. You will waste your sausages if you make them like this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My whole family loves when I cook this recipe even some of my friends want me cooking it for them as well. So easy to make as well"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lenny B"
+},
+"reviewBody": "Really great. The payoff in flavor for the minimal effort is mind blowing. If you watch the video and pay attention to the little hints that the chef shares then making it is a breeze. I used rigatoni instead of a long spaghetti and it made a very hearty dish. The only other changes was that it called for a larger bottle of sauce then they seem to be selling now. I decided to up the sausage and use two jars of sauce. I figured I could sauce the pasta with what I needed and save the rest for another time. In the end it worked with a pound of rigatoni and really didn't leave extra sauce. Nobody minded eating a little extra sausage either. The recipe calls for one link or four pieces per person, but I think that would be good for a pasta course in a big meal. For a main course the extra sausage wasn't overkill. Since it's mostly hands off simmering this recipe is a keeper for a nice family meal without being stuck over the stove the whole time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "L Sim"
+},
+"reviewBody": "I am a huge fan of yours Chef John, but this recipe didn’t work for me. When you simmer the sauce for so long, it gets very salty because it becomes more concentrated. And it didn’t have any extra flavor doing it this way. I was disappointed. Sorry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jeff"
+},
+"reviewBody": "Don't let the simplicity of this dish fool you -- it turns out as tasty as if you'd slaved for hours. I use sweet Italian turkey sausage to cut down fat, and add a sprinkle of cayenne and fennel seed to the cooking meat. Finally, I use a top-quality marinara sauce because I don't want to compromise the dish just to save $2-3. Judging by the silence from the dinner table, the results are worth it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sheislisamarie"
+},
+"reviewBody": "My husband showed me this recipe because he read your writeup about it and was interested in the ease of use with the jar of marinara sauce in conjunction with Italian sausage over ground beef. I couldn't find links of Italian sausage, so I used ground Italian sausage in place of it. Honestly, it's incredibly delicious. The white wine was a nice touch, and reducing down for 90 minutes was key. It's a little high on the sodium levels, but for the tastiness of the dish it's absolutely worth it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patrick Spino"
+},
+"reviewBody": "This recipe may be more delicious than Chef John suggests!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "golfin1313"
+},
+"reviewBody": "In a word YUM.\n\nAbsolutely delicious and easy. I had to stop the cooking at 45 minutes and finish it the next day. It worked great. \nOnce you reach the last “Cook down” stage pay attention — it can go quick. I can’t wait to try this with different sausages and marinara."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Willie Ross"
+},
+"reviewBody": "I prepared it exactly the way the recipe instructed and it was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Goolsby"
+},
+"reviewBody": "All hail Chef John. Exactly spot on, every time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "busymom"
+},
+"reviewBody": "I’ve made this recipe several times in the past few months. I make it exactly as written. It’s perfect! I always trust Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doug Jeffreys"
+},
+"reviewBody": "I made this for dinner thinking how different/good could it be, I mean I like spaghetti but, you know, spaghetti is spaghetti. Well I stand corrected. \n Chef John's recipe is everything he said. The white wine deglazing adds a subtle flavor enhancement and the sweet Italian sausage truly takes on the texture of meatballs once they've simmered in the sauce for 60 - 90 minutes. My wife and I were very pleasantly surprised by this meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "agent66"
+},
+"reviewBody": "I love every Chef John recipe I've ever made! I've become a better cook because of Chef John. This recipe was another hit got my pasta loving husband and I! Easy too! The only change I made was fact I used both 24oz jars marinara in full (more than the 32oz noted) and linguine for my pasta (because we prefer it over spaghetti."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Lowry"
+},
+"reviewBody": "Thank you Chef John, excellent!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "Meh. I used hot Italian sausage so maybe that was too lean for this dish and went with Rao's pasta sauce... It was basically a spaghetti and meatballs week-night dinner for me. Nothing over the top, but good comfort food. May do it as a variation to spaghetti."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sonja Jackson"
+},
+"reviewBody": "I love it before I made it because chef John has been on point with the recipes I’ve tried. Try the goulash recipe and you’ll feel the same way."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Myslinski"
+},
+"reviewBody": "This is a great recipe, I added about a tablespoon of minced onion after the sausage was fried and sautéed it for 2 minutes before adding the wine and a bay leaf when the tomatoes were added. Nice simple delicious sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "MKW"
+},
+"reviewBody": "Did not meet our expectations. Followed recipe exactly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peter"
+},
+"reviewBody": "I was fully expecting tough, dry sausage after simmering it for an hour and a half, but this was really delicious! The sausage was firm but tender, and the premade sauce was really enhanced by the simmering time.\n\nThe only change I would make is NOT generously seasoning the pasta water. It might vary per brand of sausage and tomato sauce, but I found that even without adding any salt to the sauce itself, it ended up being a bit too salty. Your mileage may vary."
+}
+]

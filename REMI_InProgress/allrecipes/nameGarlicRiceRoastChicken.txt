@@ -1,0 +1,286 @@
+,"name": "Garlic Rice Roast Chicken"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "19"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "617 kcal"
+,"carbohydrateContent": "19 g"
+,"cholesterolContent": "229 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "67 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "859 mg"
+,"sugarContent": "0 g"
+,"fatContent": "28 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1.5 cups cold cooked rice",
+"6 cloves garlic, crushed",
+"2 tablespoons chopped fresh parsley",
+"1 tablespoon chopped fresh thyme",
+"1 tablespoon chopped fresh rosemary",
+"0.5 teaspoon freshly ground black pepper",
+"1 teaspoon salt, divided, or as needed",
+"1 pinch cayenne pepper",
+"4 tablespoons salted butter, melted",
+"1 (3 1/2) pound whole chicken",
+"0.33333334326744 cup sherry vinegar" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine rice, garlic, parsley, thyme, rosemary, black pepper, 1/2 teaspoon salt, and cayenne in a mixing bowl. Pour in butter. Mix until thoroughly combined. Cover and transfer into a refrigerator for at least 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C). Lightly oil an oven-safe skillet or roasting pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Loosen the skin on the top of the chicken near the legs, enough to allow a small rubber spatula to slide between the breast meat and the skin. Slowly push the spatula under the skin on either side of the breastbone, all the way to the front of the chicken, trying not to make the opening near the cavity too large."
+} ,{
+"@type": "HowToStep"
+,"text": "Stuff the chilled rice mixture evenly under the skin, one spoonful at a time, pushing it to the front as you go to get an even layer of rice on either side of the breastbone. Stuff as much as you can fit under the skin without tearing it, smoothing and shaping as you work, and then place the rest of the rice into the cavity."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the chicken into the prepared roasting pan. Tie the legs together with a piece of kitchen string and season the skin with remaining salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Roast in the preheated oven until no longer pink at the bone and the juices run clear, about 1 hour. An instant-read thermometer inserted into the thickest part of the thigh, near the bone, should read 165 degrees F (74 degrees C). Remove to a plate or cutting board and let rest for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/-ourAcuxAJQ1KSkyMXlefRB48N8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8487177-31d7fd74ae1a4f42bae5d9982ad697f4.jpg"
+}
+]
+,"text": "While chicken is resting, add vinegar to the fat and drippings in the skillet or roasting pan and set it over medium-high heat. Bring to a boil while scraping all the caramelized bits from the bottom of the pan. Boil to reduce slightly, 3 to 5 minutes. Strain if preferred. Serve with sliced chicken, garlic rice, and crispy skin."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT130M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sregev"
+},
+"reviewBody": "Whoa this is great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "deedee"
+},
+"reviewBody": "It was good but the sauce was too vinegary! I used red wine vinegar. Chef John... you don't usually lead us astray but using any vinegar may not be right.\n\nOtherwise very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mme Magoo"
+},
+"reviewBody": "Very tasty! I'm always looking for another alternative to chicken. Moist and flavorful. A keeper in the chicken repertoire."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CEK"
+},
+"reviewBody": "Scrumptious and Easy! Hands Down, one of the BEST, Moist, flavorful Roasted Chickens that I’ve ever made in 40+ years of cooking!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kazi Katha"
+},
+"reviewBody": "This is our favourite Sunday dinner now. the rice is incredible I could just eat that whole day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "meli88"
+},
+"reviewBody": "Made this tonight, first time cooking a whole chicken and it was absolutely amazing. It was juicy and had tons of flavor. We’ll definitely make it again...and take a picture next time. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Morris"
+},
+"reviewBody": "Turn out well. Great recipe. Easy to do. Video was great help."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kai Shan Chua"
+},
+"reviewBody": "Made it per the recipe the first time, 2nd time I changed it up a bit. I loosened the skin and seasoned the chicken with kosher salt, garlic powder, onion powder, and chipotle powder, then threw it in the fridge for a few hours uncovered. Seasoned the rice according to the recipe and stuffed the bird. I only used one cup of cooked rice since it’s usually just my husband and I, we don’t need that much rice. I put it on a cast iron iron pan, then flip the bird half way in (just personal preference). We don’t usually have gravy, so I skipped that step. Also I just scoop all the rice out and separate them since I can’t carve a chicken properly and everything just falls out lol. \nBut it tastes soooo good, I love the rice so much! \nMy father-in-law was super impressed with chicken cooked in the oven, he said he’s never had oven roasted chicken that wasn’t dry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Awell"
+},
+"reviewBody": "This was easy to prepare and a big hit with family and friends."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ewb"
+},
+"reviewBody": "This was amazing. The rice was delicious and since I overstuffed the skin it had crunchy bits where it stuck out. The skin was so crispy. The sauce at the end was flavorful and a great addition to the meat. I cooked it to 165 in the thigh which wasn't enough for the breast and I had to keep sticking it back in the oven. this will be on a regular rotation so I can perfect it. Restaurant quality."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "marty"
+},
+"reviewBody": "I haven't made this yet, but I bet this would be good with a Chinese version with leftover fried rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dano"
+},
+"reviewBody": "Delicious and a lot easier than it sounds to get the layer of rice under the skin. Unfortunately, cooking rice or stuffing around/inside a bird is a bad idea and makes it really hard to gauge cooking times and temp. At 1 hour the skin was nice and crispy, but I was surprised that my instant-read thermometer showed ~100F about an inch into the breast meat. Not trusting my thermometer, I cut into the bird and found plenty of uncooked pink meat about an inch into the breast. Cooked another 10 minutes, then another, then another. Around 90 minutes the breast finally registered 150F and I decided to eat it, but cutting deeper into the chicken I'm a little nervous about it being safely done. The rice and skin are great, as are the wings and drumsticks that cooked normally. Hopefully when I reheat the breast meat tomorrow it will make it completely safe to eat.\n\nedit: upgraded to 5 stars. This is a really simple and delicious way to make chicken and rice. Next time I will insert a thermometer to watch meat temp throughout the cooking time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Girlie Thing"
+},
+"reviewBody": "Delicious .. My husband loved it! I'll be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "James"
+},
+"reviewBody": "Holy cow. This was amazing. My wife who is kinda on the fence with chicken overall wants me to make it for a second time in 2 weeks. Only thing I'm going to change is spatchcocking the bird when I cook it. I also cook mine in a cast iron pan on a pellet grill. Wife says \"you've ruined me from going out to eat at restaurants now\"\nI'll take that as a compliment."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maggie Fisher Brown"
+},
+"reviewBody": "First roast chicken we’ve ever made, followed the recipe and was PERFECT. Exceeded expectations, delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth Nguyen"
+},
+"reviewBody": "Such a simple and delicious recipe. Kids really enjoyed it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "food4olderlady"
+},
+"reviewBody": "Amazing flavors are cooked into the rice mixture! as the 'padding' on the breast meat, really does encourage a more moist chicken! Wonder if this 'trick' will work on a holiday turkey? Thanx Chef John"
+}
+]

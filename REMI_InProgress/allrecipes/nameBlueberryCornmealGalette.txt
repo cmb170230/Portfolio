@@ -1,0 +1,124 @@
+,"name": "Blueberry Cornmeal Galette"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "4"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "423 kcal"
+,"carbohydrateContent": "64 g"
+,"cholesterolContent": "72 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "180 mg"
+,"fatContent": "17 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1.5 cups all-purpose flour",
+"0.5 cup cornmeal",
+"0.5 teaspoon fine salt",
+"0.5 cup cold unsalted butter, cubed",
+"6 tablespoons ice water, or as needed",
+"1 pound fresh blueberries, rinsed and dried",
+"0.5 cup white sugar",
+"1 tablespoon lemon juice",
+"2 teaspoons lemon zest",
+"1.5 teaspoons cornstarch",
+"1 large egg, beaten",
+"1 teaspoon water",
+"1 tablespoon demerara sugar" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine flour, cornmeal, and salt in a bowl with a pastry blender. Add cold butter and combine with the pastry blender until coarse crumbs form. Drizzle in cold water, a little at a time, stirring to combine with a fork, until dough comes together."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn dough onto a work surface and bring together with your hands; press into a disk of dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Wrap dough in plastic wrap and chill in the refrigerator for about 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper or a Silpat® baking mat."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine blueberries, sugar, lemon juice, lemon zest, and cornstarch in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove dough from the refrigerator and roll on a lightly floured work surface into a 15-inch circle, about 1/8 inch thick."
+} ,{
+"@type": "HowToStep"
+,"text": "Place blueberry filling into the center of the dough, leaving 3 to 4 inches of space around the border of dough. Fold dough up and around the berries, rotating a few inches and make another fold, overlapping the first; repeat around the dough until pleats are formed."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine beaten egg and water in a small bowl and brush on the dough. Sprinkle on demerara sugar."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/BXAj95vFoNo-JIfzekh2jidgaYE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1Blueberry-Cornmeal-Galette-2000-dddfda0189cc4daea662ae955e765c1c.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until golden, about 45 minutes."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT95M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Benjamin Depiro"
+},
+"reviewBody": "Only thing I changed was making it Gluten-free and egg free due to food allergies. Substituted milk for the egg"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KellyandJason Mueller"
+},
+"reviewBody": "This is amazing. Made it once for a trial run. Making another, double the size for a galette dessert bar I'm having for my daughter's graduation party. I'm positive this will be the one I get the most comments on. Made it just as called for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eleanor"
+},
+"reviewBody": "I made this yesterday with my 9 year old daughter and it was a winner! Fairly easy to do and perfect for the season when you get berries in bulk. My father in law loved the crispy 'melt in your mouth' crust and the berries which tasted fruity but not overly sweet. I baked it for the entire 45 mins and although the bottom looked burnt, it wasn't. It turned out really well and will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alex Lehner"
+},
+"reviewBody": "Loved it! The pastry came out flaky and buttery, and the cornmeal made a nice contrast with the sweet filling."
+}
+]

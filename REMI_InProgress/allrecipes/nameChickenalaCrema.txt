@@ -1,0 +1,407 @@
+,"name": "Chicken a la Crema"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "30"
+}
+,"cookTime": "PT135M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "734 kcal"
+,"carbohydrateContent": "12 g"
+,"cholesterolContent": "231 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "52 g"
+,"saturatedFatContent": "22 g"
+,"sodiumContent": "2027 mg"
+,"sugarContent": "7 g"
+,"fatContent": "54 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"2 tablespoons olive oil",
+"1 (4.5 pound) whole chicken, quartered",
+"1 yellow onion, roughly chopped",
+"2 cups thickly sliced mushrooms",
+"1 tablespoon kosher salt, or more to taste",
+"1 tablespoon chili powder",
+"0.25 teaspoon cayenne pepper",
+"1 teaspoon freshly ground black pepper",
+"2 teaspoons ground cumin",
+"1 teaspoon dried oregano",
+"4 cloves garlic, minced",
+"3 poblano peppers, seeded and thinly sliced",
+"1 (14.5 ounce) can diced tomatoes",
+"4 cups chicken broth",
+"1 large bay leaf",
+"1.5 cups creme fraiche, divided",
+"2 sprigs fresh oregano, leaves stripped and finely chopped",
+"0.5 cup chopped cilantro" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Brown chicken in olive oil in a Dutch oven over high heat until nice and dark on both sides and fat has rendered, 6 to 8 minutes per side. Remove chicken to a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce heat to medium and add onion, mushrooms, and salt to the pot. Cook, stirring occasionally, until well browned, 8 to 10 minutes. Add chili powder, cayenne, black pepper, cumin, dried oregano, garlic, and poblano peppers. Cook and stir until peppers begin to soften, about 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add diced tomatoes, chicken broth, and bay leaf; stir and increase heat to high. Stir in 1 cup creme fraiche and fresh oregano and bring to a simmer. Add chicken and any accumulated juices to the pot, nestling them into the broth so they are covered. Reduce heat to low or medium-low to maintain a gentle, steady simmer. Simmer, stirring occasionally, until chicken is cooked through, about 1 hour 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Use tongs to carefully transfer chicken to a bowl and let cool enough to handle. Increase heat to medium-high. Cook until braising liquids have reduced by about half, 15 to 20 minutes, skimming off fat from the surface as it cooks."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, remove and discard skin and bones from chicken (or save to make stock). Break up the meat into large or small pieces and save any edible drippings."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/WINx-P1QQPjw3ajNIWv2f2oKhps=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7808884-b7c734ff049848f59dfedae487c97fa6.jpg"
+}
+]
+,"text": "Reduce heat to low and add chicken meat and drippings to the sauce. Simmer until chicken has absorbed the flavor from the sauce, about 15 minutes. Turn off heat and stir in chopped cilantro and remaining creme fraiche. Taste to adjust salt and seasonings."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT160M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Celi"
+},
+"reviewBody": "This dish is hands down one of my favorite dishes to make! I got this recipe from my mother in law, ever since then I’ve been making it. I personally recommend Mexican sour cream “El Mexicano” over crème fraîche. Definitely give this dish a try!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sterlinghaglund"
+},
+"reviewBody": "Killer dish!! So good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Team Brauller"
+},
+"reviewBody": "So EXCELLENT that I just spent a few hours trying to find the recipe that went with this photo after having made this for my family back in July. I am convinced that this is THE best thing you could do with a chicken. Now we eat!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dallys"
+},
+"reviewBody": "It’s was delicious, so good made twice!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "Absolutely fantastic! I didn't change anything but to cut the recipe in half using four thighs. I even made the crema, which we have enjoyed on other things. Will make this again because it was so yummy and easy to throw together!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Monique P"
+},
+"reviewBody": "Absolutely amazing! My poblanos were HUGE so I only used 2, and used sour cream and crema mixed since that’s what I could find but this recipe was WONDERFUL! Add about 30 mins to “prep” time since there is a lot of chopping etc, but it is definitely worth the wait."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy"
+},
+"reviewBody": "Love Chef John, and this recipe is my favorite of all! I am cooking non stop due to COVID, and this has been the hit of the pandemic. Follow recipe exactly and it is a the best!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yury Vilin"
+},
+"reviewBody": "Cut the salt in half, if you use canned tomatoes and broth. Everything else is fine. Great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daily Bread Bryan"
+},
+"reviewBody": "Unbelievable flavor, and the chicken literally melts in your mouth it is so tender. I made the recipe exactly as written, only difference was I used bone- in split chicken breasts. Love me some Chef John!!! Thanks again for a wonderful treat!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lillian"
+},
+"reviewBody": "This recipe takes some effort but the finished product is amazing. The chicken ends up being so tender and packed with flavor from the broth. It had a very mild spice from the poblanos which was perfect for me (I don't love really spicy foods) but the spice could easily be kicked up by adding jalapeños or similar, if you want.\n\nI used all bone-in and skin-on chicken thighs. I found this was much easier and cheaper than buying a whole chicken. I did question the purpose of browning the chicken in the first step since was later discard the skin. Maybe it still imparts some nice flavor though. I do trust Chef John so I'll keep doing it, I just thought it was a little funny.\n\nI did serve this in a bowl with a recipe called \"Mexican Rice and Beans\" by Afzal Najam (here on AllRecipes) and it was an *amazing* combination that I'll be making again and again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Greene"
+},
+"reviewBody": "This dish was more work than I usually like to put into a meal, so I asked my husband and daughter to be honest with me and tell me if it's good enough to make again. They answered with a resounding yes! It was absolutely delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "resy"
+},
+"reviewBody": "The only substitution we made was sour cream. My husband said it's the best thing we've made in a while. It's very rich. I can't wait for lunch tomorrow"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "holta"
+},
+"reviewBody": "I left out the mushrooms, instead adding bell peppers. I added them along with the poblanos. Absolutely fantastic! Also cut the salt by 1/3. It's definitely a weekend recipe, kinda long to do for a dinner when you work, but it makes a TON and the leftovers are even better then 2nd and 3rd days!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terry"
+},
+"reviewBody": "I cut the amount of salt in half and used sour cream instead of creme fraiche. This recipe is very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erin Smith"
+},
+"reviewBody": "I made this for dinner tonight, my family LOVED IT! My husband said it could be spicier, so next time I will be adding some jalapeño. My 10 yr old twin boys have both claimed it is now their favorite food because it was the best sauce and best chicken they ever had. I served it with Spanish rice and soft flour tortillas. It was the first time I ever quartered a whole chicken, I’m glad I learned a new skill as well as a delicious recipe! Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paulina Macias"
+},
+"reviewBody": "I will be definitely making this again. it was my first time quartering a whole chicken. A little bit time consuming due to lack of experience but flavors are so worth it. Thank you chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alyda Bailey"
+},
+"reviewBody": "I had no creme fraice and used sour cream instead. Otherwise I followed the recipe verbatim. I will definitely make this again. DELICIOUS!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tashagang"
+},
+"reviewBody": "Delicious. I used only thighs and may have cooked them a little too long as we ended up with shredded chicken rather than chunk chicken. Delicious anyway. Served over Spanish rice. We ate every bite. I also added a few jalapenos and more cayenne."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elaine Padget"
+},
+"reviewBody": "This is an excellent recipe, could not find the poblano peppers any where, so I used a jalapeño pepper instead. Other than that, made it exactly like the recipe call for. The flavours are definitely well blended and the whole family loved it. \nServed with rice and naan bread. Yum"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dorothy Harp"
+},
+"reviewBody": "My family love this recipe. It’s a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lesa"
+},
+"reviewBody": "Really good. Very rich probably could use less creama"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Gordon"
+},
+"reviewBody": "I made with chicken breast cut into smaller pieces. It was a little spicy, but overall a great meal. We served over long grain rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "L Fort"
+},
+"reviewBody": "Great flavor, easy enough to make and we loved it. I added spicy salsa instead of tomatoes and it kicked up the heat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PBANGSUND"
+},
+"reviewBody": "They didn't have chicken at the grocery store this week (result of COVID-19 panic shopping, I guess), so I used pork shoulder instead. I braised the pork shoulder in the cooking liquid for 3 hours, then added the cream and poblano peppers during the final 20-30 min of the cook (so that the peppers wouldn't be boiled into oblivion). I can't really speak to the chicken version of this recipe, but it worked really, really well with the pork shoulder; some of the best pork I've ever had! Flavors are spectacular, and it went really well with the Spanish rice I made. I imagine it would be great on pasta or mashed potatoes, too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becca"
+},
+"reviewBody": "Today was the perfect day for this \" feel good\" dish!\nWe are Hispanic and enjoy many dishes similar to this but this one has nearly tied with our family's ultimate favorite, Carne Guisada!\nThis has a wonderful, deep, not too rich flavor that was transformed into something amazingly rich but bright when we added the sour cream to our servings! \n(we usually have sour cream so we went with that)\nThis is SO full of flavor!\nThe poblano peppers really do add something special... well worth buying an ingredient you may not usually think of.\nFollowed recipe as written but eyeballed measurements since it was familiar territory, so to speak.\nSO DELICIOUS served with my homemade Mexican Rice and Fresh Flour Tortillas... Heavenly!\nWill DEFINITELY be making this again for my family and it is \"special\" enough for serving guests as well. We LOVED it!!!\nThank You So Much, Chef John, your recipes have NEVER let me or my family down!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Italiancook"
+},
+"reviewBody": "I loved this dish and so did my family! I will add it to my repertoire of recipes. The broth is delicious. The poblano peppers give it such a great flavor."
+}
+]

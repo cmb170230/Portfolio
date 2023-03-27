@@ -1,0 +1,305 @@
+,"name": "Barbecued Pork Skewers"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "20"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "262 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "73 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "22 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "714 mg"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"1 (2 pound) pork shoulder",
+"0.25 cup grated onion",
+"1 large clove garlic, finely grated",
+"1 tablespoon light brown sugar",
+"2 teaspoons kosher salt",
+"1 teaspoon freshly ground black pepper",
+"1 teaspoon paprika",
+"0.5 teaspoon ground cumin",
+"0.25 teaspoon cayenne pepper",
+"metal skewers as needed",
+"0.5 cup prepared barbecue sauce" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Slice pork shoulder in half lengthwise, then slice each half crosswise into 1/8-inch-thick slices."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer pork to a mixing bowl; add onion, garlic, brown sugar, salt, pepper, paprika, cumin, and cayenne, and mix with your hands until thoroughly combined. Cover tightly with plastic wrap and refrigerate for 4 to 8 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "When ready to cook, preheat a charcoal grill for medium-high heat and lightly oil the grate."
+} ,{
+"@type": "HowToStep"
+,"text": "Weave pork slices onto metal skewers, folding any longer pieces in half as needed; press slices snugly together."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/IO8b6c_Y5g4qegNLv525yrgd6hU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8373151-b5f4f7034c414b3f8c04b3460e17b1b6.jpg"
+}
+]
+,"text": "Cook skewers on the preheated grill, turning frequently, until browned on the outside and no longer pink in the center, about 30 minutes. Brush on barbecue sauce and turn skewers several times until sauce caramelizes, about 10 minutes more. An instant-read thermometer inserted into the center should read at least 160 degrees F (71 degrees C)."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT305M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I searched for \"what can I do with Pork Shoulder Roast that isn't Pulled Pork\". This came up... and is now my new favourite thing to do with it. WOW! We ate it in buns with some lettuce and a bit of mayo. Great texture and flavour! Did it on my gas grill with 1/2 med high and the meat on the 1/2 at low temp. Took a bit longer than the recipe to hit 160, but worth it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy"
+},
+"reviewBody": "#9 great use of a shoulder"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MariaB"
+},
+"reviewBody": "I used pork tenderloin as it was what I had, and also left out the onion as didn’t have any. It was still delicious. Marinated in spices overnight, broiled for 10 minutes one side and 7 the other side, that was plenty for tenderloin even though I’d sliced it a bit thicker than specified. The whole family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "redwing"
+},
+"reviewBody": "Marinaded overnight and the whole family loved them. Since my son isn't a big fan of barbeque sauce, I made some with no sauce, but they still had a lot of flavor due to the marinade. Recommend trimming as much fat as possible: Mine had a few small pieces of fat that were very chewy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jmoore10"
+},
+"reviewBody": "I made this for dinner last night and it was amazing! Instead of shoulder, I used a lean pork tenderloin and marinaded it overnight. It was so tender it took literally no effort to thread onto the skewers. I served this with regular baked potatoes and corn on the cob and it got 5 out of 5 thumbs up. I didn't change a thing and look forward to making this again. Thanks for the newest hit into my recipe rotation:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tekecat"
+},
+"reviewBody": "Really good used pork loin. Don’t over cook it. I think it tastes like ribs without the long cooking time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tim O'Connor"
+},
+"reviewBody": "Did it with pork tenderloin instead of pulled pork just to get an idea. Cooked about 40% faster than expected, was still awesome and reheated really well. Gonna try with pulled pork next."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark"
+},
+"reviewBody": "Came out tender and flavorful. Worked great with his \"All-American BBQ Sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "P T"
+},
+"reviewBody": "Delicious. Took about 20 minutes on my gas grill, low heat. Cranked the heat up at the end to caramelize the bbq sauce. Very tender, very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gl"
+},
+"reviewBody": "WOW!!! Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Srwinter6"
+},
+"reviewBody": "Really tasty and juicy. It got gobbled up in no time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wing Man"
+},
+"reviewBody": "We had a pork loin in the freezer and tried out this recipe, it turned out great. I can't wait to try it again with some shoulder. We used sweet baby rays bbq sauce and also tried a gochujang sauce. Both turned out well, I might prefer a spicy smoky sauce the next time or maybe a little more pepper in the rub."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "catherine"
+},
+"reviewBody": "This was excellent. I doubled the spices and bbq sauce and I was only able to marinate my pork shoulder for 5 hours but it came out tender, juicy, and flavorful. I had a little problem with sticking on my gas grill even after oiling the grates, but it was worth it. Even two out of three verrrry picky kids liked it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ben"
+},
+"reviewBody": "Chef John, or others:\nDo you have tips on broiling, like you said in the notes? I have an old gas stove with a bottom broiler and it seemed to cook way faster, maybe 20 minutes instead of 40. Is that a broiler difference to the grill, or did I slice too small? Thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bill"
+},
+"reviewBody": "I used pork loin and marinated them for 10 hours, came out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Neale Fetterly"
+},
+"reviewBody": "Fantastic, made it with pork loin and 140 to 145 F was great.\n\nNot sure what I’ll change next time I make it. Definitely a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brady B"
+},
+"reviewBody": "Excellent! Chef John really is amazing. I used boneless pork chops, since I had them on hand. Otherwise followed the recipe to a T and they were so good! The cayenne gives the pork a nice kick of heat. Will make these again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Titterton"
+},
+"reviewBody": "Tastes great, and easy to make. I didn't have an onion so I just used onion powder, and it was still fantastic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Klaube"
+},
+"reviewBody": "Super flavorful and amazingly tender!"
+}
+]

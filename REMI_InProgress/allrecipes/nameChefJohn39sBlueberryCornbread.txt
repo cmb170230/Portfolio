@@ -1,0 +1,136 @@
+,"name": "Chef John&#39;s Blueberry Cornbread"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "7"
+}
+,"cookTime": "PT50M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "386 kcal"
+,"carbohydrateContent": "60 g"
+,"cholesterolContent": "64 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "637 mg"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 large eggs",
+"1 cup white sugar",
+"1 cup milk",
+"1 cup buttermilk",
+"12 tablespoons unsalted butter, melted",
+"2 cups all-purpose flour",
+"2 cups cornmeal",
+"4 teaspoons baking powder",
+"2 teaspoons fine salt",
+"1 teaspoon baking soda",
+"4 cups fresh blueberries" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C). Generously butter a 9x13-inch baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk eggs and white sugar together in a bowl vigorously for 1 minute; add milk, buttermilk, and melted butter and mix together."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix flour, cornmeal, baking powder, salt, and baking soda together in another bowl. Stir into the wet ingredients. Fold in blueberries."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer batter to the prepared baking dish."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/TdCNpUrvDrAxvM9p9c6c3LwBPYQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1Chef-Johns-Blueberry-Cornbread-ffdb49f0642e4b929c30d300b7303112.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until a skewer inserted into the center comes out clean, 50 to 60 minutes. Let cool before cutting and serving."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "michaelleenoon"
+},
+"reviewBody": "Super easy to make and it tastes awesome. Mine was done between 40 and 45 minutes but other than that the recipe was perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tifany Lena Grant"
+},
+"reviewBody": "I halved the recipe, but otherwise AMAZING!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Carbone"
+},
+"reviewBody": "Turned out great! Thanks, Chef John! David Carbone here. I didn't have buttermilk so I added 2 tablespoons of distilled white vinegar to whole milk. Ran out of whole milk so used oat milk. Also used golden sugar because that's what I had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Gorgeous recipe!!! Made it for a bunch of Europeans- it went down a treat!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Parker"
+},
+"reviewBody": "So good! I coated the bigger berries in flour to prevent them from sinking and also scattered some on top. A fair amount still sunk to the bottom, but lots of them stayed suspended. I also had set the timer for 50 minutes, but ended up taking it out about 7 minutes early because the top was getting pretty browned. It was definitely done, even at 43 minutes. But overall it was really yummy and would probs be great with some whipped cream, ice cream, or maybe served with a little melted butter on top. Definitely going to make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "If you want to keep blueberries from sinking, dust them with a bit of flour before adding."
+}
+]

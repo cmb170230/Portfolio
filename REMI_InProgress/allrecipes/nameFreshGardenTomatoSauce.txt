@@ -1,0 +1,180 @@
+,"name": "Fresh Garden Tomato Sauce"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.1",
+"ratingCount": "11"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "78 kcal"
+,"carbohydrateContent": "9 g"
+,"fiberContent": "3 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "12 mg"
+,"sugarContent": "6 g"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"3 tablespoons olive oil",
+"3 cloves garlic, thinly sliced",
+"8 leaves fresh basil",
+"5 pounds vine-ripened tomatoes, seeded and quartered",
+"1 teaspoon kosher salt, or to taste",
+"0.125 teaspoon red pepper flakes" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a saucepan over medium heat and add sliced garlic. Cook and stir for about 30 seconds before adding basil leaves. Sizzle garlic and basil in olive oil until the thinnest slices of garlic just start to turn golden. Quickly transfer in tomatoes. Add salt and pepper flakes and increase heat to medium-high."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook, stirring occasionally, until the mixture simmers and the tomatoes have completely collapsed and liquefied. Turn off the heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Using a strainer or colander, strain the sauce into another pot, pressing everything through with the back of a ladle or spatula, until nothing is left in the colander except the skins and seeds."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/-SCt3V5LJyG5hm-9ydlaN4HQ7CI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-426-d385fa0ef544462c8b80c116c509a70e.jpg"
+}
+]
+,"text": "Place strained sauce back over medium heat and reduce to about 5 cups, or until desired thickness. Taste for seasoning and use immediately, or store in an airtight container until needed."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vicki"
+},
+"reviewBody": "I had a lot of homegrown tomatoes that I didn’t want to go to waste. I found this recipe and made it exactly as written. OMG! The soup was fantastic and so easy to make! I only wish I had toasted French bread to dip into the soup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "emycase"
+},
+"reviewBody": "I love this recipe, I did have to make a few alterations. Because I used frozen Early Girl tomatoes I felt that it was runny, so I cooked it for a lot longer. Also since I am allergic to garlic, I used onions. I did not have the red pepper flakes so I used chili powder. then I cooked it for approx. 2 hours. It smells wonderful and fresh. I plan on freezing it, and using it to make spaghetti or pizza sauce. 15 lbs of tomatoes made me 10 cups of sauce!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My absolute favorite of all time. I’m sad when summer ends and it’s no longer an option. Easy too! Hardest part is straining bc I don’t want to waste even a drop."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Lighthouse7"
+},
+"reviewBody": "Trying to press cooked tomatoes through a sieve or colander is a clumsy ineffective process. Most of the solids remain behind leaving nothing but a thin liquid that will be impossible to reduce. Using a food mill is far superior. More importantly the recipe yields a most unremarkable bland tasting product."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Celeste"
+},
+"reviewBody": "I liked this sauce and its pure tomato flavor but like the one I regularly make just a little better. It calls for the addition of a cup of minced sautéed onion and 2 tsps of sugar to 15 lbs of tomatoes. Otherwise, it's close. To address the question of freezing fresh sauce - I've done it and it's just not as good later. The sauce separates in the freezer and develops ice crystals. Canning the sauce preserves that fresh from the garden flavor. 15 lbs of a variety of tomatoes yields about 4 quarts. If you decide to process and jar your sauce, you'll need to add 1/2 tsp of citric acid per qt jar. Love your recipes Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rose Ladd"
+},
+"reviewBody": "The best Fresh Garden Tomato Sauce ever! Must make it all the time. I even added the red pepper flakes, usually I skip them in recipes but they really add flavor to sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy"
+},
+"reviewBody": "Amazing.\nEasy to find the tomatoes at a farm market. I'm wondering how well it freezes bkz it's so delicious I want to get more tomatoes while they are in season. \nAgain, Chef is right.... you can't get anything like this is a store. \nThanks Chef!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Cletus Buttwhump"
+},
+"reviewBody": "We found the resulting sauce to be the consistency of V-8 juice (even after reducing for about an hour and a half)...not useful as a pasta sauce at all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Coan"
+},
+"reviewBody": "This is such a simple, amazing sauce. I have loads of garden tomatoes, and this was a great use of a big bunch of them. I changed nothing, made it exactly as described."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MercyMe1"
+},
+"reviewBody": "Simple yet so, so delicious! I followed this recipe exactly as written and watched Chef John's video. Was an amazing way to use fresh tomatoes from my mom's garden."
+}
+]

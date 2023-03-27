@@ -1,0 +1,127 @@
+,"name": "Raspberry-White Chocolate Scones"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "3"
+}
+,"cookTime": "PT265M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "563 kcal"
+,"carbohydrateContent": "75 g"
+,"cholesterolContent": "96 mg"
+,"fiberContent": "8 g"
+,"proteinContent": "12 g"
+,"saturatedFatContent": "15 g"
+,"sodiumContent": "788 mg"
+,"fatContent": "25 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT45M"
+,"recipeIngredient": [
+"2 (6 ounce) containers fresh raspberries",
+"2.5 ounces white chocolate, or as needed",
+"2 cups all-purpose flour, or more as needed",
+"1 tablespoon white sugar, or more to taste",
+"0.5 teaspoon kosher salt",
+"4 teaspoons baking powder",
+"5 tablespoons ice cold unsalted butter",
+"0.75 cup milk",
+"2 tablespoons sour cream",
+"1 large egg",
+"1 tablespoon milk" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 225 degrees F (110 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Line a baking sheet with a silicone liner."
+} ,{
+"@type": "HowToStep"
+,"text": "Place fresh raspberries about 1 inch apart on the prepared baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven for 4 hours, then turn oven off, leaving the berries inside for 8 hours, or overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with a silicone liner."
+} ,{
+"@type": "HowToStep"
+,"text": "Roughly chop dried raspberries into smaller pieces and measure out ½ cup for this recipe. Reserve any extra for another use."
+} ,{
+"@type": "HowToStep"
+,"text": "Grate white chocolate on the fine side of a grater until you have ½ cup."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk 2 cups flour, sugar, salt, and baking powder together in a mixing bowl. Grate cold butter into the flour mixture, tossing every so often to coat it with flour so it doesn&#39;t start to clump. When all butter has been added, work it into the flour with a pastry blender. Add grated white chocolate and toss with a fork to incorporate."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk ¾ cup milk and sour cream together in a liquid measure, then pour that into the flour mixture. Mix with a fork until everything just barely comes together to form a shaggy dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough to a generously floured work surface and without kneading, push and pack it together with your hands until it holds its shape, adding a little flour if it&#39;s too sticky. Press dough into a rectangle, about ¾-inch thick, and roughly twice as long as it is wide."
+} ,{
+"@type": "HowToStep"
+,"text": "Sprinkle dried raspberries evenly over the dough. Spread berries out almost to the edges and press them into the dough gently. Using a bench scraper, lift one third of the dough from one of the shorter edges and fold it in over the center third; press it down and square off the edges. Repeat with the other side so your scone dough is three layers thick."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut the rectangle in half with the bench scraper, then cut each half into 2 triangles. Transfer scones to the prepared baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk egg and 1 tablespoon milk together. Brush egg wash over each scone and sprinkle with sugar."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the upper center of the preheated oven until browned, about 25 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/0ZJDWE73eNIKJEJDG6UVov0Aei0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Raspberry-White-Chocolate-Scones-2000-728cf7bc501f4e509ea474e855093275.jpg"
+}
+]
+,"text": "Quickly and carefully transfer to a rack and let cool completely before serving, about 30 minutes."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT820M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "400 degrees is too hot of an oven. They burned on the bottom. Very disappointed"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I love Chef John and have duplicated many of his delicious recipes. This one turned out perfectly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurel Anne"
+},
+"reviewBody": "We've made Chef John's biscuits and pumpkin scones. They are very good, but this recipe is by far the BEST of the best! If you can't find a giant chunk of white chocolate, grating a small bar is not a good idea. The little shards of chocolate fly around like styrofoam - but it works great in a food processor. These scones are out of this world - they pass the \"fork test\" and taste so amazing. The raspberry aroma filled the house whilst baking as well. We used some leftover shards of white chocolate on top which melted nicely. Please make these, you'll love them!"
+}
+]

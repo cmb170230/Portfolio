@@ -1,0 +1,63 @@
+,"name": "Lemon-Pepper Sweet Potato Crisp"
+,"cookTime": "PT95M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "321 kcal"
+,"carbohydrateContent": "45 g"
+,"cholesterolContent": "35 mg"
+,"fiberContent": "6 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "638 mg"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT35M"
+,"recipeIngredient": [
+"4 cups fresh bread crumbs",
+"4 tablespoons butter, melted",
+"salt to taste",
+"1 pinch cayenne pepper, or more to taste",
+"0.5 cup finely grated Parmigiano-Reggiano cheese",
+"1.25 cups grated sharp white Cheddar cheese, divided",
+"1 teaspoon chopped fresh chives, or to taste",
+"2.75 pounds sweet potatoes, peeled and cut into 1 1/2-inch chunks",
+"1 medium lemon, zested and juiced",
+"1 teaspoon kosher salt, or to taste",
+"1 teaspoon freshly ground black pepper",
+"1 pinch cayenne pepper, or more to taste",
+"4 tablespoons butter, melted" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with a silicone liner (such as Silpat®)."
+} ,{
+"@type": "HowToStep"
+,"text": "Place bread crumbs in a mixing bowl and pour melted butter over top. Add salt, cayenne, and Parmigiano-Reggiano cheese and mix until evenly coated. Transfer to the prepared baking sheet and arrange in an even layer. Sprinkle 1 cup Cheddar cheese over top."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until golden brown, 20 to 25 minutes. Remove from the oven and let cool. Leave the oven on."
+} ,{
+"@type": "HowToStep"
+,"text": "Place sweet potatoes in a mixing bowl. Add lemon zest and juice, salt, pepper, cayenne, and melted butter; toss until evenly coated. Immediately transfer sweet potatoes into a buttered baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the oven until potatoes are very tender, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Break up the crispy, cheesy bread crumbs into very small pieces and scatter evenly over the potatoes. Gently press them into the potatoes and sprinkle remaining ¼ cup Cheddar over top."
+} ,{
+"@type": "HowToStep"
+,"text": "Return to the oven and bake until browned, 15 to 20 more minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/hcni1PCPN4N5ZTkIo8rm7RJ4iAo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_2277-2000-0624d510bd88443e9b437c96344f5c85.jpg"
+}
+]
+,"text": "Sprinkle with chives before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT130M"

@@ -1,0 +1,173 @@
+,"name": "The Best Barbecue Baked Beans"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "10"
+}
+,"cookTime": "PT185M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "273 kcal"
+,"carbohydrateContent": "43 g"
+,"cholesterolContent": "10 mg"
+,"fiberContent": "10 g"
+,"proteinContent": "11 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "995 mg"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 pound dried red beans",
+"3 quarts water",
+"1 bay leaf",
+"1.5 pounds boneless pork shoulder, cut into 2-inch cubes",
+"1 yellow onion, chopped",
+"1 cup barbecue sauce",
+"0.5 cup ketchup",
+"0.33 cup apple cider vinegar",
+"0.25 cup packed light brown sugar",
+"3 tablespoons molasses",
+"2 tablespoons yellow mustard",
+"1 teaspoon Worcestershire sauce",
+"1 tablespoon smoked paprika",
+"0.125 teaspoon cayenne pepper",
+"1 teaspoon freshly ground black pepper",
+"1 tablespoon kosher salt",
+"1 teaspoon garlic powder",
+"2.50 cups reserved bean cooking liquid",
+"6 slices thick-cut bacon" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Add dry beans to a bowl, cover with water, and let soak for 8 hours, or overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain beans and transfer to a large pot filled with 3 quarts of cold, fresh water. Add bay leaf, pork shoulder, and onion. Bring to a simmer over high heat. Reduce heat to medium-low and stir. Skim off foam if desired. Let simmer until beans are just tender, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "While beans simmer, combine barbecue sauce, ketchup, vinegar, brown sugar, molasses, mustard, Worcestershire, smoked paprika, cayenne, black pepper, kosher salt, and garlic powder in a bowl with a whisk. Set aside until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer tender bean mixture to a deep, 15x10-inch baking dish using a spider strainer. Pour in barbecue sauce mixture and 2 ½ cups of the bean cooking liquid. Place bacon slices on top."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/_T8FeWXr6VnL2UlqvrPx3PpGoqA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8398508-The-Best-Barbecued-Baked-Beans-Chef-John-1x1-1-2000-2e98d750cb514a33b793815cadccc97a.jpg"
+}
+]
+,"text": "Bake uncovered in the center of the preheated oven until the liquids have reduced into a thick sauce, 2 to 3 hours."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT680M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Basemike64"
+},
+"reviewBody": "This recipe does take quite a bit of time, so you need to plan this in advance. However, it is worth the wait. I substituted left over pork roast for the pork shoulder and it was fabulous."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BOOKMARKER"
+},
+"reviewBody": "Cathy loves these."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "Loved these beans! I did the quick soak method on the small red beans and skipped the pork. My cook time was longer for both the boil and the bake, but they turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This recipe came out fantastic! I decided to make it on short notice and the grocery didn't have any pork shoulder so I just diced up some thick cut pork chops and it was delicious. I don't think you can go wrong with this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cliff V"
+},
+"reviewBody": "These are the greatest pork and beans ever!!!! My in-laws were raving about them!!! Keeper recipe from CJ!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BrookeAnne"
+},
+"reviewBody": "Perfection! I will never be able to go back to store bought baked beans again. They were truly the BEST. Bravo Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Loved it but the recipe came out a bit dry - next time I will par boil longer and add more water. Great recipe Thank you from NH!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Excellent sauce. I skipped the meat products and substituted zucchini chunks and celery. Delicious vegetarian dish! I find that I can use most of chef John’s recipes for my vegetarian preference simply by subbing out the meat with veggies."
+}
+]

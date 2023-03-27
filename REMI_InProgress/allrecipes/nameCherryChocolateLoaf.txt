@@ -1,0 +1,280 @@
+,"name": "Cherry-Chocolate Loaf"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "17"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "321 kcal"
+,"carbohydrateContent": "45 g"
+,"cholesterolContent": "53 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "272 mg"
+,"sugarContent": "23 g"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 teaspoon unsalted butter",
+"2 cups all-purpose flour",
+"1 teaspoon kosher salt",
+"1 teaspoon baking powder",
+"0.5 teaspoon baking soda",
+"0.5 cup unsalted butter, softened",
+"1 cup white sugar",
+"2 large eggs, at room temperature",
+"0.25 cup plain yogurt",
+"0.25 teaspoon vanilla extract",
+"2 cups pitted cherries",
+"0.5 cup dark chocolate chunks",
+"0.5 cup chopped walnuts",
+"0.25 cup powdered sugar",
+"3 teaspoons milk, or more as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x4-inch loaf pan with 1 teaspoon butter and reserve."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk flour, salt, baking powder, and baking soda together in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Cream 1/2 cup butter and sugar together in another bowl with a spatula or an electric mixer until smooth and creamy. Beat in eggs one at a time with a whisk or an electric mixer, fully blending in the first egg before adding the next. Stir in yogurt and vanilla extract."
+} ,{
+"@type": "HowToStep"
+,"text": "Chop pitted cherries coarsely with a knife, or by pulsing on and off a few times in a food processor. Add to the wet ingredients along with chocolate chunks and chopped walnuts. Stir briefly to combine. Batter may look curdled, but don&#39;t worry."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour in the flour mixture and mix with a spatula until all the flour has disappeared. Transfer batter into the prepared loaf pan, making sure to smooth the top evenly and fill in the corners. Tap pan on the counter to release any air pockets."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until nicely browned and a toothpick inserted into the center comes out clean, about 1 hour. Let bread rest in the pan for 15 minutes before removing to a wire rack."
+} ,{
+"@type": "HowToStep"
+,"text": "While bread is resting, combine powdered sugar and milk in a bowl for icing, adding more milk as needed to reach a thin, runny consistency."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/GZ2MvaDmQkR5NJlZnsy2stRv0c4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8263243-66af500b025d4b5aa2758f37d704c7c8.jpg"
+}
+]
+,"text": "Brush icing over loaf, allowing to drip down the sides. Let cool completely before slicing and serving, about 20 minutes more."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT110M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tirsa"
+},
+"reviewBody": "Yummmyyy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "12345"
+},
+"reviewBody": "This recipe was easy to make and certainly delicious! The bread rose spectacularly in the oven. The perfect fit for the breakfast table."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rodney Keith Bone"
+},
+"reviewBody": "It was great. Definitely make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Christy Sievert"
+},
+"reviewBody": "This loaf is yummy! I had to find a use for some mediocre cherries and this bread was exactly what I needed. I followed the recipe with a couple of minor edits: I didn’t have walnuts on hand so I increased the chocolate chips and cherries a bit and I did not use the frosting. The loaf is so moist and delicious! I love the flavor combo - something new. I ate is as dessert last night and with coffee for breakfast this morning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Sehmer"
+},
+"reviewBody": "Didn't make any changes. The chocolate overpowered the cherries. Maybe because of the type of cherries. I was given cherries from Traverse City, MI."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Mallinda"
+},
+"reviewBody": "Disappointing! For starters, the cake turned blue! I read that some brands of baking powder can cause that. If I were to make it again (doubtful) I would leave out the chocolate. It didn't seem to go with the cherry flavor even though I usually like that combination. I made it in 3 smaller pans and adjusted the baking time accordingly. I also substituted almonds for the walnuts just because of personal preference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tina"
+},
+"reviewBody": "The combination of cherries, chocolate, and walnuts is delicious. I followed the bread recipe as written (I did use chocolate chips), but instead of the glaze, I sugared the loaf pan (same method as flouring a pan, but use sugar instead of four). That gave a slightly sweet taste to the browned sides of the loaf. I served it for dessert, but I'll make it for a brunch soon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "letscook"
+},
+"reviewBody": "Just didn't seem to have the flavor I thought it should. Could taste the chocolate but cherries got loss. Maybe a tart cherry is the answer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda C"
+},
+"reviewBody": "I always like Chef John's recipes. This recipe was fabulous. Made it just as read. When I make it again, I'll be sure to have a cherry pitter as he had suggested in his video. A photo is attached, but we've already been into the loaf. It's almost gone! Next, I think I will try his Banana Bread recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "ilene"
+},
+"reviewBody": "This was good but not great. Considering the time it took to pit the cherries it just wasn't worth it. I'll stick to chocolate chip banana bread!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donald Cline Jr"
+},
+"reviewBody": "This came out even better than I expected! 10x better than banana bread!! The recipe calls for plain yogurt but I used french vanilla and it was fantastic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurette"
+},
+"reviewBody": "loved the cherry and chocolate together. It was a great dessert."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Ron"
+},
+"reviewBody": "Delicious, chef. Great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kittiwake"
+},
+"reviewBody": "This delicious - moist and yummy! Followed the instructions exactly as written - perfection!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SUEASTY"
+},
+"reviewBody": "delicious-- we have our own sweet cherry tree and walnuts, so I made this yesterday -- very tasty- after it cools the flavors come out better - I used sour cream and choc chips -- I made one big loaf cut it in half and froze the half since only 2 of us .. \ni would make again --"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "patty"
+},
+"reviewBody": "This smells amazing while cooking and tastes even better. I really dislike walnuts so I used almonds and also used mini chocolate chips. Since there are only 2 of us I made 4 small loaves( this changed the cooking time to 40 mins.) I absolutely love both cherries and chocolate and this is the “ bread” for you! Glad I made small loaves or it would all be gone! Yum!!"
+}
+]

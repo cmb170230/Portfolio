@@ -1,0 +1,433 @@
+,"name": "Beef Birria"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "29"
+}
+,"cookTime": "PT220M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "375 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "82 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "21 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "1287 mg"
+,"sugarContent": "5 g"
+,"fatContent": "28 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"3 (8 ounce) beef short ribs",
+"1 (2 1/2 pound) beef chuck",
+"4 teaspoons kosher salt",
+"1 teaspoon freshly ground black pepper",
+"2 teaspoons dried Mexican oregano",
+"1 teaspoon ground cumin",
+"0.25 teaspoon ground cinnamon",
+"0.25 teaspoon ground cloves",
+"7 dried guajillo chilies",
+"2 tablespoons olive oil",
+"1 large onion, roughly chopped",
+"6 cloves garlic, peeled",
+"1 (1 inch) piece fresh ginger, thinly sliced",
+"3 large tomatoes, cored and chopped",
+"2 cups water",
+"3 bay leaves",
+"1 tablespoon honey",
+"0.25 cup white vinegar",
+"4 cups chicken broth",
+"2 tablespoons finely diced white onion",
+"1 tablespoon chopped fresh cilantro",
+"1 medium lime, sliced" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Cut each beef short rib through the middle, all the way down to the bone. Cut beef chuck in half; cut each half into 3- to 4-inch pieces."
+} ,{
+"@type": "HowToStep"
+,"text": "Place beef chuck and short ribs into a soup pot and season with salt, black pepper, oregano, cumin, cinnamon, and cloves. Toss very thoroughly until the meat is evenly coated with the spices, 2 to 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover and transfer into the refrigerator for at least 6 hours, or overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Prep guajillo chiles by snipping off stems with scissors; slice open and scrape or shake out the seeds onto a plate to discard."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a saucepan over medium heat. Add dried guajillo chiles and toss in the hot oil, about 30 seconds. Add chopped onion, garlic, and ginger; toss to combine. Add tomatoes and water, raise heat to high, and bring the mixture to a simmer. Reduce heat to medium-low and let simmer for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn off heat and use an immersion blender to blend the mixture as smooth as possible, or transfer to a regular blender, working in batches as needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove the soup pot with meat from the refrigerator. Strain the reserved chili mixture into the pot using a large mesh strainer. Add bay leaves, honey, vinegar, and chicken broth."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring to a boil over high heat, and then lower to medium-low. Simmer gently, stirring occasionally, until the meat is falling-apart tender, 3 to 4 hours. Skim fat off of the top and reserve for future birria queso tacos."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/HXs9xp4s6ml4pjvpBzfCNLYXgec=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8671830-beef-birria-Chef-John-1x1-1-c60dd65aa35b417c8c1c6a90433064e8.jpg"
+}
+]
+,"text": "Place some chunks of beef into a soup bowl and ladle some of the cooking liquid over top. Top with white onion and chopped cilantro and squeeze lime juice over top."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT610M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I've made it half a dozen times for several groups of people and gotten great reviews. I add a few pasilla and a couple of ancho chilies for more variety and depth of flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CrazyChickenLady"
+},
+"reviewBody": "Terrific. So happy to find this recipe. My last attempt ended up too spicy, but this recipe is perfect with lots of flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "stephiney"
+},
+"reviewBody": "Excellent! Make sure to have plenty of white onion and cilantro for topping as they do an excellent job of cutting through the richness of this dish, as well as fresh limes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "oddasiangirl"
+},
+"reviewBody": "Warning! This recipe takes a A LOT of prep and steps. It also takes a very long time to make so definitely save it for a weekend meal. But the end result is ahhhhhmazing and after all that work you will be so proud of yourself and your family will worship the ground that you walk on. I made it and yeah, it's all that and more. Definitely READ ALL OF THE INSTRUCTIONS first and watch the video because I ended up missing an important step in making the consomme. Still tasted dang good though. Chef John is seriously a cooking genius. Love this guy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Another wonderful recipe from Chef John. I have made this now twice and both times have been outstanding in flavor. I apologize about my picture invoking so much onion and cilantro, but those toppings cut amazingly well against this rich flavorful stew. I have never had Beef Birria before at Mexican restaurants here in California before. If I do, I now have a high level of standard of what to expect. Simply bliss. The second time enjoying this recipe I introduce some nice corn tortillas and it was very tasty as a vessel."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lukelittleton"
+},
+"reviewBody": "Great recipe. Anyone know how much quality of tomatoes matters here? Could you use canned tomatoes if fresh tomatoes you have access to aren't ripe/low quality?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jazcat"
+},
+"reviewBody": "Wonderful beef stew. I served it in a bowl with sourdough rolls. This recipe made me understand the term umami, it has a wonderful feel in the mouth."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kathyscasey"
+},
+"reviewBody": "I don't even like Mexican,but room mate does. Made this for him, but of course tasted it. WOW This is exceptional.. I used 6 dry chili peppers and 2 fresh jalapeno.It was perfect. I also used lamb and beef short ribs as I had frozen lamb left over from Easter. I used left over beef to make enchiladas as I'm not a fan of tacos. Used the sauce thickened in place of enchilada sauce. WOW this recipe is a keeper.Thank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "catosixtails"
+},
+"reviewBody": "I try dozens of recipes, but few make it to \"repeat\" status. This is one that I will make again and again. It's more than outstanding, 10 stars! I skipped the consumé but the tacos the next day dipped in a fire roasted green chile sauce were even better. I used a fatty beef roast without the short ribs because I was making for one and the store didn't sell these things in small quantities, but otherwise followed the recipe ... Absolutely amazing recipe. Thank you Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie Moreno"
+},
+"reviewBody": "I have made this 3 times already. I added 2 pasilla chiles as well. Mmmmmm good. Lol This is too good, it’s just wrong...so wonderfully wrong! Lol when I made the tacos they where so crispy and slightly oily from that glorious red Chile oil. My husband near fell out of his chair...my kids loved it! My in laws are Guatemalan, I made it for them and they went crazy for it! I just seasoned the meat for another round of these things. That’s three times in 6 months. This recipe is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom Watson"
+},
+"reviewBody": "Made this yesterday with a couple of small alterations. I had a really hard time finding dried chiles so I substituted a can of chipotles in adobo and I completely blanked on bay leaves. Still, this came out excellent and I'm looking forward to tacos tonight!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dianna Brown-Brenny"
+},
+"reviewBody": "This is probably the best Mexican dish I have ever made! I can't even begin to tell how much we enjoyed this...as is, as tacos or as nachos....YUM!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Matt Salopek"
+},
+"reviewBody": "Excellent recipe by Chef John. I definitely will be making this again in the near future!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris"
+},
+"reviewBody": "This was really, really good.\n\nMade with beef chuck and arbols this was super spicy and delicious. I was a little skeptical after adding the cinnamon and cloves but it all came together deliciously in the end."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Thomas Diaz"
+},
+"reviewBody": "I've made this recipe twice. The first time I made it with goat, and the second time with beef. Both times it's come out delcious, but I agree with Chef John that goat takes it to a whole other level.\n\nIf goat's hard to come by, beef is a good substitute. But I really recommend goat. I got mine from a halal market, if you happen to have one in your area."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "smediag"
+},
+"reviewBody": "Excellent! Delicious and every easy to make. As good as this tasted, the tacos the next day deserves 10 stars!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Travelots"
+},
+"reviewBody": "Amazing flavors! I used ground Guajillo. \n1 tsp = 1 pepper. ( It'll seem like a lot when you measure it out, but it's the right amount) I also used a combo of short ribs and lamb. Also made the birria tacos that chef John has a recipe for. Incredible! Don't miss this one. The most flavorful braised meat I've had, and Incredible tacos."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephen Orlove"
+},
+"reviewBody": "As my wife and I watched Chef John's video a couple weeks ago I said to myself that I am going to make this for her birthday dinner. I followed the recipe exactly, and like Chef John, I reduced it so it's more of a thick stew. I served it over quinoa with some chopped onions, cilantro and lime and a salad on the side. Paired it with a nice Malbec from Argentina. A++++++ stew. I'm definitely making the tacos with the leftovers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joshua Banks"
+},
+"reviewBody": "Just outstanding.\nLike soup.\nLike stew with mashed potatoes \nAs tacos.\nThree dishes. Fed me for a week."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nkapgar"
+},
+"reviewBody": "What a delicious dish! I made no changes—the spicing was perfect. I would definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeff Pangburn"
+},
+"reviewBody": "I didn't have any short rib, and I subbed vegetable base for chicken broth, it turned out splendidly in spite of that. I will definitely be making this again. It almost tasted chocolatey, the sauce was so thick, and rich. Fantastic. Do yourself a solid, and make this dish. You will not regret it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tea Pot"
+},
+"reviewBody": "Made this and did part of the steps of the next video for the tacos. I took the meat out and pulled it apart, then cooked down the sauce a bit more (30mins-1 hour) and put the meat back in the sauce to heat back up. Then served in the sauce to be put directly on tacos. Super jucy meat and so delicious. Great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Thank you Chef John this is awesome! I used some leg of lamb for it. Really yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom Maj"
+},
+"reviewBody": "Amazing!\nMy only change was to use 100% chuck instead of the chuck/short ribs combo for both convenience and price. Turned out great, restaurant quality recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Gonzalez"
+},
+"reviewBody": "I made this to a T, with quality ingredients...sauce had an odd, almost bitter taste...the only thing different was that my strainer didn't work well, so most of the sauce went in, as made. I used a brand new immersion blender, and it pureed the veggies well. Not sure what happened, but the meat was good. I'll go back to my regular beef stew recipe. I even let the meat sit overnight in the fridge with the spices rubbed in...will not attempt again...Usually love Chef Johns recipes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebeka Nixon"
+},
+"reviewBody": "So delicious, definitely a do-over. There was so much flavor it was incredible. They didn't have short ribs on the bone at the store when I went but that didn't matter too much, just guessing I missed on a bit of flavor from the bones. Otherwise such an incredible recipe, so good, totally recommend"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tomr789"
+},
+"reviewBody": "Fantastic as usual Chef John! No changes at all \n\nNow where is the taco recipe? Lol"
+}
+]

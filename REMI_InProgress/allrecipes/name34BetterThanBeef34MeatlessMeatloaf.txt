@@ -1,0 +1,146 @@
+,"name": "&#34;Better Than Beef&#34; Meatless Meatloaf"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "5"
+}
+,"cookTime": "PT95M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "367 kcal"
+,"carbohydrateContent": "37 g"
+,"cholesterolContent": "74 mg"
+,"fiberContent": "6 g"
+,"proteinContent": "18 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "1547 mg"
+,"fatContent": "18 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT35M"
+,"recipeIngredient": [
+"4 tablespoons olive oil",
+"2 pounds brown mushrooms, sliced",
+"2 teaspoons kosher salt, divided",
+"0.5 cup diced yellow onion",
+"0.25 cup diced celery",
+"2 tablespoons tomato paste",
+"2 teaspoons beef base (such as Better than Bouillon®)",
+"0.25 cup water",
+"1 cup cooked black lentils",
+"2 large eggs, beaten",
+"2 tablespoons soy sauce",
+"2 teaspoons Worcestershire sauce",
+"1 teaspoon onion powder",
+"1 teaspoon garlic powder",
+"1 teaspoon freshly ground black pepper",
+"0.25 teaspoon dried oregano",
+"0.25 teaspoon dried thyme",
+"1 pinch cayenne pepper, or to taste",
+"2 tablespoons ketchup",
+"0.5 cup fine dry bread crumbs",
+"0.667 cup rolled oats",
+"1 cup grated Parmigiano-Reggiano cheese",
+"2 teaspoons olive oil",
+"2 tablespoons ketchup",
+"2 tablespoons Dijon mustard",
+"2 tablespoons brown sugar" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Very generously grease a loaf pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a large skillet over high heat. Add mushrooms and 1 teaspoon kosher salt and sauté until nicely browned and juices have evaporated, about 10 minutes. Stir in onion and cook until soft, another 5 to 7 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add celery, tomato paste, and beef base; cook and stir until tomato paste begins to toast on the bottom of the pan, about 3 minutes. Stir in water and turn off the heat; let sit for about 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer mushroom mixture into a food processor. Add cooked lentils and pulse until finely chopped but not pureed."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer to a mixing bowl and add eggs, soy sauce, Worcestershire sauce, onion powder, garlic powder, pepper, remaining 1 teaspoon salt, oregano, thyme, cayenne, ketchup, bread crumbs, oats, and Parmigiano-Reggiano cheese. Mix until thoroughly combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer mixture into the prepared loaf pan, then wrap with foil and place on a sheet pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until firm to the touch, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove the loaf from the oven and place on a wire rack. Remove the foil and place it on the baking sheet. Grease the foil with 2 teaspoons olive oil. Let the loaf sit for 10 to 15 minutes, and increase the oven temperature to 450 degrees F (230 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "While the loaf is resting, make the glaze: Whisk ketchup, Dijon mustard, and brown sugar together in a small bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Invert the loaf onto the foil and spread glaze all over the surface, mostly on the top but some on the sides."
+} ,{
+"@type": "HowToStep"
+,"text": "Return to the oven and bake until the glaze is cooked on, 15 to 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/IvWAJ1Fng9OpjFQv0ld92mCHkCA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_4013-2000-f431ef022dd848129c2b9140c3d0a8b2.jpg"
+}
+]
+,"text": "Carefully transfer the loaf onto a cutting board. Cut into 6 slices and serve."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT145M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Darn! I wish I had read the other reviews--it was quite overseasoned, and I like salt a lot! I toned down the salt on my mashed potatoes to even it out but it was still a bit much. Texture was nice--I added a couple teaspoons of ground flax for extra binding power. The edges were aresome and crunchy. My husband who hates veggie loafs said \"good first pass\". I may try it again, may make patties with it instead so i can get more of that crunch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Wonderful job Chef John! I couldn't find black lentils so I used green, but the taste was fantastic. That Worcestershire sauce really helps boost that true meatloaf flavor. I despise tomato glazes on meatloaf so I skipped that and served it smothered in brown gravy with homemade mashed potatoes and garlic Parm roasted brussel sprouts. I definitely enjoyed and will be giving it another try soon. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Adele Vaverchak"
+},
+"reviewBody": "I swapped out the oatmeal with brown rice and added it to the food processor with the lentils, and it was not as crumbly. Also, I agree with the others that there was too much salt in it and took their advice, so I omitted adding the beef base and any extra salt, and used coconut amino instead of soy sauce. I am on a low sodium diet so must alter recipes. It still came out very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lycanslady"
+},
+"reviewBody": "Loved the texture-- mine looked exactly like a beef meatloaf. My almost a vegetarian daughter and a little more picky husband loved it too. My only complaint was that it was really salty. We only had seasoned breadcrumbs which have alot of salt in them, I salted my lentils when cooking (do not do this), parmesan cheese, beef base, soy sauce, you salt the mushrooms to draw out the liquid (salt, salt and more salt). I would not suggest adding any extra to the recipe when you combine all of the ingredients before baking."
+}
+]

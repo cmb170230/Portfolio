@@ -1,0 +1,552 @@
+,"name": "No-Knead Country Bread"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "40"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "143 kcal"
+,"carbohydrateContent": "29 g"
+,"fiberContent": "1 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "242 mg"
+,"sugarContent": "0 g"
+,"fatContent": "1 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"3.5 cups white bread flour",
+"0.5 cup sprouted spelt flour",
+"0.25 teaspoon active dry yeast",
+"2 cups cold water",
+"1.5 teaspoons fine kosher salt" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place bread flour, spelt flour, and yeast into a large mixing bowl and stir with a wooden spoon. Pour in cold water and mix until a very wet, sticky dough comes together, about 3 minutes. Add salt and mix for another 2 to 3 minutes. Scrape down the sides of the bowl, cover with foil, and allow dough to rise at room temperature for 18 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Deflate bubbly dough with a spatula by scraping down the sides of the bowl and folding dough over itself, turning the bowl as you go around in a circular motion, about 12 times or so."
+} ,{
+"@type": "HowToStep"
+,"text": "Scrape dough out onto a heavily floured surface. Sprinkle the surface of dough generously with flour. Use floured hands to roll and fold dough on the table into a round or oval shape with a smooth surface, 1 to 2 minutes, adding more flour if dough is too sticky. The loaf shape doesn&#39;t really matter, but a smooth surface is the goal."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer to a Silpat-lined baking sheet and let rise, uncovered, until doubled in size, about 2 hours. The dough will spread out more than rise up; this is normal."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C). Place a rack in the center of the oven."
+} ,{
+"@type": "HowToStep"
+,"text": "Use a very sharp knife or razor to cut a shallow slash down the middle of dough, being careful not to deflate dough too much; the slash is optional. Spray the surface of loaf very lightly with water to help a crust form."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/KycpKiQhpAW966PEImZgJPrpnvM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7901809-6db75e21dfbc46f0a864e95ca9fa6888.jpg"
+}
+]
+,"text": "Bake on the center rack in the preheated oven until nicely browned and loaf sounds hollow when tapped, about 30 minutes. Let cool on a wire rack before slicing."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT1250M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Delicious! I did not have spelt flour, I used all purpose. It is good any way it is used, sandwich, with soup, with butter or just plain."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nadine"
+},
+"reviewBody": "Made this almost as specified. Just used less salt. This is an extraordinary recipe. The bread came out so wonderful, raised quite well with hardly any yeast. My go to from now on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "A. O. Gilmore"
+},
+"reviewBody": "Very nice recipe, crispy outside, moist inside, great for toast and spreading butter, cream cheese or whatever else you like. I have done this many times and it’s my favorite bread recipe because it’s so easy and fault tolerant. You can let it rise even for 24 hours or more and it takes on a slightly sourdough odor which is not unpleasant. All purpose flour works fine. After much experimentation I found that 1/2 tsp yeast works well and produces a slightly lighter loaf. As others have mentioned the dough can be very sticky. This is how I handle it. I combine steps 3 and 4 and put the dough directly on a heavily floured silpat liner on my baking sheet. For the shaping: Make sure to flour your hands. A light touch helps here. With your fingertips flip and fold the dough over and over every which way until it becomes less sticky. To shape: tuck your fingertips under the outside edges and push lightly to shape it into a round loaf. Sprinkle some flour on top. As chef John said it’ll spread out a lot so a compact loaf is desirable. After the 2 hour second rise sprinkle some more flour on top. That makes it look rustic and helps the crust. In my powerful Bosch oven the bread is done in 25 minutes max. I check it at 23."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "maajabu1"
+},
+"reviewBody": "I have made it multiple times with just white flour and it always comes out great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "vika"
+},
+"reviewBody": "I rarely write reviews for things, but I had to make an exception for this bread cause it's just SO good. I've made it so many times. My family loves it and always asks me to make it for them... it's a win every time! Thanks for making me feel like a pro baker, Chef John! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Malcolm"
+},
+"reviewBody": "This bread is so effortless, it's incredible how well it turns out.\n\nI've used the recipe to make loaves, stick bread, pull-apart, and buns, and it turns out perfectly every time.\n\nOur house is cold at night (13C/45F), but the dough still rises just fine overnight."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tturner"
+},
+"reviewBody": "The family loved it! Made a couple grilled cheese sandwiches (so awesomely good) and garlic bread. And because I prefer hamburgers on toast, I'm going to try it in a loaf pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenny Brown"
+},
+"reviewBody": "I've made this bread recipe several times now, and I love it. I sub half whole wheat flour (very finely ground) double the yeast and add just a little more water (because of the whole wheat flour) but otherwise I follow the recipe, and it turns out perfect every time. It is the first yeast bread I've been able to successfully make -- my gateway to the bread-making world. Thank you Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "eaves14"
+},
+"reviewBody": "Fantastic bread for grilled cheese, it gets really crispy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bookertwyrm"
+},
+"reviewBody": "It was so good! It was super easy to make, Chef John's recipe was concise and easy to follow. I ended up using a tiny bit more water, but other than that, I followed the recipe to the tee. It has a mouth feel of English muffin crossed with French bread. Nice amount of pull, yet still supple. I made a sandwich out of it as well. Super sturdy and perfect for finger sandwiches. 10/10 would make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marianne J-Brown Cromarte"
+},
+"reviewBody": "Beautiful bread! It was easy to make , the smell and taste were wonderful! I chose to bake it in a Dutch oven on parchment paper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Aviv Weinstein"
+},
+"reviewBody": "This recipe was great! I will say, that my dough was a little too runny for me to be able to form it into a loaf, of any shape, so I had to add in another half cup of flour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "miriam"
+},
+"reviewBody": "i did enjoy watching how chef john makes it, but i wanted to know what do i use in place of wheat flour \nnever used it, wondering can i substitute it thanks chef john"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carlissa Terry"
+},
+"reviewBody": "I've never been good at breads or pastries but this came out pretty good. it makes a LOT of bread. I'm going to halve the recipe next time. I don't have silicone sheet so I used 5 pieces of parchment paper"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "James C"
+},
+"reviewBody": "I have made this a couple of times. Turned out great each time and uses very little yeast. I think that it took me about 10 minutes of actual work with a lot of waiting (mix, 18 hour proof, fold, shape, 2 hour proof/rest, bake 20-30 minutes depending on shape). So good, cheap, and easy, but you have to plan ahead. This and an Irish soda bread are my go to recipes depending on how much time I have."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Steve_OH"
+},
+"reviewBody": "This is a good bread for when you want the bread to supply a supporting role, rather than being the star. Its relatively light texture makes it good for sandwiches.\n\nFor those of you dealing with wet, soupy messes, if the dough looked okay after you mixed it, and it didn't turn into soup until you looked at it the next day, it's almost certainly the result of overproofing: the yeast has worked the dough to the point that the gluten is breaking down.\n\nThe most common culprit for this is proofing either for too long or at too high a temperature. It can also happen if you add too much yeast, although you'd have to overdo the yeast by quite a lot to have much effect.\n\nA less obvious reason is if you tried to increase the proportion of whole wheat flour: doughs with a high proportion of whole wheat (or rye) will proof much more quickly than those without. In my own experience, you could probably increase the whole wheat to about one third of the total flour, but at the same time you'd have to reduce the proofing time by a third as well.\n\nIn any case, don't give up! Reduce the proofing time and/or temperature, and give it another shot. You won't regret it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Salty Dan"
+},
+"reviewBody": "Decent loaf. Easy to make, just like my favorite chef, Chef John, states. Taste was good for how it came out. The only thing I changed was where I proofed and baked. After the first rise, I followed the directions and then put it in an enamel dutch oven to proof and then baked it in there (also after the 2 hour second proof) for 20 minutes with the lid on, then 13 with the lid off. It rose well, and looked professional! When it cooled, it did get more fluffy which is nice, although I like a crunchy crust. It had a nice texture with decently sized holes inside. The flavor is the only reason I removed one star. But I understand this to be a country loaf, so I'm not sure if it's worth taking the star away, but taste is a big factor. Don't get me wrong, we loved it with our cheese and wine dinner! However I can taste a depth of flavor not quite developed in it despite a long proof time. Quite strange... I think I may try adding in some sourdough starter next time and balance the flour out with that to see if we can get the depth of flavor we are looking for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "blot"
+},
+"reviewBody": "Following the directions I wound up with a sticky mess. No amount of additional flour gives me a dough I can shape. What is a good room temperature for the dough to rise? For me it was about 65 degrees. Too cold?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roy Daniel"
+},
+"reviewBody": "Only bread I`ve ever baked before must have been back in the 90`s, like in the schoolkitchen. I followed the recipe after watching the always excellent Chef John video of it, ended up baking it in a preheated dutch oven. Heavenly crust and bread! My family thought so too, so now I`m making the fifth one in less than ten days. My toddler used to spit out bread and just eat the cold-cuts, bu this bread he eats happily. Thanks a bunch for this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kconeill"
+},
+"reviewBody": "Excellent. Made as written. Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ben Leonard"
+},
+"reviewBody": "I already wrote a review, but after reading about some of the trouble people were having I thought I might be able to help. I have had a really soupy dough after waiting 18+ hours and this is what has helped for me: use a little more flour on your surface than Chef John did, also, use a bench scraper or spatula. I learned this tip from watching another person make sticky bread. Using a bench scraper allows you to manipulate the dough without even touching it. You can lift up the dough with it and sprinkle some more flour underneath without making a horrible mess. I've probably added up to another cup of flour doing this, but I'm not doing any kneading. When I get to the point where I think I'm ready to transfer it on to the silicon, I put it in a 10 inch silicon cake pan. This way it doesn't spread out so much. You actually end up getting a highter loaf. You are going to be able to see that it was done in a pan with sides, but it does brown nicely on the bottom and more importantly you get wonderful bread!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Len Lindsey"
+},
+"reviewBody": "Maybe this recipe was meant for people who often work with bread, who knows? Yet I tried making this bread 3 times. \n1st attempt, after 18 hours, it was a runny mess. I attempted to add flour gradually to bring it back to what the video showed. This took about an hour, a lot of work and really annoying. Nothing like the few minutes it took in the video.\n2nd attempt: basing my assumptions that I did something wrong the 1st, I followed exactly, step by step....18 hours later....ugh. It was even runnier....w.t.h. Again, I ended up adding a lot of flour and time to recover.\n3rd attempt: Let me put my chef hat on and eye ball what I think looks right compared to the video. I started with 5 cups of flour and added 1 cup if water and mixed..adding water slowly. I ended up adding only 1.5 cups of water thinking I was in the clear.\n\nWrong. 18 hours later the dough was still difficult to work with and again, I added a lot of flour to recover. \n\nThe bread tastes good, yet the recipe is not good. Find another."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ana R"
+},
+"reviewBody": "I made it at 8400' altitude &amp; it came out amazing!! I've never made this kind of bread before &amp; only followed a few minor adjustments that I followed off the King Arthur's high altitude baking site..https://www.kingarthurflour.com/learn/resources/high-altitude-baking\nThank you, Chef John! I use tons of your recipes &amp; have yet to find a disappointing dish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Midwest Wags"
+},
+"reviewBody": "Very good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "C-town"
+},
+"reviewBody": "very easy overnight dough BUT I ended up adding almost another 1/2cup - 2/3 cup while kneading it. It was so runny and sticky I had an insanely hard time handling it. I probably lost about 10% of the dough by the end cause of how much it stuck to my hands and the table. Grease your hands and the table and flour VERY heavily. But I will probably try and make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Kyle White"
+},
+"reviewBody": "I followed the recipe exactly and ended up smearing wet, sticky goo all over my counter for about 30 minutes trying to form a cohesive dough ball before giving up. Even after adding almost a cup of extra flour during this process, it just was a wet sticky mess. I will not be trying this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Lou"
+},
+"reviewBody": "I ended up making 2 loaves out of this recipe because I put too much liquid in - it came out real thin but my husband LOVED, LOVED, LOVED it!!!\nThis is a keeper recipe and I will make it again for sure!\n\nThank you for your wonderful easy breezy recipes!\nThey are appreciated!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marija"
+},
+"reviewBody": "I made this bread twice so far. First time it went exactly according to the recipe but second time after first rise dough was very wet, it felt almost like liquid so I had to use A LOT of flour, much more than the first time to make it more workable but in the end it was fine and it turned out beautifully."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ms. Sanders"
+},
+"reviewBody": "This is a fantastic recipe. So easy and so good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LunaGirl"
+},
+"reviewBody": "Chef John,\nEvery night before we go to bed my 6 years old daughter and I just pick one of your videos, watching it (sometimes she fall asleep durring). And making your recipes a few days later.\nI must say - we learned a lot and still learning.\nMy 6 years old made it to the exact - and came out PERFECT!\nThank you! :)\nStay healthy and safe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kimberley Grant Quinn"
+},
+"reviewBody": "I have just made up the dough and it is sitting in a warm spot of my kitchen. Love home made bread. Our town water is not the best tasting so I oped for unflavored seltzer. No opton for quick drives to a town near by that has water from a spring. Love your recipes. Always a win."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mishcelle"
+},
+"reviewBody": "This bread is amazing! definitely worth the wait!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BAkitty"
+},
+"reviewBody": "This turned out exceptionally good. The only changes I made was 2 cups AP flour, 1 cup bread flour, 1/2 cup whole wheat flour. My kids wanted it chewy but not too chewy so that’s why I made that adjustment. We also let it ferment for 24 hours. If I can figure out how to submit the picture I will. The flavor and texture was one of the best."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kellie Bruton"
+},
+"reviewBody": "This was the easiest bread recipe I have ever made and the most delicious loaf of bread. Thanks Chef John for another great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Glenn Gibson"
+},
+"reviewBody": "I only made it once. Very easy and makes a delicious grilled cheese sandwich."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Matthew Collard"
+},
+"reviewBody": "I was a little hesitant as it was my first time making bread, but this was very easy. I used all-purpose flour and it worked out!\nTen outta Ten, Delicious!\nThanks, chef John from food wishes dot com"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MrMojitoguru"
+},
+"reviewBody": "A very easy and wonderful bread for toast or to dip with oils. Made it. Love it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nathan Freedenberg"
+},
+"reviewBody": "First time I've baked bread in years. This was easy and came out well. Made quite a big loaf, too much for one. Going to share with neighbors (contactless)."
+}
+]

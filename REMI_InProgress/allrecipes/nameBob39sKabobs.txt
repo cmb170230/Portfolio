@@ -1,0 +1,267 @@
+,"name": "Bob&#39;s Kabobs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "17"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "301 kcal"
+,"carbohydrateContent": "5 g"
+,"cholesterolContent": "87 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "23 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "820 mg"
+,"sugarContent": "2 g"
+,"fatContent": "21 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"2 teaspoons ground cumin",
+"0.5 teaspoon ground coriander",
+"2 teaspoons Aleppo chile flakes",
+"1.5 teaspoons kosher salt",
+"1 pinch cayenne pepper",
+"1 pinch ground cinnamon",
+"1 teaspoon ground sumac",
+"1 pound ground lamb",
+"2 tablespoons cold water",
+"8 bamboo skewers",
+"1 cup plain Greek yogurt",
+"2 cloves garlic, crushed",
+"2 tablespoons minced fresh parsley",
+"1 tablespoon fresh lemon juice",
+"0.25 cup water, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine cumin, coriander, Aleppo chile flakes, salt, cayenne, and cinnamon in a small bowl and mix well to combine. Use your spoon to push off about 1/3 of the spice blend to the side."
+} ,{
+"@type": "HowToStep"
+,"text": "Place ground lamb in a mixing bowl and add 2/3 of the spice blend along with 2 tablespoons cold water. Mix with by hand until thoroughly combined. Cover with plastic wrap and chill in the refrigerator for 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "While meat is chilling, place bamboo skewers in water to soak for 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove meat from the refrigerator and roll into 8 equal-sized meatballs using slightly damp hands. Skewer each meatball through the center and shape into an oval, about 3 inches long. Use your fingers to taper each end of the kabob down to a point where it meets the skewer. Place on a plate and refrigerate until chilled, about 30 minutes, or until ready to grill."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk Greek yogurt, garlic, parsley, lemon juice, and 1/4 cup water together in a bowl until smooth and combined. Refrigerate until serving."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir sumac into the remaining 1/3 spice blend. Remove kabobs from the refrigerator and sprinkle spices on top."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an outdoor charcoal grill to medium-high heat."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/EXX6x0ko11XDXnpX31lJ14fX6JQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8201823-e621c928d62949dbbee4dcf8328721b8.jpg"
+}
+]
+,"text": "Grill kabobs over charcoal, turning occasionally, until browned and firm, 10 to 12 minutes total. An instant-read thermometer inserted into the center of a kabob should read at least 135 degrees F (57 degrees C). Serve with yogurt sauce."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT130M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "ahmedmaisha44"
+},
+"reviewBody": "If there is any 0 star Thn I could choose that.Taste is sooo bad and they said basmati rice but that’s not. Those are big rice.I didn’t get any type of sauce but I ordered for 2 type or sauce.they send me wrong order.Overall their rating is 0.I’ll say everyone don’t waste your money guys."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RAB"
+},
+"reviewBody": "Very easy and tastes great! Used Grass-fed beef. We didn't have the sumac or Aleppo so I used the substitute in the recipe and it was very good. I served it inside French baguette slices....yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "eponymous74"
+},
+"reviewBody": "I love lamb, but struggle with the flavor when I make it. I found this recipe to be very simple to make, but the flavor was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nick Papadopoulos"
+},
+"reviewBody": "This is a fantastic way to serve lamb! A big hit with the tomatoes and onions. I cheated and bought Greek Tzaziki sauce from a local deli."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "walloongirl"
+},
+"reviewBody": "These are outstanding! We served these with pita bread &amp; a Greek salad. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is a FABULOUS recipe. I served it with sautéed vegetables and pita bread. YUMMY!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I didn't have the sumac or aleppo peppers, so instead I put in 1 tsp smoked paprika and a hearty pinch of red pepper flakes. These were really good! Thank you Chef John, this recipe is a life-saver! I found 30 lbs of ground lamb hiding in the bottom of my freezer and now I know what to do with it! We made them into patties because I don't like making meatballs, and served on pita bread"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Hall"
+},
+"reviewBody": "We are huge Chef John fans and we were not disappointed with this one! We had to follow the spice substitutions as our local markets in BFE Georgia are lacking. Very flavorful and delicious! We served this with a homemade sourdough naan bread, hummus, assorted olives, feta, and an onion, cucumber, tomato salad with balsamic vinegar and olive oil. We all ate until we thought we would burst especially the kids!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Sielagoski"
+},
+"reviewBody": "I made these the other day and the family LOVED them. I used all ground beef since I am not a fan of lamb. They were delicious. I followed the recipe exactly except I subbed crushed red pepper flakes for the Aleppo chile flakes because I could not find them in my store. I will definitely make again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Harold"
+},
+"reviewBody": "Excellent Recipe! Having lived in Turkey for many years, this fullfills my cravings for Turkish kofte. When grilling outside on BBQ, I substitute 1/4 of yogurt with lamb tallow."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ekbrook"
+},
+"reviewBody": "Being married to an Albanian girl, I've eaten a lot of kofta in my day. But this has got to be one of the top two kofta recipes I have had...and since the other is a secret...the only one I can now personally make at home. Thanks Bob &amp; Chef John for bringing this one to us. I pared the Kofta with Briam (Baked Zucchini and Potatoes - search recipe on this website) and the combo made a perfect Mediterranean meal. BTW...if you can't find the Sumac or Aleppo Pepper in your local store, both are available online. They do make a difference and are worth the effort. Enjoy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kevin Wessman"
+},
+"reviewBody": "I made this as close as I could to the recipe; I couldn't find Aleppo chili flakes or sumac at my local store, so I'll have to try it again when I find them. I had a larger group to feed, so I used two pounds of lamb and one of ground pork, which worked out really well. I think the flavoring was just about perfect with a nice crust on the outside and plenty of juicy texture inside. I'll definitely be coming back to these kabobs and I'd like to try a few different sauces to accompany them as well. The sauce here was a very simple one, and quite tasty, but I'd like to see how this pairs with a tzatziki or aioli. Great recipe as usual, Chef (and Bob)! I just wish I had taken some pictures before we devoured it all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Catreese Scott"
+},
+"reviewBody": "I doubled the recipe for my family and did not have the time to refrigerate as recommended prior to grilling. It still came out great my family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steven"
+},
+"reviewBody": "I substituted ancho chile pepper spice for the apello chile flakes since that is hard to find around here and it turned out awesome."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heidi Robinson"
+},
+"reviewBody": "I couldn’t find sumac at my local shop but it was still SUPER tasty. I made a Greek side salad and the whole meal was so delicious. This recipe is going into rotation for the summer!"
+}
+]

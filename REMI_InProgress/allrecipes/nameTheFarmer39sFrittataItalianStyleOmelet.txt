@@ -1,0 +1,243 @@
+,"name": "The Farmer&#39;s Frittata (Italian-Style Omelet)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "15"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "278 kcal"
+,"carbohydrateContent": "7 g"
+,"cholesterolContent": "275 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "17 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "2292 mg"
+,"sugarContent": "4 g"
+,"fatContent": "21 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"2.5 cups cubed zucchini",
+"2.5 cups cubed yellow summer squash",
+"2 tablespoons kosher salt",
+"2 tablespoons olive oil, divided",
+"1 slice thick-cut bacon, cut crosswise into 1/4-inch strips",
+"8 large eggs",
+"0.25 teaspoon kosher salt, or to taste",
+"freshly ground black pepper to taste",
+"1 pinch cayenne pepper",
+"2 tablespoons sliced green onions, or to taste",
+"0.33333334326744 cup diced red onion",
+"1 cup diced sweet peppers",
+"2 ounces grated sharp Cheddar cheese",
+"4 ounces goat cheese, crumbled" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine zucchini and summer squash in a bowl and sprinkle 2 tablespoons kosher salt over top; toss until everything is evenly coated. Let sit for 15 minutes, tossing occasionally."
+} ,{
+"@type": "HowToStep"
+,"text": "Thoroughly rinse squash with cold water to remove all salt; transfer to a colander and let drain for 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 1 tablespoon olive oil in a 10-inch, oven-proof skillet over medium heat. Add bacon and cook until browned and almost crisp, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "While the bacon is cooking, mix eggs, 1/4 teaspoon kosher salt, black pepper, cayenne, and green onions together with a fork in a large bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Raise the heat on the bacon to medium-high; toss in peppers and red onion plus a pinch of salt. Cook and stir until the peppers just start to soften and the onions turn translucent, about 3 minutes. Add drained squash and carefully stir together; cook until squash is just barely tender, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, set an oven rack about 6 inches from the heat source and preheat the oven&#39;s broiler."
+} ,{
+"@type": "HowToStep"
+,"text": "Toss Cheddar cheese into the skillet and pour egg mixture over top. Stir with a spatula (like you were making scrambled eggs) until it starts to thicken up, 30 to 45 seconds. Shake the pan gently to settle the contents and turn off the heat. Push the edges down a bit with the spatula and sprinkle goat cheese over top. Drizzle with remaining 1 tablespoon olive oil."
+} ,{
+"@type": "HowToStep"
+,"text": "Place under the preheated broiler until the surface is lightly browned and frittata is firm to the touch, 2 to 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/GMSJPfwDRDHpyTnR9oq1zgYUo7g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9356693-the-farmers-frittata-italian-style-omelet-Chef-John-1x1-1-8221f7008a814f4f92defb44a563bca2.jpg"
+}
+]
+,"text": "Sprinkle with more green onions and let cool for 5 minutes before transferring it onto a serving plate."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marylu Fernandez"
+},
+"reviewBody": "This is my second time to cook this meal using veggies available in my pantry (cauliflower, celery, spinach, green onion, tomato) with bacon &amp; cheddar &amp; parmesan cheese. It is a favourite brunch served with garlic toasts. Thank you for the easy &amp; quick to make recipe 😃"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "alsweetangel"
+},
+"reviewBody": "I loved it! I used a slightly bigger skillet so I added a few eggs and little extra cayenne for heat!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Champlin Sharp"
+},
+"reviewBody": "It was just OK. I thought it lacked flavor. I always follow instructions to the T when I make it for the first time. Not sure what I would add to bring more flavor but it def needs something. Maybe Italian sausage?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "bethbeynon4"
+},
+"reviewBody": "Delicious way to use up all the bits and bobs of leftover veg and I used ham instead of bacon, because I had some to use up. I also had a couple of oranges getting on and some ‘leftover’ Chardonnay. Saturday brunch at home success."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "naomihabedank"
+},
+"reviewBody": "This was amazing! Sometimes we make this with leftover grilled peppers and roasted diced potatoes. It's always delicious!! The salted zucchini really makes a difference. This recipe lets the taste of the veggies shine. Love it for breakfast, reheats well under the broiler on low"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kath Kramer"
+},
+"reviewBody": "Just delicious! I made this wonderful Chef John’s creation with the last of my zucchinis from my garden! The video really helped me with making it, plus he’s so enjoyable to listen to! Don’t leave out the goat cheese… it is the best taste of all with this frittata. Plus the salting of zuccs was the key! I could’ve of drained them a bit better after rinsing, but no complaints! Still amazing! Thank you Chef John for yet another great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandrastrying"
+},
+"reviewBody": "I made half the recipe in a 9” pan. Worked very well. No goat cheese on half but the person who wanted that half missed out! Squash was very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cynstreet"
+},
+"reviewBody": "This was a hit, even my husband who's not a big veggie fan. So delicious with the creamy goat cheese!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steve Ortmann"
+},
+"reviewBody": "Like most of Chef John's creations, this was very tasty and not too difficult. This recipe does require a fair amount of work though. I was in the kitchen prepping, cooking or cleaning something for over an hour.\n\nI had zucchini and Mexican grey squash, so I did make a minor deviation to the recipe. I did cook the squash longer than called for and it also spent more time under the broiler, so your cooking times may vary as well.\n\nIt was very good and I will make this again. The flavor and consistency were both excellent. If the leftovers hold up well I'll probably use this as a cook ahead breakfast for RV trips."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "George Kaiser"
+},
+"reviewBody": "I made an allrecipes account just to thank Chef John for another banger. I browned two kielbasas in the OO instead of bacon. All the little techniques he shows in the youtube video help get that zucci goaty browned eggy deliciousness. This recipe helped me practice temp control too. Chef John is a legend!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "M.B. Alford"
+},
+"reviewBody": "It was the Best Frittata We've ever made or had. We did cut the Zucchini and Squash amounts in half but left the rest of the recipe the same. I Highly Recommend giving this one a try. We'll definitely be making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "met"
+},
+"reviewBody": "Made this today. Salted and drained the zucchini for 15 minutes each and it was still a soggy mess in the end. It tasted great but definitely turned into a clumped scramble with water everywhere even after trying to cook it longer. Chef John please advise."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rinnie"
+},
+"reviewBody": "I used spray oil before broiling. Looks spectacular"
+}
+]

@@ -1,0 +1,486 @@
+,"name": "Baked Apple Cider Donuts"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "35"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "295 kcal"
+,"carbohydrateContent": "57 g"
+,"cholesterolContent": "32 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "176 mg"
+,"sugarContent": "39 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 cups fresh apple cider",
+"2 cups all-purpose flour",
+"0.75 teaspoon baking powder",
+"0.75 teaspoon baking soda",
+"0.25 teaspoon fine salt",
+"1 teaspoon ground cinnamon",
+"1 pinch ground cardamom",
+"1 pinch freshly grated nutmeg",
+"0.5 cup white sugar",
+"0.5 cup packed brown sugar",
+"0.5 cup warm milk",
+"6 tablespoons unsalted butter, melted, divided",
+"0.75 teaspoon vanilla extract",
+"1 large egg",
+"1 cup white sugar, or as needed",
+"1 tablespoon ground cinnamon, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Butter two 6-cup donut pans."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour apple cider into a saucepan and place over medium heat. Bring to a simmer and let it cook, watching carefully, until the cider is reduced to 1/2 cup. If it reduces too much, add enough water to make 1/2 cup. Set aside until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Add flour, baking powder, baking soda, salt, 1 teaspoon cinnamon, cardamom, and nutmeg to a large bowl. Mix with a whisk until combined and set aside until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk 1/2 cup white sugar, brown sugar, milk, 2 tablespoons melted butter, vanilla extract, and egg together in another bowl until combined. Add the apple cider reduction and the dry ingredients. Whisk together to form a slightly thick batter; do not overmix."
+} ,{
+"@type": "HowToStep"
+,"text": "Spoon or pipe the batter into the prepared donut pans, filling them about 3/4 of the way up."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until the tops are lightly browned, and the donuts spring back slightly to the touch, 10 to 12 minutes. Let cool for 10 minutes in the pans before removing to a sheet pan lined with a silicone baking mat. Cut out any donut holes as necessary."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/QzV21lOvZE92kH15pyNOiAlq56M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8710408-a10e00a2130d4497b76e8ea6042d4f94.jpg"
+}
+]
+,"text": "If desired, while still slightly warm, brush the donuts lightly with remaining melted butter. Mix 1 cup white sugar and 1 tablespoon cinnamon together for topping in a shallow dish; toss in donuts to coat. Let cool completely before serving."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Sable"
+},
+"reviewBody": "I thought it was a great suggestion to boil down the cicer ahead of time which I did. They came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Good recipe that was easy to follow and produced what it was supposed to! I've only made one batch. The donuts were lighter and more \"bread\" like than commercial donuts. As others have mentioned, the flavor was light. Good, but not \"bam, Apple!\" The cider was not especially flavorful, so that may be the issue. I would give these a go if your looking for a treat. Took 2, maybe 3 hours start to finish. That included the wait times for cooling and the amount of time it took to cook down the 2 cups cider to 1/2 cup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I love these donuts because they are not baked and are really light. these will be my go to donut recipe from now on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "selena1000"
+},
+"reviewBody": "This. Came out so delicious. The only thing I did different was to add coconut milk instead of cow milk because I am allergic. I had to add my review because of the lack luster one .. it's the only review. This is probably the best tasting cake I've ever made. Please try it and decide for yourself!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Lancon"
+},
+"reviewBody": "They came out perfectly, but the taste is just okay. I wouldn’t bother to make them again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was yummy. Kids loved it.\nWe love Chef John's recipes and his sense of humor :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Marcia"
+},
+"reviewBody": "Good, but much more like cake than like the cider donuts we get at our local cider mills/farm markets in upstate NY."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jogalong"
+},
+"reviewBody": "They were good BUT took very long to reduce the apple cider to 1/2 cup. Is it supposed to get thick? I was disappointed there wasn't more of an apple cider taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "graceson27"
+},
+"reviewBody": "These were amazing! An really easy to make, although cider takes a while to reduce Really delicious, 10/10"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Lindsey"
+},
+"reviewBody": "I do not have a donut pan so I made them in muffin/cupcake pan. Turned out just awesome. I did the sugar coating at the end and it’s like sugar donuts at the fair. Love it !!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "kphelps36"
+},
+"reviewBody": "Good. Not great. These are sweet, not flavorful. Misses that slightly tart 'bite' from that is what true apple cider donuts are known for. Reduce the sugars down to 1/4 c. granulated white and 1/4 c. brown sugar and these would allow more of the cider &amp; spice flavor through. Makes a good coffee cake with diced apples included. Not for donuts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sean"
+},
+"reviewBody": "I didn’t have apple cider so I used apple cider vinegar. That wasn’t wise. They baked well and everything else was great but the taste. I will try this again! Don’t use vinegar!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Felicia Ro"
+},
+"reviewBody": "This is the best recipe I have stumbled upon. The apple cider reduction added the rich apple flavor missing from previous recipe attempts, as well as the addition of cardamom. They look beautiful, too. I tried to upload a photo, but the web app does not like the size of my photo. They looked very much like chef John's. I did go with the cinnamon sugar topping, which added a nice crunch to the moist, cake crumb."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Addison"
+},
+"reviewBody": "This should get 6 stars!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Bryson"
+},
+"reviewBody": "The batter was slightly too wet when I made this. I will reduce the quantity of milk by a smidge next time so the batter doesn’t run out of my piping bag. Baked them for a little longer than 12 minutes and they came out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gail"
+},
+"reviewBody": "Great recipe. It makes fluffy donuts. The apple cider vinegar does take a long time to reduce. Very yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "gene ann"
+},
+"reviewBody": "The taste is good , but the 15 minute time for preparation is absurd!!! It took closer to two hours with reducing the cider."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patrick Chemali"
+},
+"reviewBody": "Absolutely delicious and light recipe with very little prep time needed. Sure I made it as a muffin because I don't have a donut pan but after all I am the captain of my baking tin"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca"
+},
+"reviewBody": "These turned out very good. As other reviewers have noted - allow a lot of time to reduce 2 cups of apple cider to half a cup. I think it took about an hour to do the reduction - but I did not really time it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce Cordova"
+},
+"reviewBody": "I’ve made this twice now. Excellent flavor and smells amazing. I still have to work on getting just the right amount of batter in each well on my donut pan, though. Tried filling the donut wells just slightly over 3/4 full and they looked great but were a bit dry. Then tried filling them all the way to the rim and they puffed up so much that the sides didn’t look nice but the donuts turned out lighter with a better crumb."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Simone"
+},
+"reviewBody": "Can also be delicious apple cider muffins"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "IUMGRAD2"
+},
+"reviewBody": "I loved these donuts and so did the family. The only thing I would do next time is slightly reduce both sugars."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "DYoung"
+},
+"reviewBody": "These came out really good! I was finally able to use my mini donut pans. I didn't make any changes to the recipe, but I would probably up some of the spices and maybe add a little apple sauce or apple butter to really bring out those flavors."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Baker802"
+},
+"reviewBody": "Great recipe, I've made it twice since I had some fresh VT cider on hand. Give yourself time for it to reduce though! It takes a while to go from 2 cups to 1/2 cup of apple cider reduction. Sooo good though. This recipe is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Glenn Strycker"
+},
+"reviewBody": "Didn’t have a donut pan, so used a 9x9 to make “apple cider donut cake”. REALLY GOOD. Probably needed an extra egg and maybe less sugar overall, but was a nice apple spice coffee cake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tony Vigil"
+},
+"reviewBody": "I made this, but made a couple mistakes...\n\nI forgot the vanilla extract, but I didn’t even miss it in the final product. Great flavors all around!\n\nI didn’t grease my silicone donut trays, and they stuck just a bit. They weren’t the prettiest things, but the texture was perfect otherwise.\n\nNext time, I will grease my donut trays and try a cider glaze instead of a cinnamon/sugar coating."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon Pickell"
+},
+"reviewBody": "I’ve made these before using someone else’s recipe. Also, I switched out the milk and butter w/vegan ingredients. Turned out a little on the chewy side..daughter gave the pans a little tappa tappa and I’m pretty that knocked out the air that was needed there. Still Delicious! Keeping this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "J Leder"
+},
+"reviewBody": "This recipe turned out great. They really do have the texture and taste of a fried donut. I only had one donut pan so I filled muffin tins with the rest of the batter. Those worked out great as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tim"
+},
+"reviewBody": "These are great and easy to make. A or"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "smstang"
+},
+"reviewBody": "I made this in a muffin tin instead because I didn't have a donut tin and they turned out so good! I skipped the butter sugar coating to make them a little more healthy and they basically taste like sweet apple cinnamon muffins. Really yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dr Baker"
+},
+"reviewBody": "They turned out great! To the person who weighed everything - well there is your problem! You need to measure volume. Good luck!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "James Tracy"
+},
+"reviewBody": "I measured all the ingredients with a scale and prepared as directed. Baked in a donut pan for the recommended time. The donuts came out way to sweet, sticky and chewy. The flavor was excellent but the texture was not good. Nothing like a cake donut. I would not make these again unless someone gave a better recipe or explanation as to why mine failed."
+}
+]

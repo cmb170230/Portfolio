@@ -1,0 +1,87 @@
+,"name": "Baked Churro Bites"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "60 kcal"
+,"carbohydrateContent": "7 g"
+,"cholesterolContent": "20 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "65 mg"
+,"sugarContent": "3 g"
+,"fatContent": "3 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+, "recipeCategory": ["Dessert"]
+,"recipeCuisine": ["Spanish"]
+,"recipeIngredient": [
+"1 1/4 cups water",
+"5 tablespoons cold unsalted butter ",
+"2 packed tablespoons brown sugar",
+"1/2 teaspoon fine salt",
+"1 1/4 cups all-purpose flour",
+"1 teaspoon vanilla extract",
+"2 large eggs",
+"2 tablespoons melted butter for brushing on before sugaring. ",
+"For the cinnamon sugar:",
+"1/3 cup white sugar",
+"1 tablespoon cinnamon",
+"1/4 teaspoon salt" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine water, butter, brown sugar, and salt in a saucepan over medium heat and bring to a simmer. Add flour all at once and cook, stirring, until a soft, sticky dough ball forms, and a starchy film coats the bottom of the pan, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Continue cooking for about 1 minute more, scraping the film off the bottom of the pan as you stir. You won’t have a clean bottom surface, but some will be reabsorbed by the dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer to a bowl and let cool for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add in vanilla extract and eggs, 1 at a time, and mix in using a spatula. The mixture will separate at first, but eventually it will smear together into a sticky dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C). Line 2 baking sheets with silpat mats or parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough into a pastry bag fitted with a star tip (I used a number 356 tip). Pipe out 3 to 4 inch ropes onto the prepared baking sheets, spaced a few inches apart. Use the back of a knife to “cut” through dough at the end of each piping, to get a clean end. Since this makes 28 to 30 bite-sized churros, pipe 14 to 15 onto each baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Once piped, spray tops of the churros with vegetable oil spray, and then spray water generously all over the pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until churros are puffed and the edges are browned, 20 to 25 minutes. Turn off the oven, and open the door for about 10 seconds to vent heat. Close the door, leaving it open about 8 to 12 inches, and let churros rest in the oven for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Eo81584MNK6Gv5MoSKk-Fqw1Zs0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7252818BakedChurroBitesChefJohn4x3-efc30956c6fe4df68616877bd5b7c30d.jpg"
+}
+]
+,"text": "Remove from the oven, and working in batches of 6 at a time, brush them lightly with melted butter, and then toss to coat in a bag of cinnamon sugar."
+} ]
+,"recipeYield": ["30"]
+,"totalTime": "PT100M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Do these look good to eat? Yes they are great"
+}
+]

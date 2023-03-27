@@ -1,0 +1,1334 @@
+,"name": "State Fair Lemonade"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "111"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "183 kcal"
+,"carbohydrateContent": "53 g"
+,"fiberContent": "5 g"
+,"proteinContent": "1 g"
+,"sodiumContent": "9 mg"
+,"sugarContent": "42 g"
+,"fatContent": "0 g"
+,"servingSize": "1 1/2 quarts"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"6 lemons",
+"1.25 cups white sugar",
+"5 cups cold water" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Wash lemons and peel off all the zest using a vegetable peeler; set peeled lemons aside. Add lemon zest to a bowl and cover with sugar; toss to combine. Cover and let sit for a minimum of 2 hours, or up to overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring water to a boil in a pot over high heat; turn off heat and pour in lemon-sugar mixture. Stir and let sit until sugar is completely dissolved, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour through a mesh strainer back into the same bowl and discard the zest. Let cool to room temperature, 20 to 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/VsRxCSXiaXuNDXFVLTLb5y1hC30=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8427971-8a7832ba78d54c6398b5a6a116b020c1.jpg"
+}
+]
+,"text": "Cut lemons in half and squeeze juice into the bowl. Pour lemonade into a serving pitcher; cover and chill thoroughly before serving over ice, at least 2 hours."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT285M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made this and it was extremely good and I made it and it was extremely bitter. The difference? The way I zested the lemons. When I use a fine microplane zester it comes out overly bitter even with short 'steep' times with the sugar and zest. When I use a vegtable peeler, even if I don't do a particularly good job of avoiding the pith or going back over the pieces to remove it after and even with a close to 24 hour 'steep' time, it comes out balanced and delicious. My advice therefor it put down the microplane and use a standard vegtable peeler to make your oleo-saccharum and if you do get a bitter note you don't like add a pinch or two of salt to counteract it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Have made this lemonade several times. So good. Tastes just like the lemonade at our county fair. Thank you for your videos, Emmy, really enjoy them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I am addicted to this stuff. Reminds me of lemonade from a fast food joint back home in south Louisiana called \"Corndog 7\". They specialize in State Fair \"delicacies\" year-round. Does anyone know if boiling the water adds anything to the final product? I just combine the ingredients at room temperature then chill and it comes out just fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Best Lemonade 🍋 I've ever had. Made it several times now. I have tried the overnight method once. It was a little more bitter then other batches. The 2-3 hour mark seems to be the sweet spot. Giggity! 🍋"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Fantastic deep lemon flavor. Best lemonade I have ever had, not bitter at all. Need to make it by the gallon though, it does not last. Add a bit of Sprite or 7up for a little kick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Adriene"
+},
+"reviewBody": "Absolutely delicious! Made twice, exactly according to the recipe…wondering if there is a quicker way to peel the lemon rind? Is there in existence a fancy tool similar to the Apple peeler to make life easier? Hmmm… Anyway, when life gives you lemons, do make State Fair Lemonade!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made this as-is and it’s the best lemonade I’ve ever had in my life, hands down. Only change I’d make is doing a bigger batch next time! I might play with different citrus fruits and flavors, but oh goodness this is amazing on its own!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katrina Miller"
+},
+"reviewBody": "best lemonade EVER!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I love this recipe. My husband is a huge fan of lemonade. A week ago we bought fresh squeezed lemonade at a baseball game and my husband was delighted and said it was the best lemonade he had ever drunk. I reviewed the various recipes and decided to use this one. My husband said this lemonade is even better than the one we had at the baseball game. If someone writes that it is too bitter, they either lie or do something wrong. Maybe they used a vegetable peeler that cut off too many of the white parts of the lemon. I have two peelers at home and one is cutting thinly (y-peeler) and the other is cutting more thickly (classic euro)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Amazing! Marinating the zest in the sugar really adds depth to the flavor. Mine wasn't bitter at all. It was more tart than the store bought stuff so maybe that's the issue?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hbvrdmb2rj"
+},
+"reviewBody": "I love the simplicity but attention to the details of infusing the sugar and lemon peels. Are there substitutions for white granulate sugar, e.g, honey, raw turbinado sugar, or Agave"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CV Tech"
+},
+"reviewBody": "i've been making homemade lemonade for years by making a simple Lemon syrup, Im doing yours today and it's much easier ! with very similar results thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I loved it and am making another batch right now. Hot day ahead, hope to have it ready by late afternoon"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Spyderman"
+},
+"reviewBody": "Very good, similar to the way I make lemonade. I quarter lemons and toss them in the juicer peel and all. Juicer squeezes some of the oils from the peel along with the juice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amynicolecantrell"
+},
+"reviewBody": "I had some lemons I needed to use so I decided to make some lemonade. At first I was put off by all the waitinggggggg lol, however, I was down to try it! It is amazing!!!!! Made it just as the recipe states, just left it in the fridge about five hours to completely chill, I highly recommend!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The fragrance of the oleo-saccharum was amazing. I followed the recipe to the letter. Individual tastes vary, however. I found the finished product a little too sweet, and with a bit of \"off taste\" from the intense oil from the peels (I used organic lemons, scrubbed under hot water prior to removing the peels, no pith, let them sit in the sugar for almost 12 hours). I corrected by juicing an additional lemon, adding about a half cup more water, and as another poster suggested, a teaspoon of vanilla. Fantastic!!!! The pitcher was consumed pretty quickly by myself and two friends. Next time (because there WILL BE a next time) I will cut the sugar to 1 cup, let the peels sit for less time, and add a touch of vanilla. A wonderful recipe! Many thanks, Chef John! ❤️🤗"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was a wonderful recipe. I let the peel sit in the sugar mixture for 24 hrs. Then I only boiled 2 cups water poured over mixture, stirred to dissolve sugar and let sit until cooled. Then added remaining 3 cups cold water and squeezed lemon juice, removed peel. Very refreshing drink"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I’ve made it at least 10 times now and it was bitter just the one time when I had to use smaller harder lemons because that is all the store had. If you can get nice lemons it makes the best lemonade ever"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Devine recipe... Added 3 limes even nicer..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diana Zinser"
+},
+"reviewBody": "For those who say it was bitter, perhaps you had too much pith, the white part under the peel, in your mixture. The pith is very bitter. When the lemons are peeled with a vegetable peeler, only the thin outer yellow part of the peel comes off, and not the bitter pith. The peel contains the oils that give this lemonade its deep lemon flavor. This is why some cake and cookie recipes call for a teaspoon or so of grated lemon or orange peel. What I love about this lemonade is the bright, lemony flavor. So very lemony, yet not sour. Almost like drinkable lemon drop candy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie Jade Duggan"
+},
+"reviewBody": "A-MA-ZING. THIS RECIPE IS SO GOOD. if yours turned out bitter then you didn’t wash your lemons well enough, or cut to much of the white when peeling, or didn’t leave the sugar mixture long enough. Because this recipe is simply the best!!! My kiddos love it, my husband loves it. I double the recipe to fit my big container and it’s worth it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I started this last night and finished it this morning. Wow what a difference just doing the peel and sugar thing. Made such a wonderful lemon flavor to the drink. If you have never done this method I would highly recommend it. Thanks so much for all of your videos, I just love them and this is just another added to my creations! LOL :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "safanatsu"
+},
+"reviewBody": "It is very tasty and now I am preparing it again, and the last time I added two tablespoons of blossom water to it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Absolutely THE BEST way to make lemonade I will never go back to just squeezing the lemons the lemon oil from the peel/zest adds a depth of flavor that is unmatched"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "light487"
+},
+"reviewBody": "Made a single batch, drank it all up in the first day. I am now waiting on my second batch to cool before adding the juice. This time I've done a triple batch with 18 lemons and 15 cups of water. I used my centrifugal juicer to handle the lemons this time, but strained the extra pulp out. The juicer produces a lot more juice and it's cloudier because it's extracting a lot more. Will be interesting to see how this turns out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sundardevsaha"
+},
+"reviewBody": "I've made this recipe a dozen times or more. Follow the directions and you'll have the best lemonade ever! I let my zest sit in sugar for about 12 hours. D-lich-ous!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nmtatum3"
+},
+"reviewBody": "I changed it up a little and made Limeade instead. What a refreshing change. Will definitely be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Adi Mikulic"
+},
+"reviewBody": "I make this once a week at least, my lemon budget is through the roof!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MidnaKoopa"
+},
+"reviewBody": "I'd only ever had lemonade with just the juice, sugar, and water, and was never too huge on it. The oleo saccharum really does make all the difference. I had a few limes, so I used their peels in this, too, and it came out great. So much flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Matthew"
+},
+"reviewBody": "Made this recipe several times this summer and LOVE it…. I do reduce the sugar (slightly) but I like my lemonade tart!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SBR"
+},
+"reviewBody": "Very good lemonade. I’m not one to usually review a recipe after changing it but I really didnt see the need to use cold water to boil. I just used tap water to boil."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Henry"
+},
+"reviewBody": "It had the tartness and sweetness of true lemonade."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "anony"
+},
+"reviewBody": "This is GREAT. It takes way longer than the estimated 15 minutes to prepare, but I think it’s worth it. \nThe recipe contains too much sugar for only six lemons. I added water after it was finished. This time I doubled the recipe, used 14 smallish lemons and 2 1/4 C sugar.\n\nThe oleosacrum somehow imparts almost a floral flavor that reminded me a little bit of rosewater. My only issue is that it’s not tart enough, but I think I might try to mix in a little citric acid next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "deuxbebes"
+},
+"reviewBody": "This was so, so good! I will cut back on the sugar a bit and the addition of 1/2 teaspoon of vanilla was a perfect addition to the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pascal Plourde"
+},
+"reviewBody": "It is now a classic in my house we do it all the time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammie Marsh Wade"
+},
+"reviewBody": "I made this and followed the recipe exactly. It was wonderful and worth the extra time!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "VICTORIA"
+},
+"reviewBody": "Okay so when making this don't be worried that it won't be sweet enough before adding in the lemons. The flavor came out great. I just finished making it. I think leaving the lemon sugar over night would be better or for a longer time than 2 hours. When you do leave it out on the counter. I think I can still use the lemon in peel for another recipe. \nAlso check in the comments for what to do if it taste bitter. And for remixes of this recipe. He also has a video on YouTube for it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Corey Bendel"
+},
+"reviewBody": "The first time I followed the recipe, the lemonade had a strong bitter taste that was fine once you got used to it (what I'm assuming the low ratings are referring to). If you want to avoid that taste, add an extra quarter cup of sugar to the recipe and scoop the peels out with a slotted spoon quickly after you add the the sugar and lemon peel mixture to the boiling water. The lemonade will be sweeter with a lot less of a bitter taste. Enjoy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Zoe"
+},
+"reviewBody": "Excellent. A pinch of salt goes a long way as well!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Viktor the Viktorious"
+},
+"reviewBody": "Absolutely fantastic! The lemon flavor was out of the world. Thanks for the great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ed Jones"
+},
+"reviewBody": "This is, by far, the best lemonade I have ever had. I thought Penn Station had the best, then I made this. Chef John's is astronomically better! The mix of sweet and bitter is absolutely amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "wolfeyy"
+},
+"reviewBody": "Very good lemonade. Try tasting your zest before combining it with the sugar so that you can make sure there is no bitterness. Some of my lemons had bitter zest so I used a different lemon"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bucketmun"
+},
+"reviewBody": "Excellent lemonade! The whole family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily"
+},
+"reviewBody": "It’s a win! I only used 3 lemons (1/2 the recipe). I added about 1/4 cup of sugar instead of the about it called for. With the leftover lemon peel, sprinkle some sugar over it, and eat them! Lemon peel candy!! Might even be easier than normal lemonade!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kara Scoggin"
+},
+"reviewBody": "This is the best lemonade I've ever had. My husband agrees. Made no substitutions. You have to make this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "potato"
+},
+"reviewBody": "Ingredients for other serving abit different"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terri Aaseth"
+},
+"reviewBody": "This is a fantastic recipe. I have made it twice. The first time used Meyer Lemons and only one cup of sugar. It was a little to sweet for my liking. Second time I use 8 regular lemons and one cup of sugar resulting in the perfect balance of sweet and sour"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "emperorofworms"
+},
+"reviewBody": "I don't like lemonade. So tried to see if there was a way to make it that I did like. Chef John has never done me wrong. \nTHIS recipe is GOD!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dan Muggeo"
+},
+"reviewBody": "Amazing recipe. Super easy and easily the best lemonade I've ever had. I doubled the lemons used while keeping the sugar the same to make it tart and tangy. Sooo good. Thanks Chef John you're amazing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erik Harvey"
+},
+"reviewBody": "I really love this recipe! It tastes great and works well with both lemons and limes. You get some of the bitterness of the peel, which I like, but if you don't just add a bit more sugar and it will balance out the bitterness well. The flavor is much more complex than a typical lemonade or limeade, which is great! Definitely should be drank with ice. I will drinking this on a regular basis now, as I recently had a kidney stone."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alexis Robinson"
+},
+"reviewBody": "The first time I made this recipe, it was very bitter, but I made it a second time and figured out what went wrong. I added too much lemon juice! The oleo-saccharum tastes like liquid hard candy when you strain out the peels. It's light, sweet, and citrusy. The second time I tried this recipe, I squeezed all my lemons and added the juice in a quarter cup at a time. I think I had about two lemons' worth of juice left before I struck that right balance between sweet and tart. So my advice for anyone who had bad results is to limit the amount of juice you use and to taste it a little bit at a time before you put it in the fridge to chill. Also, don't worry too much if your zest has pith (white stuff) on the under side. The fresh-squeezed lemon juice is really what has the potential to make your lemonade tart. Next time I make it, I'll add a bit of mint or maybe Chef John's strawberry syrup..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Quiqui Dagle"
+},
+"reviewBody": "This is amazing! Everyone loved it and I plan on making it for just about all special occasions. My daughter called it “liquid candy” Worth the time and effort."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KAWAIIKAMI"
+},
+"reviewBody": "I didn’t care how long it took or anything. I followed it exactly maybe added an extra lemon or two due to the small size I had...this okay I shared a glass with my sister. Then I drank the rest all by myself. In a few days. Poof! Gone! Loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stahrchyld"
+},
+"reviewBody": "I made this with Meyer lemons as that's what I had on hands. I used natural unrefined sugar which have granules &amp; let it set for 12 hours. It turned out fabulously. I even snacked on the leftover rinds as they were very sweet. Will definitely make this for future party's."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Garth Adkins"
+},
+"reviewBody": "Best lemonade I have had. working on a strawberry lemonade version"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Serene80"
+},
+"reviewBody": "Amazing recipe. I add a little bit more water, depending on how strong it comes out. Even better when mixed 2/1 with peach schnapps..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Bell"
+},
+"reviewBody": "I made this recipe for family multiple times and each time it's a huge hit. Well worth trying."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Randi Fleming"
+},
+"reviewBody": "Food Wishes is the Cook's Bible in our house! Chef John's lemonade is so fantastic, literally just like the fair's back in Indiana! also don't over soak the peels, which I've done before on accident, and it came out bitter! start over if you soak them longer than 10 hours or so."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nancho Party"
+},
+"reviewBody": "I used Meyer Lemons because my grocery store had them and I've never seen them in person before. I also used a knife to peel the lemons, which was a terrible mistake. Both choices were terrible. The lemonade was nice and floral, but it was also bitter because I left in too much of the white pith, or maybe because meyer lemon oil is just bitter.\n\nPlease just use regular lemons. Don't be extra like me. Regular lemons have a thicker peel and don't taste like perfume."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PiliPili"
+},
+"reviewBody": "Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Frank Strait"
+},
+"reviewBody": "This is outstanding lemonade. I’ve made it twice now. The second time I used a bit less sugar and an extra lemon ... that’s just me cookin’. Try it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Beverly Nelson"
+},
+"reviewBody": "I love it so much I want to marry it! Whoever said it was bitter must have used the pith. It is smooth and sweet and the absolute best! Next I am hitting it with a shot of tequila."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Penny Barry"
+},
+"reviewBody": "Just made this. Hasn't had time to get cold but I had to try it. We follow Chef John on youtube. Followed the recipe exactly and it is the best lemonade. Poured some of it in a small ice cube tray as not to water it down. Great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pete Rankin"
+},
+"reviewBody": "As described. Best lemonade ever. Family agreed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mr B"
+},
+"reviewBody": "I have have made this with both lemons, and again with some huge Valencia oranges I had. Both were delicious and refreshing. No bitterness either time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lauren Aino"
+},
+"reviewBody": "Delicious! Perfect balance of sweet and sour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KevinJ"
+},
+"reviewBody": "Perfect, thank you chef for sharing this secret. I just zest the lemon rather than cutting big strips, and that way for sure there's no pith. Likely either pith or cooking time must be causing bitterness... ours had none. Vanilla is a nice addition, although try it first in one glass to see how you like it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mybestrecipes"
+},
+"reviewBody": "This was indeed the best lemonade that I've ever had. That oleo saccharum in tandem with the fresh fruit flavor really makes for a heck of a summer beverage.\n\nI've since made a double batch, which was also amazing, and tried it with limes as well. You just can't go wrong with this recipe.\n\nProtip: be careful to not get much of the pith into the bowl when skinning the fruit. If you do and find the results to be bitter, let it sit in the fridge for a day or two; this will mellow out these notes significantly.\n\nFinally, Chef John, you've inspired a recipe of my own. I call it Italian Lemonade."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeff Scott"
+},
+"reviewBody": "This was awesome. Unlike other citrus, lemon peels are generally NOT bitter at all. Amazing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lauren Bellar"
+},
+"reviewBody": "This was soooo good!! I might add a tiny bit more sugar, but that's my preference. It is so fresh and makes me miss summer festivals. I've bragged about it to my family and can't wait to share some with them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alymew"
+},
+"reviewBody": "I just finished making it today. It's so good! I reduced the sugar by a little. \n\nThere are some people who say it's too sour or bitter. Just make sure you follow the directions. I think people mess up where they don't let the oleo saccharum (lemon peels &amp; sugar mixture) marinate for 12 hours. \n\nThey also might mess up when they toss oleo saccharum into the boiling water. You should turn off the heat when the water boils. Then toss the peel sugar mixture. Quickly stir and strain immediately. \n\nGood luck on making this refreshing lemonade! :D"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Mulhall"
+},
+"reviewBody": "My husband and I agree this is the best lemonade we have ever had! I used Meyer lemons the first time and it was spectacular. I am making a second batch right now with regular lemons to taste the difference. This is a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LT2010"
+},
+"reviewBody": "The BEST lemonade ever! The only problem is that my family wants it all the time now. Not bitter at all - it's delish! Chef John is the bomb!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Durwood Fisher"
+},
+"reviewBody": "Amazing! My dad used to go to area restaurants in North Carolina and make his own recipe their customers. Unfortunately, the recipe was lost due to dementia. Since I've never had any lemonade that tasted as good, I chalked it up to me young at the time, and glorifying my dad's recipe.\n\nWhen I tasted this recipe, I realized I was wrong. This is it! The taste that had eluded me for decades is found in this method. \n\nSo much flavor! Just make sure not to get too much of the white part with the peel, as this is where the bitterness comes in.\n\nI've made two batches thus far, and the taste is consistent. I doubled the last batch to share with family and friends.....same taste.\n\nLove it, and thank you Chef John for this small taste of home. I'm a fan!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brian Davis"
+},
+"reviewBody": "I cut back the water to 1.25 cups to make a lemon simple syrup. This went into my ice cream maker to make a very yummy and tart sorbet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doug Cook"
+},
+"reviewBody": "Another winner by Chef John. I did the recipe exactly as he showed in the video. There was no bitterness, just an intense lemony flavor that I loved. I was worried it would be too sweet, but it ended up perfect for my taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ruven Pinkhasov"
+},
+"reviewBody": "Came out great! but it is extremely sweet. \nI would recommend taking the lemon peels and putting them on a paper towel to dry after the straining for some extra snacks. \nFor people saying it's too bitter, you need to use quality lemons. If you use bad lemons, they'll have bad peels and you will have bitter lemonade."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom Scott"
+},
+"reviewBody": "Absolutely wonderful, it tasted almost how my momma made it growing up on the farm, but it was just a touch off, so I called her and on her advice added a one teaspoon of vanilla extract and BOOM! that was the trick, I also made a gallon sizebatvh too so if you make the original you may only want a half teaspoon. will definitely be making this again, my wife and kids love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lawrence Zeno"
+},
+"reviewBody": "Perfect its great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RP Nelson"
+},
+"reviewBody": "It is delicious &amp; so easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "MrsU"
+},
+"reviewBody": "I must've done something wrong. The lemon oil taste is so strong, it tastes the way furniture polish smells. I soaked the lemon skin in the sugar for 3 hours."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tina"
+},
+"reviewBody": "Where I live non-carbonated lemonade is not a thing. So this was a first. And it was a delicious one although I cut back the sugar by half and used a little less lemon juice. The lemon oil sugar is perfect and was not bitter at all. I used untreated and unwaxed lemons and gave them a good scrub before peeling. \n\nI will make another version with less water and dilute it with sparkling water to make what I know as lemonade. I also think this would be great mixer with beer for hot summer nights. \n\nI think this will great with limes or oranges too!\n\nEdit: I made it with limes three times now and I prefer it to the lemon version. I put the hot water on top the sugar-zest-mixture and let it cool like that. It becomes a little more bitter and the end product taste a little like a bitter lemon. I use 8 untreated limes (gives about 150ml of juice), 100g of sugar and add enough hot water to get to 1 liter of lime-onade. To serve it I use 1 part lime-onade and 4 parts sparkling water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Bingham"
+},
+"reviewBody": "Mine was not bitter at all in the slightest. It was sour (which I love) and just the perfect amount of sweetness. My bag of lemons had 8 lemons so I used all of them. I only let the sugar and peel mixture sit for about an hour and a half because I was afraid of the reviews saying theirs were too bitter. I added about 7 cups of water since I had 2 more lemons than the recipe called for. The lemon flavor is so strong and delicious. I want to make HUGE batches just to sip on and I think I'll even try to make diet lemonade using Stevia! Thank you Chef John! I look forward to your next Youtube video."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "roenationdotcom"
+},
+"reviewBody": "I made this exactly as written and shown.\nMy kids were amazed!\nAs soon as it was gone they wanted more, so I made it again, by far the best recipe on the planet. \nI made myself a Mason Jar full of Limoncello using the oliosachrine part of the recipe and vodka. \nAlso amazing. \nChef John is the BEST!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sam Spade"
+},
+"reviewBody": "Excellent recipe! For those who are claiming its too sour, its not the recipe, you messed up. This recipe took me a whole day to make(i left the peel in sugar for a full 12 hours) but it was definitely worth it. My grandma who dislikes Lemonade actually enjoyed it. I will say that in my opinion it may actually be a bit too sweet so next time im going to cut out 1/4 cup of the sugar. I also think this recipe would be perfect to experiment with adding bitters for a little extra complexity."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Koehler"
+},
+"reviewBody": "Best lemonade ever. I even tried it with various citrus fruits (lemons, oranges, grapefruits) and it was so complex and delicious. The mouth feel is even noticeably better. Make this now."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jim"
+},
+"reviewBody": "Made it with my daughter. We Let it soak in sugar for 6 hrs. The whole family loved it, kids to Grandparents."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark MacRae"
+},
+"reviewBody": "Love this. Lots of delicious lemon flavour. I reduced the sugar to 1c and used cane sugar instead of refined white. It mixes extremely well with 1 part gin to 2 parts lemonade with ice :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Thorn"
+},
+"reviewBody": "Most OP lemonade I've ever had, literally made this account just to give five stars"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Paprika114"
+},
+"reviewBody": "Normally I LOVE Chef John's recipes and had high hopes for this one. However, after following the directions exactly (peeling off 6 lemon rinds (no white!) and soaking the peels in sugar overnight) we found the lemonade to be very bitter. Tried adding some raspberry syrup, which gave it a nice flavor, however the bitterness was still there. I'll just go back to my regular lemonade recipe thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Tavros Nitram"
+},
+"reviewBody": "I made this, I peeled the lemon as best I could, with very very little white parts. I left the peel-sugar mixture for around 4 hours. The taste was superb; however, there was just a bitter aftertaste which I do not enjoy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SD B"
+},
+"reviewBody": "Great stuff! Love Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cahya Bethari CitraLaxmi"
+},
+"reviewBody": "I made it using half of the ingredients. It tastes so good and has an amazing smell!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NarwhalBoop"
+},
+"reviewBody": "This was amazing! Best lemonade I've ever had. Though for me it was a little syrupy but I just diluted with a little extra water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jan Elle"
+},
+"reviewBody": "Perfect!! Not too sour and not too sweet with an added hint of that amazing lemon oil for a more complex flavor. I only wish I had doubled the recipe from the start."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy in Pensacola"
+},
+"reviewBody": "Well, Chef John, you did it again. The hardest part of this recipe is \"peeling\" the lemons. Ohh, and waiting all that time to make it and then let it cool. But the end result made it quite worthwhile. Thanks for this recipe. I'll make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hiroko "
+},
+"reviewBody": "Great recipe. I had smaller lemons so I used 3 extra, and also used 6 c water instead of 5. Came out perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "June Sisson"
+},
+"reviewBody": "Chef John is great....His lemonade is the best I have made!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dorian"
+},
+"reviewBody": "Awesome!"
+}
+]

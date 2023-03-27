@@ -1,0 +1,1340 @@
+,"name": "The Best Baked Rice and Beans"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "177"
+}
+,"cookTime": "PT70M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "422 kcal"
+,"carbohydrateContent": "76 g"
+,"cholesterolContent": "2 mg"
+,"fiberContent": "8 g"
+,"proteinContent": "12 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "1344 mg"
+,"sugarContent": "2 g"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"3 cups basmati rice",
+"1 tablespoon chili powder",
+"2 teaspoons kosher salt, or to taste",
+"2 teaspoons ground cumin",
+"1 teaspoon freshly ground black pepper",
+"0.25 teaspoon cayenne pepper",
+"0.25 teaspoon dried oregano",
+"0.25 cup olive oil",
+"2 (15 ounce) cans kidney beans, rinsed and drained",
+"1 (16 ounce) jar tomato salsa",
+"2 cups chicken broth" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour rice into a casserole dish; season with chili powder, salt, cumin, black pepper, cayenne pepper, and oregano. Pour in olive oil and stir until rice is thoroughly coated. Add beans, salsa, and broth; stir until evenly combined. Cover very tightly with heavy-duty aluminum foil."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/N_mk58CyTcSHvpXdvbj0QLbpMCE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7831733-d226c8a92c024801a335c0ac1acf784d.jpg"
+}
+]
+,"text": "Bake in the preheated oven until rice is tender, about 1 hour and 10 minutes. Remove the foil; taste and adjust seasoning if necessary. Fluff with a fork and serve hot."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I joined this community just to rate this recipe. Make it, AS IS, it's a winner. THEN, switch things up to your taste. GREAT recipe, thanks for sharing, will make it again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Keight"
+},
+"reviewBody": "I took 1 hour and 40 minutes to cook the rice and I had to twice add a lot more chicken broth. Messed up the timing with my main course."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MegP"
+},
+"reviewBody": "I have made this many times and it's another great recipe from Chef John. This is something that comes together quickly from pantry staples and in these times of food inflation, is an inexpensive, nutritious dish. For me, the spice level is perfect. The only changes I make is to halve to recipe, add a can of corn and a sprinkling of dried onion flakes. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Nichelle Perera"
+},
+"reviewBody": "As written, it came out way too dry. The next day when fluffed up with water it was delicious. This was very easy to make, but next time I'll do 1.5 cups rice to 2.5 cups broth. I added 13.5 oz chorizo too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jroque"
+},
+"reviewBody": "I never leave reviews but this one is worth it! Came out perfect and flavorful! Good job chef John"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alison Tem"
+},
+"reviewBody": "Easy recipe! Very tasty. Next time I put try in the Instant Pot."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nikibonz"
+},
+"reviewBody": "As always - on point! The only modification I made was adding a jar of Spanish green olives with the red pimento along with the rest of the ingredients. Don't hesitate - you're welcome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Holiday"
+},
+"reviewBody": "This is the best Spanish Rice I have ever made. And I have made a lot of versions. I love it with beans, but I may try without as well. I feel like the base rice and seasonings/oil could be a base for a lot of variations. Thank you Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roxy Mom"
+},
+"reviewBody": "I halved the recipe and changed the portion of rice to liquid because of the other reviews - 1 1/2 cups rice and 2 cups broth and also halved the beans and salsa otherwise kept the spices whole. It made for a very spicy delicious rice and it cooked perfectly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "F. Glenn"
+},
+"reviewBody": "I made a half batch of this, and I'm sorry I did. Nothing but whole pans of this from now on! This stuff is amazing - good flavor and just enough heat so it doesn't overwhelm. It comes together really easily as well. Another hit from Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry"
+},
+"reviewBody": "This was a spicy rice side dish. Served with chicken enchiladas. Delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "seipmoney"
+},
+"reviewBody": "This was really good and pretty simple to make. Tough to serve up as a main dish, but still really delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Kris Hodges"
+},
+"reviewBody": "This is one of the first recipes by Chef John that wasn't spectacular. It was dry, not enough liquid for the amount of rice, and rather tasteless. I like the concept for a side dish though and will try to adjust the liquid and spices to suit my taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joe Neihouse"
+},
+"reviewBody": "Delicious and easy! The unadjusted serving size of 8 was huge! It makes a ton!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marilyn Hunter"
+},
+"reviewBody": "Wow! When I read this I truly thought \"well it is simple and I don't feel like cooking, so I will give it a try\". This was excellent. I did not change a thing except I cut the recipe in half as there is only the two of us. I do think that using the kidney beans is a must as I think any other bean would not taste as \"meaty\" as the red kidney bean. I also feel the cilantro and yogurt is needed to make this so Mexican like. Thank you again, Chef John....it is now on my list to make often."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Linda G."
+},
+"reviewBody": "This has lots of spice and heat flavor, but lacks in moisture. I followed directions exactly and baked as directed and it was very dry/ lacking moisture and, in that respect, made it less than appetizing. I will not make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mizliz1122"
+},
+"reviewBody": "This a great meatless meal. I halved this since I am cooking for 2 people. And it still turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela"
+},
+"reviewBody": "I have made this 3 times. My husband and I both love it. Great side dish for a Mexican meal. When I make this I make half of the recipe. I use black beans due to preference. It only takes 38m in the oven at 350."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bctabby"
+},
+"reviewBody": "This is soooooo good! I did not expect to like this because normally rice and beans are flavorless but this is excellent! My husband and 16 year old daughter loved it too! I have made this twice in the past 3 weeks and will continue to make it regularly. I used whole grain brown rice instead because we only eat whole grain so I had to cook it for 2 1/2 - 2 hrs. 45 minutes. I will add a little more broth next time. I used mild salsa the first time and it was perfect. The 2nd time I used medium salsa but we all liked it better with the mild. I also skipped the cayenne so it wasn't too spicy for my daughter. I cooked it in a ceramic dutch oven with a lid."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KLEONARD"
+},
+"reviewBody": "Wow this was delicious and so easy to make! I have long been searching for a way to prepare rice and beans. I made this exactly as written but just left out the oregano and cayenne due to personal preference. Total crowd pleaser and so versatile as main dish or side dish for taco Tuesday or as a side with chicken or steak. Thank you Chef John!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jim Chaffee"
+},
+"reviewBody": "Good recipe \n I enjoy his recipes greatly"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nytro"
+},
+"reviewBody": "This was an excellent and easy recipe. The oven does all the work!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue Wright"
+},
+"reviewBody": "John, you hit it out of the park! As one who has never had rice and beans nor ever even wanted it, I thought it might go well with left-over albondigas turkey meatballs. Wow! did it ever! My taste buds were tingling! I halved it (heaping cup rice), used Rotel instead of salsa, added 1/8 C onion flakes, some garlic powder, and 2 giant tblspns of Hatch green chiles, and otherwise no changes. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KitSoCal"
+},
+"reviewBody": "I've made this about 4x now, and have tried it with red, black, and pinto beans (all are great). I doubled the oregano and cumin (because I love both spices). I tossed in a 1/4 cup of dried onions during the dried spice step. Also added 1/4 cup diced garlic that I pre-cooked on the stovetop with the butter and a splash of red wine vinegar, and added that at the \"toss with oil\" stage. Also added 2 cups of corn. To serve: shredded Monterey jack &amp; cheddar, sliced avocadoes, sour cream, green onions, and fresh cilantro."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "smiley756"
+},
+"reviewBody": "I followed the recipe exactly (but halved) and the entire bottom of the pan was burnt, and the beans turned to mush. I wont be making this again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MindyB"
+},
+"reviewBody": "I baked in my cast iron Dutch oven. It was so easy to prepare and hands off. I checked on it after 1 hour- the rice was still chewy and the liquid was gone so I added another cup or so. When I pulled it out about 15 minutes later it was prefect. \nAnd this recipe makes a lot... Like take to a get together lot or have plenty of leftovers lot."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "revinsmom"
+},
+"reviewBody": "Super flavourful. Super easy. One of hubby’s favourite dishes of all time. I don’t even make any alterations (other than using veggie broth and mixing up the beans occasionally) to original recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Powell"
+},
+"reviewBody": "I’ve made this recipe several times now in different small variations. My favorite variation so far is using better than bullion (if you make it per the directions, the hot stock helps cook the rice better) but double the amount. I do 1/2 chili powder &amp; 1/2 smoked paprika. I’ve often added smoked sausage to the recipe. With or w/o the sausage, this is a crowd pleaser."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dano"
+},
+"reviewBody": "Result is a bit dry and lacks flavor, but its a good base to use up some leftover items. I added chopped onion and diced jalapeño pork sausage after the initial baking and it really makes this dish more flavorful and hearty, as well as adding some moisture. Next time I'll use the whole 24oz jar of salsa and add the onions and sausage to the dish before baking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Erica Mirta"
+},
+"reviewBody": "Delicious. I used brown long grain rice and veggie stocks pulled it out at 1 hr 10 minutes and the rice was still too firm so I baked it another 20 minutes and it came out PERFECT! Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachael"
+},
+"reviewBody": "We discovered this during the first part of quarantine and make it all the time. We’ve substituted different beans - black, chickpea, black/kidney mix, etc. and it’s always good. Tried brown rice and it works okay but you need to add extra liquid/cook it for longer. We’ve also made an Indian inspired version using chickpeas and replacing the chili powder with garam masala and curry and adding golden raisins."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Jewel"
+},
+"reviewBody": "Oh boy - note that most rice recipes on the back of the package have a ratio of 1 cup of rice to 1.5 cups of liquid. This recipe has calls for more rice than broth, and even with the salsa and oil falls short of what is needed to provide enough moisture for the rice. Adjust rice/liquid ratio to the back of the rice package guide for better results. Beans were fine. Seasoning may be OK if enough liquid is used."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Orndorff"
+},
+"reviewBody": "I've made this a few times during quarantine with what I had on hand. Basmati rice is definitely the best but standard rice works fine as well. Makes a great side dish but also can become a simple meal with the addition of some sour cream and cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl Mason"
+},
+"reviewBody": "Loved this dish, easy to make, I used rotel can of diced tomatoes, instead of salsa........"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janis Godwin Spear"
+},
+"reviewBody": "An easy recipe using staples that is really simple and delicious. We put crispy bacon bits on it for a full meal instead of sour cream and cheese and it was such a hit is has become part of our rotation. Winner winner, rice and beans dinner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Diane Shelaga"
+},
+"reviewBody": "Good recipe to go meatless with and it has great flavor. We used canned lentils, canned chickpeas and diced tomato instead of black beans and salsa. I will try the recipe again and maybe try adding frozen shrimp."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leanne Meeter"
+},
+"reviewBody": "So so so good! Sour cream &amp; grated gouda cheese on top! YUM!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Randalyn Kiltz"
+},
+"reviewBody": "Halved the recipe as it's just my husband and I. Love how quick and easy it is with pantry ingredients. I was a bit worried after reading reviews but following the recipe exactly, even with regular foil, it was perfect at the end of the recommended cooking time. Will be making this again. Thanks Chef John for another winner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Lynn Reddan Owen"
+},
+"reviewBody": "I halved the recipe, making it for only 2. I put it in a 1 and 1/2 qt pyrex dish covered tightly with foil. I checked it almost 1 hr in. Rice was not near done and appeared dry. Added more chicken broth and salsa. 1 hr, 30 min in the rice still had a little crunch. Took it out of the pyrex and spread it out more into a 13x9 and added yet more liquid. After more than 2 hrs the rice was still not completely done and the dish was dry. Im not sure what else I could have done. It had good flavor, though. I may try making this again using different rice and less of it. I used the exact ingredients but half of all to start. Im open to suggestions as to what went wrong. I'm a pretty decent cook normally."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gina1313"
+},
+"reviewBody": "We have made this dish about 10x since Chef John posted his video. It is absolutely a staple for us now and it never gets old! Since there are two of us, we can get 3 meals out of this one. The first night we have it as-is, the 2nd night we have it in tortillas, and the 3rd night we eat it like dip, with tortilla chips, sour cream, and guacamole. I've made this dish with short grain rice (calrose) and I don't have to adjust the liquids or cooking time. It comes out perfect! I've also made it with homemade beans instead of canned (black and pinto) and it's wonderful. The only consistent substitution we make is to use a can of Rotel for the salsa, which gives it even more heat. I just dump the Rotel in a 2 cup measuring cup and fill it with a little extra water until it hits the 16 ounce line, since this recipe calls for 16 ounces of salsa. It's perfect every single time. I can't recommend this one enough-- the flavors are better then any other beans &amp; rice dish I've tried, and baking the beans and rice give the dish a superior texture vs. stove top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "plumeria"
+},
+"reviewBody": "After reading the reviews I decided to cut the ingredients in half, except for the chicken broth. I skipped the cayenne pepper and used only a teaspoon of chili powder because I can’t take that much heat. I checked it after about 45 minutes, and most of the rice was cooked and plump, except for a layer lying under the beans and salsa in the center of the dish. I gave it another 15 or 20 minutes and the rice in the center was done. Like one other reviewer said, the finished product seemed like too much rice in proportion to the beans and salsa. I may use only a cup of rice if I make it again. I have enough ingredients since I bought enough to make the whole recipe. Spices were good. I hoped it wouldn’t be too salty, since I used 2 teaspoons of Better Than Bouillon to make the 2 cups of broth. Nope, not too salty. I’m glad I cut the recipe in half this first time making it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lucy"
+},
+"reviewBody": "At first when done cooking, the rice was hard. Jag to take half our and cook separately half hour longer and was very good the n"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark"
+},
+"reviewBody": "Also excellent chilled/room temperature with some oil, vinegar and hot sauce!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ángela María Tormos-González"
+},
+"reviewBody": "I’ve made this a few times with Japanese rice, different beans and spices, and every time comes out great. It’s an excellent recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pamela Scott"
+},
+"reviewBody": "Family loved it- I had to add an additional cup of chicken broth and cook it another 20 minutes. (So am not sure how people got it to cook through using the recipe as written.) I thought it was spicy, my husband thought it wasn't spicy enough LOL. Next time I will reduce the cayenne by 1/2 and just let my husband add hot sauce - which he did anyway."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "spatula woman"
+},
+"reviewBody": "Make sure to carefully coat each grain of rice and cover it tightly with heavy duty aluminum foil."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "curry77505"
+},
+"reviewBody": "Yummmmmm! This is a keeper. Followed others’ suggestions and used two cups of brown rice. I love so planned to use black beans but the store was out so grabbed three cans of tri-beans (a mix of pinto, kidney and black beans). Cooked up very nicely in my Instapot. Topped with a bit of cheese and extra salsa. Hubby loved it as well but asked me to up the beans so will add four cans next time ... and there WILL be a next time. Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nonni"
+},
+"reviewBody": "This was delish! I made half a recipe using brown rice. I were an extra 1/2 c of broth as whole grains need a little more liquid. This is yummy on it's own, but I put some homemade veggie chilli on top! Wow! Froze in small portions. Thanks for the tasty, easy peasy, recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Gilker"
+},
+"reviewBody": "This recipe was a great start. I used brown rice and au jus from a pork butt that I had cooked and skimmed the fat off. Gave it a great flavor. I will definitely make it again, and will use the chicken broth if I don’t have au jus in the fridge to use up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Garcia"
+},
+"reviewBody": "This meal has a little kick to it but even my picky 12 yr old like it. We added sour cream and cheese to it just to add a topping but it was very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "cdbtex52"
+},
+"reviewBody": "Way too much rice for the amount of liquid. I reduced the rice to 2 cups, and still had to add water several times during baking. I am a huge fan of Chef John, but this was a disappointment. In addition to the rice issue, the taste was pretty bland by his standards."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mike in DC"
+},
+"reviewBody": "This was a tasty dish, but a bit too dry for my taste. Next time I will add 1/4 to 1/2 cup more of chicken stock. I liked the basmati rice over typical rice. Adding oil and tossing it with the rice to evenly coat each grain before cooking really kept the rice nice and light and separated, not clumpy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JFHVT"
+},
+"reviewBody": "Absolutely delicious! I halved the recipe since it was only my husband and I . I used black beans instead of kidney beans and regular Carolina long grain white rice. The seasonings were perfect. No cheese needed. Did put a dollop of sour cream on them and could use corn and tortilla chips but definitely delicious just as it's written!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "celestial_tsarina"
+},
+"reviewBody": "I only had short-grain rice and decided to try this recipe in a rice cooker (it’s a decent . After adding the the salsa, I added chicken stock until the liquid was just a touch under the line I would usually fill to for short-grain rice and then mixed in the beans. Worked perfectly!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "acckac"
+},
+"reviewBody": "I made this recipe exactly except I used black beans because that’s all I had. It was delicious! A big hit with everyone. Will make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Court"
+},
+"reviewBody": "This is a great side dish for Jay's Jerk Chicken. The recipe as written makes about 12 servings in a 9x13 dish. I cut everything in half, except I add a full can of chicken broth. Otherwise it's a bit dry. Love this recipe though. It is a quick and easy side dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John T"
+},
+"reviewBody": "Thank you Chef John, my family are very picky eaters and they dislike meatless Monday's how ever this recipe truly lived up to the Best meatless Monday entree as evidenced by the multiple helpings by all members of the family including my wife!\nI did use one can of Kidney beans plus one can of black beans.The cayenne pepper provides the perfect amount of heat. The only other comment like many of the other reviewers this must have a tight Aluminum foil around the edge and even then I would add an extra 1/4 cup of water. This recipe was printed out and put in my binder of ten out of ten go to recipes that are fast ,easy, healthy and inexpensive to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry in columbus"
+},
+"reviewBody": "We loved it. \nHusband couldn’t handle the HOTness.\nNext time only 1 teaspoon chili powder.\nNO cayenne."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Autumneyes"
+},
+"reviewBody": "I loved the flavor of the rice. It ended up a bit dry, so next time I'm not going to drain the beans. I used pinto beans, just because my hubby and I prefer them over kidney beans. A great and tasty dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "HyacinthClare"
+},
+"reviewBody": "TOO HOT. We're fans of flavor, but that had way too much heat for us."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "HyacinthClare"
+},
+"reviewBody": "TOO HOT. We're fans of flavor, but that had way too much heat for us."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Don Williams"
+},
+"reviewBody": "Will make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Chevy"
+},
+"reviewBody": "Family loved it! The only rice I had was for sushi but it worked. I used black beans. All the flavors came together so nicely and you can't beat how easy it was to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Christine "
+},
+"reviewBody": "The flavours were okay and it was easy to make but it was very dry. Not sure if I’ll be making it again... if so, some changes will be necessary"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DeVere Wolsey"
+},
+"reviewBody": "Easy to make and delicious. I'll be making this again. Thanks, Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ken Cogswell"
+},
+"reviewBody": "Very tasty. I think I'll tweak the rice content (1/2 cup less) and bean content (a third can) when I make this again. Heavy on the rice for my taste, but the spices are great. You can toss on all kinds of toppings with the recipe - I added chopped green onions and extra salsa on the top when taken to a friend's party."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole Robertson"
+},
+"reviewBody": "Hit the spot! Easy and delicious. I added chunks of smoked sausage and highly recommend. It was a little dry, so I would add more liquid next time. Not sure if that was because I used regular long grain rice (instead of basmati) or the sausage."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lucy"
+},
+"reviewBody": "No changes. I used medium Salsa and a little Cayenne - it was very spicy! But good. A little on the dry side."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RDB"
+},
+"reviewBody": "Excellent and very simple meal. You must keep the foil over the casserole while baking as a regular lid will not keep the liquid in and rice will be undercooked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jay Bose"
+},
+"reviewBody": "Loved it. Sharing this with friends immediately."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "StephieJo"
+},
+"reviewBody": "Amazing. We loved it. I added a few dashes of smoked paprika in place of the cayenne. We ate it with cheese, sour cream, and tortilla chips! Also sprinkled some Trader Joe's Chili Lime seasoning on top. The family had huge 2nd servings. This will go into my regular rotation, just like Chef John's baked fried rice, which I have made several times! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "donnah"
+},
+"reviewBody": "This was delicious. I halved the recipe and cooked in a 9x9 glass dish. I used Better Than Bouillon and water since I didn't have any chicken broth. I also used a little paprika along with the ground chili pepper and other spices (my husband added cayenne at the table). We had only about a third of a 16 oz jar of salsa (need to buy more!) but I think next time I will add tomatoes or Rotel because that wasn't enough. It turned out a little dry but that was probably because my foil didn't seal tightly enough. Added can of black beans to the leftovers and have more than enough for another meal. Also used Fage yogurt and cheddar cheese for the toppings. Chef John, I've been making your sourdough bread for 2 months - it's super with black olives and the discard makes great crackers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Hill Ludwick"
+},
+"reviewBody": "This was awesome, however if your not a fan of spicy food like me, this is what i did to fix that. Use only 1/2 of the chili pepper and no cayenne. Then subsistute tomato salsa for Peach Mango salsa. Also my rice did not finish in 1:10 min, it was twice the amount of time, so i will pre cook the rice next time, or even look at using a crocpot"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Selda"
+},
+"reviewBody": "Loved this recipe. Next time I will add a little more liquid but I will make again for sure. I did add a little frozen corn which was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Suzanne"
+},
+"reviewBody": "Very very dry. If I made it again I would add less rice with same amount of wet ingredients. Some salsa are rather thick so that may have been the problem. I also used black beans. Would not use them again as they too were quite dry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LauraH"
+},
+"reviewBody": "6/8/20. Made with following changes: eliminated the oregano, substitute vegetable broth for the chicken broth since daughter is a vegetarian, and added taco sauce to the salsa since I didn't have a full 8 ounces of salsa. This was fantastic! The recipe cut in half easily feeds five people. This will be in our rotation from here on out! Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ml1888"
+},
+"reviewBody": "The recipe is for a 9x13, not a smaller dish which (seems) to appear in the video. Next time I will halve the recipe. Too much for 2 people. I will submit a photo next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl Grignon Meisenberg"
+},
+"reviewBody": "I followed the recipe as is with one exception, Im not a big fan of Cumin so I used one teaspoon in stead of two. This dish is amazing. So full of flavor and easy to make. Who knew using salsa would taste so good in rice. I put some cooked ground Italian Sausage in it after it was done. It turned it into a main dish. Fantastic. Thank you Chef"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Ellen Lincoln"
+},
+"reviewBody": "Will definitely make this again! Meatier, not meteor! Haha, Chef John!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Bill Querry"
+},
+"reviewBody": "Made this 2 times, the first time the rice never got all the way cooked even though I kept adding more broth and increased the baking time to an extra 40 minutes, it was too dry and there was not enough beans for me, but it had a great taste but it took a lot of re-engineering it aftwards to make it somewhat eatable because the rice never cooked until I fiddled"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Turner"
+},
+"reviewBody": "Chef John does it again! This dish was so flavorful and very simple to make. My family loved it and has requested it again. \nI substituted some of the ingredients by using organic brown long grain rice (2.5 cups), vegetable broth, Rotel, crush tomatoes (15 oz) and a few sprinkles of cayenne pepper. I initially cooked it for 1 hour and 30 minutes however the rice was still hard. I added the remaining vegetable broth (16 oz in total) to add more moisture and cooked the dish an additional 40 minutes. I let it rest for approximately 15 minutes with the aluminum foil tightly sealed before fluffing the rice mixture with chopped cilantro. Delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Noack"
+},
+"reviewBody": "A little disappointed at the texture. The rice is very dry and brittle. I feel like it would have worked better over the stove top. I followed recipe to a t and had to add 40 min extra to cooking. The flavor is good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MaryM"
+},
+"reviewBody": "Amount of broth listed is wrong. 2 cups of liquid is not right for 3 cups of rice. Ratio is 2 to 1 water to rice. Even accounting for the liquid in the salsa it resulted in hard rice at the end of cook time. I added 2 cups each broth and water and baked another 40 minutes and it was delish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jean Hutto"
+},
+"reviewBody": "Followed the directions exactly, but rice and beans were a little too dry. Next time I will add more Broth, and take out of oven sooner. Very good flavor. Added Cheese, Chopped tomatoes, Cilantro, and Sour Cream mixed with Cream &amp; Lime Juice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy A"
+},
+"reviewBody": "I made this today. My family loved it. I will definitely make again. Didn't have olive oil, so I used melted butter instead."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fitmom"
+},
+"reviewBody": "This is so good. I used fresh salsa the second time I made this and it made a good dish even better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "darcyshirley"
+},
+"reviewBody": "I made this with short grain brown rice cuz that's what I had on hand and cooked it an extra 45 minutes and added water a few times. I think next time for this rice I'll double the broth!\n\nChef John strikes again with another winner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer DeMent"
+},
+"reviewBody": "We love this, especially with homemade guacamole, but even on its own. We make it exactly as is Except that we use our pressure cooker. If you want to use a pressure cooker leave the salsa and canned beans out till after cooking the rice or you’ll get a burn notice. There’s enough residual heat after the rice cooks and the beans and salsa are already cooked. You then do 3cups broth to 3cups rice"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ellen Mueller"
+},
+"reviewBody": "There is something about the combination of rice and beans that I love. This was excellent and so easy. And my super-picky husband also loved it. I cut the recipe in half, and didn't have any salsa so just used tomato sauce, and added turmeric and coriander because cumin, coriander and turmeric are a combo I alway use. Came out great. I've already made it twice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hhmc68"
+},
+"reviewBody": "I am making for the second time tonight - both kids requested it! It is so easy and delicious. Baking rice is the greatest idea and wish I had learned this method sooner :-). Served it with cheese, sour cream, green onions, and cilantro. If my daughter was not a vegetarian, I would love to try it with ground beef or chicken."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Dynda"
+},
+"reviewBody": "You really have to keep the foil on it- So, it will not dry out. I liked it, but it made a lot for two people ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lydia Aranda"
+},
+"reviewBody": "'Made this first just as written. Excellent, but I wanted to try it with brown rice. I kept all measurements the same but used only 2 cups brown rice and added 30 min to the cook time. It was perfect and maybe just a little healthier."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie Smith"
+},
+"reviewBody": "Great meatless meal!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shelly Parker"
+},
+"reviewBody": "My daughter only eats baked beans. So that's what I used. Perfect!!! Delicious!!! And she ate it!!! Thanx for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jg"
+},
+"reviewBody": "This is delicious. I followed the recipe exactly and added left over pulled chipotle pork shoulder and roasted poblano pepper. \nChef John, I hope you have a blog or some way you are making money on your recipes. You are talented."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lola B Dunk"
+},
+"reviewBody": "Making it for the third time right now, it really is a great dish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "122511"
+},
+"reviewBody": "Followed the recipe exactly as written and it turned out perfect. Everyone gave it 2 thumbs up. Will make again. Garnished with green onions, cilantro and a small scoop of scour cream. Served with 2 tacos."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Edward Haefele"
+},
+"reviewBody": "easy to make... was a hit with the family.. will be making it again!! thanks chef!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jo"
+},
+"reviewBody": "No salsa in the house. So I replaced with: 3/4 cup of a canned pasta sauce (No spices) and 1/4-1/3 cup of taco sauce and 1tsp of onion powder. I omitted cayenne. Used regular long grain rice. Added shredded cheddar cheese to just melted after removing the foil and a dollop of sour cream on each serving. No cilantro so I used fresh chopped parsley. Ahh the quarantine. Baked for 1 hour at 360 in a heavy baking dish. Was perfect. I will make again and add shredded chicken before serving next time. If I can get chicken! My kids used a soft tortilla to scoop up the rice. Texture was outstanding."
+}
+]

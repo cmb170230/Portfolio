@@ -1,0 +1,67 @@
+,"name": "Margarita Sorbet"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "273 kcal"
+,"carbohydrateContent": "62 g"
+,"fiberContent": "2 g"
+,"proteinContent": "1 g"
+,"sodiumContent": "8 mg"
+,"sugarContent": "52 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 cup white sugar",
+"4 medium limes, zested",
+"3 cups cold water",
+"1 cup freshly squeezed lime juice",
+"2 tablespoons triple sec",
+"0.33333334326744 cup tequila",
+"coarse-grain sea salt for rim of glass",
+"lime wedges for garnish" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Pour sugar into a saucepan, add lime zest, and shake to combine. Let sit for at least 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Add water to the pan and place over medium-high heat. Stir over the heat until the mixture is clear and very hot, but not quite simmering yet. Remove from heat and strain the lime syrup into a container. Let cool all the way to room temperature."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in freshly squeezed lime juice, triple sec, and tequila. Refrigerate mixture until ice cold before transferring into your ice cream machine."
+} ,{
+"@type": "HowToStep"
+,"text": "Churn sorbet according to machine directions, and then transfer into an airtight container. Freeze thoroughly before serving. Overnight is best."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/58grPsuCc2K2-bYh2otTs8zbtKg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9378161-a3f0bc8091174ea3a653e992fcefe59e.jpg"
+}
+]
+,"text": "Serve in a salt-rimmed glass, with a small wedge of lime if desired. More tequila can be drizzled over the top, depending on your mood."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT625M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "S Tahboub"
+},
+"reviewBody": "My wife's favourite drinks are margaritas, and having a new twist on them is great. She's been wanting citrus sorbet in the heatwave anyway, so this could not have come up at a better. It's a bit rough without an icecream maker of course, but I only have so much room in the kitchen for single purpose gadgets."
+}
+]

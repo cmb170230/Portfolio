@@ -1,0 +1,44 @@
+,"name": "Coffee Granita"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "98 kcal"
+,"carbohydrateContent": "25 g"
+,"proteinContent": "0 g"
+,"sodiumContent": "2 mg"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"3 cups prepared strong black coffee",
+"0.75 cup white sugar",
+"2 tablespoons coffee-flavored liqueur" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine coffee, sugar, and coffee liqueur in a bowl with a whisk until sugar dissolves."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour mixture into an 8x12- or 9x13-inch dish. Freeze, uncovered, until it just starts to get slushy around the outside, about 1 hour and 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Take a fork and break the frozen pieces up, stirring into the liquid. Crush any large pieces with the back of the fork."
+} ,{
+"@type": "HowToStep"
+,"text": "Return to the freezer and repeat the process every 30 minutes until you&#39;ve reached your desired consistency, about 4 to 5 times total."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/HDg8UsYsHKbcWWQdXGW7lFoTIP0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Coffee-Granita-1x1-1-6cce0e24159e4a36a57b16a3b01af234.jpg"
+}
+]
+,"text": "Serve immediately or return to the freezer and chill for 8 hours, or overnight, before serving for best results."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT680M"

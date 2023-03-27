@@ -1,0 +1,149 @@
+,"name": "Bavarian Pretzels"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.6",
+"ratingCount": "5"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "224 kcal"
+,"carbohydrateContent": "39 g"
+,"cholesterolContent": "9 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "3037 mg"
+,"sugarContent": "2 g"
+,"fatContent": "4 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT45M"
+,"recipeIngredient": [
+"1 tablespoon brown sugar",
+"0.5 cup warm water",
+"0.5 teaspoon active dry yeast",
+"2 tablespoons butter, melted",
+"0.5 cup lager-style beer",
+"3.3333332538605 cups bread flour",
+"2 teaspoons kosher salt",
+"1 teaspoon butter, softened",
+"nonstick cooking spray",
+"1 pinch flaked sea salt, or to taste",
+"0.33333334326744 cup baking soda",
+"2.5 cups hot water" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix brown sugar and warm water until dissolved. Sprinkle yeast over top and let sit for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add melted butter and beer to the yeast mixture and whisk until combined. Add bread flour and salt. Mix and then knead with your hands or an electric mixer for a few minutes until a dough ball forms."
+} ,{
+"@type": "HowToStep"
+,"text": "Grease a bowl with 1 teaspoon butter. Place dough in the bowl, cover, and let rise until doubled in size, about 8 hours, or overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Punch down the dough and knead until a smooth ball of dough is formed, about 1 minute. Place back in the bowl, cover, and let rise until dough has almost doubled in size, 2 to 3 more hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, preheat the oven to 300 degrees F (150 degrees C). Place baking soda in an oven-safe dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Place baking soda in the preheated oven for 1 hour. Let cool, and then whisk into a shallow bowl of 2 1/2 cups hot water until dissolved. Mixture can be strained to remove any dissolved pieces. Reserve until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Punch down the dough and divide into 8 equal portions. Roll each one into a ball; let sit for 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "To form a pretzel, roll a dough ball into a sausage shape, and then press into a small rectangle with your fingers. Fold the outside third of the dough into the center, and press flat with your fingertips, and then repeat with the edge closest to you."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll the dough into a rope 15 to 18 inches long, with the center (belly) of the rope being twice as thick as the ends. Cross the ends once or twice and fold them back over the pretzel so the ends are just past the belly. Repeat to form remaining pretzels."
+} ,{
+"@type": "HowToStep"
+,"text": "Put on some thin, food-safe gloves and transfer a pretzel to the baking soda bath; soak for 20 to 30 seconds, gently splashing liquid over the top of the pretzel to coat. Transfer to a parchment-lined baking sheet that&#39;s been greased with cooking spray. Sprinkle the still-damp pretzel with large-grain sea salt. Repeat with remaining pretzels and let rise for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 475 degrees F (245 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Use a razor or sharp knife to make a slash across the &#34;belly&#34; of each pretzel. Smaller cuts can also be made on other sides of the pretzel if desired."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/X27nnBC6joApaUdMx-2wSqU2_5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-306-b29aa49d210048e0b26f6837cb7b25ce.jpg"
+}
+]
+,"text": "Bake in the preheated oven until well browned, about 12 minutes. Transfer to a cooling rack and let sit for 5 to 10 minutes before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT710M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paul"
+},
+"reviewBody": "Totally awesome. I baked them about two minutes longer and they turned out great. I just used White Lilly self rising flour and used yeast and they were great. I used Safeway flour previously and they turned out well, too. Super crust and super chew. Yum."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made this recipe and it came out perfect. Best pretzels I ever had. Some notes about the issues voiced in the other reviews: I believe the issue is in the inexact measurements. I used weak (11% protein) flour and not bread flour, and I used 130g for a cup, which gave me a dough of the correct wetness. I suspect if you use bread flour and use like 150g for 1 cup (also stated in some sources) that this may not turn out. Additional info - used 120g each for 1/2 cup water/lager, and 28g for the 2tbsp butter. The results are worth the hassle! Give it a try!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "djnkzt228d"
+},
+"reviewBody": "As someone else stated--I had the same issue with this recipe giving me extremely shaggy dough that came together very dense. I used King Arthur bread flour, which I'm thinking has a higher protein content than what Chef John uses for this recipe because I also followed it to the T. Very sad because I love all this recipes and was stoked about pretzels."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MMMICHELLE"
+},
+"reviewBody": "Awesome! Worth the time and work. We loved this with the Guinness Beer Cheese recipe. Restaurant quality!! Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Joe Hamm"
+},
+"reviewBody": "I absolutely adore Chef John, but this is another recipe where I follow it precisely and it just does not turn out. All my ingredients are fresh from the store. I mix the dough together and it's extremely dry and clumpy, can't even form it into a ball because it is just so shaggy and dry, and I follow the recipe exactly as it is written. This is so frustrating."
+}
+]

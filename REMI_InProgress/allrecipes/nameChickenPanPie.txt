@@ -1,0 +1,192 @@
+,"name": "Chicken Pan Pie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "11"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "435 kcal"
+,"carbohydrateContent": "23 g"
+,"cholesterolContent": "124 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "24 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "945 mg"
+,"sugarContent": "3 g"
+,"fatContent": "27 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"0.25 cup unsalted butter",
+"0.66666668653488 cup diced onion",
+"0.5 teaspoon kosher salt, or to taste",
+"1.5 pounds boneless, skinless chicken thighs, cut into 1-inch pieces",
+"0.25 cup all-purpose flour",
+"2.5 cups chicken broth",
+"0.5 cup sliced carrots",
+"0.5 cup sliced celery",
+"0.25 teaspoon freshly ground black pepper",
+"1 pinch cayenne pepper",
+"0.5 cup frozen peas, thawed",
+"1 teaspoon fresh thyme leaves",
+"1 recipe pastry pie dough",
+"1 large egg, beaten",
+"2 teaspoons water" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt butter in a 12-inch cast iron skillet over medium-high heat. Add diced onion and salt. Cook, stirring, until onions start to soften, and the edges begin to brown, 3 to 4 minutes. Add chicken, and cook, stirring, until the chicken loses its pink color, and starts to brown in spots, 3 to 4 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Sprinkle flour over top, then cook and stir for about 2 minutes. Pour in the broth and bring to a simmer, scraping the bottom of the pan with a spatula. Stir in carrots, celery, black pepper, and cayenne."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook the mixture, stirring occasionally, until it&#39;s as thick as you want, 5 to 10 minutes. For a thick, sticky filling once baked, reduce until the sauce coats the back of a spoon. For a saucier filling, don&#39;t reduce the mixture at all."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn off the heat and stir in the peas and thyme. Taste for seasoning and reserve until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll out pie or pastry dough to form a circle about 14 inches in diameter."
+} ,{
+"@type": "HowToStep"
+,"text": "Fold over 1/2 inch of dough all the way around, and then crimp the edge to make a decorative scalloped design. Cut or punch out a 1-inch hole in the center of the dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the pan on top of a sheet pan in case filling bubbles over in the oven. Carefully place the dough over the filling, and adjust until it&#39;s centered. Press the crust lightly into the filling. Brush the top with an egg wash if desired."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/w8sSRK8JGzpWLfqcnQk4aeDZrVM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-136-db943232ee1e44bfa345e6f58f3c5d0d.jpg"
+}
+]
+,"text": "Bake in the preheated oven until crust is browned and filling is bubbling, about 40 minutes. Let rest for 5 minutes before serving."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT85M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharyl"
+},
+"reviewBody": "Delicious of course chef John! My pan was just big enough for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "I made this to use up leftovers. Some roasted chicken, BBQ chicken, roasted baby potatoes and green beans went in the mix. Store bought pie crust from the freezer and no peas, hubs isn't a fan. He loved this version so will make again. I used a cast iron skillet and it worked out really well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kenn987"
+},
+"reviewBody": "Chef John, you are a legend"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ralph"
+},
+"reviewBody": "The flavors and textures were wonderful. Thank you, again, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rsupermom41"
+},
+"reviewBody": "Delicious! Made it for Christmas Eve, the whole family loved it. Made it in my Dutch oven, just as John did it in a pan. Making it again today with the second pie crust. Easy but so flavorful! Your family will love it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "saxonybetts"
+},
+"reviewBody": "I really enjoyed the flavors and the consistency. I made two small changes to the recipe. I added some sliced mushrooms in with the onions at the beginning. I also cooked it for about an hour at 350 because my pan was not rated for higher temperatures. It probably could have used a few more minutes, but I was impatient. Because of the extra moisture from the mushrooms, it took a bit longer than 10 minutes to reduce. I was extremely happy with the outcome."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doughgirl8"
+},
+"reviewBody": "Mini pies, turkey edition! I used the meat and leftover stock from Chef John's Make-Ahead Turkey Gravy to make filling for 6 ramekins. I cooked the onion, carrot, and celery, then added a cubed par-cooked potato and frozen green beans along with the peas. I had about 2 1/2 cups of meat from the turkey wings. I let the filling cool, then added the top crusts; baked about 35 minutes. Absolutely delicious! We ate them before I got a photo of the finished product."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra Streifel"
+},
+"reviewBody": "I will use a frozen crust next time, and with turkey legs instead of chicken, this made a great Thanksgiving meal, with Chef John’s Mango Cranbango sauce! Happy Canadian Thanksgiving, everyone!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nikki H"
+},
+"reviewBody": "I loved this! I used leftover turkey, but it was still tasty."
+}
+]

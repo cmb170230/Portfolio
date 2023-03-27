@@ -1,0 +1,284 @@
+,"name": "Red Curry Chicken and Pumpkin Soup"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "16"
+}
+,"cookTime": "PT70M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "454 kcal"
+,"carbohydrateContent": "26 g"
+,"cholesterolContent": "97 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "31 g"
+,"saturatedFatContent": "15 g"
+,"sodiumContent": "1533 mg"
+,"sugarContent": "11 g"
+,"fatContent": "26 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"1 tablespoon vegetable oil",
+"2 pounds skinless, boneless chicken thighs, chopped into bite-sized pieces",
+"1 medium red onion, diced, divided",
+"2 teaspoons brown sugar",
+"freshly ground black pepper to taste",
+"1 teaspoon ground cumin",
+"1 teaspoon kosher salt, or to taste",
+"1 tablespoon freshly minced ginger",
+"4 cloves garlic, finely chopped",
+"6 cups chicken broth, or to taste, divided",
+"1 (13 ounce) can unsweetened coconut milk (not low-fat)",
+"2 tablespoons red curry paste, or more to taste",
+"0.25 teaspoon cayenne pepper",
+"1 bay leaf",
+"1 tablespoon fish sauce",
+"1 (2 pound) kabocha squash",
+"1 large red bell pepper, diced",
+"2 medium green onions, thinly sliced, or more to taste",
+"0.5 cup chopped fresh cilantro, or more to taste",
+"0.25 cup chopped fresh basil, or more to taste",
+"2 small serrano peppers, thinly sliced",
+"3 medium limes, halved" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat vegetable oil in a soup pot over high heat. Add chicken to hot oil; cook, stirring occasionally until browned, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in 1/2 of the red onion and brown sugar. Cook until onions have softened and sugar starts to caramelize on the bottom of the pan, about 3 minutes. Stir in black pepper, cumin, and 1 teaspoon kosher salt. Toss in ginger and garlic; stir until sizzling, about 1 minute."
+} ,{
+"@type": "HowToStep"
+,"text": "Add 4 cups chicken broth and stir to deglaze the bottom of the pot. Bring to a boil. Add coconut milk and curry paste. Add cayenne pepper and bay leaf. Stir in fish sauce. Reduce heat to medium-low and simmer, stirring occasionally, for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Carefully cut squash with a large knife on a cutting board. Remove seeds and peel and discard skin. Cut flesh into bite-sized pieces. You should have about 1 1/2 pounds squash."
+} ,{
+"@type": "HowToStep"
+,"text": "Add squash to soup and salt to taste. Add remaining chicken broth to cover squash. Simmer over medium-low heat, stirring occasionally, until pumpkin is just barely tender, 15 to 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in remaining red onion, bell pepper, and green onions; cook for 2 minutes. Turn off the heat, and stir in 1/2 cup cilantro and 1/4 cup basil. Taste and adjust seasonings."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/BwzwTZAMX26srvofFrsBC6GctnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-534-c01ac5c0f68341b3a8bc0444f31b6e7b.jpg"
+}
+]
+,"text": "Ladle into bowls and garnish with more cilantro, basil, green onions, and serrano chiles. Squeeze lime juice into each bowl."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT95M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Impatient Chef"
+},
+"reviewBody": "I loved the flavor of this recipe, easily making it vegan by swapping tofu for chicken and vegetable broth for chicken broth. This was the first time I used a kabocha squash, so I watched Chef John's humorous video several times in its preparation. Chef John is absolutely right: The sweet flavor of the kabocha squash is absolutely perfect for this somewhat spicy, Thai-inspired soup. However, nothing prepared me for how difficult it is to cut and peel kabocha squash. Chef John tells us that the skin of this squash species is harder than others. I sharpened my Cutco butcher knife before beginning, yet cutting the squash was still a tricky, time consuming nightmare. I almost asked my husband to help me with his hunting knife so I could field-dress the pumpkin. My peeler was even less successful with the tough exterior of this quarry, causing me to flip back and forth between peeling and cutting -- already a proven challenge. That being said, I don't think the flavor of butternut squash equals what kabocha offers this recipe in particular, in terms of flavor and texture. So, word to the wise, be prepared with a sharp knife, a professional level peeler, and a reservoir of patience when making this delicious soup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "I really loved how this turned out. For whatever reason when I went to buy the ingredients for this recipe, I got canned pumpkin and the only thing close to red curry paste was a roasted red pepper chili paste. I used a chicken alternative and veggie broth, but went for the recipe with what I had, I added a chopped zucchini from the fridge for the chunks of pumpkin that I would be missing. So not a total loss, the leftovers are great too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "R Josh"
+},
+"reviewBody": "I am vegetarian so used tofu instead of chicken and vegetable broth. It came out incredibly delicious! I would highly recommend this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharyl"
+},
+"reviewBody": "This was absolutely delicious. Used butternut squash rather than pumpkin (it did cook very fast so watch it) only used the four cups of broth but I think it will thicken when its reheated."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Beth"
+},
+"reviewBody": "Delicious!!!! Second time I've made it! Chef John, I love you and your recipes!!! Everyone I've tried have been delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Josh Sager"
+},
+"reviewBody": "Great recipe! I substituted acorn squash for pumpkin since I couldn’t get any at my grocery."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rplummer"
+},
+"reviewBody": "I made it this time with the kabocha squash instead of butternut. Excellent recommendation. I use Thai Kitchen Red Curry Paste, which I've learned really has a kick. Next time I'll use half what the recipe calls for. Nevertheless, I love this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steven Smith"
+},
+"reviewBody": "Delicious - used butternut squash (since you can buy it cut up already right now) and substituted fish sauce for a 50/50 mix of soy sauce and rice vinegar. Can't go wrong with Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy"
+},
+"reviewBody": "This was yummy. I chose to peel my kabocha and cutting/peeling were pretty labor intensive. I am going to try this with sweet potatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AndrzejSi"
+},
+"reviewBody": "I am a fan of Chef John's recipes and made dozens of meals according to his directions. This meal is by far the most impressive, delicious, spectacular meal I've ever made and one of the absolutely best I've eaten. Thank you Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Manli Jin"
+},
+"reviewBody": "This soup is so hearty and delicious! The saltiness of the chicken stock, umami from the fish sauce and sweetness from the squash and red pepper balance each other out perfectly. Once again Chef John's recipe and video make what looks like a complex recipe easy to follow. I substituted for delicata squash since the kabocha wasn't available at my grocery store, and it was perfect! Adding this to our permanent recipe book."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue McCullough"
+},
+"reviewBody": "The flavour was delicious. I found it labour intensive. I could not find the kabocha squash in my neck of the woods, so I used a buttercup squash and it held up in the soup really well. Be very careful with the red curry paste! I used 2 teaspoons of the kind I have and ended up with a runny nose! A good dish for the weekend when you have the time to peel the squash...just sayin’..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynn Gold"
+},
+"reviewBody": "I made it to share with my BF and BFF. The latter asked for the recipe so she can make it for herself!\n\nThe only changes I made were omitting the bell peppers and serranos, as my friend and I both have severe sensitivities to pepper “meat.”"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Wallace"
+},
+"reviewBody": "Soooooooooo DELICIOUS!!! Thank you for this recipe!!!! Woooohoooooo!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kerry O'Banion"
+},
+"reviewBody": "Great soup from the master. I did not add the 'extra' 2c of broth, it was plenty soupy already, and I used delicata squash, worked fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ezoomy"
+},
+"reviewBody": "Absolutely delicious and very easy to make! Thank you, Chef John for a great soup recipe! \nOne tip. No need to peel kabocha. Its skin is delicious! We will make it again for sure."
+}
+]

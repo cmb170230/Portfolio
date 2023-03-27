@@ -1,0 +1,222 @@
+,"name": "Buffalo-Style Pizza"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "12"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "520 kcal"
+,"carbohydrateContent": "41 g"
+,"cholesterolContent": "66 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "29 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "1726 mg"
+,"sugarContent": "9 g"
+,"fatContent": "26 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 tablespoon extra-virgin olive oil",
+"1 (6 ounce) can tomato paste",
+"1 teaspoon garlic powder",
+"1 teaspoon onion powder",
+"0.25 teaspoon red pepper flakes",
+"0.5 teaspoon dried basil",
+"0.5 teaspoon dried oregano",
+"1 teaspoon kosher salt",
+"0.5 teaspoon freshly ground black pepper",
+"2 teaspoons white sugar",
+"2 cups water",
+"1 tablespoon olive oil, or as needed",
+"1 (14 ounce) package refrigerated pizza dough",
+"1 pound low-moisture mozzarella cheese",
+"3.5 ounces thick pepperoni slices" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a pan over medium-high heat. Add tomato paste, garlic powder, onion powder, red pepper flakes, basil, oregano, salt, and sugar. Saute until the tomato paste starts to caramelize on the bottom of the pan, 3 to 4 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour in water and whisk to combine; bring to a simmer. Lower the heat to medium and cook, stirring occasionally, until the sauce reduces to your desired thickness. Turn off the heat and reserve until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 500 degrees F (260 degrees C). Generously grease a sheet pan with olive oil, rubbing some on your fingers as well."
+} ,{
+"@type": "HowToStep"
+,"text": "Press, stretch, and pull pizza dough until it fills the prepared pan, going all the way to the corners. If the dough stops stretching, let it rest for 5 minutes before resuming."
+} ,{
+"@type": "HowToStep"
+,"text": "Top dough with cooled sauce, spreading all the way to the edges of the pan. Sprinkle on mozzarella cheese and add pepperoni. Place the pan on the stove over a high flame, and slowly move it around to evenly apply the heat, until you hear it starting to sizzle, about 1 minute."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/fH1uaMB1P1im1sxusBjEJRM3_N0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_2925_buffalo-style-pizza_chef-john-2000-fdb3cf9813fe453eb92369390a0b9160.jpg"
+}
+]
+,"text": "Transfer into the lower center of the preheated oven and bake until cheese is beautifully browned and pepperoni is charred, about 20 minutes. Slice and serve."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Earl Peck"
+},
+"reviewBody": "This was the best tasting pizza sauce and pizza. Made for the super bowl, and everyone couldn't stop talking about it. I've never seen pizza disappear so fast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurel Anne"
+},
+"reviewBody": "This took us a long time to put together - but it came out great. A couple of observations:\n1. We were nervous that the dough would not stretch far enough, and while it did, I think the crust is thinner than Chef John's video. Still really good.\n2. The larger pepperoni worked great. We also added some Italian sausage crumbles.\n3. The pizza sauce is so good! \n4. We don't have a gas stove, but we heated up the whole pizza on the grill for a couple of minutes. Worked perfectly.\n\nLeftovers freeze/reheat well. Definitely a keeper, albeit quite a project!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "stephaniedundon"
+},
+"reviewBody": "love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ben Vroman"
+},
+"reviewBody": "I’ve made this twice now, and it looks to be a go-to recipe. Hard to screw up and tastes great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cierra Morris"
+},
+"reviewBody": "Hmm... probably should have kept a better eye on this, but 20 minutes was too long. My pizza came out way burnt. The flavors were otherwise very good. Next time I will cook it shorter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MMA716"
+},
+"reviewBody": "As a kind of pizza, the end result is restaurant quality. The sauce is very good, but not WNY style.The Detroit style dough makes a tough, thick layer similar to focaccia and not at all like Buffalo pizza.\n\nOverall, this is a good pizza, but needs a different name. It just isn’t Buffalo style pizza. Even when Chef John misses, he still makes great food.\n\nPlease, Chef John, try Buffalo style pizza for yourself so we can get a more accurate representation from you. You’re a master at recipes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MJB"
+},
+"reviewBody": "Easy and delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ian johns"
+},
+"reviewBody": "Turned out great! Nice to make one pizza that feeds a family of 4. Bought a half-sheet pan. In my convection oven at 500F it was done around 15 minutes. Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Weatherford"
+},
+"reviewBody": "My family gobbled up this whole pizza in one meal. It comes together so fast and is so easy. Will definitely be making again. I only needed to cook mine 15 mins in the oven, but maybe bc I used less cheese (I thought I had mozzarella, but had to improvise with Monterey Jack and parm). Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jackey Elinski"
+},
+"reviewBody": "So, I’ve lived in Buffalo my whole life and LOVE the pizza here. This looks great but 2 things: 1)I’ve never seen sauce spread all the way to the edges here and 2)That crust is way thicker than any Buffalo-style pizza I have ever had. That said, this still looks delicious! I know I am too lazy to ever make this though bc all I have to do is make a phone call and I will have an amazing pizza delivered to my front door in about a half hour"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MITCHB2"
+},
+"reviewBody": "Phenomenal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "stoneda29"
+},
+"reviewBody": "Great recipe. I used the Detroit dough recipe and let is rest in the mixing bowl for an hour. It came out great. The only thing I need to figure out is the cheese seemed to over cook before the rest of the pizza was done. I'm not sure if I should change the type of cheese or lower the temp and keep it in longer. Either way, it was great. Kid approved!"
+}
+]

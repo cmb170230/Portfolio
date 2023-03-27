@@ -1,0 +1,120 @@
+,"name": "Polenta Lasagna Loaf"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"cookTime": "PT95M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "448 kcal"
+,"carbohydrateContent": "35 g"
+,"cholesterolContent": "89 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "26 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "1993 mg"
+,"fatContent": "23 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT35M"
+,"recipeIngredient": [
+"4 cups water",
+"1.5 teaspoons kosher salt, or to taste",
+"1 cup uncooked coarse-ground polenta",
+"1 tablespoon butter",
+"0.5 cup finely grated Parmigiano-Reggiano cheese",
+"1.5 cups ricotta cheese",
+"0.667 cup finely grated Parmigiano-Reggiano cheese",
+"4 ounces grated mozzarella cheese",
+"1 teaspoon kosher salt, or to taste",
+"0.25 teaspoon ground black pepper",
+"1 pinch cayenne pepper, or to taste",
+"1 large egg, beaten",
+"2 tablespoons chopped Italian parsley",
+"1 tablespoon olive oil",
+"3 cups hot prepared meat sauce, or more to taste",
+"1 tablespoon chopped Italian parsley, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Prepare polenta: Bring water and salt to a boil over high heat. Whisk polenta into the boiling water and continue whisking until it starts to thicken, about 1 minute. Reduce heat to medium-low and simmer, stirring often, until polenta is soft and has lost its grainy texture, 25 to 40 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove polenta from the stove and quickly whisk in butter and Parmigiano-Reggiano cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer polenta to a silicone baking liner (or oiled foil or parchment paper). Spread it out evenly almost to the edges into an 8x13-inch rectangle. Cover with plastic wrap and smooth out the top with your hands. Place a baking sheet on top and press slightly to further flatten."
+} ,{
+"@type": "HowToStep"
+,"text": "Slide the silicone liner and polenta onto the baking sheet and place in the refrigerator until firm, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove polenta from the refrigerator and cut, from one long edge to the other, into 8-inch long strips."
+} ,{
+"@type": "HowToStep"
+,"text": "Prepare filling: Stir ricotta, Parmigiano-Reggiano, mozzarella, salt, pepper, cayenne, egg, and parsley in a bowl until well combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Grease a loaf pan with 1 tablespoon oil."
+} ,{
+"@type": "HowToStep"
+,"text": "Place one strip of polenta into the bottom of the prepared loaf pan. Spread 1/3 of the filling on top as evenly as you can. Top with about 1 cup hot meat sauce. Repeat polenta-filling-sauce layers twice more. Place the last piece of polenta on top, then gently shake and tap the pan to settle the contents. Place the loaf pan on top of a sheet pan to catch any spills while baking. Loosely wrap the top of the loaf pan with foil, making sure it&#39;s not touching the polenta."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until bubbly, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the oven, discard foil, and let rest for at least 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/XN2LklTm6l7gu8HgBrH1eWFVSOM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Polenta-Lasagna-Loaf-2000-5b44fbb9842742d0852e583638c478d4.jpg"
+}
+]
+,"text": "Divide onto 6 plates. Garnish with parsley and serve with additional sauce."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT205M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kleincody"
+},
+"reviewBody": "Tasted great. I only fit three levels of polenta vs four probably because my polenta slices might have been slightly thicker, and I added cooked sausage and caramelized mushrooms to each layer. Let it cool then took chef's advice and flipped for presentation. Fortunately, no disaster and it looked impressive. Late photo attached, we already dug in and ate most of it. When you tent it before going in the oven stick a few toothpicks in first. This makes it easy to keep the tinfoil from touching/sticking to the top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "WOW!!! Chef John does it again. To save time I use polenta roll instead of cooking from scratch and saved some money buying parmesan rinds (1/2 the price) for the required cheese. I used a food processor to blend the polenta and parm rinds with some water for creaminess. WHAT A MISTAKE! It took so much longer as my food processor was too small and the rinds were very hard to process. Anyway, I got it done and spread the layers without refrigeration which worked out fine. I made enough for 2 loaf pans. I forgot to put on the foil however, it turned out beautifully golden brown. But no one will see that as I flipped it:) Taste...oh man oh man! So good!! This is certainly a hit - especially since I made some variations to the original. Too bad I am the only one eating this...or maybe not. Highly recommend Chef John's Polenta Lasagna Loaf."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great recipe! Easy to do and delicious!"
+}
+]

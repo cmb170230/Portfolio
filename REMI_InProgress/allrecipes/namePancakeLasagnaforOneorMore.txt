@@ -1,0 +1,236 @@
+,"name": "Pancake Lasagna for One (or More)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "13"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "559 kcal"
+,"carbohydrateContent": "29 g"
+,"cholesterolContent": "177 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "28 g"
+,"saturatedFatContent": "18 g"
+,"sodiumContent": "1062 mg"
+,"sugarContent": "9 g"
+,"fatContent": "37 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"2 large eggs",
+"0.5 teaspoon kosher salt",
+"1 teaspoon olive oil",
+"0.5 cup cold water",
+"0.5 cup all-purpose flour",
+"1 tablespoon olive oil",
+"1.5 cups full-fat ricotta cheese, well drained",
+"kosher salt and freshly ground black pepper to taste",
+"1 pinch cayenne pepper",
+"1 tablespoon finely sliced fresh basil",
+"0.5 cup finely grated Parmigiano-Reggiano cheese",
+"1.5 cups prepared marinara sauce",
+"1 cup grated Monterey Jack cheese",
+"1 tablespoon finely grated Parmigiano-Reggiano cheese",
+"1 tablespoon olive oil",
+"1 teaspoon finely sliced fresh basil" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C). Set out 4 small, shallow, oven-proof baking dishes or ramekins."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine eggs, salt, olive oil, water, and flour for pancakes in a large bowl. Whisk thoroughly until very smooth, then let sit at room temperature for 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush oil into a nonstick skillet and set heat to medium. When the skillet is hot, add about 1/4 cup batter and tilt the pan so it evenly coats the bottom. Cook until the batter sets and the top surface goes from looking wet to dry, 1 to 2 minutes. Flip and cook the other side for 1 minute. Transfer to a plate and repeat to make remaining 3 pancakes. Cut each pancake into 3 triangles."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine ricotta cheese, salt, pepper, cayenne, basil, and Parmigiano-Reggiano cheese for filling in a bowl; mix with a fork until thoroughly combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Prepare lasagnas: Spread 2 tablespoons marinara sauce into the bottom of each baking dish. Lay 1 pancake triangle on the sauce, then top with about 2 tablespoons ricotta filling, 1 tablespoon Monterey Jack cheese, and 2 teaspoons marinara. Repeat to create another layer, slightly pressing down on the second pancake triangle before topping with filling and cheese. Top with the remaining pancake triangle, pressing down slightly. Add remaining marinara and Monterey Jack, sprinkle with Parmigiano-Reggiano, and drizzle with olive oil."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/IFAcK5lXGrpfUC25P-Nhb1wtAlc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-105-1f2889eee8854ace9a98cd109029d351.jpg"
+}
+]
+,"text": "Place the baking dishes on a large sheet pan and bake in the center of the preheated oven until lightly browned and bubbly, about 15 minutes. Let cool for about 5 minutes, then garnish with basil and serve."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT75M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Connie Nelson"
+},
+"reviewBody": "Delicious. Easy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DaveFromNJ"
+},
+"reviewBody": "This is a winner - flat out, no mods needed. The pancake is awesome and just like pasta"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "christopherbriggsemail"
+},
+"reviewBody": "Made in a 9 inch wide by 3 inch deep dish. Tasted just like egg noodles. Am trying to adapt this with a Korean pork dumpling filling as well - should work like gangbusters!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judy"
+},
+"reviewBody": "One of the easiest dishes I have made! I had the dishes for it,too now I know what to use them for! It was very easy clean up,just right for two people."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mismadison"
+},
+"reviewBody": "I'll NEVER make traditional lasagna again. I've made this dish at least a dozen times and it's always delectable. I never dreamed lasagna would be on my regular rotation list... but here I am. Skip the Jack cheese and go w/ traditional mozzarella. Ricotta isn't available in my pueblo, so I sub with Goat cheese, add some sauteed Italian sausage or sauteed mushrooms. Garlic salt is a must-add as well, IMO. So as not the heat up the house, I actually bake these in my gas grill under indirect heat. I'm really not exaggerating when I say this lasagna changed my life! Thank you Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Edward Coleman"
+},
+"reviewBody": "Made this with homemade Bolognese using ground skirt steak/ground pork and a whipped cream cheese/cottage cheese mix... Threw it in a round casserole dish for one big pizza shaped portion to share and dude. DUDE! It’s uhmazzzzinnngggg. Thank you Chef John for the inspo!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "stinkeyewilly"
+},
+"reviewBody": "Was tasty, I did extra layers and made three,{had three small casserole dishes}. My wife loved it, I found the pancake a bit eggy for me. Will make again as you know happy wife happy life."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon Pickell"
+},
+"reviewBody": "Love that I can make just a couple of servings of Lasagna! And some canalloni with the leftovers. I made a pork ragu for the sauce. Of course there is ricotta cheese in it. I used store bought and plan to try to make my own ricotta cheese later."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rmach"
+},
+"reviewBody": "This was absolutely delicious. I made the stack six layers tall instead of three, making two jumbo servings instead of four. Thanks Chef John!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lee"
+},
+"reviewBody": "It reminded me more of cannelloni than lasagna with the crepe, but it was excellent. I used a basic homemade red sauce with sausage and it was perfect.\n\nMaking the crepes and freezing them makes this a great weeknight dinner as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Smith"
+},
+"reviewBody": "Because I didn't do individuals but rather a small pan, I had to go back and modify this recipe so I could make heads-tails of it; was very confusing to me. I did make double the pancake batter and thus I had enough for 3 full layers and a top. Wish I had had time to make double the ricotta (yummy!). Next time I will make cheese the day before. As it were, thinking ahead I managed to have things ready in proper order. Also included a meat layer of ground beef and ground pork which I cooked ahead of time with added Italian seasonings. I had sauce in my freezer but it needed more sauce... even if on the side. (I had to keep it warm for late comers and it got a bit dry.) I didn't have the Monterey Jack cheese but I will next time! I did use mozzarella as well as the homemade ricotta and Parmigiano-Reggiano. Loved the pancake noodles; made for a light lasagna. They did not taste like crepes nor pancakes. Family and Italian guest said was very good! I do love John's recipes and funny anecdotes! Will be creating this again and freezing individuals."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jamie"
+},
+"reviewBody": "This is a definite keeper! We usually have a sauce made and if not it's easy and punch to whip one up. It was an absolute perfect portion. The only con I could find is that you can't go back for seconds!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LK Lifestyles"
+},
+"reviewBody": "I had NEVER thought to use crepes as a layer in a lasagne, but since I've been Paleo for 7 years, this caught my attention. I subbed in my own flour and made the crepes, then layered it with my own ingredients. It was stupendous! I cannot thank Chef John enough for giving me this life-changing idea."
+}
+]

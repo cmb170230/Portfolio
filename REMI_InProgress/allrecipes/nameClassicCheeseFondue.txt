@@ -1,0 +1,43 @@
+,"name": "Classic Cheese Fondue"
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "215 kcal"
+,"carbohydrateContent": "3 g"
+,"cholesterolContent": "46 mg"
+,"proteinContent": "13 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "179 mg"
+,"sugarContent": "1 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1.25 cups dry white wine (such as Sauvignon Blanc)",
+"1 tablespoon cherry brandy",
+"1 clove garlic, slightly crushed",
+"1 pinch cayenne pepper",
+"1 pinch freshly grated nutmeg",
+"4 teaspoons cornstarch",
+"8 ounces shredded Gruyere cheese",
+"8 ounces shredded Emmentaler cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Add white wine, cherry brandy, garlic clove, cayenne, nutmeg, and cornstarch to a saucepan. Whisk to combine and place on the stove over medium heat. Cook, whisking occasionally, until mixture thickens slightly and you can see wisps of steam in the pan, 3 to 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add Gruyere and Emmentaler cheeses, one handful at a time, slowly whisking after each addition until melted. Continue whisking until all cheese is melted and sauce is very smooth. Remove from the heat and transfer into a fondue pot to serve."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/lWlA9eUC2swzJuuR8IYKyFiWgB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-205-b3c5055be4b04bde96991487b10e8c73.jpg"
+}
+]
+,"text": "Keep sauce warm while serving so it doesn&#39;t solidify."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT25M"

@@ -1,0 +1,82 @@
+,"name": "Korean Barbecue Short Ribs Teriyaki"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "2"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "624 kcal"
+,"carbohydrateContent": "24 g"
+,"cholesterolContent": "93 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "24 g"
+,"saturatedFatContent": "18 g"
+,"sodiumContent": "1858 mg"
+,"sugarContent": "22 g"
+,"fatContent": "42 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"0.5 cup soy sauce",
+"0.5 cup sake",
+"0.33333334326744 cup mirin (Japanese sweet wine)",
+"0.25 cup packed brown sugar",
+"2 teaspoons finely grated ginger",
+"2 tablespoons finely minced green onions",
+"1 teaspoon ground turmeric",
+"2 pounds beef short ribs, cut flanken-style" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine soy sauce, sake, mirin, brown sugar, ginger, green onions, and turmeric in a large mixing bowl and whisk until combined. Add the short ribs and toss until thoroughly and evenly coated."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover with plastic wrap and marinate in the refrigerator for 4 to 12 hours, tossing occasionally."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat a charcoal grill for high heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove meat from the refrigerator. Grill over very hot charcoal until slightly caramelized and just cooked through, 2 to 3 minutes per side. Any excess marinade can be used to baste the meat while it&#39;s grilling. Flip meat after basting to allow to caramelize, about 1 minute more per side."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/4ihpncPItAIXBGmuXuGPetpXot4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-430-2e0a0b7a815c4c7c87541ba887311be7.jpg"
+}
+]
+,"text": "Serve immediately, spooning or brushing on any accumulated juices from the plate."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT255M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tim"
+},
+"reviewBody": "Great and so easy, another winner Chef John"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Gerre"
+},
+"reviewBody": "This recipe needs garlic and red pepper flakes. My wife is Korean, and that's what she uses. In my opinion, the words \"Korean\" and \"Teriyaki\" don't belong in the same title. Nonetheless, it's a decent recipe."
+}
+]

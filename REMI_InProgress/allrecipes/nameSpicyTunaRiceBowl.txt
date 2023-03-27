@@ -1,0 +1,747 @@
+,"name": "Spicy Tuna Rice Bowl"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "64"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "583 kcal"
+,"carbohydrateContent": "83 g"
+,"cholesterolContent": "18 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "38 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "1495 mg"
+,"sugarContent": "3 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 cup uncooked long-grain rice",
+"1.5 cups water",
+"1 (7 ounce) jar tuna packed in olive oil",
+"0.5 cup finely diced red bell pepper",
+"0.25 cup finely diced jalapeno pepper",
+"0.25 cup finely sliced green onions",
+"0.33333334326744 cup seasoned rice vinegar",
+"0.5 lemon, juiced, or to taste",
+"2 tablespoons soy sauce",
+"2 teaspoons Sriracha hot sauce",
+"0.5 teaspoon sesame oil",
+"1 pinch Korean red pepper flakes (gochugaru), or to taste",
+"1 teaspoon finely sliced green onion, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Pour rice into a heavy pot and add water; swirl to allow rice to settle. Bring to a simmer over medium-high heat; do not stir. Reduce heat to low, cover, and continue to simmer for 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "While rice is cooking, place tuna into a large mixing bowl and break up with your hands or a fork. Toss in red bell pepper, jalapeno, 1/4 cup green onions, rice vinegar, lemon juice, soy sauce, Sriracha, and sesame oil. Mix with a fork until thoroughly combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn off heat and let rice sit, covered, for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/pH4X4vUdiTL4BqQS_jQz2wfp6IQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7757838-62906b4d20484cb58b604841b44af691.jpg"
+}
+]
+,"text": "Fluff rice with a fork to separate the grains and break up any large clumps; transfer into the mixing bowl. Mix thoroughly with a spoon until all the ingredients are evenly incorporated. Taste and adjust seasoning if needed. Serve warm, at room temperature, or cold like a rice salad, topped with red pepper flakes and 1 teaspoon green onion."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "WAYYYYY TO MUCH VINEGAR! I used a 1/4 cup instead of 1/3 cup and it is not pleasant. I absolutely love vinegary things, but this is not good. I recommend using 2 table spoons instead. I used honey to try to combat the sourness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "janice"
+},
+"reviewBody": "This was quick and delicious. I used unsweetened rice vinegar and added a little sweet chili sauce. I suggest mixing the soy vinegar oil combination to taste before adding to the tuna."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daisy"
+},
+"reviewBody": "Tasty, with just right amount of zing. No changes, but doubled everything for the two of us."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JZimm"
+},
+"reviewBody": "I used orzo because that's what I had but otherwise followed the recipe. I liked it but wish I had read the reviews first. I also found it had too much vinegar--probably would use a quarter cup at most next time. I feel like it could use something extra--maybe some peanut butter or chopped peanuts?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "lisa"
+},
+"reviewBody": "Needs more veggies"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Cuppycakes"
+},
+"reviewBody": "This very sour. We didn't even eat it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "A unique combination of flavor. I just made this for one of my clients for meal peeps. Good protein and carb source."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "1/3 cup of rice vinegar is WAYYY too much. Was my first time using it so I didn’t know, but I wasted food thanks to that:/"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chefette Jo"
+},
+"reviewBody": "I was not expecting much from this dish, just needed a quick lunch. The first words that came out of my mouth were, “Excuse me??!”. I was blown away by how flavorful it was. If you prefer less tangy, cut the vinegar down by half (I love tangy and so added a bit more than the amount called for). Thank you for another delicious recipe, Chef John. YOU NEVER MISS!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Basmati rice, tuna in water, orange bell pepper, red onion, chopped garlic, baby bella mushrooms, seasalt butter (teaspoon), and Tiger Sauce (3 tbl spoons). Dusted with peppercorn medley.\n\nQ: How'd it taste?\nA: Magnifique!\n\nThis is a quick video with creative writing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Happy Cook Happy Eater"
+},
+"reviewBody": "This was an easy, quick and enjoyable meal for two. The lemon juice plus vinegar gave it such a bright flavor. The next time I make it I will reduce the amount of vinegar by about a tablespoon. \n\nMy ingredient substitutions were minimal: I used water-packed albacore because I had it on hand and couldn't justify a trip to the grocery store for oil-packed tuna. For the jalapenos I used a generous tablespoon of diced pickled (en escabeche) jalapenos in place of fresh. I omitted the Korean red pepper flakes because we felt the jalapenos would give the dish enough zip. My husband was a little skeptical of how this would taste but he liked it enough to polish off two generous servings of it. I refrigerated the leftover serving and ate it cold the next day. It was still very satisfactory. Thank you Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeri Edwards"
+},
+"reviewBody": "Yum!! Love the flavor and mix of crunch. Will definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Gore"
+},
+"reviewBody": "It may have been just a palette issue, but it was pretty meh for me. My husband loved it though and based on our love of Chef John recipes, I’m sure that the issue is more me than a recipe issue. But I saw some of the comments say that it tastes like sushi and I can confirm that this is false lol"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy in Sisters"
+},
+"reviewBody": "Chef John never disappoints! I used what I had on hand, canned albacore and white wine vinegar to which I added a touch of salt &amp; sugar. Other than that, I followed the recipe as suggested. While the rice finished cooking, I tasted the tuna mixture to be sure I had enough lemon juice. WOW! It was so delicious that I nearly omitted the rice! Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lusme"
+},
+"reviewBody": "Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenny Gautier"
+},
+"reviewBody": "Deliciously spicy! I replaced jalapeno with serrano, green onion with yellow onion, siracha with hot sauce, and did not have rice vinegar or sesame oil. Easy to make. Once everything was prepped, just had to wait for the rice to cook. I ate this warm. I really like spicy food so I made it a tad more spicy. Most definitely would make again for lunch!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Richard"
+},
+"reviewBody": "This was really, REALLY good!\nI used a different pepper in place of the jalapeño (Serrano?) and I used a touch less. The only change I might make next time is to reduce the seasoned rice vinegar by 1 - 2 tablespoons. But it was still great as-is and all the flavors blend wonderfully. AND, while I was surprised by this, I enjoyed it as much (if not even a bit more) cold than hot or room temp. Oh, it's definitely in the rotation!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "twarfield"
+},
+"reviewBody": "I made this. Followed the recipe just as it is listed and it came out great. I also feel like this would be a really great side dish as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrew Hebert"
+},
+"reviewBody": "Family really enjoyed this one and one member of my family wanted everyone to stop eating more so he could have it as leftovers for a couple of lunches later in the week."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tanya"
+},
+"reviewBody": "I loved it! I had fresh \"false albacore\" given to me by a friend and rice in my freezer so this came together even quicker. My hub isn't a fan of hot tuna so I cooked off a small piece and made this. I had this for breakfast and lunch one day and lunch another day.. I do add a bit more heat to mine and It was delicious and I will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Landmark"
+},
+"reviewBody": "I am slowly trying to build a tolerance to spicy foods and this was perfect! I generally don’t like spicy foods but this was delicious and full of flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gary"
+},
+"reviewBody": "Amazingly delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "aputler"
+},
+"reviewBody": "Fast, easy and tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "bygo"
+},
+"reviewBody": "Good, but not great. I enjoyed it and probably I'll make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doug Cook"
+},
+"reviewBody": "I made this dish for my mother-in-law that doesn't eat red meat when the rest of us had beef Fajitas. I made the dish exactly to recipe and it was a hit. Very tasty and easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra"
+},
+"reviewBody": "I was intimidated about using the amount of rice wine vinegar, but you can't even tell! This recipe is fast and delicious, even the kids loved it! It is very adaptable, I didn't have any peppers or onions; so I grated carrots, used broccoli slaw and chives. I also whipped siracha mayo for the adults."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "CatCat"
+},
+"reviewBody": "Way, way, WAY too much vinegar. It was all I could taste. Felt like my mouth was being stripped with paint thinner. I have no idea what the rest of the dish might have tasted like."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Char in NORCAL"
+},
+"reviewBody": "Other than substituting fresh dungeons crab for the tuna, I made it identical to the recipe. It was a hit! Will definitely make it again. May try edamame the next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David"
+},
+"reviewBody": "I've made this using kimchi, tuna in olive oil (don't use in water), leftover jasmine rice, topped with scallions. Awesome and filling."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Hairston"
+},
+"reviewBody": "I made this rice bowl for my boyfriend and me. We both loved it! I used a couple of foil packs of smoked salmon and added ginger and garlic. (personal preference)\nlet it set for a day and stir in a handful of veg, I used cabbage shreds.\nA must try and our newest lunchbox fave!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becky"
+},
+"reviewBody": "Holy moly this is fantastic! like amazing!!!!! Made it exactly as written except I am lazy and made rice in a rice cooker. Amazing!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kyla Threlfall Brown"
+},
+"reviewBody": "Yummy! I felt it had too much vinegar, but other than that we enjoyed it! I also cooked the veggies a little, but next time I will leave them raw as the recipe suggests for extra crunch and more varied texture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Laura"
+},
+"reviewBody": "Didn't love this one. Tried it warm and cold but something about the mix of flavors was not to my liking. Can't say that my husband or sons ( all young adults) liked it either. It got eaten so it wasn't horrible but just not something any of us really enjoyed so I will not be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dominique Watts"
+},
+"reviewBody": "This recipe had a very good taste. it wasn't too spicy either but I also didn't use the jalapenos. My husband and 5 yr old loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "momof3"
+},
+"reviewBody": "Made it exactly as the recipe called for except I had to double it so there’s enough for hubby and I! I like to eat it topped with furikake or the seaweed wrappers! Thanks for sharing the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily"
+},
+"reviewBody": "Delicious! I used tuna in water rather than tuna in oil (since that's what I had in the house). I also used white vinegar, and Frank's Red Hot rather than Sriracha. Super tasty, quick, and easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Dunkerton Schneider"
+},
+"reviewBody": "I put avocado on top as a garnish and some fresh dhania (cilantro)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tashagang"
+},
+"reviewBody": "This is a keeper for us. Used cheap water packed tuna and sushi rice because that's what we had. It's inexpensive, easy, tasty and not terrible on the calories. Sometimes that's exactly what you want/need."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Bobbie"
+},
+"reviewBody": "Sounded interesting and was a nice change of pace, just not a keeper for us."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "HOLLEY"
+},
+"reviewBody": "I only had the Thai Spicy tuna in a packet so used 3 of them and it was really good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joy"
+},
+"reviewBody": "Holy cow good! Thank you for recipe exactly as it is!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "ahecht"
+},
+"reviewBody": "Way too vinegary, to the point that I had trouble finishing it. Normal sushi rice uses 1-2.5 Tbsp of vinegar per cup of uncooked rice, this recipe uses 5.3. If I try this recipe again, I'll cut the vinegar in half."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise Mullins"
+},
+"reviewBody": "Delicious and very satisfying."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "dimas"
+},
+"reviewBody": "Quick Easy Filling \nMade twice...first time following Chef John recipe with tuna. Good!\nSecond time I swapped tuna with canned premium white chicken....beeetter!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie"
+},
+"reviewBody": "This is everything I want in life. I love this! I ran out of rice vinegar so I used half rice vinegar and some white wine vinegar and it's still really good. If you are subbing the vinegar, use less and taste to make sure it's not too strong. But I love this rice bowl! This will become one of my go-to lunches!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "stephanie b."
+},
+"reviewBody": "I had a packet of spicy tuna that had been lingering in the pantry, and since I’m social distancing at the moment, I’m trying to get creative with my pantry and fridge supplies. I didn’t have bell pepper or green onions, so I subbed in a small diced carrot and added a little onion powder to the marinade. I also used some leftover brown rice. I almost didn’t add the jalapeño because I was worried it would be too spicy for me, but it was pleasantly spicy even with some sambal oelek on top. It had a nice heat, but it was never overwhelming. I will definitely make this again and try the recipe more “out of the box.” It was comforting, tasty, and filling."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "TriadWarfare"
+},
+"reviewBody": "Probably not the best version as not a lot of things are available in my country, namely:\n-Seasoned Rice Vinegar (Had to substitute with Ottogi Brown Rice vinegar, which was too vinegary tasting for 1/3 cup. I think this is unseasoned so I had to add sugar/corn syrup and salt on a later attempt). Probably reduce the amount for a bit\n-Tuna in Olive oil (had to use chunks in water and boil off the water and replace it with Olive oil. Not as good as the ones that came in can with plain old vegetable oil as it came out way too \"fishy\" for my taste\n-Jalapeno pepper (fresh not available; substituted with finger peppers or pickled jalapeno)\n-Unwashed long grain rice (tried unwashed; got hospitalized for acute gastroenteritis. not a good idea for the quality of rice we produce. we have to wash it. probably need to add cornstarch or rice starch powder but don't know how much)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kyle Lovett"
+},
+"reviewBody": "I work a night shift, so everything is closed by the time I get to work, so I needed to do some meal planning. I just finished this, putting it into three small containers, with a little left over in the bowl to try out now. I am impressed with the final result, and am looking forward to my 4 O'clock meal for the next three nights."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Iver Lien"
+},
+"reviewBody": "This tastes like a spoonful of sushi in every bite. It is going to become one of our quick afterwork dinners and made with microwaved rice packets. Next time I'll dice a generous amount cilantro over the top to finish the dish. Cuz you know, cilantro!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Miguel Arguelles"
+},
+"reviewBody": "I didn't have green onions or lemon on hand but I got the idea of what it was meant to taste like. As with most of the dishes I've tried, it's essentially great, excepting that I had to adjust the ratios for one reason or another--in this case, it was a bit too vinegary for me, and not spicy enough."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cartaufalous"
+},
+"reviewBody": "I guessed right on the rice vinegar quantity! Thanks for the recipe though. I also added a splash of Shaoxing rice wine because my vinegar wasn't seasoned. I didn't think it needed any more sugar or salt though. With leftover rice this went together in about 10 minutes and wow, it's great! Good enough to serve at parties even. Thanks CJ for an awesome new dish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nathan Hoffman"
+},
+"reviewBody": "Strangely compelling. This was simple and true to the videos statement, stuff I already had in the kitchen. I also had fun racing the rice with the prep work. The sushi vinegar is a nice acid with the salt of the tuna and the heat of the peppers. Fast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cameron Prince"
+},
+"reviewBody": "I just made this (it's super easy), and I'm a fan! I will definitely be coming back to this one when I'm looking for a simple and tasty meal. I nearly always have a few cans of tuna in the pantry and everything else on hand except maybe the peppers.\n\nSo far I've only eaten it warm (I literally JUST made it...), but I can tell that it will be delicious cold, too!"
+}
+]

@@ -1,0 +1,99 @@
+,"name": "Roasted Roman-Style Romanesco"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "3"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "125 kcal"
+,"carbohydrateContent": "11 g"
+,"cholesterolContent": "6 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "182 mg"
+,"sugarContent": "2 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 drizzles olive oil, divided, or as needed",
+"2 heads Romanesco, leaves and stems removed",
+"3 oil-packed anchovy fillets",
+"3 tablespoons olive oil",
+"0.25 teaspoon red pepper flakes",
+"1 lemon, juiced",
+"0.25 cup plain dry bread crumbs",
+"0.5 cup finely grated Parmigiano-Reggiano cheese, divided",
+"1 lemon, cut into wedges" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 475 degrees F (245 degrees C). Drizzle olive oil into a roasting pan or baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut Romanesco into quarters, being sure to cut directly through the thick center core, so that they stay together when roasted. Set aside until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Add anchovies and 3 tablespoons olive oil to a large mixing bowl and use the back of a fork to mash the anchovies into a paste. Add red pepper flakes and lemon juice and stir with a fork to combine."
+} ,{
+"@type": "HowToStep"
+,"text": "Toss Romanesco in the dressing until the pieces are thoroughly coated. Sprinkle with bread crumbs and 1/2 of the Parmigiano-Reggiano cheese and toss until evenly coated."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer Romanesco into the prepared pan, cut side-down. Scrape all cheese and crumbs from the mixing bowl and scatter over the top. Grate the remaining Parmigiano-Reggiano to cover the tops and lightly drizzle with olive oil."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/zULn0iVPtoeKaGY-iaeEnpwl304=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8544157-3d77df3b1eeb4a2582f2e032111629dc.jpg"
+}
+]
+,"text": "Bake in the preheated oven until the cheese is browned and the Romanesco is tender, as tested with the tip of a knife in the cores, about 20 minutes. Serve immediately with fresh lemon wedges."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Marilyn in Seattle"
+},
+"reviewBody": "I really liked this and so did my 3-year-old grandson. He was impressed by the mountainous look of the Romanesco! I did cut the anchovy in half so it would not be so obvious, and it still gave the umami twist. And omitted the red pepper flakes for his sake and instead used a little black pepper. It needed an extra 5 min in the oven. The topping is tasty but not overpowering."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara"
+},
+"reviewBody": "This was divine. It is the first time my husband and I made romanesco, and we were shocked at how delicious it was. We will definitely be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Tina"
+},
+"reviewBody": "I love romanesco and it's a regular cast in my summer cooking! I always welcome new ideas to prepare it but I'm in two minds about this recipe. The flavor profile is great. I might cut back the lemon a bit next time but the combination of anchovis, parmesan, red pepper flakes and lemony freshness works really good with romanesco. But I don't think cutting a whole head of romanesco in quarters is the best way to cook it in the oven. The stem needs a lot longer than the florets to cook through and in the end the whole dish was a quite dry. Next time I would use more olive oil and cut the romanesco in smaller pieces and leaving out the stem. Also, it prefer this as a side dish with something saucy."
+}
+]

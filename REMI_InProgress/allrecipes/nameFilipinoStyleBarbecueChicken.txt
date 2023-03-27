@@ -1,0 +1,199 @@
+,"name": "Filipino-Style Barbecue Chicken"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "12"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "368 kcal"
+,"carbohydrateContent": "27 g"
+,"cholesterolContent": "157 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "40 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "2052 mg"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 medium very ripe banana, mashed",
+"0.25 cup tomato paste",
+"0.25 cup apple cider vinegar",
+"2 tablespoons brown sugar",
+"2 teaspoons vegetable oil",
+"2 teaspoons freshly grated ginger",
+"0.5 teaspoon onion powder",
+"0.25 teaspoon garlic powder",
+"0.25 teaspoon cayenne pepper",
+"0.25 teaspoon kosher salt, or to taste",
+"0.125 teaspoon ground allspice",
+"0.125 teaspoon ground turmeric",
+"0.25 cup water",
+"&frac12; cup prepared banana ketchup",
+"0.75 cup lemon-lime soda (such as 7-Up®)",
+"0.5 cup soy sauce",
+"4 cloves crushed garlic",
+"2 tablespoons brown sugar",
+"1 teaspoon freshly ground black pepper",
+"1 medium lemon, juiced",
+"2.5 pounds skinless, boneless chicken thighs, cut in half",
+"3 tablespoons reserved banana ketchup",
+"3 tablespoons soy sauce",
+"1 tablespoon brown sugar",
+"1 tablespoon vegetable oil",
+"1 teaspoon fish sauce" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mash ripe banana, tomato paste, vinegar, brown sugar, oil, ginger, onion powder, garlic powder, cayenne, salt, allspice, and turmeric together in a saucepan. Add water and stir to combine."
+} ,{
+"@type": "HowToStep"
+,"text": "Place over medium-high heat and bring to a simmer. Stir to combine. Reduce heat to medium and simmer until reduced and thickened, 7 to 10 minutes. Remove from heat; reserve 3 tablespoons for the basting sauce, leaving about 1/2 cup for the marinade."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer ½ cup banana ketchup to a bowl and add lemon-lime soda, soy sauce, garlic, brown sugar, black pepper, and lemon juice for the marinade. Whisk until combined. Add halved chicken thighs and toss to coat."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover with plastic wrap and marinate in the refrigerator for 4 to 18 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "When you are ready to cook the chicken, combine reserved 3 tablespoons banana ketchup, soy sauce, brown sugar, oil, and fish sauce in a small bowl for basting sauce."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat a charcoal grill until coals are very hot."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove chicken from the refrigerator and place on metal skewers, folding in half with the smooth side on the outside, the rougher side folded in."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/EAw7GBkzH5St7eLkl0Uumh94npk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/filipinobbqchicken1-08df25817e584b23a1e0a2cf862e3123.jpg"
+}
+]
+,"text": "Grill chicken over hot coals until no longer pink in the centers, 15 to 20 minutes, turning and basting every 2 to 3 minutes. Serve with accumulated juices or extra basting sauce."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT285M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HeyLookatMeLookatMe"
+},
+"reviewBody": "EXCELLENT. Followed to the letter and it looked exactly like Chef John's. : ) We've made it *twice* since the recipe video was uploaded to YT. We don't own a grill, so we used the skewers from our Ronco Showtime EZ-Store Rotisserie (yes, a cheezy appliance, but everything we've made in it has been great). This recipe's a WINNER! Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "This was so fantastic! Love the spicy-sweet ketchup and the marinade was on point! Grill time was perfect and they looked beautiful! Took over a day to make, but whatever, great way to use up a banana that's going out. Will make this again, thanks Chef!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Happy kids"
+},
+"reviewBody": "People will want more so double the recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The recipe was delicious, but more steps than the usual Chef John recipe. Make sure your banana is ripe, otherwise the green banana flavour comes through as an aftertaste. The flavour profile of marinade and basting sauce is different and both are delicious on their own. I will make this again (and again, and again)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I can barely type. The meat coma I am in has nearly claimed me. This was fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Amazing recipe! It's so easy to make, too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This came out awesome! Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "orrinonken"
+},
+"reviewBody": "I saw this on YouTube and made it today as written. This is a fantastic chicken recipe for the grill. Very tasty. I made it for my wife and me, but I think this would scale very well. It is going on my list for serving to guests."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "LOVE this recipe! Just made it today."
+}
+]

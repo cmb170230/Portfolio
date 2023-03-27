@@ -1,0 +1,548 @@
+,"name": "Salt and Pepper Spare Ribs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "40"
+}
+,"cookTime": "PT180M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "400 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "120 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "29 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "1084 mg"
+,"sugarContent": "0 g"
+,"fatContent": "30 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+, "recipeCategory": ["Dinner"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"4 teaspoons kosher salt",
+"1 tablespoon freshly ground black pepper",
+"1 teaspoon freshly ground white pepper",
+"1 teaspoon cayenne pepper",
+"0.5 teaspoon garlic powder",
+"2 tablespoons white vinegar",
+"2 teaspoons Dijon mustard",
+"1 rack St. Louis-style pork spare ribs" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix salt, black pepper, white pepper, cayenne, and garlic powder together in a small bowl. Set spice rub aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir vinegar and Dijon mustard together in a small bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Place ribs on a foil-lined baking sheet. Turn the ribs over so that the meat side is down. Use the tip of a small, sharp knife to make some very shallow slashes every few inches through the membrane that covers the ribs. Poke the knife 3 or 4 times between each rib bone, about 1/4 inch deep."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush about 1/2 of the Dijon mustard mixture on top. Sprinkle with about 40% of the spice rub. Turn the rack over and brush on the rest of the mustard and vinegar mixture. Sprinkle on the rest of the rub, reserving 1 or 2 teaspoons in case you want to use it to season the cooked ribs later."
+} ,{
+"@type": "HowToStep"
+,"text": "Refrigerate the ribs, uncovered, 4 to 12 hours before baking."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 300 degrees F (150 degrees C). Remove ribs from the refrigerator."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook in the center of the preheated oven for 1 1/2 hours. Remove from the oven and baste with the pan drippings. Continue to cook until very tender and the tip of a knife slides in very easily, about 1 1/2 hours more."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/A-aOQ_4mlqaUjtZY6bwkRpauCmM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8244958-2de7f5b03a444130942abbb6e035207e.jpg"
+}
+]
+,"text": "Remove from the oven, baste again, and let ribs rest for 15 minutes before cutting and serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT445M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Theses ribs were prefect and delicious. And the all American BBQ sauce went with them perfectly"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason Scott Provost"
+},
+"reviewBody": "These are fantastic every time we do them. Stick to the recipe and you'll love what you get ;)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very good, but it seemed way too salty with the amounts recommended by the recipe. cutting the amount of pepper and pepper in half seems to work well for my family's needs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JustMeLisa"
+},
+"reviewBody": "Perfect...make this every time we have ribs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Alan"
+},
+"reviewBody": "So so much salt, I took advice from previous reviews and cut back on the salt, still didn't cut back enough, ridiculous salty, not edible"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This recipe slaps. Big fan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anniedale"
+},
+"reviewBody": "Wow was this good - and easy. A keeper for sure,"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Adam Dwyer"
+},
+"reviewBody": "I loved it so much! I am making it again right now, in fact. :D"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sally Goody"
+},
+"reviewBody": "I'm giving this five stars based on the simplicity of the recipe. I have them in the oven as we speak. I hope they turn out as great as Chef John's. I did have to make one change, based upon what I had on hand. Instead of the Dijon mustard, I used regular ol' yellow, as that is what I had . Also, I doubled the recipe because when you have two hungry teenage boys at home, you've got to cook like you're preparing their last meal. Lol. Thanks, Chef John, for such a simple recipe. I'll let you know soon how much we enjoyed them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeffreyw"
+},
+"reviewBody": "This is my go-to recipe now. I love Aleppo pepper so I added it to the spice mix, giving the rendered fat that red tinge."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alan Sun"
+},
+"reviewBody": "I had a different kind of ribs, so I changed my cooking time to 300 degrees for 2 hours and 45 minutes. Came out great! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terri Jones-Speid"
+},
+"reviewBody": "They were by far the best ribs I’ve ever had! I followed the recipe to the letter and they were perfect! The whole family went back for more! I made Chef John’s barbecue sauce to go with them. A definite keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EmilyAJ85"
+},
+"reviewBody": "These were outstanding. My husband thought they were too salty, but I don't know that I'd change a thing (and he still ate all the leftovers)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Lauren Jackson"
+},
+"reviewBody": "Followed the recipe except modified cooking time for baby back ribs. I agree with other comments, this recipe was far too salty and also SPICY. I will utilize the techniques for another attempt, but I will make modifications to the seasoning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "saskia"
+},
+"reviewBody": "Made this a few times on the barbecue and followed the recipe exactly. Really liked the results and am planning to try this technique to make stuffed rolled ribs this winter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ron bodratti"
+},
+"reviewBody": "i’m a big fan of the man from clifton springs and make his recipes per his recipe. this was no exception. first time thru i made it with baby backs, this time withe the larger st. louis style ribs. didn’t matter - they were both delicious. a little salty but the pepper is what sticks with me. try them with the chefs all american bbq sauce. it’s sweet tanginess offsets the spiciness and saltiness of the ribs perfectly and is extremely easy to make. these would be great with the chefs deli style macaroni salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barret Waggoner"
+},
+"reviewBody": "I made these using pork baby back ribs, omitted the cayenne and granulated garlic, and the only pepper I used was the pepper mix in my grinder, which contains white peppercorns. The mustard paste was made with Dijon and apple cider vinegar, and it was a great way to get the salt and pepper to stick.\n\nAfter seasoning, I let the ribs hang out overnight in the fridge, then smoked them the next day at 250°F using maple wood chunks for smoke. I basted them with a mixture of apple cider vinegar and Worcestershire sauce, and after four hours they were done.\n\nI served them with a very good BBQ sauce, which paired wonderfully with the rib meat, and the minimal seasoning was perfect so the pure taste of the pork really came through. My wife said those were the best tasting ribs I've ever smoked, so I've decided to season them this way for the rest of whenever!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeff Scott"
+},
+"reviewBody": "Made these the first time as written. They were good. After that, I got lazy and have used a variety of pre-made rubs. Every single time (no matter the rub concoction) they turned out great. Either way, I'm making them for the 5th time tonight with another type of pre-made rub."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie"
+},
+"reviewBody": "I followed the recipe as is, and definitely was too salty, I did use kosher salt. I will use half or maybe even less next time because I can tell this is a recipe worth keeping, the cooking method was so easy and the meat was so juicy and perfectly cooked, the only problem was it was way too salty. I am looking forward to round two!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "charm"
+},
+"reviewBody": "The spices were good. The ribs were tender. The cooking time was too long so next time I'll check them sooner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "charm"
+},
+"reviewBody": "The spices were good. The ribs were tender. The cooking time was too long so next time I'll check them sooner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "For those complaining about salt, there is also a difference between Morton Kosher salt and Diamond Crystal Kosher salt (red and white box). If you can find Diamond Crystal, it is made by a different process than Morton's and results in a finer flake that is less salty than Morton's plus it dissolves faster than table salt or Morton's salt. I found that once I started using this salt in recipes created by Chefs, the seasoning started turning out just right."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Dr. Kenneth Grossman"
+},
+"reviewBody": "I used kosher salt and followed the recipe exactly. Came out way too salty. I really like Chef John, but this wasn't his finest. The ribs could have been so much better and it still took 3 hours. Sorry Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bubbles"
+},
+"reviewBody": "I made it exactly as written [including using kosher salt instead of the much saltier table salt, and grinding both the black and white pepper immediately before using]. It was simple, easy to make, and very tasty and tender. The black pepper and salt came through quite strong, and if either flavor were stronger they would have overpowered the dish. But since the dish is called \"salt and pepper ribs\", I'm not going to fault it for bringing salt and pepper. When I made it a second time I decreased the salt and black and white peppers by 20% and doubled the cayenne and Dijon mustard. That flavor profile felt more balanced, although what I made that time would be better called \"salt, pepper, and Dijon ribs\"."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Copelli"
+},
+"reviewBody": "I totally forgot to brush on the mustard and vinegar at the beginning, but these still turned out great. Only used about 2/3-3/4 of the rub mixture. I let them sit for about 4 hours before cooking. I did an extra basting with about 30 minutes left, no idea if that made any difference. Will definitely make again.\n\nRegarding the saltiness, others have stated. Make sure you are using non-iodized kosher salt. This is very important. I'm not even sure swapping sea salt or Himalayan salt would be a good idea in this situation. The ratios of ingredients would be different. Also, use some common sense, know your own cooking preferences, use the amount of seasoning you think is right. Generally though from my experience, you do need to add a bit more than you think you would when cooking big pieces of meat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Lowry"
+},
+"reviewBody": "Made these today, absolutely delicious! Only one thing I would twerk is the amount of salt. Next time I will cut back it a little. Thank you Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Christine Henley"
+},
+"reviewBody": "Way too salty. I used kosher salt as directed. There was too much rub and the flavor overwhelmed the meat. The cooking method worked well, though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "James R"
+},
+"reviewBody": "Seems straight forward to me that those complaining of the saltiness are not using kosher salt, which is about half as salty as table salt due to the larger grains. I highly recommend using kosher salt, or cut the salt in half if using table salt.\n\nI forgot to put the mustard vinegar on before the rub. I was in such a hurry to make these I got the rub on and put them in the fridge overnight. At cook time I added the mustard mix then. \n\nThey turned out great but I'll be anxious to do the \"right way\" next time.\n\nMy spare ribs were already cut into the 1 1/2 inch width pieces so I maybe could have cut down the cook time a bit.\n\nThose who mentioned dry ribs may also have not put the ribs on the pan \"bone side up\", or meat side down. Doing so let's the rendered fat keep the meat moist as the cook goes on.\n\nI'll be making these again for sure, and I'm an ardent smoker of back ribs on my weber charcoal kettle."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Duketogo"
+},
+"reviewBody": "So overwhelmingly salty, bordering on inedible, I think maybe half the rub would have been enough. They were also overcooked, and a bit dry with the amount of time suggested. I think a bit lower temperature and a lot less rub would have made this much better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John (Akran)"
+},
+"reviewBody": "Made this for Father's Day for my partner's godfather. First time cooking ribs and it was ridiculously easy. Everyone was impressed. I subbed Dijon for spicy brown mustard because I didn't have the former lying around but everything else was exactly as-is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Magali Urrutia"
+},
+"reviewBody": "Easy peasy!! I really liked it, the rub is deliciously spicy and salty. Not too salty because while cooking some of the saltiness melts off, but I guess it all depends on your taste buds! \nOne can also use left over rub for any meat you may want to grill! Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ToastedBread"
+},
+"reviewBody": "Nice and simple rub for ribs, and they turned out good. The timing might be a bit long for back ribs as Chef John used St Louis Style Side ribs, but they were still mostly tender and only dry on the ends. A bit plain flavour wise compared to a lot of recipes (especially those with glazes), it goes great with Chef John's \"All American BBQ Sauce\" recipe.\n\nRegarding the salt: I think the issue other reviewers have had is that Chef John uses kosher salt, and using the same amount of table salt will result in something too salty. It's about 2 tsp table salt for every 1 tbsp of kosher salt. I used a tablespoon (plus a bit extra to taste) of table salt since I'm all out of kosher, and the ribs (about 4 lbs of back ribs, so 2 large racks) turned out well seasoned."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tyler J. Evans"
+},
+"reviewBody": "extremely delicious. I made mine without letting them sit in the refrigerator for hours. they still turn out just fine. excellent with chef John's barbecue sauce. I used one-and-a-half tablespoons of salt instead of two."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Enrico with two friends"
+},
+"reviewBody": "Way too salty and dry. Love your recipes but you have better ways to do ribs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jon"
+},
+"reviewBody": "Keep it up Chef John! Amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Old General"
+},
+"reviewBody": "If you reduce the salt of the rub in half this turns into an almost perfect recipe. It cooked very well and while Chef John does not like falling off the bone, just ten minutes passed the three hours made it so. I used an almost three pound set of baby back ribs for the meat,"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tracy Mazur"
+},
+"reviewBody": "This is my new favorite rub recipe. It's simple, it isn't sweet and it has just enough kick to play nice with other sauces. It doesn't get lost in the sauce, but doesn't overpower it either."
+}
+]

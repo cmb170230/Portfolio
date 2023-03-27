@@ -1,0 +1,128 @@
+,"name": "Greek Spinach Rice (Spanakorizo)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "5"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "358 kcal"
+,"carbohydrateContent": "51 g"
+,"cholesterolContent": "17 mg"
+,"fiberContent": "6 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "918 mg"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.25 cup olive oil",
+"1.5 cups medium-grain white rice",
+"2 teaspoons large-grain kosher salt",
+"0.25 teaspoon freshly ground black pepper",
+"1 pinch cayenne pepper, or to taste",
+"1 bunch green onions, thinly sliced",
+"0.5 cup packed finely chopped fresh dill",
+"0.5 cup packed finely chopped fresh mint leaves",
+"1 pound frozen chopped spinach, thawed and squeezed dry",
+"2.75 cups cold water, or more as needed",
+"kosher salt to taste",
+"3 medium lemons, cut in half",
+"0.75 cup crumbled feta cheese",
+"2 tablespoons pickled red onions, or to taste",
+"1 pinch hot chili flakes, or to taste",
+"1 drizzle olive oil" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat oil in a saucepan over medium-high heat. Add rice and stir until every grain is coated in oil and you hear it start to sizzle. Stir in 2 teaspoons large-grain kosher salt, pepper, cayenne, and green onions and cook for about 1 minute."
+} ,{
+"@type": "HowToStep"
+,"text": "Add dill, mint, spinach, and 2 3/4 cups water. Mix until thoroughly combined and bring to a simmer."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover, reduce heat to medium-low, and cook until rice is tender, about 25 minutes. If rice is not quite ready at 25 minutes, add a splash of water, cover, and continue to cook until it is ready."
+} ,{
+"@type": "HowToStep"
+,"text": "Uncover and stir well. Cover again and let sit for 5 minutes. Taste and adjust salt if necessary."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/M67Sh2zOKQ52OoDU9qFeZvwe9jY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Greek-Spinach-Rice-2000-53212c20cd674e58b8cb3ebfa3acb43b.jpg"
+}
+]
+,"text": "Divide rice mixture evenly into six bowls. Squeeze ½ lemon over each serving, then top with feta cheese, pickled onions, chili flakes, and a drizzle of olive oil."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT55M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KatieW9908"
+},
+"reviewBody": "I threw my fresh spinach in the food processor to chop up and it didn’t seem to need wilting beyond that. Overall pretty good but definitely needed amping up, including the lemon juice. I also recommend subbing chicken or veg broth for the water (and leave out the salt initially, adjust later if it needs it)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenelle D"
+},
+"reviewBody": "I asked my son to get a pound of frozen spinach and he actually got 1.5 pounds. Went ahead and used it and it tasted fine. Served it with the Greek stew and it was fantastic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steve"
+},
+"reviewBody": "Very easy, and I did put the Stifado over it and my wife absolutely loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy"
+},
+"reviewBody": "I can't believe more people haven't tried this, because it's an absolute gem. The first time I made this, I paired it with the Stifado. We will definitely make that again once the weather cools. The second time, I paired it with Chef John's Greek Lemon chicken. The next day I put leftover chicken into a bowl with leftover rice for a one dish bowl meal, and that may have been the best pairing of all. I just used water. Lazy Girl particularly appreciated that this has enough vegs to count as a veg side and a starch side, as well as its versatility. Thanks Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Hadden"
+},
+"reviewBody": "Delicious. I didn't have enough herbs to pack tightly but close enough, next time I will buy more. I used the water that I squeezed out of the spinach to cook the rice in. Not sure if that was a genius idea or just disgusting but it worked out the the end. Also tasted nice the next day when cold. I served this rice with Chef John's Greek Beef Stew, another must try!"
+}
+]

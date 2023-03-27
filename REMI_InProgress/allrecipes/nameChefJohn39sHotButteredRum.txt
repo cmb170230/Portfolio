@@ -1,0 +1,246 @@
+,"name": "Chef John&#39;s Hot Buttered Rum"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "15"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "356 kcal"
+,"carbohydrateContent": "19 g"
+,"cholesterolContent": "61 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "13 g"
+,"sodiumContent": "45 mg"
+,"sugarContent": "18 g"
+,"fatContent": "21 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"8 tablespoons unsalted butter, at room temperature",
+"0.5 cup firmly packed dark brown sugar",
+"0.25 teaspoon pure vanilla extract",
+"0.5 teaspoon ground cinnamon",
+"0.125 teaspoon ground ginger",
+"0.25 teaspoon ground nutmeg",
+"0.125 teaspoon ground cardamom",
+"1 pinch ground cloves",
+"1 pinch salt",
+"6 tablespoons heavy cream",
+"1.125 cups dark rum",
+"4.5 cups boiling water, or as needed",
+"0.125 teaspoon ground nutmeg, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place butter, brown sugar, vanilla extract, cinnamon, ginger, nutmeg, cardamom, clove, and salt for batter into a mixing bowl and cream together with a spatula until well combined."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/pd_HqknWrqrCjeGOfQdCw3FPQWY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-75-5fad61ed61994b048208542e834e63ce.jpg"
+}
+]
+,"text": "To make the drink, place about 2 tablespoons of the batter into a festive, heat-proof mug. Add 1 tablespoon cream, 3 tablespoons rum, and fill halfway up with some of the boiling water. Stir with a spoon until the batter dissolves and top off more water. Garnish with a pinch of nutmeg. Repeat until all 6 drinks are prepared and serve immediately."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT15M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "connorlloyd1218"
+},
+"reviewBody": "One of my favorite drinks for cold days, and here in Washington, we get a lot of cold days."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eric"
+},
+"reviewBody": "This is an excellent recipe. So tasty! A perfect drink for a cold winter evening. Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jmozlin"
+},
+"reviewBody": "Followed the recipe to the letter and I have to say it was ridiculously good. Could not ask for more!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ShallowGal"
+},
+"reviewBody": "Mmmm, smooth &amp; comforting &amp; easy to make. you'll definitely want to, at a minimum, double the batch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy"
+},
+"reviewBody": "....omgosh..... This is thee best warm Christmas drink. I, again, made it exactly as written and videoed and It. Is. Amazing.\nThank you again, CJ for yet another excellent recipe. I am keeping the butter batter in my fridge all pandemic winter....it really helps on those cold dreary winter days....evoking all kinds of relaxation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bonnie B"
+},
+"reviewBody": "Delicious! Can’t believe I’ve been without hot buttered rum so long in my life.\nI left out the clubs because I don’t like them"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurel Anne"
+},
+"reviewBody": "We jokingly call this hot ruddered bum now - thanks Chef John! This is really tasty, but I worry about drinking butter because of the richness ...however, if I stick to one of these, it's OK . I am, afterall, the Queen Mum of my ruddered bum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ani"
+},
+"reviewBody": "So so good! Adjusted the spices a little bit but you could put anything in it and the combo of spices + butter + heavy cream + rum would be delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lovetocook"
+},
+"reviewBody": "This was perfect! Not too sweet but just right. Caution, have only one while baking Christmas cookies."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Galina Lutz"
+},
+"reviewBody": "This is really good and so easy to make and enjoy... Thank you, chef John, love my winter nights now...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "John C"
+},
+"reviewBody": "Made the recipe with one change (I can't eat dairy - so no heavy cream), had to grind my own cloves and cardamom (green is the variety that I had on hand) \n\nVery simple, very tasty, not overly sweet, not too much alcohol. Definitely wrapping an refrigerating the leftover batter. We'll have many more cold winter nights."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anne Miller"
+},
+"reviewBody": "Oh. This was SO good. \n\nI'm anxiously awaiting the next snow storm, immediately after which I will bundle up and sit on my deck, surrounded by the quiet of heavy snow and kept cozy by the boozy heat of this heavenly beverage."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth "
+},
+"reviewBody": "Wonderful flavor and texture! Reminds me a of a chai latte, but smoother."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rising Sons"
+},
+"reviewBody": "Wow! Super-simple to make and very delicious. And because the “batter” goes a long way, it’s easy to keep some on hand for use at a later date."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JessDaNerd"
+},
+"reviewBody": "This was quick to make and way tastier than the effort I put into it! That means it's perfect!"
+}
+]

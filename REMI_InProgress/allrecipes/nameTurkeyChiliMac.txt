@@ -1,0 +1,176 @@
+,"name": "Turkey Chili Mac"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "8"
+}
+,"cookTime": "PT50M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "373 kcal"
+,"carbohydrateContent": "30 g"
+,"cholesterolContent": "74 mg"
+,"fiberContent": "6 g"
+,"proteinContent": "32 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "1865 mg"
+,"sugarContent": "4 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 tablespoons olive oil",
+"1 medium yellow onion, diced",
+"1 teaspoon salt, or more to taste",
+"2 tablespoons chili powder, or to taste",
+"0.5 teaspoon ground dried chipotle pepper, or more to taste",
+"1 teaspoon ground black pepper",
+"1 teaspoon ground cumin",
+"1 teaspoon unsweetened cocoa powder",
+"1 pinch ground cinnamon",
+"0.5 teaspoon dried oregano",
+"3 cloves garlic, minced",
+"4 cups chicken broth, or more as needed",
+"1 (10 ounce) can diced tomatoes with green chile peppers",
+"1 cup tomato sauce",
+"1 pound coarsely chopped leftover turkey",
+"1 (15 ounce) can pinto beans, rinsed and drained",
+"1 cup elbow macaroni",
+"0.5 cup grated white Cheddar cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a pot over medium-high heat. Add onion and 1 teaspoon salt; cook, stirring, until it starts to soften and turns translucent, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "While onion cooks, make the spice mixture by combining chili powder, chipotle pepper, cumin, black pepper, cocoa, cinnamon, and oregano in a small bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Add garlic and the spice mixture to the onion and cook, stirring, 1 to 2 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in 4 cups chicken broth, diced tomatoes with chiles, and tomato sauce. Raise the heat to high and bring to a simmer. Reduce the heat to medium-low and simmer, stirring occasionally, for 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add the leftover turkey meat along with additional chicken broth if needed, and cook, stirring occasionally, for another 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Taste for salt and other seasonings and adjust as needed. Raise the heat to high and bring to a boil. Stir in pinto beans and elbow macaroni and cover tightly with a lid. Cook, covered, until the pasta is just barely tender, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ATENsWSbmrXnVi_Wr6XFqaNIg7A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-286-56d3a710e8754ba6ab5076691107f864.jpg"
+}
+]
+,"text": "Turn off the heat, remove the lid, and stir very well. Cover back up and let sit with the heat off for 5 minutes. Uncover, stir in Cheddar cheese, and serve immediately."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Tiscareño McKinley"
+},
+"reviewBody": "I've made this three times now, and my family LOVES IT! Since I only had turkey the first time, I've used chicken the two other times. Once, a shredded rotisserie chicken and once chicken breasts I simmered and shredded. It is a little spicy for me, but not for everyone else in the house, but I have a hard time with the spiciness of Rotel tomatoes lol. It is spicy but delicious and it doesn't stop me from eating it! Very easy and very yummy! I've added it to my dinner rotation, and every one is happy when they see turkey or chicken chili mac on the menu!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EmmJaye"
+},
+"reviewBody": "I made this with ground turkey and my family loved it! It's a unique blend of flavors just perfect as written, and this is now in our regular rotation!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "codemasterg"
+},
+"reviewBody": "Simple recipe, but creative use of leftover turkey. I loved to spice mix, thank you for this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "wrturner50"
+},
+"reviewBody": "Made recipe as is and it was great! My family really enjoyed it as well. Great way to use up leftover turkey."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris & Carla"
+},
+"reviewBody": "Simply Amazing!\nChef John, Thank you so very much for your delicious recipes! We used the leftovers from your marvelous deboned stuffed turkey. (BEST TURKEY RECIPE EVER!) with bacon stuffing, no beans, no cocoa, no cinnamon, double the amount of mac noodles, and double cheese to make a food so good we are adding it to the list for turkey leftovers! We made it last night and only two bowls survived the night to find out it is great for breakfast too!\nHope you have/had a wonderful Thanksgiving!\nChris &amp; Carla"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "juice _"
+},
+"reviewBody": "I made twice the amount for my family and there's only enough left for 3 more bowls. Great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teri Head"
+},
+"reviewBody": "Made as recipe calls for, added ground coriander and half the chipotle"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Countrygal1967"
+},
+"reviewBody": "Absolutely delightful! Chef John, you never miss a beat. My boyfriend devoured it and said it was a 5 star recipe!!"
+}
+]

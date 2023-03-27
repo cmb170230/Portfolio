@@ -1,0 +1,189 @@
+,"name": "Japanese Egg Salad Sandwich (Tamago Sando)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "12"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "759 kcal"
+,"carbohydrateContent": "31 g"
+,"cholesterolContent": "418 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "17 g"
+,"saturatedFatContent": "15 g"
+,"sodiumContent": "1729 mg"
+,"sugarContent": "6 g"
+,"fatContent": "64 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"4 large eggs",
+"0.5 cup mayonnaise",
+"0.25 teaspoon kosher salt",
+"0.75 teaspoon white sugar",
+"1 teaspoon Dijon mustard",
+"3 dashes hot sauce, or to taste",
+"1 teaspoon freshly squeezed lemon juice",
+"2 teaspoons rice vinegar",
+"0.5 teaspoon kosher salt, or to taste",
+"0.25 teaspoon white sugar",
+"1 pinch cayenne pepper",
+"1 tablespoon heavy cream",
+"4 slices soft white bread",
+"1 tablespoon unsalted butter, softened" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place eggs in the bottom of a saucepan. Add 1/4 inch of water. Heat over medium-high heat and bring to a boil. Cover and steam for 11 minutes. Turn off the heat and drain water carefully; pour cold water over and let cool."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix mayonnaise, salt, sugar, mustard, hot sauce, lemon juice, and vinegar for Kewpie-style mayonnaise together. Cover with plastic wrap and refrigerate until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Peel eggs. Mash in a shallow bowl with the side and back of a fork until desired texture is reached. Add salt, sugar, cayenne, heavy cream, and 3 tablespoons Kewpie-style mayonnaise. Stir to combine. Wrap and refrigerate until well chilled, at least 1 hour. Taste and adjust seasonings."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/J4kN22FOLhFCQFV69HG9iXsK4-M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9137858-8a268dbf191a400ab5a760017ebca27b.jpg"
+}
+]
+,"text": "Butter bread slices and use 1/2 of the egg salad on each sandwich. Cut crusts off before serving if you&#39;re fancy."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT85M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fast Family Feasts"
+},
+"reviewBody": "Very yummy unique take on egg salad sandwich. Will be making again. I used regular sandwich bread."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Tim B"
+},
+"reviewBody": "Not normally one to complain and I love Chef John's recipes. \n\nThat's not kewpie mayo. \n\nThat's classic coleslaw dressing. \n\nThe main difference is Kewpie has MSG in it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yancando"
+},
+"reviewBody": "BEST EGG SALAD EVER! While I really enjoy a good pesto egg salad, I have to say the kewpie mayo in this Japanese egg salad is my new absolute favorite! I don’t have enough superlatives to describe it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bill"
+},
+"reviewBody": "Pretty good. I had small eggs which made the sauce/egg ratio a little challenged."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bloob987"
+},
+"reviewBody": "Yet another truly excellent take on a classic Japanese snack food, Chef John never fails!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Callye Brown"
+},
+"reviewBody": "Realfwg"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brian Matthews"
+},
+"reviewBody": "Chef john is the bomb dot com and this sando is my favorite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherlock Ward"
+},
+"reviewBody": "There were only two differences between the recipe shown in the video &amp; what I used. I didn't have any milk bread at my rural store, nor do I have the appropriate tools for making bread (like a stand mixer, dough hook, or patience), so I picked up a loaf of Artisian golden wheat, which was super fresh. Second difference: used yellow mustard vs dijon. The mayo was similar to what I use for spicy mayo when I make sushi so I was familiar with the general flavor target. I had unseasoned rice vinegar on hand, so that was extra nice (unseasoned rice vinegar &amp; saki are used to create dashi flavoring, which is good stuff). The eggs I used came direct from a relative's farm &amp; were insanely fresh so I SUPER appreciated Chef John's method of steaming &amp; de-shelling eggs. It worked like a dream. Never have I had eggs this fresh peel so nicely. Only thing: the eggs were bigger than the extra large eggs you get in store (the chickens my relative has are over acheivers) so I should have steamed them an extra minute or two because they weren't -quite- as done as I would have liked. But close enough &amp; I'm no stranger to 'undercooked' eggs, as one of my favorite comfort foods is Tomago Kakei Gohan. But everything went well. The hardest part is letting stuff chill in the fridge before consumption - as I noted earlier I'm deficient in patience. But I stuck it out. I even made one for my sister &amp; she gave this recipe two thumbs up. This was so wonderful I will keep it as a regular 'menu' item."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Adam"
+},
+"reviewBody": "Okay, let me start off by saying I don't really like egg sandwiches but my wife does. I made this for her and she loved it. I decided to try it hoping it wouldn't be like traditional egg sandwiches and it didn't disappoint! Much better. I actually ate the whole thing! Thanks to Chef John, I don't have to throw away leftover Easter eggs!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Recepierre"
+},
+"reviewBody": "Truly the best egg salad I have ever had.\n\nI ran to the store same day to get milk bread. Looking forward to making a batch when the recipe is out!\n\nI left out the dijon from Chef John's kewpie-style mayo and it was the perfect flavor for me. I did replace the lemon juice with a little less like juice as that's all I had on hand.\n\nA bit salty, even without MSG, so next batch will try halving the salt in the tamago sando, but keeping the mayo where it is at.\n\nDoubling the tamago sando and using the specified kewpie-style mayo recipe still left me with half the mayo left for another double batch of the egg salad. Three spoons of it was plenty for the consistency I wanted."
+}
+]

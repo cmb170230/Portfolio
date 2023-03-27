@@ -1,0 +1,103 @@
+,"name": "Apple Walnut Canadian Butter Tarts"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "4"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "344 kcal"
+,"carbohydrateContent": "35 g"
+,"cholesterolContent": "33 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "208 mg"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"cooking spray",
+"flour for dusting",
+"1 pound prepared pie crust",
+"2 cups apple juice",
+"0.75 cup packed brown sugar",
+"6 tablespoons unsalted butter",
+"1 large egg",
+"1 tablespoon whipping cream",
+"0.5 teaspoon vanilla extract",
+"1 pinch salt",
+"0.5 cup chopped walnuts" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Lightly spray a muffin tin with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Dust a work surface with flour and roll out pie dough to a thickness of about 1/8 inch. Cut out 12 circles using a 4-inch round pastry cutter,"
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough into lightly sprayed muffin tin. Press the dough gently into the bottom and sides. Refrigerate while you prepare the filling."
+} ,{
+"@type": "HowToStep"
+,"text": "Add apple juice into a saucepan and simmer over medium-high heat until it has reduced to 3 or 4 tablespoons of apple syrup. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Place brown sugar into a bowl and pour apple syrup on top of the sugar. Add melted butter, egg, cream, vanilla, and salt. Whisk until filling is liquid and smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Pull pastry out of the fridge. Divide walnuts evenly on top of the bottom of the tart shells. Pour filling on top about 2/3 full. Tap the pan to smooth out filling."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/4EH9IG8I_hKaQWe83SnwrxxSyYg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-Walnut-Canadian-Butter-Tarts-1x1-1-2000-4689b4362a6c4585afb143e0ed062d68.jpg"
+}
+]
+,"text": "Bake in the preheated oven until crust is cooked through and the filling is bubbly, about 20 minutes. Let cool for about 10 minutes then remove from the muffin tins and serve at room temperature."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Unfortunately, the filling was not enough to counteract the commercially made pastry dough. I will try these again, but I'll use my own pastry, grate an apple into the filling, and I might even use raisins! (Or what about a little faux mince? But maybe then they wouldn't be Canadian anymore.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "Made these for Thanksgiving, followed the recipe and they were fantastic! I just use refrigerated pie crust because of the timeline I had to work with. The filling sortof sunk after they cooled, but the taste was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "L Massey"
+},
+"reviewBody": "I made these a few days ago just as the recipe stated and they were wonderful. The apple cider reduction did seize up when I poured it on the brown sugar so I just popped it in the microwave for 30 seconds and continued on. My husband and I ate two a piece still warm and will be the rest at room temp. I used the butter crust recipe and it is very easy to do and very flakey. Normally pie crust doesn't do well for me but this one worked very well. I will definitely be making these again. Thanks for another great recipe Chef John!"
+}
+]

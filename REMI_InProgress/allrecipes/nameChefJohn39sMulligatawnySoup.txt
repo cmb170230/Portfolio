@@ -1,0 +1,225 @@
+,"name": "Chef John&#39;s Mulligatawny Soup"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "12"
+}
+,"cookTime": "PT70M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "263 kcal"
+,"carbohydrateContent": "29 g"
+,"cholesterolContent": "54 mg"
+,"fiberContent": "6 g"
+,"proteinContent": "18 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "1591 mg"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 tablespoon unsalted butter",
+"1 tablespoon vegetable oil",
+"1.25 cups boneless, skinless chicken thighs",
+"1 teaspoon kosher salt, or more to taste",
+"1 tablespoon curry powder",
+"1 teaspoon garam masala",
+"0.5 teaspoon ground cumin",
+"0.5 teaspoon freshly ground black pepper",
+"0.25 teaspoon ground mustard",
+"0.25 teaspoon ground coriander",
+"0.25 teaspoon cayenne pepper",
+"4 cloves garlic, minced",
+"1 tablespoon finely grated fresh ginger",
+"1 large yellow onion, diced",
+"2 carrots, diced",
+"2 stalks celery, diced",
+"1 tablespoon tomato paste",
+"1 cup cubed Yukon Gold potatoes",
+"0.5 cup seeded and diced tomato",
+"2 small Granny Smith apples - peeled, cored, and diced",
+"0.5 cup dry red lentils",
+"1 bay leaf",
+"1 teaspoon tamarind paste",
+"6 cups chicken broth",
+"3 tablespoons coconut cream",
+"0.5 cup plain Greek yogurt, or to taste",
+"0.25 cup chopped fresh cilantro, or to taste",
+"0.25 cup sliced green onion, or to taste",
+"1 pinch red pepper flakes, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Melt butter and oil in a soup pot over medium-high heat. Add chicken thighs and season with salt; let brown for 4 to 5 minutes. Flip and brown on opposite side, 4 to 5 minutes more."
+} ,{
+"@type": "HowToStep"
+,"text": "While chicken browns, combine curry powder, garam masala, cumin, black pepper, ground mustard, coriander, and cayenne in a small bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove browned chicken from the pot and transfer to a plate to cool enough to handle; roughly chop or shred."
+} ,{
+"@type": "HowToStep"
+,"text": "While chicken cools, reduce heat to medium and add spice blend to pot; cook and stir until fragrant, about 30 seconds. Add garlic and ginger; cook and stir until fragrant, about 1 minute. Add onions, carrots, and celery. Season with salt and cook, stirring, until onions turn translucent, 3 to 4 minutes. Stir in tomato paste and continue to cook for 3 minutes more. Stir in potatoes, tomatoes, and apples. Add red lentils, bay leaf, and tamarind paste."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour in chicken broth, stir, and raise heat to high; add coconut cream. Bring to a simmer. Stir and reduce heat to medium-low. Let simmer, stirring occasionally, for about 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir chopped chicken and any accumulated juices into the soup. Continue to let simmer, stirring occasionally, until vegetables are fully cooked, lentils are tender, and soup has thickened, 20 to 30 minutes more. Taste and adjust as needed."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ZwSV9IQGfJc3O_eSfVxPCVqTaXQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1Chef-Johns-Mulligatawny-Soup-2000-f93d63ad93b641b3a80f5b48ec05ed60.jpg"
+}
+]
+,"text": "Serve in warm bowls topped with Greek yogurt, cilantro, and scallions. Sprinkle with red chili flakes."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT100M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer McLinko"
+},
+"reviewBody": "I didn't do any toppings. Didn't need any! So good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MegP"
+},
+"reviewBody": "Delicious soup, lots of prep work, but worth it. I didn't have Tamarind paste or coconut cream, so substituted Worcester Sauce and coconut milk. Perfect blend of spice and sweet. Another great Chef John recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LoriM"
+},
+"reviewBody": "I made this soup over the weekend when it was below 0. My husband loved it! Kids ate it and liked it but wanted more chicken. I told them it was a soup and not a stew! Don't skip the apple. Another winning recipe from Chef John! thank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dana Hickman"
+},
+"reviewBody": "Excellent as written, I only made one substitution based on what I had on hand (lime juice instead of the tamarind paste). Very hearty and filling soup for winter! - Jan '23"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JMFoodie"
+},
+"reviewBody": "We liked this soup. I had a green apple that was not tart so added lemon juice at the end. Otherwise I followed explicit directions. A nice change"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was so good, all the family loved it!! Definitely going to make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made it according to recipe, but substituted parsley for cilantro. Fantastic and will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy"
+},
+"reviewBody": "Chef John doesn't do a lot of diet foods, but this fills you up and keeps you full. There's quite a bit of prep but it is very tasty. Lazy girl served with Trader Joe's frozen naan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was amazing! Everyone including the 6yo was going back for more. I am out of gram marsala so I subbed in pumpkin pie spice and a little extra curry. Also missing celery but added a little seed and bouillon with msg. I went heavy on the tamarind using a block of pressed pulp and it added a nice acidity. Anyway, it's a soup so lots of room to play around but I got pretty darn close. Thanks for turning me on to this one! The naan was a perfect pairing to make a full meal for 4 big eaters with leftovers"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "caminvan"
+},
+"reviewBody": "I followed the recipe exactly and it is fantastic. What a delightful soup. It's got a light spiciness that is pleasant - though I could easily see how folks might find it too spicy. Don't skip the apples and be sure they're granny smith or something similarly tart."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mr Bill"
+},
+"reviewBody": "Really flavorful and delicious. I was tempted to make rice because of sheer laziness but glad I opted to make some crispy delicious flatbread to go with it. I used rotisserie chicken. I was intending to make a casserole, but got distracted by chef John! It was just fine, but I think the thighs would be just right. The breast meat was not succulent."
+}
+]

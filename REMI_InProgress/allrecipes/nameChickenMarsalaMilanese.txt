@@ -1,0 +1,510 @@
+,"name": "Chicken Marsala Milanese"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "39"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "953 kcal"
+,"carbohydrateContent": "101 g"
+,"cholesterolContent": "254 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "62 g"
+,"saturatedFatContent": "17 g"
+,"sodiumContent": "1911 mg"
+,"sugarContent": "9 g"
+,"fatContent": "34 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 (6 ounce) skinless, boneless chicken breast halves",
+"kosher salt and freshly ground black pepper to taste",
+"1 pinch cayenne pepper, or to taste",
+"0.5 cup all-purpose flour, or as needed",
+"1 large egg, beaten",
+"1.5 cups panko bread crumbs, divided, or more as needed",
+"1 ounce Parmigiano-Reggiano cheese, freshly grated",
+"0.25 cup olive oil for frying",
+"3 tablespoons unsalted butter",
+"8 ounces brown mushrooms, sliced",
+"salt to taste",
+"2 tablespoons all-purpose flour",
+"0.5 cup dry Marsala wine",
+"2 teaspoons lemon juice",
+"2 cups chicken broth",
+"1 pinch ground black pepper",
+"1 pinch cayenne pepper",
+"1 tablespoon chopped flat-leaf (Italian) parsley" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place chicken breasts between two pieces of plastic wrap, or a cut-open zip-top bag, and use a meat pounder to flatten the meat to about 1/4-inch thickness."
+} ,{
+"@type": "HowToStep"
+,"text": "Season chicken on both sides of the chicken with salt, pepper, and cayenne, and transfer to a large plate. Sift flour over both sides of the chicken until the surface is completely coated. Transfer to a clean plate."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush away any excess flour from the plate. Sprinkle about 1/4 inch of panko onto the surface of the plate."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour the egg over the floured chicken and use a brush to paint evenly over the meat. Flip and repeat on the other side. Once chicken has been thoroughly coated with the egg, pick up each piece with tongs, letting the excess egg drip off, and place on the plate of panko."
+} ,{
+"@type": "HowToStep"
+,"text": "Generously sprinkle panko over the top of the chicken and press in with your hands or tongs. Flip the chicken over, and sprinkle more panko over the top. Repeat until the chicken is well breaded all over."
+} ,{
+"@type": "HowToStep"
+,"text": "Sprinkle a light coating of the Parmigiano-Reggiano over the top of the chicken and press lightly into the breading with your hands. Flip and repeat on the other side."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer to a plate sprinkled with more panko. Cover with plastic wrap and keep in the refrigerator until you&#39;re ready to pan-fry."
+} ,{
+"@type": "HowToStep"
+,"text": "To make the sauce, melt butter in a saucepan over high heat; add the mushrooms and a large pinch of salt. Cook mushrooms, stirring occasionally, until well browned, 5 to 6 minutes. Reduce heat to medium and stir in flour. Cook, stirring occasionally, for another 2 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour in Marsala and lemon juice and use a spatula or spoon to scrape any caramelization from the bottom of the pan. Pour in chicken broth and raise heat to medium-high. Season with black pepper and cayenne and bring to a simmer. Cook the mixture, stirring occasionally, until it reduces and thickens slightly. Keep hot until needed or let cool and reheat when needed. Before serving, some freshly chopped parsley can be stirred in."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/373t2EbZL1o_rB9CImocGgaBbsk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-41-ab6c0c24e98d4443b38a6c92460cd2e8.jpg"
+}
+]
+,"text": "Heat olive oil in a nonstick skillet over medium-high heat. Add the breaded chicken to the pan and reduce the heat to medium. Cook until golden brown and cooked through, about 3 minutes per side. Serve immediately with Marsala sauce underneath or spooned over the top."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "fladonn"
+},
+"reviewBody": "I was looking forward to this because I truly love mushrooms. This recipe looked so good, I made a double batch. But I was disappointed. First, the color of the sauce was not the same as the video. Not a big problem; I just added a few drops of Gravy Master to achieve the color I wanted. The biggest disappointment was using LEMON JUICE. The lemon soaked into the mushrooms to the extent it completly overpowered the taste of the mushooms. The recipe definitely has potential and I will make it again WITHOUT the Lemon Juice. The juice completely spoiled the outcome of the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "judygoldin"
+},
+"reviewBody": "I don't use wine. Normally I use chicken broth. What would I use to replace marsala? 🙂"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Delicious recipe! I didn't have marsala wine, so i used cooking sherry and it was so good and flavorful! It made a ton of sauce, so you could definitely make 3 or even 4 chicken breasts. Nice and crispy, whole family enjoyed it. Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "twindham"
+},
+"reviewBody": "Delicious: Intructions clear and the technique utulizing as few plates as possible made me really happy...then I had a bit of chicken and sauce and realized I'd been guided onto another culinary plane without realizing it. Fine dining at home...just amazing. Thanks Chef John"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Jones"
+},
+"reviewBody": "OUTSTANDING prepared exactly as written and the family LOVED it. (this is one of your top 3 recipes of all time was one comment) Served with another Chef John recipe (Honey Habanero Corn Cake) and everything was a huge success. I'm 66, hardly a novice cook but i have learned so much from Chef John and pretty much use only his recipes these days."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lacyanne"
+},
+"reviewBody": "I had a feeling this would be delicious and I was not disappointed. I chose to double the recipe and increase the amount of sauce to enjoy with Chef John's Crunchy Potatoes. I reheated an extra breast in the air fryer with great success. I will definitely be making this again. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jill Tate"
+},
+"reviewBody": "Great recipe. Second time making it and everyone loved it, even my picky 8 year old said it was his new favorite food."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Good recipe. For all those who are complaining about it being to cumbersome and complicated, it’s not as hard as you make it out to be. If you’re a beginner, just read the directions, get your ingredients together and measured, make an assembly line for your flour, panko, etc., and it goes pretty quickly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TJE"
+},
+"reviewBody": "Very nice. Crisp and tender chicken and a wonderful mushroom sauce. Made exactly as the recipe states."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rhelmig"
+},
+"reviewBody": "Delicious! I can see making the chicken this and using it in other recipes too. We loved the crispy coating and the hint of Parmesan. The Marsala sauce and mushrooms were delicious also."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alisha Crane"
+},
+"reviewBody": "My husband had to do most the cooking as I was severely hungover after celebrating the night before and the wine made me queezy. That aside, it was so delicious that even though I had mine cold a few hours later, my mouth was still watering for more. Pairs really well with mushroom rice, green beans, and Brussels sprouts"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "vbuccieri"
+},
+"reviewBody": "Followed the directions and watched Chef John's video....the dinner was fantastic. Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charles Pascual"
+},
+"reviewBody": "Easy-to-follow recipe and quick to make. We liked this and will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sue"
+},
+"reviewBody": "I prepped the chicken as per the recipe but cooked it in my air fryer about 4 minutes per side. The chicken itself was beautifully browned, crispy, and moist, but relatively tasteless. The sauce, however, made up for it. Delicious! I will definitely use the sauce recipe again, but with an easier breaded chicken recipe designed for an air fryer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SycamoreMan"
+},
+"reviewBody": "This is a super dish - and really not that difficult to assemble..my only change was to use Shitake mushrooms rather than Bella - they are much better tasting -- and I also added 1 Shallot ... &amp; I did thicken the sauce as I served with noodles - and the sauce is very tasty &amp; good...Can't wait to make again.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Doug Raymond"
+},
+"reviewBody": "The Milanese was fine, it's Milanese. The Marsala lacked a whole bunch of flavor. I had to add probably another 1/4 to 1/2 cup of Marsala to get any flavor in it. I also found the instructions cumbersome. I have a degree in C.A., and the process here was very odd!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurie Hurwitz"
+},
+"reviewBody": "Loved the recipe. I used the traditional breading technique with excellent results. Sauce was delicious with perfect amount of sweet and citrusy. Would definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LaLa"
+},
+"reviewBody": "I loved the the end product but I was put off by all of the steps. I mean really?! So I improvised. I made an egg wash and two seasoned coatings. One seasoned flour and one Panko and Parmesan cheese. I pan fried the breaded chicken first and then made the mushroom sauce in the same pan. The chicken was very flavorful and crunchy. The sauce was okay. I added capers and that really added a lot more flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "stantiva"
+},
+"reviewBody": "Yes, Crispy and great sauce. Used boneless thighs, with skin on. Easy to prep and schedule. Looking forward to the leftovers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "peterbeckles"
+},
+"reviewBody": "I liked the presentation video. Learnt some useful techniques e.g., sifting the flour is surprisingly effective &amp; simple for better egg wash adhesion and generally how chicken can be used as a base. Two problems: 2 cups broth is a bit much. I like a thicker sauce, and a whole lot of panko had to be discarded at the end. Finally? Loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Don Hickey"
+},
+"reviewBody": "Great recipe! I didn't have Marsala wine so I substituted Pinot Noir. Was still great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sunshinegirl"
+},
+"reviewBody": "Made according to the recipe til I could taste it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tim Moore"
+},
+"reviewBody": "Absolutely one of the best chicken dinners I have ever made and eaten, Delicious. I received my All Recipes email today and this was the first recipe, Hearty Weeknight Dinners. Chef John this must be one of the top food dishes ever."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dcs007ny"
+},
+"reviewBody": "Made this as is minus the mushrooms as we don’t like mushrooms but love marsala. It was absolutely delicious!! I had a lot of extra sauce since the mushrooms weren’t used but I’m sure I could save it for next time. If I had to change one thing it would be to maybe reduce the chicken broth to one cup and let the Marsala taste shine through. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rputala"
+},
+"reviewBody": "This recipe is a real home run! The chicken was crispy and very light, with a delicate intriguing sauce on top. I bought thinly sliced chicken breast cutlets so I didn't have to pound them. I followed the directions and they came out almost like German schnitzel. So good! If you want to impress somebody with a restaurant quality dinner, this recipe is sure to dazzle!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eddie Coyle"
+},
+"reviewBody": "Man after my own heart. I love marsala and Milanese (veal, chicken &amp; pork) and this combines them. Only thing I changed was Italian breadcrumbs as I did not have panko. I may make a Milanese stand alone but I can not imagine why I'd make a straight marsala again without Milanese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "Followed the recipe and it was a no fail! The chicken was delicious with an amazing crispy crust! I followed the steps and refrigerated the chicken for maybe an hour while I got everything else together. Heated the oil, fried the breasts and had everything plated in minutes. Fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy"
+},
+"reviewBody": "Best recipe ever for Chicken Marsala"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charity"
+},
+"reviewBody": "Made exactly as written. Loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "camillej71"
+},
+"reviewBody": "excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paisey"
+},
+"reviewBody": "My son and I loved this. I intentionally used sweet marsala though. I don't think that is the same as dessert marsala though, because it's not sickening sweet. It wasn't as dark as the marsala chef john used, so it didn't present as well, but boy it was tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "normanweiler"
+},
+"reviewBody": "This recipe is one of the best chicken dinners that I ever had. Thank you Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "julianrichardm"
+},
+"reviewBody": "This was an incredible recipe. Had no parmesan for that nice extra step but still came out crispy and delicious. Maybe just the broth I used, but came out a little bit salty, I will tone the salt down a pinch next time I make this (which will be very soon!)"
+}
+]

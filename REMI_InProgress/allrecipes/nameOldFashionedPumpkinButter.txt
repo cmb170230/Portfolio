@@ -1,0 +1,123 @@
+,"name": "Old Fashioned Pumpkin Butter"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "5"
+}
+,"cookTime": "PT50M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "33 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "1 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "0 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "62 mg"
+,"sugarContent": "6 g"
+,"fatContent": "0 g"
+,"servingSize": "2 1/2 cups"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 (15 ounce) cans pure pumpkin puree",
+"0.75 cup white sugar",
+"0.25 cup pure maple syrup",
+"1.5 teaspoons ground cinnamon",
+"0.5 teaspoon ground ginger",
+"0.25 teaspoon freshly grated nutmeg",
+"1 pinch ground cloves",
+"1 pinch kosher salt",
+"1 pinch cayenne pepper",
+"1 cup apple juice",
+"1 tablespoon apple cider vinegar",
+"1 tablespoon cold unsalted butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine pumpkin puree, sugar, maple syrup, cinnamon, ginger, nutmeg, cloves, salt, cayenne pepper, apple juice, and apple cider vinegar in a deep, heavy-bottomed saucepan; whisk until thoroughly combined. Place over medium-high heat and stir occasionally until simmering."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce heat to medium-low and cook, stirring occasionally, until the mixture thickens and reduces by about half, 45 to 60 minutes. The sauce will be very hot, so wear an oven mitt and stir carefully. You may also want to use a splatter guard to keep the sauce from dirtying your stove."
+} ,{
+"@type": "HowToStep"
+,"text": "Once reduced, remove from the stove and let cool for 10 minutes. Toss in butter and whisk until it disappears. Let cool to room temperature, about 1 1/2 hours."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/yixF7RQ37mfbVvp1NBXWakkUmkU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-260-919386d2792d49f5a9552f9849edd1b0.jpg"
+}
+]
+,"text": "Transfer pumpkin butter into an airtight container and place in the refrigerator until thoroughly chilled and flavors have developed, 8 hours to overnight. Store in the refrigerator."
+} ]
+,"recipeYield": ["40"]
+,"totalTime": "PT630M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made it just as the recipe is!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Clay"
+},
+"reviewBody": "Very rich and pumpkiny? Great on rye toast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "marilyn_tremblay"
+},
+"reviewBody": "I used it with another pumpkin recipe (https://melassegrandma.com/muffins-la-citrouille-aux-flocons-davoine-et-la-melasse/) to fill in the middle! It was awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ralph"
+},
+"reviewBody": "First, it's Chef John and obviously delicious. Wonderful flavor and definitely a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Super simple and delicious."
+}
+]

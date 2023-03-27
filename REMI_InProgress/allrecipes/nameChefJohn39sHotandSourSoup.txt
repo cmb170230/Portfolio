@@ -1,0 +1,616 @@
+,"name": "Chef John&#39;s Hot and Sour Soup"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "43"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "193 kcal"
+,"carbohydrateContent": "19 g"
+,"cholesterolContent": "99 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "11 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "1979 mg"
+,"sugarContent": "6 g"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"0.75 ounce dried shiitake mushrooms",
+"2 tablespoons soy sauce, or more to taste",
+"0.25 cup seasoned rice vinegar",
+"1 teaspoon ground white pepper, or to taste",
+"0.25 teaspoon sesame oil",
+"3 tablespoons cornstarch, or as needed",
+"3 tablespoons water, or as needed",
+"2 teaspoons vegetable oil",
+"1 teaspoon minced fresh ginger root",
+"0.25 cup sliced green onions",
+"4 cups chicken broth",
+"0.25 cup grated carrot",
+"2 tablespoons thinly sliced red bell pepper",
+"0.5 cup bamboo shoots",
+"1 cup cubed tofu",
+"2 large eggs, beaten" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Soak dried shiitake mushrooms in hot water, stirring occasionally, until soft, 15 to 20 minutes. Drain well and slice into thin strips."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk soy sauce, vinegar, ground white pepper, and sesame oil together in a small bowl for hot and sour mixture; set aside until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk cornstarch and water together in another small bowl for slurry; set aside until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat vegetable oil in a saucepan over medium-high heat. Add ginger, sliced green onions, and shiitake mushrooms. Cook, stirring, for about 2 minutes. Pour in chicken broth and bring up to a simmer. Reduce heat to medium and simmer for 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in carrot, red pepper, bamboo shoots, tofu, and the hot and sour mixture. Let simmer for 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Raise heat to medium-high and bring to a boil. Stir the soup slowly with a spoon while transferring in the beaten eggs in a steady stream to create thin ribbons. Keep stirring until the soup comes back to a boil. Reduce heat to medium."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/eDFgoaWxT1dni8qWNRLRAZgyN4E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-268-69f45492e554473ab4c16f417c38d2d8.jpg"
+}
+]
+,"text": "Stir the cornstarch slurry to make sure it&#39;s well blended, then slowly drizzle it into the soup while stirring constantly. Soup should thicken up within 1 to 2 minutes. Turn off heat, taste for seasoning, and serve."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT65M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cathy"
+},
+"reviewBody": "I thought the soup was excellent. I wouldn’t change a thing. Better than most restaurants."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Best Hot and Sour soup I have ever had, much less made."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris"
+},
+"reviewBody": "This recipe is da BOMB! I made this tonight, following the recipe exactly using Chinese black vinegar. As Chef John suggested, I broiled a boneless pork chop, and sliced it into very thin strips and added it at the very end. OMG, this is the best hot sour soup we have had in years! Our favorite Chinese restaurant had closed awhile back, and we haven’t found anywhere that was as good until now. My husband is out of his mind with glee. Thank you, Chef John, for another amazing recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "smoavenzadeh"
+},
+"reviewBody": "We added some cooked chicken. A little sirracha sauce to add more heat. It is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Peripeteya"
+},
+"reviewBody": "Great recipe, but it was too chunky for my taste. So, I used 6 cups of broth. Also I used wood ear mushrooms instead of shiitake. Fantastic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "I have made this a few times now and it is fantastic! I too use extra ginger because....yummy! So simple to make and the video really helps break it down."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Judy"
+},
+"reviewBody": "Followed recipe to the letter with exception of bamboo shoots (I didn't have any), and it was tastey but seemed to be lacking something. I did add a tad more soy sauce &amp; another splash of rice wine vinegar at the end, but it just didn't have that *punch* that we are used to with the soup from our favorite restaurants. Might try finding some black vinegar at an Asian food store and see if that makes the difference. It was good, but not outstanding."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jreid1965"
+},
+"reviewBody": "This was sooo yummy. I added a little extra soy sauce &amp; white pepper. I also added a pound of small shrimp. I left out the tofu and bamboo shoots. This was very easy to make and was loved by all the heat eaters."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "damiantb"
+},
+"reviewBody": "I just made this and it was fantastic! This was my first time making something with tofu, had no idea it would be this delicious. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "D. Bennett"
+},
+"reviewBody": "Simpler recipe than my previous. Video was helpful. Made it without changes and it was great. My new favorite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kenandbrandey"
+},
+"reviewBody": "I've made this a few times now. So good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bethany Good"
+},
+"reviewBody": "Amazing. We live in a really rural area now, and the one Chinese restaurant’s hot and sour is basically black pepper. This was incredible and a treat! We like it a little thinner, so we added more broth and only one egg, I’d probably do the second egg next time. We like a little heat and added a little thai chili pepper, but otherwise the seasoning was on point, I wouldn’t have added the heat except my boyfriend loves it. Will 100% make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Bev"
+},
+"reviewBody": "It is most likely authentic, however, I don't like the whole eggs. If I make it again, I'll use the whites only. I love restaurant style hot and sour soup and the restaurants whose soup I've had used just the whites."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Macfast"
+},
+"reviewBody": "Added Gochugaru and cayenne pepper it's now my favorite hot and sour soup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peter Zachos"
+},
+"reviewBody": "Phenomenal. Just phenomenal. Reminded me of the hot &amp; sour soup of the great Chinese restaurants of my youth. I had to modify slightly. ON the one hand, I did not have dried shiitake, so I had to use fresh. BUT, on the other hand, I did have some Zhenjianh, and I also got to add a bit of dark soy sauce to replace a teaspoon of the light soy sauce. The results were sublime. And the heat... my nose was running the whole time, and I loved every bit of it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LK Lifestyles"
+},
+"reviewBody": "What really made this recipe taste like the hot and soup soup of my younger non-Paleo days was the addition of white pepper! Who knew? I changed what I needed to to make this a Paleo compliant dish and it was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kent Wright"
+},
+"reviewBody": "It was delicious prepared as written!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Les CS"
+},
+"reviewBody": "Oh my goodness, is this delicious or what? The only thing I didn’t add was tofu, but I followed the recipe as described and it turned out amazing! I substituted the shitake by regular brown mushrooms and it turned out great as well. It has a little kick due to the white pepper and it just tastes delicious! I’ll be making it more often, that’s for sure. En-joooy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "2 Cat Household"
+},
+"reviewBody": "This recipe was way simpler than I thought possible! Dried shitakes, as suggested, would have given it a more authentic flavor (as far as take-out-hot-and-sour-soup-vibes go), but I used the dried mixed mushrooms I had on hand. The ingredient list included pantry and weekly grocery staples, so it made for an excellent mid-week meal. The soup definitely gets ugly before it turns presentable, but the flavors were harmonious and the texture was smooth without being gloopy. Another win from the tutelage of Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ryan Allen"
+},
+"reviewBody": "Followed the recipe. Great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "dida1952"
+},
+"reviewBody": "My husband and I were very disappointed in this recipe. I made it exactly as written, but it just did not have that perfect Hot &amp; Sour taste of the soup we so love. We are probably a bit of snobs when it comes to this soup. We added a bit of chili-garlic sauce to help with the zip, but the background flavor was just NOT there. We had hoped that next day leftovers would be more flavorful, but no luck."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie"
+},
+"reviewBody": "Wonderful! Just like the real thing! And low in calories!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ladonna Posey Elliott"
+},
+"reviewBody": "Really really good. Just the right amount of hot and sour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "roszes"
+},
+"reviewBody": "It was quite good.I needed to add salt and sesame oil . I will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Austin K"
+},
+"reviewBody": "Easy and delicious! Have made it a couple times now and have discovered a few things - if you don’t have chinese black vinegar or *seasoned* rice vinegar, you can used unseasoned rice vinegar with a splash of balsamic vinegar. If you don’t like your soup quite so thick, cut the egg and the cornstarch slurry in half. Also I personally prefer a firmer tofu for the texture instead of the soft. But also delicious as is!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Molly M"
+},
+"reviewBody": "I made this exactly as written. I found it was sour but not hot. I added about a teaspoon of Sriracha a sauce, it was excellent will certainly make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "deborah"
+},
+"reviewBody": "I followed the recipe, except I ran out of the desired amount of soy sauce. I substituted a small amount of teriyaki sauce. great!\nIf I were to make it again I would leave out the red peppers...I love them, but it didn't do the soup any favors...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Plonq"
+},
+"reviewBody": "I made this the other day after the video came up in our regular playlist. I'd have made this a long time ago if I'd realized how straight-forward it was. It turned out as delicious as promised.\n\nI had to make an emergency substation for the carrots (shredded zucchini), but I suspect that affected the colour more than the flavour. After I tried the soup, I added some strips of char siu, since one of our favourite local restaurants serves it that way. The pork complemented it nicely."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "beeky"
+},
+"reviewBody": "This is quite good. I used the true Chinese black vinegar and followed John’s lead in using a Tbs of ginger. I used fresh shitake mushrooms. It just needs something else and I can’t put my finger on what it is. Maybe salty. Still a good dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "stephmugu"
+},
+"reviewBody": "This soup was excellent! Very comparable to the soup at my favorite Chinese restaurant. I added a pinch of red chili pepper flakes to kick up the heat, otherwise followed the recipe as-is. Another home run from Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth Nagy"
+},
+"reviewBody": "Absolutely delicious. I wanted to eat the whole pot! Thank you, Chef John, for getting me to cook with tofu for the first time in my life."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurel Anne"
+},
+"reviewBody": "I use thinly cut chicken breast instead of tofu - works great. This can be a pretty low calorie meal and is a favorite on diet days!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ILove2Cook"
+},
+"reviewBody": "this soup had an amazing flavor--we both loved it. I never bought tofu before. They had firm and silken...so I bought silken. It seemed to be fine until I put the egg in--then it kind of dissolved. No matter! it was delicious. Next time, maybe I'll stir in that tofu after the egg and cornstarch. Also, next time I think I'll use a little hot red pepper (have some tiny ones in my freezer). We like it spicy. This was not too spicy for us at all, however, my white pepper was old, so that may have been it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "natty rey"
+},
+"reviewBody": "Perfect for warming up on a cold winter evening! Husband now wants this over the Chinese delivery option from here on out. Had to sub with baby bella shrooms I needed to use up in the fridge. Looking forward to using shiitake for sake of flavor and authenticity, but even still this recipe absolutely nails it for our household."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ghobgood"
+},
+"reviewBody": "That was darn good. I added several thin slices of pork belly I had on hand. I will be making this soup again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy"
+},
+"reviewBody": "Spectacular! I did dice and marinate some pork loin that I added. Otherwise followed exactly. Best Hot and Sour soup I have ever had, much less made."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John"
+},
+"reviewBody": "I couldn't wait to try this recipe. I followed the recipe exactly and it was delicious. Thank CJ"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Travelots"
+},
+"reviewBody": "Incredible recipe! We couldn't stop eating it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alison Sleeper"
+},
+"reviewBody": "This turned out really well! I did have black vinegar, so I used it, as suggested. It's better than from my favorite restaurant in Boston. Im thrilled that I know how to make this now. Thank you Chef John! I may buy the special spoons now!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "smith6ar"
+},
+"reviewBody": "Really really good. It is helpful to use room temperature eggs though. \n\nThis was really good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Foodnpiste"
+},
+"reviewBody": "I saw, I made, I ate. Sooo good. Not a fan of tofu so I used 150g of shrimp. Still good but maybe I’ll get some soft tofu."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cvpo"
+},
+"reviewBody": "This was an incredible soup and stupid easy to make. I've brought great shame upon myself and my family for not learning to make this sooner. Thank you Chef John! You've earned a subscriber here."
+}
+]

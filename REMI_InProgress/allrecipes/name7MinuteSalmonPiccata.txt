@@ -1,0 +1,100 @@
+,"name": "7-Minute Salmon Piccata"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "4"
+}
+,"cookTime": "PT7M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "566 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "163 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "35 g"
+,"saturatedFatContent": "19 g"
+,"sodiumContent": "361 mg"
+,"fatContent": "43 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"2 (6 ounce) boneless, skinless salmon fillets",
+"salt and freshly ground black pepper to taste",
+"1 pinch cayenne pepper, or to taste",
+"1 teaspoon all-purpose flour",
+"2 tablespoons clarified butter",
+"2 tablespoons drained capers",
+"0.25 cup white wine",
+"1 lemon, zested and juiced",
+"2 tablespoons unsalted butter",
+"1 tablespoon water, or as needed",
+"2 tablespoons chopped fresh Italian parsley" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Season salmon with salt, pepper, and cayenne. Sprinkle flour onto one side of each fillet and pat gently onto the fish."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat clarified butter in a nonstick skillet over medium-high heat. Add salmon, floured side down, and let sear for 2 ½ minutes. Flip and sear the other side for 2 minutes. Remove to a plate and cover with foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Add capers to the skillet and press with the back of a fork to gently mash. Pour in wine and lemon juice; add lemon zest. Swirl the pan to combine. Let reduce by half, about 1 minute."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce heat to low and add butter; swirl the pan or stir with a spoon or spatula until butter is almost fully melted. Transfer salmon and any accumulated juices from the plate back into the skillet. Allow butter to fully melt while spooning sauce over salmon."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour in water to thin sauce if needed; continue to spoon sauce over salmon and cook until salmon is fully cooked through and flakes easily with a fork. An instant-read thermometer inserted into the center of the fillets should read about 145 degrees F (63 degrees C). Sprinkle parsley over top."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/zp6t2kArb56gGFKBF5Fp06sKBbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/salmonpiccata1-2000-97168ca6651547fc892807c311f22801.jpg"
+}
+]
+,"text": "Remove from heat and transfer to a serving plate; spoon pan sauce over salmon."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT12M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "McGood"
+},
+"reviewBody": "The leftovers were even better! I had frozen salmon, and I thawed it as it cooked. Not ideal, but it was midweek dinner. No matter, it was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bob Cutrupi"
+},
+"reviewBody": "Great recipe. I added too much salt, not realizing the capers are salty. Other than my error, very tasty and easy to make. I will make this over and over."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lacyanne"
+},
+"reviewBody": "This recipe produced a very tasty piece of salmon. I am usually not a fan of capers but wanted to try something different so I marched on and made the recipe as written. I only had to substitute rose for the white wine. The result was excellent. I would probably still cut down on the capers for personal taste but the sauce had wonderful acidity and made for a great lunch. Thanks, Chef John!"
+}
+]

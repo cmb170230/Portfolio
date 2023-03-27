@@ -1,0 +1,71 @@
+,"name": "Breakfast Pork Cutlets"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "4"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "464 kcal"
+,"carbohydrateContent": "25 g"
+,"cholesterolContent": "81 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "24 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "1232 mg"
+,"sugarContent": "6 g"
+,"fatContent": "30 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+, "recipeCategory": ["Breakfast"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"Spice Mix:",
+"1/4 teaspoon whole fennel seeds",
+"1/2 teaspoon freshly ground black pepper",
+"1/2 teaspoon dried poultry seasoning",
+"1/4 teaspoon freshly ground nutmeg",
+"1/4 teaspoon garlic powder",
+"1 pinch cayenne pepper",
+"Cutlet:",
+"2 (6-8-ounce) boneless center cut pork chops, trimmed",
+"1 1/2 teaspoons kosher salt, or to taste",
+"2 teaspoons maple syrup",
+"1/2 cup fine dry breadcrumbs",
+"2 tablespoons olive oil",
+"1 tablespoon butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Crush fennel seeds in a mortar and pestle; transfer to a small bowl. Stir in black pepper, poultry seasoning, nutmeg, garlic powder, and cayenne; set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Make several shallow vertical cuts through fat on edges of each pork chop. Place each chop between 2 pieces of plastic wrap; pound to 1/4-inch thick using a meat pounder or heavy flat object. Transfer to a plate."
+} ,{
+"@type": "HowToStep"
+,"text": "Season both sides of chops with salt; sprinkle both sides with spice mix. Rub or brush each side of chops with about ½ teaspoon maple syrup. "
+} ,{
+"@type": "HowToStep"
+,"text": "Sprinkle each chop on one side with breadcrumbs; press in firmly. Turn over and repeat."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat olive oil and butter in a nonstick skillet over medium to medium-high heat. Pan fry pork cutlets, turning once, until meat is no longer pink at the center and edges are browned and crisp, about 2 minutes per side. An instant-read thermometer inserted near the center should read 145 degrees F (63 degrees C)."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I followed the recipe almost exactly. Only changes were, and I'm sorry in advance to Chef John, I used a spice grinder and not a mortar and pestle. I also only had panko breadcrumbs, so I popped those in the spice grinder too and made them fine. Anyway, this recipe was incredible! Salty, sweet, perfect. Made it with some fried eggs and it was just great. The family loved it."
+}
+]

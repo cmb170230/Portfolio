@@ -1,0 +1,89 @@
+,"name": "Pecan Pie Energy Bites"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "119 kcal"
+,"carbohydrateContent": "15 g"
+,"fiberContent": "2 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "41 mg"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 cup pecan halves",
+"0.333 cup rolled oats",
+"1 cup pitted Medjool dates",
+"0.125 teaspoon ground cinnamon",
+"0.25 teaspoon kosher salt",
+"0.25 teaspoon vanilla extract",
+"1 tablespoon maple syrup" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Arrange a single layer of pecans on the prepared baking sheet. Top with rolled oats. Bake in the preheated oven until toasted, about 10 minutes. Allow to cool completely."
+} ,{
+"@type": "HowToStep"
+,"text": "Pulse pecans, oats, dates, cinnamon, salt, vanilla extract, and maple syrup in a food processor until nuts are ground to desired consistency."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/BDw8F70K9G3J3feAHq7_UWq_gWQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Pecan-pie-energy-bites-chef-john-2000-d6fbb9081b7e4a89bd1bcfa587dbbece.jpg"
+}
+]
+,"text": "Shape mixture into twelve 2-inch tightly-packed balls. Refrigerate before serving."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made these for my medicinal edible needs. They taste really good and were really easy to make! This will be my main goto recipe for edibles!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "To start these taste delicious. Recipe was easy to follow and really quick. Toasting the nuts and oatmeal made the flavor much better. This is now one of our favorite snacks in the house!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ericbierbauer"
+},
+"reviewBody": "Quick. Easy. Delicious. Hit the trifecta."
+}
+]

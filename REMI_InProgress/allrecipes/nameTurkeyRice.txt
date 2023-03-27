@@ -1,0 +1,127 @@
+,"name": "Turkey Rice"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "6"
+}
+,"cookTime": "PT90M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "443 kcal"
+,"carbohydrateContent": "34 g"
+,"cholesterolContent": "129 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "48 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "2539 mg"
+,"sugarContent": "3 g"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+, "recipeCategory": ["Dinner"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"1 cooked turkey leg",
+"1 cooked turkey thigh",
+"0.5 cooked turkey breast, chopped",
+"4 cups chicken broth, or more as needed",
+"1 yellow onion, diced",
+"0.75 cup uncooked white rice",
+"2 teaspoons kosher salt",
+"1 pinch freshly ground black pepper",
+"1 pinch cayenne pepper",
+"2 tablespoons minced green onions",
+"2 tablespoons minced red pepper",
+"0.25 cup cilantro leaves, minced" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine leftover turkey leg, thigh, and breast meat in a stockpot over high heat; add chicken broth and onion. Bring to a boil, reduce heat to medium-low, and cover. Simmer, flipping turkey pieces over halfway, until meat falls off the bone, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer turkey pieces to a bowl and let cool until safe to handle."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, bring broth to a boil and stir in rice. Season with black pepper, cayenne, and salt. Reduce heat to medium and let rice simmer until it starts to plump up, about 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Pick turkey meat off the bone and chop into small pieces. Stir into the rice, adding more broth as needed. Cook over medium-low heat until rice reaches desired tenderness, 10 to 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/fSDaB3HijdNx4cIVb1HzGZH07sA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7326437-bce12332f60c4e1d9acee7eeeb5b27db.jpg"
+}
+]
+,"text": "Smash green onions, red pepper, and cilantro together for the salsa. Taste and season turkey rice as desired, then scoop into serving bowls and top with salsa."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT105M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jim Valvis"
+},
+"reviewBody": "This is an absolutely terrific dish. In fact, it's so good my daughter requests it sometimes. And if we cannot find turkey, chicken works as a decent substitute. Just make sure to roast it first-- and keep in mind chicken breaks down faster than turkey, and so I lower the times. As for too much salt, the problem the other reviewer probably had is she used table salt when the recipe calls for kosher salt. The difference in that would be profound. Also, some broths are naturally salty and you have to take that into account. The bird itself may add some salt, depending on how you cooked it. Either way, you should know how salty you like things, and so it's wrong to put a one-star review on a dish you messed up. Fixing it with lemon juice is pointless. Add more (salt-free) broth, more rice. It would even out some. Anyway, if you hate cilantro, like me, parsley works fine here. As do red or green bell peppers if you dislike heat. Some shredded carrot added at the beginning might add a little color and veggie action for the kids. This dish is really worth giving a shot. It won't change your life, but you may find yourself craving it, even when it's not Thanksgiving-time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Tina Hunt"
+},
+"reviewBody": "Way too much salt!!!! I think it should be 1/2 teaspoon not two teaspoons.\nI tried lemon juice to get rid of the excessive salt fast and it didn’t help. \nWe took a few bites and threw it away."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Alora"
+},
+"reviewBody": "I made this after Thanksgiving and am making it again tonight. I just used the stock I made from the turkey carcass and the leftover turkey off the bird. My very picky 8 yr old gobbled it right up. It's easy enough to make on a regular basis using chicken or just picking up turkey wings &amp; drumsticks at the store."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "VogueSense"
+},
+"reviewBody": "This is a great way to use up turkey in a way that doesn't remind you of Thanksgiving. My husband doesn't like leftover turkey, says it has a taste, but he loved this dish.\nI just had one turkey leg and made half the recipe. I did have to add a lot more broth than expected, but I am pretty sure it's because my pot let out a lot of steam so the broth evaporated. I added more broth, used 1/2 cup rice, and it still worked out great. If you don't want to use the suggested topping, I sprinkled Parmesan cheese on my rice and it was a nice addition."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Paul Comeau"
+},
+"reviewBody": "good use for turkey, would have preferred a weight for meat amount as legs and thighs vary"
+}
+]

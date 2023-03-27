@@ -1,0 +1,205 @@
+,"name": "Banana Bread Mug Cake in a Minute"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "11"
+}
+,"cookTime": "PT2M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "602 kcal"
+,"carbohydrateContent": "81 g"
+,"cholesterolContent": "46 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "14 g"
+,"sodiumContent": "444 mg"
+,"sugarContent": "38 g"
+,"fatContent": "30 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1 medium very ripe banana",
+"2 tablespoons packed brown sugar",
+"1 tablespoon white sugar",
+"0.25 teaspoon salt",
+"0.25 teaspoon baking powder",
+"0.125 teaspoon baking soda",
+"3 tablespoons melted unsalted butter",
+"1 tablespoon milk",
+"0.125 teaspoon vanilla extract",
+"0.5 cup all-purpose flour",
+"0.25 cup chopped walnuts",
+"2 tablespoons dark chocolate chips",
+"6 slices banana",
+"1 tablespoon white sugar, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine ripe banana, brown sugar, white sugar, salt, baking powder, baking soda, melted butter, milk, and vanilla in a mixing bowl; use a potato masher to mash the mixture into a smooth puree. Add flour and mix until just combined. Stir in walnuts and chocolate chips until evenly mixed."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer batter evenly into two lightly buttered coffee mugs or cups. Tap a few times on a towel to settle everything down and ensure there are no air pockets."
+} ,{
+"@type": "HowToStep"
+,"text": "Microwave cups, one at a time, until a toothpick comes out clean, about 1 minute."
+} ,{
+"@type": "HowToStep"
+,"text": "Let cool before serving."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/KqcLIXosJcJw2Pfxr9UuQckU-OQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9313741-banana-bread-mug-cake-in-a-minute-Chef-John-1x1-1-08ba4683710848a8be440563f394466f.jpg"
+}
+]
+,"text": "Optional: Garnish each with banana slices and dust with sugar. Brulee the tops with a blowtorch."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT12M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JuliaFab"
+},
+"reviewBody": "This is a very quick and easy recipe and I loved It! Would Recommend it!❤"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I make this almost every weekend for my family and we all love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was super yummy even though it didn't look that great lol. I added some cinnamon and made it in a bowl instead of two mugs"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I added blackberries instead of nuts. Fantastic"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Sooooooooo goood!!! my fave recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JEANETTE"
+},
+"reviewBody": "Simple and tasty. Used stevia instead of sugar; chips but not nuts. Made in microwave muffin pan. Doubling made 6 small cakes (3 minutes) plus one small tea cup (1 minute). Do try this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TRELAINA"
+},
+"reviewBody": "Really good. Left out pecans and added a little baking spice (cinnamon, nutmeg etc)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Best mug cake recipe I’ve ever tried. Took my microwave 2 minutes to fully cook the cake. Only had 1 banana and no walnuts so I topped with a few extra chocolate chips and whipped cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KARENVG"
+},
+"reviewBody": "For the last 2 days, hubby has been asking me to use the overly ripe bananas to make banana bread!\n\nThanks to the August heat, the bananas ripened too quickly but I was reluctant to bake him bread as the oven heats up the kitchen. So your microwave banana bread recipe was ideal: Delicious and Easy! Only wish I used a larger mug as it did overflow. \n\nI was reluctant to try the recipe as nobody had written a review but am so glad I took a chance. After all, I’ve made several of your other recipes that turned out amazing. Thanks for saving me all that time and sweat in making a very tasty treat!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shereen Alkhateeb"
+},
+"reviewBody": "Loved it !! Sooo yummy and easy thank u Chef john !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ezoomy"
+},
+"reviewBody": "It was so easy and tasty! We eliminated 1 TBS sugar. 2 TBS brown sugar was enough. Added walnuts but no chocolate chips. No topping, either."
+}
+]

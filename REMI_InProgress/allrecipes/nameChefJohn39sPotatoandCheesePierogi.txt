@@ -1,0 +1,139 @@
+,"name": "Chef John&#39;s Potato and Cheese Pierogi"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "4"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "739 kcal"
+,"carbohydrateContent": "68 g"
+,"cholesterolContent": "96 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "23 g"
+,"saturatedFatContent": "24 g"
+,"sodiumContent": "1267 mg"
+,"fatContent": "42 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT60M"
+,"recipeIngredient": [
+"3.5 cups all-purpose flour, or more as needed",
+"1 teaspoon kosher salt",
+"0.25 cup vegetable oil",
+"1 cup warm water (120 to 130 degrees F/50 degrees C)",
+"2 tablespoons warm water (120 to 130 degrees F/50 degrees C)",
+"0.5 cup unsalted butter",
+"1 large yellow onion, diced",
+"0.5 teaspoon kosher salt",
+"3 medium russet potatoes, peeled and quartered",
+"16 ounces farmer's cheese",
+"1.5 teaspoons kosher salt",
+"1 teaspoon ground black pepper",
+"1 pinch cayenne pepper, or to taste",
+"1 tablespoon unsalted butter, or more as needed",
+"2 tablespoons sour cream, or to taste",
+"2 teaspoons snipped fresh chives, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Prepare dough: Mix 3 ½ cups flour and salt together in a large bowl, then make a well in the center. Pour vegetable oil and 1 cup plus 2 tablespoons warm water into the well. Stir to form a shaggy dough that just pulls away from the sides of the bowl. Use a little flour to clean the dough off the spoon."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough to a work surface; press and knead for a few minutes until you have a smooth, soft dough. You can add a little more flour if it&#39;s too sticky but don&#39;t add too much. Form dough into a ball and wrap in plastic. Leave on the counter for 1 hour or pop it into the refrigerator for 3 hours to overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Prepare buttered onions: Melt butter in a skillet over medium heat. Add onion and salt and sauté, stirring occasionally, until golden brown, 8 to 10 minutes. Turn off the heat and let mixture cool a bit, then transfer to a bowl and reserve until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Prepare filling: Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes. Drain well and mash until smooth. Let cool to room temperature, 10 to 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Place farmer&#39;s cheese in a bowl and break it up with a spoon. Add salt, pepper, and cayenne, then add 2 to 3 heaping spoons of the buttered onions. Be sure to drain off most of the butter so you&#39;re adding mostly onions. Mix just until ingredients are evenly combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Add cooled mashed potatoes and mix until thoroughly combined. Set aside while you roll the dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll ¼ of the dough at a time on a floured surface until very thin, at least 1/8-inch thick or thinner if possible. Cut 3 ½-inch circles out of the dough, saving all scraps for re-rolling."
+} ,{
+"@type": "HowToStep"
+,"text": "Add about 2 tablespoons filling to the center of each circle. Moisten your fingertips with water and wet the edges, then fold the dough over the filling and seal the two edges together in the center. Flatten the filling very lightly under the dough as you press and seal the edge of each pierogi with your fingers, working from the center to the ends. Try not to trap air in the pierogi as you seal. The edge can be left as is, or you can pinch the dough every inch or so to make pleats for a more decorative appearance."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring a large pot of salted water to a boil. Add pierogi in batches and cook for about 2 to 3 minutes (they may or may not float to the top.)"
+} ,{
+"@type": "HowToStep"
+,"text": "While the pierogi are boiling, melt butter in a nonstick skillet over medium heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer pierogi from the boiling water directly into the melted butter. Cook until light golden brown, about 2 minutes per side or longer if more browning is desired."
+} ,{
+"@type": "HowToStep"
+,"text": "Continue boiling and browning pierogi in batches as needed."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ys3MWg8XsEDVMouqHBL0Q1J86cc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_2494-2000-cb7d6d6356e148b69c58406982e4c6a8.jpg"
+}
+]
+,"text": "Transfer to a plate and spoon buttered onions over top. Garnish with sour cream and chives."
+} ]
+,"recipeYield": ["7"]
+,"totalTime": "PT195M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dang"
+},
+"reviewBody": "This turned out excellent for our Christmas Eve dinner! Made the dough ahead (actually 48 hours before I got to it), and used cheddar with cream cheese. Cooked it in batches via air fryer, boiled, and pan fried. My husband said boiled with butter was the winner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Sahutoglu"
+},
+"reviewBody": "Delicious! We couldn't find farmers cheese so used queso fresco (I'm told they are the same thing)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Amazing and simple recipe! I did a little spin on it because I had these ingredients on hand already and my hubby loves these flavors. I made my pierogis with sweet potato, feta, 4oz. Of sharp cheese, cream cheese, thyme, rosemary, Cayenne pepper, paprika, seasoned to taste. They taste amazing! Thank you for such a great base recipe 🤗"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Mensch"
+},
+"reviewBody": "Great recipe! Surprisingly easy to make - time consuming but worth it. Brings me back to my childhood in Pittsburgh where I had these all the time."
+}
+]

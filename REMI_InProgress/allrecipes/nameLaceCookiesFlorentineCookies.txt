@@ -1,0 +1,351 @@
+,"name": "Lace Cookies (Florentine Cookies)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "22"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "213 kcal"
+,"carbohydrateContent": "22 g"
+,"cholesterolContent": "14 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "13 mg"
+,"sugarContent": "18 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT50M"
+,"recipeIngredient": [
+"1.5 cups whole raw almonds",
+"0.5 cup unsalted butter",
+"0.75 cup light brown sugar",
+"0.25 cup honey",
+"0.5 teaspoon vanilla extract",
+"1 pinch salt",
+"3 tablespoons all-purpose flour",
+"1 cup semisweet chocolate chips, melted" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with a silicone liner (such as Silpat®)."
+} ,{
+"@type": "HowToStep"
+,"text": "Place almonds into the bowl of a food processor; alternate pulsing and running at full speed every few seconds until finely chopped and crumblike. Be careful not to go too far; you don&#39;t want them too fine and pasty."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine butter, brown sugar, and honey in a saucepan over medium heat. Stir a few times and cook until melted and dissolved. Bring to a boil, then carefully remove from the heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Add vanilla extract, salt, and flour, and whisk until smooth. Add chopped almonds and mix with a spatula until everything is combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Drop eight uniformly sized, rounded spoonfuls of batter (each about 2 teaspoons, or 15 grams) onto the prepared sheet. Fine-tune the cookie shapes and make sure they are evenly spaced."
+} ,{
+"@type": "HowToStep"
+,"text": "Place in the center of the preheated oven and bake until golden brown and a bit darker around the outsides, 10 to 12 minutes, rotating the pan halfway through."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the oven and slide the silicone liner off the baking sheet and directly onto the countertop. Allow to sit until cool and crisp, 3 to 5 minutes, then gently peel cookies off the liner. Repeat to bake remaining batches."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/-iUuSTgDZpEyXNo3r2sfvth9OO8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-437-1693de075bb14844aa126c693b96be49.jpg"
+}
+]
+,"text": "Spread melted chocolate over the flat side of one cookie. Place a second cookie, flat-side down, on top to make a sandwich and press very gently to seal. Repeat to form remaining cookies. Let sit until chocolate has firmed up, about 30 minutes."
+} ]
+,"recipeYield": ["18"]
+,"totalTime": "PT140M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Palko7"
+},
+"reviewBody": "These cookies are simply fabulous and a big hit! However, 2 tsp for me was WAY too much. I'd say a heaping 1/2 tsp is better. I'd recommend you try out a small batch before proceeding. One friend likes them plain."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These came out perfectly as pictured, but the flavor was quite horrible. So full of oil. I followed the measurements to the letter. I went back and checked how much butter I used, and it was accurate, as I had taken a fresh stick from a new box, so I could easily double check. The oils from the nuts probably added to it. I wrapped them in paper towels to see if it'll help, but no luck. Maybe just not my taste. Oh well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Not a good one I'll make again. As read from others it spreads all over pan and doesn't stay firm. Needs more flour maybe ?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "adles9"
+},
+"reviewBody": "I made this recipe exactly as written; however, all the cookies spread all over the sheet, making it one sheet \"cookie\"."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "TurtleEmz"
+},
+"reviewBody": "Took a while to get the right size and cooking time. However, even when I got that set, I’m disappointed that the cookies are so sticky. Flavor is ok, but I think if I ever made them again I’d switch the honey for either karo syrup or white sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ethel K Robinson"
+},
+"reviewBody": "I love it. It was simple to make as well. Great and will make this many more times in life."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diamondkitty"
+},
+"reviewBody": "I used dark chocolate and honey and they turned out fabulous! Much easier to make than I anticipated."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "The Disconnected Wife"
+},
+"reviewBody": "These are delicious! What I did was before they were completely cooled off, I rolled them into a tube. Like a cannoli shell situation and filled with connoli filling. OMG!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "grandma ikki"
+},
+"reviewBody": "These were VERY good. I used a small cookie scoop and I probably should have made them even smaller. They were a bit smaller than a saucer. I also should have chopped the nuts more but was concerned they would process to a powder. So I will watch that next time. (there will be a next time) My family all said next time I should make them with Macadamia Nuts. I also think a slight sprinkle of flaked salt will take the edge off the sweetness. Or use a Bittersweet Chocolate or even unsweetened rather than semi sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Darryl Kaneyuki"
+},
+"reviewBody": "Easy to make and the cookie is delicious, even before adding chocolate and smashing two together!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "KatK"
+},
+"reviewBody": "Very disappointing. The cookies taste good, but they run all over the pan and make a sheet of cookie, instead of round cookies. I tried baking a sheet with fewer cookies (5), using very little cookie mixture, but they still all ran together. If using honey, don't bake nearly as long as the recipe recommends. The \"cookie\" tastes good, but it's more of a crumble than a cookie because you have to break it up into pieces, since it all ran together in a sheet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kitty"
+},
+"reviewBody": "Love these cookies. I drizzled melted chocolate on top of each cookie."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MelisandeMab"
+},
+"reviewBody": "Wow, these were great. Followed the recipe exactly- turned out delicious. I gave the cookies tons of space to spread, but they still needed more. I was able to separate them while they were still warm, just a cosmetic issue. Next time I’ll bake 6 to a sheet, or do 1-teaspoon drops."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daniela Michaels"
+},
+"reviewBody": "Terrific! They were a big hit and relatively easy to make. I watched the video first and that helped. First lot in the oven came out too dark but got the hang of it as they went along. Very nicely high impact and really delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pam"
+},
+"reviewBody": "Really easy recipe. However it was difficult maintaining a round cookie. I used 1 teaspoon of dough and formed them into teepee shape, and did not turn the pan during cooking. \nExcellent"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrew Mostowa"
+},
+"reviewBody": "Super easy! Tastes great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maria Bitar"
+},
+"reviewBody": "Easy- turned out great and crispy. Quite sweet, so I did not add the chocolate"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathleen Roche"
+},
+"reviewBody": "Really easy to make and oh so yummy! I used sliced almonds that I had and toasted them first. A note is to measure out all of the batter into portions of the size you want (I made them each .5 oz) as when it cools as batches are cooking, it becomes like caramel and is hard to measure. I suppose that is because it is caramel! I love Chef John's recipes and always look for his new ideas."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharyl"
+},
+"reviewBody": "This was a really nice gift for friends and neighbours. Not sure I would have made them without a silpat pad- very sticky. They look very big but I used the regular cookie scoop so there is not a lot of dough in each one. They darkened while they were cooling, so don't worry if they don't look very dark when you take them out of the oven. They are so fragile I worried that they would break when I applied the chocolate but they held up fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Susy Queue"
+},
+"reviewBody": "Agree with previous review to double the flour. Ours merged into a solid mass. More flour would have fixed that. Still tasty though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brian Layne"
+},
+"reviewBody": "easy to make and turns out great. make sure to give cookies room they really spread out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alex B"
+},
+"reviewBody": "Excellent recipe! Easy to do and fairly foolproof.\nI did end up using twice as much flour as it was too runny to begin with. I added the extra flour afterwards and they still came out great."
+}
+]

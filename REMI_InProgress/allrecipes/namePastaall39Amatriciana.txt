@@ -1,0 +1,179 @@
+,"name": "Pasta all&#39;Amatriciana"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.1",
+"ratingCount": "9"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "760 kcal"
+,"carbohydrateContent": "52 g"
+,"cholesterolContent": "66 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "21 g"
+,"saturatedFatContent": "18 g"
+,"sodiumContent": "1254 mg"
+,"sugarContent": "10 g"
+,"fatContent": "51 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"4 ounces guanciale",
+"1 tablespoon olive oil",
+"4 ounces rigatoni pasta",
+"3 tablespoons dry white wine",
+"1.5 cups fresh tomato sauce",
+"freshly ground black pepper to taste",
+"kosher salt to taste",
+"1.5 ounces finely grated Pecorino Romano cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Cut guanciale into 1-inch by 1/8-inch strips."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat olive oil over medium heat in a saucepan. Add guanciale and cook until well browned and fully rendered, 5 to 7 minutes. Turn off the heat and use a slotted spoon to transfer it to a bowl. Leave all fat in the pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Start pasta: Bring a large pot of generously salted water to a boil. Cook rigatoni in the boiling water, stirring occasionally, until not quite done, about 10 minutes. You want it undercooked by at least 1 to 1 1/2 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "At the same time, add wine to the guanciale fat in the saucepan. Place over medium-high heat and cook for about 1 minute. Stir in tomato sauce and pepper; bring to a simmer."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer the almost fully-cooked pasta into the sauce using a slotted spoon; it&#39;s okay if some water gets in the sauce. Add guanciale and stir to combine. Season with salt. Cook and stir until pasta absorbs the sauce and finishes cooking, and the sauce thickens up, about 3 minutes. If the sauce gets too thick, add a splash of the pasta water."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn off the heat and add some of the Pecorino cheese. Stir until melted, then repeat until all cheese has been added."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/w5EASNPxTj15KgH9IqOkVke2oUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-325-f9d0c25b2d2d491a88ef8ff219e87aaf.jpg"
+}
+]
+,"text": "Ladle into 2 bowls and serve."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "First time I have been disappointed in a Chef John recipe. Butcher was out of guanciale so I used pancetta, (2) yellow heirlooms, and both cherry and plum tomatoes right out of our garden. The first time I make any recipe I weigh, measure and follow the directions explicitly so I know what it should taste like, as was the case here. Everything went fine until I served the dish - the sauce taste like tomato soup. Really. So disappointing. I think it was due to the amount of pecorino added to the sauce. I recommend to everyone making this recipe to first taste your dish after adding the guanciale and pasta. Add the cheese in very small amount.s and taste as you go. You may not want to add the cheese and just pass it around the table. I know I will not make this dish again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "C Gilbert"
+},
+"reviewBody": "This was very tasty and, yes, very rich. I didn’t make the tomato sauce but did make the pasta. I might have over cooked the pasta just a touch because I didn’t move fast enough. I went lighter on the pepper and added a sprinkle of red pepper to my plate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SERIOUSMERRICAT"
+},
+"reviewBody": "So wonderful! I didn't attempt to search for guanciale, I used diced prosciutto instead. I wish I had his homemade tomato sauce, but the san marazano tomatoes were still great! I've never made a pasta dish finished in the sauce and now realize the error of my ways. Game changer! This recipe goes so fast to assemble, your first step should be to boil the water. Great, quick and delicious weeknight meal!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy"
+},
+"reviewBody": "First I made the tomato sauce as written in that recipe.... was easy to find the tomatoes at the farm market. I don't know the names of the types I picked up but I chose red and orange ones and happily found that they were meaty. Will go back and get more tomatoes to make sauce to freeze for over the winter. Then I followed the Chef's recipe and....omg..... it. was. amazing.\nI've never used that type of meat b4 and it is amazing. It melts in your mouth then rehydrates while it's cooking in the pasta and sauce. I will never pour pasta sauce over the pasta again. I feel like I learned an old Italian Grandma secret today....making that tomato sauce, .using that pork jowl and finishing the pasta in the sauce...... it's amazing and rich. It's a taste treat. Thanks Chef."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "roddym"
+},
+"reviewBody": "Not sure if I did something wrong but pretty simple recipe. Could it be the meat? Did I over cook it? Maybe Not sure but won’t be making that again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Reviewing it while I’m still eating it - that’s a good sign! We put a splash of white vermouth instead of the wine and used a full can of milled tomatoes; it took a little longer to cook down. I used ‘sweet guanciale’ because that’s all I could find and was very relieved to discover it was salty as heck and not sweet at all. This was really delicious and we will make it again. Must now Google ‘can I freeze guanciale?’"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Coan"
+},
+"reviewBody": "This is a stunningly simple and delicious dish. The mouth feel of the sauce is amazing! The only change I made was due to the fact that I don't have access to pork cheeks, instead I used thick cut, uncured pork belly, as it was as close as I could find. It isn't salty, which is one of the main differences from bacon that Chef John mentioned, so I think it was a good substitute. I used the Fresh Garden Tomato Sauce he recommends making, and I gotta say, this might be my new favorite summer dish. My entire family loved it. Simple, but just bursting with flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nikki H"
+},
+"reviewBody": "Wonderful! I will be making this again soon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Scott Mcmanus"
+},
+"reviewBody": "Very delicious. I made this from scratch, i.e. I made the tomatoe sauce first from garden tomatoes. It's really good but VERY rich."
+}
+]

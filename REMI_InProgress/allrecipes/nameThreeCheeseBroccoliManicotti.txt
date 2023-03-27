@@ -1,0 +1,157 @@
+,"name": "Three-Cheese Broccoli Manicotti"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "5"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "600 kcal"
+,"carbohydrateContent": "59 g"
+,"cholesterolContent": "125 mg"
+,"fiberContent": "8 g"
+,"proteinContent": "33 g"
+,"saturatedFatContent": "13 g"
+,"sodiumContent": "1984 mg"
+,"fatContent": "27 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT45M"
+,"recipeIngredient": [
+"2 large heads broccoli",
+"1 (8 ounce) package manicotti shells",
+"2 cloves garlic, crushed",
+"1 cup ricotta cheese",
+"4 ounces grated provolone cheese",
+"1.5 cups grated Parmigiano-Reggiano cheese, divided, or more to taste",
+"2 large eggs, beaten",
+"2 teaspoons kosher salt, or to taste",
+"1 pinch cayenne pepper, or to taste",
+"1 teaspoon freshly ground black pepper",
+"1 pinch freshly grated nutmeg",
+"3.5 cups prepared marinara sauce",
+"2.5 cups water",
+"6 ounces cooked, crumbled, hot Italian sausage",
+"1 tablespoon freshly chopped Italian parsley, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring a pot of generously salted water to a boil."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, separate broccoli stems and florets. Cut florets in half and cut each stem into several pieces lengthwise."
+} ,{
+"@type": "HowToStep"
+,"text": "Place stems in the boiling water and cook for 3 to 4 minutes. Then add florets and cook until just barely tender, about 3 more minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Use a slotted spoon to transfer broccoli to a bowl of cold water, leaving the water boiling on the stove. Let broccoli sit until cool, about 2 minutes. Transfer to a colander and let sit until very well drained. Leave the bowl of cold water for the pasta."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, add manicotti to the boiling water and cook, stirring occasionally, until tender but slightly undercooked, 6 to 7 minutes. Use a slotted spoon to gently transfer manicotti into the bowl of cold water."
+} ,{
+"@type": "HowToStep"
+,"text": "Chop cooled, drained broccoli into small pieces. Transfer 3 cups chopped broccoli to a mixing bowl and reserve any extra for another use."
+} ,{
+"@type": "HowToStep"
+,"text": "Add garlic, ricotta, provolone, 1 ¼ cups Parmigiano-Reggiano, eggs, salt, cayenne, pepper, and nutmeg to the broccoli. Mix with a spoon until thoroughly combined. Cover and refrigerate until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring tomato sauce and water to a simmer over medium-high heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Ladle ½ inch hot sauce into a 9x13-inch baking dish or lasagna pan. Sprinkle in cooked Italian sausage."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer broccoli filling into a pastry bag. Cut off the tip slightly smaller than the opening of the manicotti. Gently pipe stuffing into 12 manicotti, being careful not to overstuff. Place stuffed manicotti in the sauce in the baking dish, angling as necessary to fit."
+} ,{
+"@type": "HowToStep"
+,"text": "Ladle in just enough sauce to barely cover the manicotti. Sprinkle ¼ cup Parmigiano-Reggiano over top."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until hot and bubbly, 25 to 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Garnish with parsley and let sit for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/NQMJj8G8PMlvrKmW9HqTNuIXms4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Three-Cheese-Broccoli-Manicotti-2000-5a66f6918e9f41248e14fdf2ad855904.jpg"
+}
+]
+,"text": "Serve two manicotti per bowl, garnished with more Parmigiano-Reggiano."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT100M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "1010lisalynn"
+},
+"reviewBody": "\"This is a super 5 star recipe\" my husband exclaimed with his first bite! The sauce is light and quite flavorful. I love making Chef John's recipes. They never fail. The only change I made was to substitute basil for parsley. Also garnished with an additional sprinkle of nutmeg, parmesan and basil. We are so excited to have leftovers and left over sauce!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "doubleday67"
+},
+"reviewBody": "This was absolutely perfect. I did not have broccoli so substituted 2 good-sized zuchinni. Shredded and squeezed out the water. finished the recipe as written. Chef John ALWAYS delivers!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kleincody"
+},
+"reviewBody": "Hard to go wrong with this recipe as is or add some of your ingredients as well. I added a few slices of peperoni and mozzarella on top. What's not to like."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Clifford Suva"
+},
+"reviewBody": "Wonderful, restaurant quality. I used a little more sauce in order to nearly cover the stuffed pasta."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "marcushatch"
+},
+"reviewBody": "I followed the recipe to the letter but doubled the amount, going to try and freezing a batch. I have done a fair number of Chef Johns recipies and have yet to be let down. Effort vs results - excellent. Pretty picky about my Italian food too."
+}
+]

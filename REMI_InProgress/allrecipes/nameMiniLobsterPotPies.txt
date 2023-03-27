@@ -1,0 +1,98 @@
+,"name": "Mini Lobster Pot Pies"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT65M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "1025 kcal"
+,"carbohydrateContent": "68 g"
+,"cholesterolContent": "233 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "28 g"
+,"saturatedFatContent": "27 g"
+,"sodiumContent": "882 mg"
+,"fatContent": "72 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 (5 ounce) lobster tail",
+"2 tablespoons butter, divided",
+"1 tablespoon sherry",
+"1 (8 ounce) bottle clam juice",
+"0.25 cup diced celery",
+"0.25 cup diced carrot",
+"0.25 teaspoon ground paprika",
+"1 teaspoon tomato paste",
+"kosher salt and freshly ground black pepper to taste",
+"1 pinch ground cayenne pepper, or to taste",
+"1 tablespoon all-purpose flour",
+"0.333 cup cubed Yukon Gold potatoes",
+"1 sheet frozen puff pastry",
+"1 large egg, beaten",
+"1 teaspoon freshly squeezed lemon juice",
+"0.25 cup heavy cream",
+"1 tablespoon minced fresh tarragon" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Cut lobster shell down the middle, crack it open, and pull out the meat. Cut the shell into 1-inch pieces and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut the meat into ½-inch pieces, checking carefully and removing any veins or missed pieces of shell. Transfer the meat to a plate and keep in the refrigerator until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt 1 tablespoon butter in a saucepan over medium heat. Add lobster shells and cook, stirring often, until they turn brick red, 3 to 4 minutes. Stir in sherry and clam juice and reduce heat to low. Simmer gently to steep lobster shells, 15 to 20 minutes; making sure the liquid does not reduce."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the heat and pour broth through a strainer to remove shells."
+} ,{
+"@type": "HowToStep"
+,"text": "Rinse out the saucepan and add remaining 1 tablespoon butter. Place over medium heat to melt. Add carrots, celery, paprika, tomato paste, salt, pepper, and cayenne. Cook and stir until tomato paste is toasted and paprika is fragrant, about 2 minutes. Stir in flour and cook for 1 to 2 minutes. Stir in lobster broth and bring to a simmer."
+} ,{
+"@type": "HowToStep"
+,"text": "Add potatoes and reduce heat to medium-low. Cook at a gentle simmer until potatoes are tender and liquid has reduced just slightly, 10 to 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "While the potatoes are cooking, place puff pastry on a piece of parchment paper. Cut out two 3 ½-inch circles and cut an &#34;x&#34; in the center of each one. Brush tops with beaten egg. Transfer to a baking sheet and place in the refrigerator until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C). Line a baking sheet with foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Add lemon juice, cream, and tarragon to the potatoes; stir to combine and return to a simmer over medium heat. Simmer until reduced and thickened a bit more, about 5 minutes. Taste and adjust salt if necessary."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in reserved lobster meat and turn off the heat. Remove from the stove and evenly divide the mixture between two 6-ounce ramekins, stopping about ¼ inch from the top."
+} ,{
+"@type": "HowToStep"
+,"text": "With the egg wash facing up, place puff pastry circles onto the ramekins, making sure the vents are cut all the way through."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/TyjmJ8bvEbDg1QOEewfa4xAEAhQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_3152-9adc689b6bce43988810564b0ba8b8e2.jpg"
+}
+]
+,"text": "Bake in the upper center of the preheated oven until bubbly and browned, about 20 minutes. Let rest for at least 5 minutes before serving."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT90M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made double the amount and put in 4 ramekins. I added a handful of frozen peas and a half a tablespoon of Pernod. I never gotten so many compliments."
+}
+]

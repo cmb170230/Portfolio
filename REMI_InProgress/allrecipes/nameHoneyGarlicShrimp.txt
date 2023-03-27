@@ -1,0 +1,641 @@
+,"name": "Honey-Garlic Shrimp"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "50"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "304 kcal"
+,"carbohydrateContent": "22 g"
+,"cholesterolContent": "345 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "39 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "1039 mg"
+,"sugarContent": "19 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 pound large raw shrimp (16-20 count), peeled and deveined",
+"1 tablespoon minced fresh garlic",
+"2 tablespoons honey",
+"0.5 teaspoon freshly grated ginger",
+"1 tablespoon soy sauce, or more to taste",
+"1 teaspoon Asian fish sauce, or to taste",
+"2 teaspoons vegetable oil",
+"1 cup thinly sliced green onion, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Make sure shrimp are fully thawed and well drained. Keep in the refrigerator while you make the marinade."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk garlic, honey, ginger, soy sauce, and fish sauce together in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Add shrimp and toss thoroughly with a spatula for 2 minutes until completely coated. Cover with plastic wrap and marinate in the refrigerator for 30 to 60 minutes; toss occasionally while marinating."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush a large nonstick skillet with oil and heat over high heat until you begin to see small wisps of smoke. Use tongs to immediately transfer shrimp into the hot skillet in a single layer. Set excess marinade aside."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/NAPTXr-XMM-BekDAQr-z81JQdVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8925900-0848405aae7344d1bfad647bb14bfc43.jpg"
+}
+]
+,"text": "Sear shrimp for 2 minutes, then flip over. Dump in marinade and cook for 1 minute. Turn off heat and flip shrimp once more; let sit for about 1 minute. The marinade in the pan will reduce down to a beautiful glaze just from the residual heat in the pan. Garnish with green onion."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mimi girl"
+},
+"reviewBody": "Chef John never disappoints!! My husband and I loved the subtle melding of all the flavors!! This is now in the rotation of dinner options. I served with rice and steamed broccoli. HIGHLY RECOMMEND!! I made it a second time and doubled the marinade. This was great because it was yummy with the rice"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The first time I made this, I followed the recipe, and it was good. The second time I made it, I substituted the honey with molasses. Also substituted the fresh ginger with a half teaspoon of powdered ginger. The results? It was a game changer! My husband loved it! Easy and delicious. This is now one of my “go to” recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SunnyAnn"
+},
+"reviewBody": "We liked it very much. The flavor is great. The only thing I changed was the fish sauce. I added 3/4 of a teaspoon instead of a full teaspoon only because I don’t like the smell of it. Other than that I made it as is. The only thing I would do next time is to make a larger amount of marinade because that’s where all the flavor is and it cooked down quite a bit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LaDonna Thompson"
+},
+"reviewBody": "This dish was very simple and quick to make. It was delicious. Instead of the fish sauce I used oyster sauce and red peppers flakes. Perfect"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue"
+},
+"reviewBody": "I made as per the recipe, except I doubled the sauce, enough to season the rice. I did use a pound of shrimp, which was way more than enough for two people. I sauteed the shrimp on both sides with a little of the sauce and got that yummy, dark carmelization, then I removed the shrimp for a minute while I cooked the rest of the sauce. It was absolutely delicious. I probably won't make it again, as it is messy to prepare and clean up. Dinner cleanup is my husband's job, and oh, the moaning and groaning when I leave a mess. Not the type of dish you can make early in the day and pop in the oven just before dinner, which is my (his) preference. 😁"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Valerie Butler"
+},
+"reviewBody": "This was a terrific and simple recipe. I added grilled veggies (specifically green and red peppers, onions and chopped cauliflower). I didn't have fish sauce so I used about a half teaspoon of oyster sauce instead. Really quick and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Just remember it's a guide. If you omit something that adds flavor you need to add something else. Green onion, sesame oil, chili oil. A great base for any Asian cuisine is garlic, ginger, scallion(green onion). GGS Build off of that and it will be great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lindsay"
+},
+"reviewBody": "Very easy, very quick. Tasted really good. I didn’t have fish sauce so I just omitted it. I did double sauce so I’d have some to go over rice. We liked it. Will likely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl Aucone"
+},
+"reviewBody": "I did the recipe as printed. I loved it and my husband loved it. It’s on my keepers list. I would make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anita Colorado"
+},
+"reviewBody": "Very easy and quick!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "drprentice"
+},
+"reviewBody": "These were very good, and next time will be delicious with a small change! I made the recipe as written. It says to heat the oil on HIGH, then cook the shrimp for 2 minutes. I used a timer, and after 2 minutes, when I turned the shrimp over they were kinda BURNED on that side. So the shrimp tasted a bit burned. Next time I'll cook them on Medium High. I doubled the marinade ingredients, and when I added the marinade to the skillet, I also added about 1/3 cup of chicken broth. This made the cooked sauce perfect for spooning over the shrimp and all the rice. The presentation was amazing - especially with the green onions on top! I served it over cooked brown rice with a side of sliced avocado sprinkled with garlic salt. Beautiful and a great flavor combination! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Eboni Johnson"
+},
+"reviewBody": "I think the fish sauce and soy sauce made it too salty for me. Will try it again without that much fish sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Hogan"
+},
+"reviewBody": "Made it as written. We loved it! Will make again and double the sauce to pour over the rice we served with it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "beowulfagate61"
+},
+"reviewBody": "Yummy, easy to make 4.5"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Daria Keegan Winker"
+},
+"reviewBody": "This came out nicely, but I wish there was more sauce so you could serve it with rice. I did make some changes because I did not have fish sauce. I added a tablespoon of balsamic salad dressing that was leftover in my fridge. All in all it is a good recipe that will be better with some tweaking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Bell"
+},
+"reviewBody": "No changes, but a solid simple shrimp recipe. No complaints at all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Megan Weiss"
+},
+"reviewBody": "Added some sesame seeds as a substitute for the scallions and a little extra soy sauce! Perfect amount of flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JO FROM VILANO"
+},
+"reviewBody": "I don't review very often, but this recipe deserves an excellent review. I give it five stars, not only for the flavor, but also for ease of preparation. I followed the recipe and served it with rice and a salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "scrooge"
+},
+"reviewBody": "It turned out delicious. Even the cats &amp; dogs loved them. They are on my top ten shrimp recipes list"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Parisa Rabbani"
+},
+"reviewBody": "Easy to make and unbelievably delicious.\nI make this dish every week! Chef John is the best."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lana"
+},
+"reviewBody": "Good for the amount of time it took!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amanda montes de oca"
+},
+"reviewBody": "This was delicious. I served it with steamed green beans and rice. the marinate thickens into a beautiful sauce. Definitely a keeper of a recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "DRSPIKE"
+},
+"reviewBody": "Next time I’ll make more marinade to have extra sauce to spoon over my rice"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "James Gullett"
+},
+"reviewBody": "Incredible. Didn’t change a thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Papadude44"
+},
+"reviewBody": "I've been treating my wife to special meals on Sundays which I find in AR Spinner and then prepare myself. We both loved this one. Served with brown rice and an asian side salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ethel newbold"
+},
+"reviewBody": "Outstanding. You must try this. My family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Saveur"
+},
+"reviewBody": "Yummy! Hubby raved over this one. I doubled the sauce. Served over jazmine rice with peas and carrots for a bit of veg. Added a shake of sesame seed on top with the green onion. Definite do over. Thanks CJ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jo Nichols"
+},
+"reviewBody": "Excellent recipe! Not too sweet, not too tangy. You MUST place the shrimp in the pan in one layer and turn them gently. We used Colossal shrimp but left the cooking time the same. Perfect. Sticky rice was a great pairing with just a bit of the pan sauce drizzled over it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pauli Pauli"
+},
+"reviewBody": "This was so tasty! I will make it again for sure, came together so quick!! I accidentally bought the 12oz bag of 16-20 count shrimp but proceeded with the rest of the recipe as written. I added more ginger and an extra garlic clove because we love the aromatics in our house. Sprinkled sesame seeds for some crunch and home grown scallions. Thanks Chef John, your recipes never fail to impress!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Greg skene"
+},
+"reviewBody": "Did exactly per recipe—-just lacked flavor. I am a huge fan of chef john’s recipes....this one just was not flavorful. I did marinate 35 minutes....maybe I needed to do the full hour. Also did not include the fish sauce \nGreg"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marjohnal"
+},
+"reviewBody": "Excellent for jumbo prawns served over a spinach salad with the sauce as dressing! Loved the way the sauce caramelized after searing shrimp. A keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "arkeller"
+},
+"reviewBody": "Chef John, How can I adapt this with an air fryer? Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mommabear094n?"
+},
+"reviewBody": "Tried it absolutely delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ArMb GS"
+},
+"reviewBody": "Great recipe! I followed the recipe, but it was almost gone before I remembered to take a picture..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jacki"
+},
+"reviewBody": "I like the recipe. I use oyster sauce instead of fish sauce ( I didn't have fish sauce), delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mellomelh"
+},
+"reviewBody": "This was very simple to make and tasty. If I make this again, I would add a bit more honey and also reduce the fish sauce just a bit. But this was enjoyable and quick and very good. I think you can adjust it from sweeter or to more savory per your preference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John Wilson"
+},
+"reviewBody": "This was absolutely awesome. The only chance I made was I used homemade chicken fried rice, instead of white rice. My wife and son loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ruth Patricia O'brien"
+},
+"reviewBody": "Fabulous!! I have loved all the recipes I've made of Chef John's. I didn't have the exact utensils so I improvised with those I had. I stuck to the recipe and followed method by watching Chef John's video. Myself &amp; hubby shared 23 prawns (shrimps bigger than shrimps are called prawns in England). Began eating then I returned to pan and used my prawns to mop up the wonderful glaze left there, my hubby soon followed. There was no way we were going to put that in the sink!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Community"
+},
+"reviewBody": "This was so easy to make, and absolutely delicious. I don’t often like my own cooking, but this genuinely tasted like I ordered it from a fancy restaurant!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Darianstreats2020"
+},
+"reviewBody": "I made it and it wasn’t as dark because I didn’t like the Asian does it still turn out good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MzTee212"
+},
+"reviewBody": "Quick delicious lunch or dinner. I made no changes. I had African honey which is dark and not as sweet but better than any other honey I have ever had. \nTry this recipe you won't be disappointed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "wvpope"
+},
+"reviewBody": "This was delicious! It was so quick and easy, I'll be making it often."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LisaStump"
+},
+"reviewBody": "I just made this tonight. It was so easy and my husband and son say it’s “outstanding “ and “really good” - so yay! I used jumbo shrimp, a local honey, and the amounts of soy and fish sauce called for in the recipe. I did add garlic and ginger to my rice while it cooked, too, so it would contribute some flavor. Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christopher Sanders"
+},
+"reviewBody": "I forgot the cayenne also, I have to make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NoVa Dashcammer"
+},
+"reviewBody": "Turned out great!!\nI followed the video exactly!\n It cooks fairly quickly so I can see it burning easy because of the honey"
+}
+]

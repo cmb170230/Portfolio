@@ -1,0 +1,153 @@
+,"name": "Clam Chowder Shell Pasta"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "6"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "570 kcal"
+,"carbohydrateContent": "53 g"
+,"cholesterolContent": "116 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "24 g"
+,"saturatedFatContent": "14 g"
+,"sodiumContent": "989 mg"
+,"fatContent": "30 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"4 slices bacon, cut into 1/4-inch pieces",
+"1 tablespoon butter",
+"0.5 cup diced onion",
+"0.25 teaspoon kosher salt, or more to taste",
+"1 tablespoon all-purpose flour",
+"1 (6.5 ounce) can whole clams",
+"1 (6.5 ounce) can minced clams",
+"1 (8 ounce) bottle clam juice",
+"1 (8 ounce) package shell pasta",
+"0.5 cup peeled, diced Yukon Gold potatoes",
+"0.333 cup diced celery",
+"1 sprig fresh tarragon",
+"1 pinch cayenne pepper, or to taste",
+"0.5 cup heavy cream",
+"1 tablespoon finely chopped Italian parsley, or more to taste",
+"2 tablespoons freshly grated Parmigiano-Reggiano cheese, or more to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place bacon in a large skillet and cook over medium heat, turning occasionally, until crisp, about 10 to 12 minutes. Pour bacon and grease into a strainer set over a bowl to let the grease drain out. Reserve bacon until needed and discard grease or set aside for another use."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the skillet back over medium heat and add butter, onion, and ¼ teaspoon salt. Cook and stir until onion starts to soften and turn translucent, about 5 minutes. Add flour and cook and stir for about 1 minute to create a roux."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain both cans clams and set clams aside for later."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour clam juice from the cans and the bottle into the skillet; whisk to scrape off any bits from the bottom of the skillet. Raise heat to medium-high and let come to a simmer."
+} ,{
+"@type": "HowToStep"
+,"text": "While the clam juice is coming to a simmer, bring a large pot of salted water to a boil. Add shells and cook, stirring occasionally, until tender yet firm to the bite, 9 to 12 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add potatoes, celery, tarragon, and cayenne to the simmering clam juice mixture. Let simmer for 5 minutes. Reduce heat to medium-low and add the reserved clams, cream, and all but 1 tablespoon of the reserved bacon. Simmer gently for another 10 minutes, then remove and discard tarragon sprig."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain pasta well and add to the clam sauce; mix until well combined. Turn off the heat and let sit for 1 minute."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in parsley and Parmesan cheese. Taste and adjust salt if necessary."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/In2ULTnEJdOFHsLWWdeaNFoMvTw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Clam-Chowder-Shell-Pasta-2000-23c643bb57894529909b70ba7e5c3460.jpg"
+}
+]
+,"text": "Ladle into warm bowls. Sprinkle with more Parmesan, crumbled bacon, and parsley."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica1983"
+},
+"reviewBody": "Amazing! The only change I made was to use red pepper flakes in place of the cayenne. The whole family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Phillip Melodia"
+},
+"reviewBody": "So good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Caiati McKee"
+},
+"reviewBody": "Chef Jon you have done it again what a good recipe. I never go wrong with one of you recipes. I did goof and added 16oz of pasta instead of 8 (wasn't paying attention) also used bacon bits instead of real bacon (didn't feel like cleaning the grease) but it was still good. Family loved it. No leftovers"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sdaboren"
+},
+"reviewBody": "Really liked it. A simple recipe with great flavor. Made it exactly as written."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mac"
+},
+"reviewBody": "only had bow ties but turned out great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura"
+},
+"reviewBody": "Is look delicious 😋"
+}
+]

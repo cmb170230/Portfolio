@@ -1,0 +1,1093 @@
+,"name": "Chef John&#39;s Tuna Noodle Casserole"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "84"
+}
+,"cookTime": "PT55M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "511 kcal"
+,"carbohydrateContent": "46 g"
+,"cholesterolContent": "86 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "30 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "809 mg"
+,"sugarContent": "8 g"
+,"fatContent": "23 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"3 tablespoons unsalted butter",
+"0.5 cup finely diced yellow onion",
+"1.5 teaspoons kosher salt, divided",
+"3 tablespoons all-purpose flour",
+"4 cups cold milk",
+"1 cup shredded white Cheddar cheese",
+"1 (12 ounce) package dry egg noodles",
+"2 (5.5 ounce) cans tuna packed in olive oil, drained and crumbled, or to taste",
+"0.75 cup frozen peas, thawed and drained",
+"1 pinch cayenne pepper",
+"0.25 teaspoon freshly ground black pepper",
+"0.25 teaspoon Worcestershire sauce",
+"0.5 cup plain bread crumbs",
+"0.5 cup grated Parmigiano-Reggiano cheese",
+"2 tablespoons olive oil" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Lightly butter a 9x13-inch casserole dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt 3 tablespoons butter in a medium saucepan over medium heat. Saute onion with 1/2 teaspoon kosher salt until it starts to soften up and turn translucent, 3 to 4 minutes. Add the flour, and cook, stirring, for 3 minutes, reducing heat if needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour in cold milk and whisk for 1 minute. Raise heat to medium-high and cook, stirring often, until the sauce thickens and comes to a simmer. Remove from heat, whisk in Cheddar cheese, and reserve until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Fill a large pot with water and remaining salt and bring to a rapid boil. Cook egg noodles for 5 minutes. Drain well and add to a large mixing bowl. Stir in the reserved sauce, followed by tuna, peas, cayenne, black pepper, and Worcestershire sauce. Mix with a spatula until evenly combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour the mixture into the prepared dish. Mix bread crumbs, Parmigiano-Reggiano cheese, and olive oil together in a small bowl until combined and resembling wet sand. Sprinkle evenly over the casserole."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/xFvfq3bzwYxJBXbxmc_qHOzziUE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chef-Johns-Tuna-Noodle-Casserole-2000-1daf92b33e8e4406845cecf00dd6df75.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until browned and bubbly, about 30 minutes. Let sit for 10 minutes before cutting and serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michel Audette"
+},
+"reviewBody": "Used Chef John Cream of Mushroom soup instead (added the Cheddar cheese, 2 pinch of cayenne and Worcestershire in it) of the sauce and double down on the breadcrumbs and Parm cheese on top"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pixie"
+},
+"reviewBody": "Great recipe - and I agree. There is something about adding potato chips to the top of a tuna (or chicken) casserole"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Outstanding. Added carrots and sautéed mushrooms. It was great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I've added this recipe to my personal handwritten cookbook👌🏼"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Teri Nicolas Deyo"
+},
+"reviewBody": "I followed the recipe exactly. It was too bland. I added more salt and pepper and it helped. Sorry Chef John but this one is missing something. I'll have to play around with other ingredients to see what can work."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "slfortson"
+},
+"reviewBody": "As is, I give it 4 stars because it was such a mild flavor. It was good, but just a little boring. I think my pallet likes to party! ;) So, the second time, I doubled the cheddar cheese, added celery, minced garlic and then added a lot more Worcestershire to taste. It brought it up to 5 stars for me. I'd make it again, but would continue to spruce it up a bit. My husband devoured the modified version!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Helen Scorringe"
+},
+"reviewBody": "Made and absolutely loved it. No I love it as is. Thank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dale Bratcher"
+},
+"reviewBody": "Best tasting casserole recipe ever. Good day for it too, raining most of the day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Loved it! Very light and delicious for a casserole. I used the bread crumbs and potato chips and did not have enough parmigiana cheese so I mixed in some Gouda. And a nice salad does seem to complete things. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "rsnider"
+},
+"reviewBody": "We really liked this casserole. I added 3 cans of tuna and more peas. I will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angelwords"
+},
+"reviewBody": "This will be my go-to tuna noodle casserole recipe. It was delicious. Because I have to use gluten-free flour, it took some time before it would thicken. Also, the potato chips will get soggy when you refrigerate the leftover. To me that's not a big problem unless you want to freeze. Then you might want to go the breadcrumb route."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kel"
+},
+"reviewBody": "My husband is lactose intolerant so I used Lactaid milk and skipped the white cheddar cheese. LOVED IT!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Laura E"
+},
+"reviewBody": "I thought I followed directions, but mine was missing flavor. I needed to salt it quite a bit too. The consistency was very nice. Probably great for those who like mild flavors."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Classic33"
+},
+"reviewBody": "Loved the recipe. Cut it in half for smaller group. Just great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gg1fran"
+},
+"reviewBody": "Loved it. \nDidn’t have bread crumbs, made topping with potato chips, was so yummy. \nAdded more fresh crushed potato chips on top right before serving for extra crunch!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "maggie"
+},
+"reviewBody": "I ran out of cheddar cheese… is it okay to use Mozzarella instead ?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tishthegoat"
+},
+"reviewBody": "Tastes really good and some how is light! Used broccoli instead of peas. So good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SDROGGE"
+},
+"reviewBody": "I will make it my go-to comfort food!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Bender"
+},
+"reviewBody": "I made it! I didn't believe people when they said it was bland, it was. Which was weird the recipe was similar to my mac and cheese. Maybe I didn't add enough cheese? Chef John is still the best though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "j. cook"
+},
+"reviewBody": "This is so good! I love that it has no cream of mushroom soup! Classy comfort food!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jimmy Pat"
+},
+"reviewBody": "I made it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "montessahall"
+},
+"reviewBody": "Wow!!! My whole family loved this recipe. I used frozen peas and carrots which added color. Making the cheese cream sauce from scratch is so much better than canned cream of mushroom soup. Chef John’s recipes are always the best!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "suzbaltimore"
+},
+"reviewBody": "I was looking for a casserole that didn’t start with a canned cream soup. My kids won’t eat tuna, so I didn’t think I could make this, but I used rotisserie chicken in place of the tuna and it turned out great! Followed everything else exactly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry"
+},
+"reviewBody": "Chef John. No other comments necessary"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cat_mom 1"
+},
+"reviewBody": "Not only is this delicious, it's easy, quick, and economical. I've also swapped out the tuna for leftover chicken, and it too is very delicious. I've used different pastas as well because I don't always have egg noodles on hand. This is a large recipe, leftovers are great and it freezes well too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Qbkitty"
+},
+"reviewBody": "Probably one of the best tuna noodle casserole’s I’ve ever made I wouldn’t change anything"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Geri Jernigans"
+},
+"reviewBody": "I made some changes. I used corn starch for the white sauce, low-fat skim milk, added some minced garlic and mushroom, extra sharp white cheddar, and no salt. It really turned out better than I had hoped. I only needed two cans of tuna because it's only me. I will be munching on this for the rest of the week."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "CookinLovin"
+},
+"reviewBody": "It was dry and bland, even though I added extra milk in the sauce and some more cheese on top before the breadcrumbs mixture. Tuna Noodle Casserole is one of my husband's favorite dishes and he tasted it tonight he said, \"This is bad! Why did you change how you make it?\" I will stick with my recipe, which uses cream of mushroom soup and Velveeta cheese, among several other ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "marie"
+},
+"reviewBody": "I liked the fact, you make your roux, instead of using a can of condensed cream of mushroom soup. I used Olive Oil , instead of Butter and I added 1 T. of Capers. \nMy husband and I liked it very much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sophia"
+},
+"reviewBody": "Amazing. I added celery on top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "caquilter"
+},
+"reviewBody": "Delicious Tuna Noodle casserole! We love it and are eating it again tonight - it's that good. I espiecially like that there is no can of soup as I find the taste of canned soup in a dish disgusting. This is my go to recipe for tuna casserole. Great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Anne Bologna"
+},
+"reviewBody": "I thought it was on the bland side. I used 3 cans of aborcon tuna which it's definitely needs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ABS1280"
+},
+"reviewBody": "You had me at roux. I made it exactly as written except used bi-colored egg noodles and went the extra mile with crushed potato chips. It was creamy, perfectly seasoned, and was a hit with the family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie McCartney"
+},
+"reviewBody": "Excellent! May need some tweaks on flavor; but, otherwise just wonderful! Much better than the cream of something. Hearty and satisfying just what I needed!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "whatevworks"
+},
+"reviewBody": "Yummy !!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Josie Lawton"
+},
+"reviewBody": "Very good. Mine ended up just a little on the dry side."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cara Elrod"
+},
+"reviewBody": "Simple and delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DaveT Chicago"
+},
+"reviewBody": "Sounds wonderful for tomorrow. I will use potato chips to top it and I'm going to use a 9 x 9 dish because I like a taller slice, and noodles should be able to support it. I'll let it cook an extra 10 minutes to account for that."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Angela"
+},
+"reviewBody": "Liked it. Not as creamy as I expected though. Maybe a few less noodles. The only change I made was using albacore tuna in water. I have never bought tuna in oil, not sure if that makes a big difference or not."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "aputler"
+},
+"reviewBody": "This was easy to prepare. I could not find plain white cheddar, but did find smoked bacon/white cheddar blend. Used 3 cans oil packed tuna and it turned out terrific! Keeper for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Beth R"
+},
+"reviewBody": "Turned out very dry - I would double the sauce. I also added onions and mushrooms to up the flavor. I love Chef John's recipes, but this one kind of missed the mark in terms of the sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "MPS2mom"
+},
+"reviewBody": "I made this exactly as recipe directed. It was tasteless. It is the first recipe of Chef's John that was not good. Not one person in my house liked it saying it had no flavor. It was also not creamy enough. If I made it again I would increase everything! More cheese, more salt and pepper, more sauce ect. I am not sure I will try again. Very tasteless."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "Turned out pretty good. I had to add extra seasonings and it was still pretty mellow, but tuna noodle casserole is supposed to be that way, just simple. The BF had never eaten it before, but he liked it nonetheless. Probably will make this again when I forget to thaw something out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "carguy chris"
+},
+"reviewBody": "Real good recipe, have made it twice. First time, I followed the recipe, and used potato chip topping. Outstanding. I used up all of my fridge and freezer leftovers for the second try. Added a dollop of sour cream, and a bit of cream cheese, a dollop of mayo, and a bit of creme fraishe, which basically cleaned off my fridge door. 3 cans of really outdated tuna fish, and had enough frozen peas and carrots languishing in the freezer as well. On to the pantry, where I combined panko , regular, and Italian bread crumbs. Was a little short, so I crumbled up some ritz crackers to make the mark. Added 2 cloves garlic to the filling as well. Very delicious, richer than the published recipe, and the garlic I think this casserole needs. Everyone gobbled it up,, and the best part, I had a whole trashcan full of empty containers! Nice! I grew up poor as you can be, and I refuse to waste a scrap of food. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathie"
+},
+"reviewBody": "Excellent!! My family said they would eat leftovers when I told them I was making this. To their surprise; they loved it! Thanks Chef John!! This reminded me of when my mom would make this when I was a kid."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Gala Starbeam"
+},
+"reviewBody": "I love Chef John so I thought I’d give this a try. I hate to say it but this is the blandest tuna casserole I’ve ever tasted, even after upping the seasonings. I took the suggestion of using crumbled potato chips in lieu of the bread crumbs, mixing them with shredded Parmesan and olive oil and the topping was quite delicious, but it still didn’t make up for the flavorlessness of the rest."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nichole Dow"
+},
+"reviewBody": "A tip for anyone working through their quarantine stockpile: this works GREAT with two cans of chicken in place of the tuna as well! Other than that, we didn't change a thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fern Glass"
+},
+"reviewBody": "As always, your recipes are the best! I made 2 small changes: I substituted leftover roast chicken for the tuna &amp; used penne pasta instead of egg noodles - absolutely delicious! My new go-to casserole recipe. - FGB"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kross"
+},
+"reviewBody": "Very good- do up sauce and spices to taste. I recommend albacore in water so it stays in pieces. Would also be good with chicken"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie Park"
+},
+"reviewBody": "This baked up beautifully and tasted incredible. It was awesome to make it from scratch and got a standing ovation from my husband and young children. Best. Tuna. Casserole. Ever."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Al Dale"
+},
+"reviewBody": "An easy and delicious recipe for an old-time favorite with a topping that's to die for! As a hallmark with casseroles, it's even better as leftovers. To fully enjoy, call in the reserves for the serious clean-up (LOL). Enjoy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Iversen "
+},
+"reviewBody": "Was an ok recipe. Wasn't that impressed. Probably won't make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mfincher "
+},
+"reviewBody": "I followed the recipe exactly and it turned out perfect! It’s easy, budget-friendly, and most importantly, delicious. Will be making again when I’m craving a classic comfort food dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "James"
+},
+"reviewBody": "As per suggestion by others, I added green olives and garlic. Wife loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Candi Davis"
+},
+"reviewBody": "I am not really a tuna fish casserole eater but. I would definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wendy Mayer"
+},
+"reviewBody": "Very good casserole!! It would have been much better if I would have remembered to put in the tuna - lololol"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "JLSCHUTT"
+},
+"reviewBody": "It caused a lot of extra dirty dishes. I like a bit less work for a casserole."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maria Emma Mariñez"
+},
+"reviewBody": "It's very easy to prepare and iis delicious. Thank you so much!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Frances Rinehart"
+},
+"reviewBody": "I made this exactly as the recipe called except for one addition. I added fresh mushrooms into the butter instead of onions because my husband doesn't like onions. He can tolerate onion powder and pureed onion. I added a little extra cayenne, but everything else was as called for in the recipe. I actually took it out of the oven at 25 minutes and let it rest for 10 minutes. There was enough sauce that some of it was trying to bubble out of the side, but it was very little. The casserole was delicious. My husband enjoyed it as well. I gave it four stars because I added to the original recipe with the mushrooms and it actually began to be a little bit dryer than we would have liked. I will make this again, but will most likely either add more sauce or cook it for less time. 20 minutes might actually do it. It was definitely a golden brown, if not a little darker when I removed it. I'm attaching pictures."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Largo"
+},
+"reviewBody": "I agree with Mousielove, JohnL and Tashagang. This recipe works equally well with chicken. , but I would use frozen mixed vegetables instead of just peas. That's the beauty of these recipes, you work with what you've got. Speaking of which, I almost always put chopped or finely sliced celery in my casseroles and try to have a jar or two of minced pimientos around for taste and color. Lastly, I can't stand the Tuna in Water and, if you buy a good brand, packed in olive oil. you can drain it off and use it in the topping."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Andy-Susan Pilkerton"
+},
+"reviewBody": "The best tuna casserole ever!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DJRitter"
+},
+"reviewBody": "It was terrific. I used three cans of tuna and couldn't imagine using less. I used a little extra cheddar cheese in the sauce. And crushed potatoe chips were the absolutely perfect topping for the dish. My husband LOVED it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allene Rousse"
+},
+"reviewBody": "Easy and everyone loved it:-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CJay"
+},
+"reviewBody": "I have missed this from childhood..Tried making it the traditional way, but my kids wouldn't even try it (hate mushrooms) I made this recipe with them, the whole family was satisfied..thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Tashagang"
+},
+"reviewBody": "Very bland. Would suit a four year old's taste buds."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doughgirl8"
+},
+"reviewBody": "Not Mrs. Kotter's tuna casserole! This was great. I had an open bottle of white wine, so I used the last of it (~2/3 cup) in place of some of the milk, and it added a really nice bit of acidity. I added the wine to the roux and let it cook for few seconds so it wouldn't curdle the milk, and then whisked in the milk. This makes a huge batch, which was fine because the leftovers are delicious, but I think next time I'll try a half recipe. I only had water-packed tuna and it was fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Mayumi Urgino"
+},
+"reviewBody": "It was going to be really good until I put it in the oven for the suggested 30 minutes. But the oven dried out the sauce and sucked out all the flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ernest Wachter"
+},
+"reviewBody": "Favoret recipies"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "queenb"
+},
+"reviewBody": "This recipe came out perfect for me, and all members of my family of 4 loved it! Even my husband who usually doesn't like tuna."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Miztiki"
+},
+"reviewBody": "I added a bit of garlic to the onions and spread some green olives on top of the casserole before adding crumbled potato chips (because that’s the way I like it). I omitted the salt since I’d get plenty from the olives and chips. Thanks for another great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "John L"
+},
+"reviewBody": "Had no peas, regular bread crumbs, Worcestershire, but had Asian fish sauce and panko bread crumbs. Had only a 10x14 glass dish. Added mushrooms and a diced celery rib to the saute. Used mix of Parmigiano Regiano and Pecorino Romano for crumb topping, and increased quantities by 50% for larger area pan. COVID-19, ya know. Delicious! Gave only 4 stars as I changed the recipe a bit.\nAs CJ says. \"That's just you cooking.\""
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Hoss"
+},
+"reviewBody": "We did not care for this recipe. Should have used potato chips as toping."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Righter"
+},
+"reviewBody": "I used italian bread crumbs and doubled the peas. My kids scarfed this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sherlock Ward"
+},
+"reviewBody": "Tuna noodle casserole is one of my absolute favorite meals. I had all the ingredients except one, which was the Parmigiano-Reggiano and I could not for the life of me find it at the store. So I used more bread crumbs in place of that. I used whole milk and did not find any tuna in olive oil (only water and vegetable) so I used tuna in water. As far as how it turned out it is good but not quite great. I do like my tuna casserole pretty moist so next time I think I'll add more liquid to the ratio. Oh, I did add an extra 1/4 cup of peas because I love peas, doubly so in my tuna casserole. The consistency before baking was pretty on par with what Chef John shows in the video. I am a notoriously picky eater but I am enjoying the results of this recipe so I'll likely try it again with a few custom tweaks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mousielove"
+},
+"reviewBody": "No tuna, but used shredded leftover chicken. Had only a bit of Gruyere and packaged Cheddar leftover. Very good, but I beg to differ. Not the King of casseroles, but Chef John's Macaroni and Cheese IS the King. of casseroles. Next time, will grate cheese beforehand, hopefully, if it's available. Thanks, Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Davich"
+},
+"reviewBody": "It was good but not what I expected from Chef John. Usually his dishes are above and beyond just with the ingredients he demonstrates. This one needs something. I'll have to surf the comments to see what people smarter than me added."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DS95"
+},
+"reviewBody": "Delicious! Takes awhile to make, but it’s easy. This one’s a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Candy M"
+},
+"reviewBody": "I didn't have tuna so I subbed salmon. It was excellent."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eli Loehrke"
+},
+"reviewBody": "Don't be afraid to really go sharp on the cheddar!"
+}
+]

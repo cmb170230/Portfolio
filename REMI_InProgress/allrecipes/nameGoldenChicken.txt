@@ -1,0 +1,284 @@
+,"name": "Golden Chicken"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "16"
+}
+,"cookTime": "PT130M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "707 kcal"
+,"carbohydrateContent": "9 g"
+,"cholesterolContent": "283 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "63 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "1478 mg"
+,"fatContent": "45 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"4 (12 ounce) chicken leg quarters",
+"2 teaspoons kosher salt, plus more to taste",
+"1 tablespoon olive oil",
+"1 cup diced onion",
+"0.5 cup diced celery",
+"0.5 cup diced jalapeño pepper",
+"2 teaspoons ground cumin",
+"1 teaspoon smoked paprika",
+"0.25 teaspoon ground coriander",
+"0.25 teaspoon ground turmeric",
+"0.5 teaspoon freshly ground black pepper",
+"0.125 teaspoon cayenne pepper",
+"0.125 teaspoon ground cinnamon",
+"3 cloves garlic, crushed",
+"1 tablespoon tomato paste",
+"3 tablespoons white wine vinegar",
+"2.5 cups cold water",
+"1 teaspoon saffron threads, crushed",
+"1 teaspoon dried currants",
+"1 teaspoon chicken bouillon base" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place chicken leg quarters on a work surface with the skin facing up. Make a cut into the thickest part of each drumstick, all the way down to the bone. Then make two cuts, about 1 inch apart, right in the center of each thigh. Season both sides generously with 2 teaspoons kosher salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a large skillet over high heat. Add chicken, skin-side down, and sear until skin is nicely browned, 5 to 6 minutes. Flip and sear for 2 more minutes. Turn off the heat and remove chicken to a plate, leaving any rendered fat in the skillet."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn the heat back on to medium; add onion, celery, jalapeño, and a pinch of salt to the skillet. Sauté until onion turns translucent and veggies have softened, 5 to 7 minutes. Add cumin, paprika, coriander, turmeric, pepper, cayenne, cinnamon, and garlic; cook and stir until garlic has cooked a bit and spices are toasted, about 2 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in tomato paste, vinegar, water, and saffron. Increase heat to high and stir in currants and chicken base; bring to a simmer."
+} ,{
+"@type": "HowToStep"
+,"text": "Add chicken to the skillet, skin-side up, and reduce heat to low. Baste chicken with the liquid. Cover and cook over low or medium-low heat at a gentle simmer for 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Flip chicken, cover, and simmer gently until the meat is fork-tender and almost falling off the bone, about 30 more minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Flip and baste chicken again. Increase heat to medium and cook, uncovered, until chicken is very tender and the braising liquid has reduced a bit, 20 to 30 minutes more."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/teV7lo86E5ci3kmf3zpxRLF_B3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Golden-Chicken-2000-62f72f27dafd49259d7d33bf53d6e5c8.jpg"
+}
+]
+,"text": "Taste the braising liquid and adjust seasoning if needed before serving."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT145M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "plates4u"
+},
+"reviewBody": "This recipe is excellent. Followed it to a T although I had to remove the cayenne and the replace the jalapeño for a green pepper for dietary restrictions reasons. Also followed Chef John's suggestions for thickening the sauce. This was just fantastic. Served it with white rice and it was just perfect. All the warmth from such a deliciously cozy meal for a very cold day of winter! Will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lacyanne"
+},
+"reviewBody": "This is an incredibly delicious chicken recipe! I'm always looking for chicken leg recipes and this is the best one I've found. I made it as written but popped the chicken under the broiler before serving. The chicken was so tender and flavorful and the sauce was delicious on top of Chef John's mashed potatoes. The chicken base really delivers on amping up the flavor and the dried currents and saffron make for an interesting color / taste. Happy to have this recipe in the rotation. Thanks, Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy Heffner"
+},
+"reviewBody": "Very tasty! I used dried cranberries as I didn’t have currants."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "marty"
+},
+"reviewBody": "Another hit from Chef John! My store didn't have leg quarters, so I used bone-in, skin-on, thighs. Couldn't find currants either, so I used golden raisins. I also didn't use the chicken base, just mixed water and chicken broth together and all was well. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce Cordova"
+},
+"reviewBody": "I just made this and it was delicious and pretty easy to make which means it will be added to my rotation of quick and easy weekday meals. One change I made was using garlic powder instead of fresh garlic since dried herbs/spices seem to work better with long braising times. All the other spices I kept the same (including Saffron!). I also added a can of drained chickpeas during the last 30 minutes of cooking and they soaked up a lot of flavor and helped thicken the sauce. I love the texture they added to the final dish. Served it with wild rice cooked in chicken stock and steamed broccoletti . Thank you, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Aker-Finney"
+},
+"reviewBody": "Love Chef John's recipes and this one was no different. Made exactly as written. Chicken was fall off the bones tender and the sauce is great over rice. My family loved it!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris David"
+},
+"reviewBody": "Its really a nice recipe and mouth watering. Try this one also https://www.beckandbulow.com/lamb-moroccan-kefta-meatballs/"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "micahm21"
+},
+"reviewBody": "Fall off the bone delish! Thanks again Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Willy P"
+},
+"reviewBody": "Another winner from Chef John. I made this as per the recipe - with the sole exception of adding dried dates for some sweetness since I had no currants. This dish got rave reviews from everyone...I will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nitrous dude"
+},
+"reviewBody": "When the dish is cooked as described, what is the level of heat? I have a heat-intolerant family :) Thanks Chef!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ebethbarr94"
+},
+"reviewBody": "Ever since the video premiered I knew I had to make this dish! It was phenomenal. I loved the flavors and it was a big hit with my family. It took a while, but none of the steps were difficult and it was well worth all the effort. Thank you for an amazing recipe, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lmhagen"
+},
+"reviewBody": "That was amazing. Time after time you're recipes have made me look a professional chef. I learn something new each time, and I've become so much the confident home cook. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharyl"
+},
+"reviewBody": "Very flavourful comfort food. Thought it would be very spicy with 2 tsp cayenne and hot peppers, however when it was paired with the mashed potatoes, it was fine. Let the sauce simmer down to a thicker consistency. Sorry Chef John, couldn't justify the Saffron, - used a little more turmeric instead. Still very tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "angelajeanne"
+},
+"reviewBody": "Made this with some garlic Parmesan risotto and couldn't believe how good it was! It tasted like a dish you'd pay $50 for at a fancy restaurant. Pic shows a knife but you don't even need it. A few changes I made: Couldn't find currants so I used 1/4 cup roughly-chopped raisins instead (felt like 1 tsp was a weirdly small amount?). Also didn't want to pony up for the saffron so I used an additional 1/2 tsp turmeric. I would definitely make this again! Further proof chef John is a culinary God"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rydsfar"
+},
+"reviewBody": "Amazing! Next time I will make twice as much. Thank you, Chef!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ursula"
+},
+"reviewBody": "I love the golden spices in this. Thank you!"
+}
+]

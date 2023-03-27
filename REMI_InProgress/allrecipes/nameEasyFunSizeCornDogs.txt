@@ -1,0 +1,242 @@
+,"name": "Easy Fun-Size Corn Dogs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "14"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "104 kcal"
+,"carbohydrateContent": "11 g"
+,"cholesterolContent": "14 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "225 mg"
+,"sugarContent": "2 g"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"4 hot dogs",
+"1 large egg, beaten",
+"4 tablespoons vegetable oil, divided",
+"2 tablespoons white sugar",
+"1 cup milk",
+"1 teaspoon white vinegar",
+"1 cup cornmeal",
+"1 cup all-purpose flour",
+"1.75 teaspoons baking powder",
+"0.25 teaspoon baking soda",
+"0.75 teaspoon kosher salt",
+"1 pinch cayenne pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut each hot dog into 6 pieces."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour egg, 2 tablespoons vegetable oil, sugar, and milk into a mixing bowl; whisk until combined. Add white vinegar, cornmeal, flour, baking powder, baking soda, kosher salt, and cayenne. Whisk briskly until ingredients are combined and batter is relatively thin and overmixed. Set batter aside for 10 minutes before using."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, brush two 12-cup mini muffin tins with 2 tablespoons vegetable oil. Fill the prepared muffin cups to about 1/8 inch from the top. Gently push a piece of hot dog into the center of each one."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/uz-8TlVHoyP7poRODZVeLa1ImIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8551843-f94859ab985f4e429785ffdd58f8cba0.jpg"
+}
+]
+,"text": "Bake in the preheated oven until nicely browned, about 18 minutes. Let cool for at least 5 minutes before removing from the pan."
+} ]
+,"recipeYield": ["24"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Use 4 tablespoons of sugar if you want a hint of sweetness or maybe 5-6 tablespoons if you like some sweet corndogs. Just don't use 2 tablespoons of sugar like in the recipe because the video doesn't even look like 2 tablespoons."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "thanatopsis"
+},
+"reviewBody": "I halved the milk (used buttermilk), cornmeal, flour, but used the same amounts of everything else except 1 tsp Diamond Crystal Kosher salt (1/2 tsp table salt) and made 24 mini muffins in one mini muffin pan, with about 1 TBSP of batter in each muffin, and 1/5 of a regular hotdog, or 1/6 of a bun-length hot dog in each muffin. About 13 minute total at 375-400F."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dan Rucker"
+},
+"reviewBody": "Enjoyed this very much, only problem. I think my cat got one of the hot dogs, as I only had 23 when it came to to put them in the mix...sneaky little guy!\nUsing the mini-muffin pan, they cooked in only 10 minutes. I used spicy brown mustard to dip them in...fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mikda999"
+},
+"reviewBody": "WOW! I don't know what others did, but these were amazing!!! Totally crisp on the outside without frying! Everyone here LOVED them including me who doesn't care for corn dogs in the first place. I got about 28 from my batches and used about 5 hot dogs. The title says \"fun sized\", so I assumed it was my mini muffin pan. And the liquid to dry ratio is the same as my corn muffin recipe so we didn't have any issues with consistency. Than you Chef John for another excellent recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cccw81"
+},
+"reviewBody": "I used the sausage maker to make this mini corn dog, so easy and delicious to make. My kid keep telling to save this recipe to ensure he can have them again in the future XD"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Tipton"
+},
+"reviewBody": "They were edible but just barely. The batter was very thick so I added more milk to make it the right consistency but they still came out dry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "kaymama"
+},
+"reviewBody": "This recipe was just ok for us. I followed the recipe and the batter was thin enough. The difference is that this is baked, not fried. If you’re looking for a classic corn-dog taste and texture, get yourself a little deep fryer and go all out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mousielove"
+},
+"reviewBody": "Nice, Chef John! Thank you - hmm...thinking maybe I could try this with pulled pork, too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jason Sullivan"
+},
+"reviewBody": "So I followed the recipe, and I'm not sure how 1 cup of flour, 1 cup of cornmeal, and 1 cup of milk is supposed to result in a very thin batter (even with the additional ingredients). The proportions just don't make sense. Mine was almost unstirrable, and I had to add a bunch more milk to get it relatively close to usable. I can see stirring everything but the flour and corn into the liquids and then slowly adding a cornmeal/flour mixture until you get what you want, but you'd never add it all (maybe half?)\n\nAll that said, they were tasty! Also, don't think using paper muffin cups will save you from oiling a pan. Ditch the cups and oil the pan; otherwise you're in for a world of frustration."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "sopdox"
+},
+"reviewBody": "Neither the recipe nor the video show the size of the mini muffin tins by oz. My mini muffin tin for example, took two sorbet sized scoops of batter, so I only ended up coming out with 11 muffins. Chef John’s tins must have half the capacity than mine did. Also the batter turned out even thicker than in the video so I needed a couple of ounces more milk. With larger muffins, the baking time needed to be increased. The muffins came out tough and tasteless. Needs much more sugar or honey or something. The cornmeal could do with soaking first."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "matthew"
+},
+"reviewBody": "I've been craving corn dogs on and off for 30 years or so. These definitely hit the spot! Though I think chef John used cupcake trays, not muffin trays, because I needed to double the recipe to get 20.. Chef John had it right though, because my batter to dog ratio wasn't correct.\n\nIf I were to do this again, I'd find smaller trays so the batter to dog ratio is closer to a traditional corn dog.. and I think I'll add a bit of yogurt for moisture and tang.\n\nEither way, a couple of these with some mustard is incredible"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Santiya Bell"
+},
+"reviewBody": "Fried half and baked half. Obviously the fried ones turned out better... but just. Nice that the same batter worked for both cooking methods. I agree with some others that adding a touch more sugar would be good. I used medium ground cornmeal and the texture was perfect! Another winner Chef John. Thanks! (I did have a little trouble with them sticking to the mini muffin pan despite careful oiling)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "DaveFromNJ"
+},
+"reviewBody": "Made this tonight - easy and really good. Next time I’ll add more sugar or honey to the batter, which was a little bland for me. They cooked up perfectly and I was pleased that the batter rose fo actually completely cover the end of the hot dog. I used shortening to grease the nonstick mini-muffin tin and the all came out perfectly"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "momma g 408"
+},
+"reviewBody": "Mine didn’t make 24. It only made 14. The batter was drier than the video showed but still came out fairly decent in the end."
+}
+]

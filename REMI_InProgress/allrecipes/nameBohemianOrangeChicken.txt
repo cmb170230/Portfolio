@@ -1,0 +1,219 @@
+,"name": "Bohemian Orange Chicken"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "11"
+}
+,"cookTime": "PT100M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "707 kcal"
+,"carbohydrateContent": "17 g"
+,"cholesterolContent": "241 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "51 g"
+,"saturatedFatContent": "13 g"
+,"sodiumContent": "1859 mg"
+,"fatContent": "47 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"8 (5 ounce) bone-in, skin-on chicken thighs",
+"2 teaspoons kosher salt",
+"1 tablespoon olive oil",
+"0.5 cup diced onion",
+"1 pinch kosher salt",
+"1 tablespoon white sugar",
+"2 cloves garlic, minced",
+"1 medium orange, zested",
+"0.667 cup freshly squeezed orange juice",
+"2 tablespoons freshly squeezed lemon juice",
+"2 cups chicken broth",
+"1 pinch ground cinnamon",
+"1 pinch cayenne pepper",
+"0.125 teaspoon freshly ground black pepper",
+"1 tablespoon caraway seeds",
+"1 splash water, or as needed",
+"1 teaspoon grated orange zest" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Generously season chicken thighs on both sides with 2 teaspoons kosher salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a large cast iron skillet over high heat. Add chicken, skin-side down, to the hot oil and sear until skin is golden brown and releases from the bottom of the skillet, 4 to 5 minutes. Turn and sear on the other side for 3 to 4 minutes. Turn off the heat and remove chicken to a plate. Drain fat from the skillet and reserve for another use."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the skillet back on the stove. Add onion, a pinch of kosher salt, and sugar. Turn heat to medium-high; cook and stir until onion turns translucent and sugar starts to caramelize on the bottom, 3 to 4 minutes. Add garlic; cook and stir until fragrant, about 30 seconds, being careful not to burn."
+} ,{
+"@type": "HowToStep"
+,"text": "Add orange zest, orange juice, lemon juice, and chicken broth. Increase heat to high, and stir in cinnamon, cayenne, and black pepper. Stir occasionally and bring to a boil. Boil until liquids are reduced by half, 2 to 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn off the heat and transfer chicken and any accumulated juices back into the skillet; make sure the skin is facing up. Baste chicken with the liquid and sprinkle caraway seeds over top."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover and bake in the center of the preheated oven for 1 hour. Remove from the oven, remove the lid, and baste chicken."
+} ,{
+"@type": "HowToStep"
+,"text": "Return to the oven and bake, uncovered, until no longer pink at the bone and the juices run clear, about 20 more minutes, adding a splash of water if the liquid dries out. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Gcjrp6purneFm6qaw_zsPsq5Ql0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Bohemian-Orange-Chicken-2000-366dd3a4a1c346e1a9587ae4570694fe.jpg"
+}
+]
+,"text": "Remove from the oven and baste again. Garnish with grated orange zest and serve."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT115M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was an absolute hit! My dad usually isn’t the biggest chicken fan, but even he was impressed with this recipe. I find rare that I cook recipes that I really really want to make again, but this is definitely one of them. Caraway isn’t a common ingredient I work with, but it really adds a great flavor paired with the sweet and sour orange sauce. This is a definite keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diana Panduro"
+},
+"reviewBody": "Soo good!!! I was going I skip the cinnamon It just didn’t seem like it would go, it actually balances the dish perfectly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy"
+},
+"reviewBody": "This was really good. I will make it again once the weather cools down. I don't have enough ambition to make dumplings so served over egg noodles."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I like every one of Chef John’s recipes but my husband raved about this one and that’s a high bar to get over. I made the chicken exactly as listed but put it over jasmine rice. The sauce soaked into it and it was so good. This one will definitely be in the rotation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rick"
+},
+"reviewBody": "It's a keeper! Perhaps I was too enthusiastic during the initial cooking but mine were done to perfection by about 50 minutes (pushing 200°F) with the sauce nicely reduced."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Hadden"
+},
+"reviewBody": "The flavor was new and interesting. I will try the recipe again. I just need to be careful to control the amount of fat, the end result was too oily. I watched the video again and notice CJ's chicken thighs had its skin only on the top while mine had it wrapped around the entire thigh."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doug Cook"
+},
+"reviewBody": "Another great one from chef John! The only downside is that there wasn't enough of that sticky sauce to go around. If you've got the time I'd recommend simmering down a small pot of more chicken stock, and more orange+lemon juice (and maybe a pinch of sugar to taste) while the original is in the oven. I would have loved a whole other pot of that wonderful sauce!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Just made this tonight with his brand new hot off the press Czech Bread Dumplings recipe. This takes a while to cook but...your mouth will be very very pleased. I think my new favorite spice is caraway seeds! Oh my god, this might be my new favorite chicken recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rem0503"
+},
+"reviewBody": "I made this a couple of days ago. It was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Radimer"
+},
+"reviewBody": "Really excellent. Couldn't get caraway seeds, so substituted fennel seed as recommended by a friend.... it stilled worked!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LubinVA"
+},
+"reviewBody": "Absolutely fabulous! Tender, juicy and a remarkable blend of flavors. No single flavor dominated the taste, it was a tangy, rich symphony. I made it precisely as CJ recommended and served it over polenta strips."
+}
+]

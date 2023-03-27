@@ -1,0 +1,172 @@
+,"name": "Korean-Style Cream Cheese Garlic Bread"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "7"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "597 kcal"
+,"carbohydrateContent": "57 g"
+,"cholesterolContent": "131 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "14 g"
+,"saturatedFatContent": "22 g"
+,"sodiumContent": "1197 mg"
+,"fatContent": "35 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 cup warm water (100 to 110 degrees F/40 to 45 degrees C)",
+"2 teaspoons active dry yeast",
+"1 teaspoon white sugar",
+"3 cups all-purpose flour, divided",
+"2 teaspoons kosher salt",
+"2 tablespoons all-purpose flour for dusting",
+"1 (8 ounce) package cream cheese, at room temperature",
+"1 tablespoon white sugar",
+"1 teaspoon kosher salt",
+"0.5 teaspoon freshly ground black pepper",
+"1 pinch cayenne pepper",
+"2 tablespoons chopped Italian parsley",
+"0.75 cup thinly sliced green onion",
+"0.25 cup heavy cream",
+"0.5 cup unsalted butter, melted",
+"8 cloves garlic, finely minced",
+"1 pinch salt",
+"1 tablespoon chopped Italian parsley",
+"1 large egg",
+"6 tablespoons grated Parmigiano-Reggiano cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine warm water, yeast, sugar, and 1 cup flour in a bowl. Let rest for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add 2 cups flour and salt to the bubbly yeast mixture. Beat with an electric mixer fitted with a dough hook until dough is fairly smooth, elastic, and tacky but not sticky, about 5 minutes. Feel free to add more flour if dough is too sticky."
+} ,{
+"@type": "HowToStep"
+,"text": "Knead the dough briefly before transferring to a lightly greased bowl. Cover and let rise until doubled in size, about 2 hours. At the 30-minute and 60-minute marks, uncover and fold dough with wet fingers 5 to 6 times to develop gluten structure."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer to a work surface and press flat, squeezing out excess air. Divide with a bench scraper into 6 equal portions. Roll each portion into a smooth ball."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer rolled dough balls onto a Silpat®-lined baking sheet and press down gently. Dust lightly with remaining flour."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover with a clean kitchen towel and let rise for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, preheat the oven to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake rolls in the center of the preheated oven until lightly browned, 20 to 25 minutes. Transfer to a cooling rack and let cool to room temperature, about 30 minutes. Increase the oven temperature to 425 degrees F (220 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "While rolls cool, make cream cheese filling. Mix cream cheese, sugar, salt, black pepper, cayenne, parsley, green onions, and heavy cream together with a spatula until combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix melted butter, garlic, salt, parsley, and egg together for coating with a whisk until combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer cooled rolls back onto the lined baking sheet. Use a sharp knife to make 6 cuts on each roll, about 90% of the way through."
+} ,{
+"@type": "HowToStep"
+,"text": "Dip the cut rolls into the garlic butter and coat in between the slits using your hands or a pastry brush."
+} ,{
+"@type": "HowToStep"
+,"text": "Pipe or spread 1/6 of the cream cheese mixture into each of the 6 rolls. Coat each once more in the garlic butter mixture. Top with Parmigiano-Reggiano cheese."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/TTKLs0D-5ExGouafTREqenyYEwk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_6819-2000-af75db6480004307ac3a7f6b7c9d06a8.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until beautifully browned, 15 to 20 minutes. Let cool slightly before serving."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT215M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Perfection. I'll make these rolls again, but use them for soup! 😄"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "clan15"
+},
+"reviewBody": "These were really good! I didn’t let them raise for the 2 hours with kneading in between, I just used my mixer and kneaded for 10 minutes then raising only took about an hour. I used chives instead of green onions and I added some of the garlic to the cream cheese filling. They came out fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I used Danish extra creamy blue cheese and leeks. I only used tarragon and chives. It was amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim McLeod"
+},
+"reviewBody": "Another Chef John success! I was going to do the bread from scratch, but was prepping to host a bday party and was too short on time. So we used store bought rolls. These turned out SO WELL. There were 9 of us and we all loved them. I could have spread the cream cheese mixture out a bit more through the buns (it was a bit clumped in the middle - my bad, I was rushed). Otherwise, perfection! I still plan to try this recipe by making the bread from scratch, and will update my review when I do that. I served these with Tatyana's borscht (do a google search for the recipe - best borscht I've tried!), with a side of grilled asparagus. Excellent meal. One of my guests ate a whole bun (they were big), and snuck another one while she was doing the dishes! So beware... as Chef John says, these are addictive!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Amazing recipe! I did some things differently (since I wanted to get closer to the more authentic recipe, without the buckets of sugar) which I’ll describe below: - doubled the entire recipe, yielding 15 rolls (my raw dough portions were about 100g each, and I piped about 50g of filling inside each one) - increased the sugar amount in the filling (doubled) and also added a bit of sugar to the garlic butter mixture. - decreased the amount of green onions The results were AWESOME, I’m addicted to them. Make sure to spread your filling until the bottom of the slits, so the bread don’t become dry. They freeze beautifully, just pack them without the 2nd baking and reheat them in an airfryer or oven. I’ll definitely be doing this delicious calorie bomb again! Hahaha"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Helena Handbasket"
+},
+"reviewBody": "I was pressed for time, so I used Chicago hard rolls (super round rolls🙂) from the bakery but otherwise followed the recipe exactly. Amazing! So delicious. And quick &amp; easy. I'll need to work on making sure the inside spreads out more next time, but these were absolutely delicious. Great crunch and flavor. 10 out of 10 would recommend. Everyone loved them. And leftovers are yummy at room temp, too!"
+}
+]

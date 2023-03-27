@@ -1,0 +1,87 @@
+,"name": "Spicy Garlic Potato Noodles"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "371 kcal"
+,"carbohydrateContent": "69 g"
+,"fiberContent": "2 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "1695 mg"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 cup potato starch, or as needed",
+"0.25 teaspoon kosher salt",
+"1 teaspoon vegetable oil",
+"0.75 cup boiling water, or as needed",
+"2 tablespoons oyster sauce",
+"2 tablespoons soy sauce",
+"2 tablespoons rice vinegar",
+"4 teaspoons ketchup",
+"0.25 teaspoon sesame oil",
+"1 teaspoon white sugar",
+"1 tablespoon Sriracha sauce",
+"1 tablespoon vegetable oil",
+"6 cloves garlic, minced",
+"1 teaspoon red pepper flakes, or to taste",
+"0.25 cup thinly sliced green onions",
+"0.25 cup chopped fresh cilantro, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine 1 cup potato starch, salt, and vegetable oil in a bowl. Add a splash of boiling water at a time, stirring between additions, until you get a perfectly textured dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer to a work surface dusted with a little potato starch. Working quickly while the dough is still warm, knead, adding more potato starch if necessary, until smooth and elastic."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring a large pot of lightly salted water to a boil. Set out a large bowl of cold water."
+} ,{
+"@type": "HowToStep"
+,"text": "While the water is boiling, roll dough to a thickness of 1/8 inch. Cut into 1/4-inch noodles with a pizza cutter. Separate noodles."
+} ,{
+"@type": "HowToStep"
+,"text": "Add potato noodles (in batches if desired) and cook until they float, about 1 minute. Transfer to the bowl of cold water. Repeat to cook remaining noodles."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk oyster sauce, soy sauce, rice vinegar, ketchup, sesame oil, sugar, and Sriracha together in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat vegetable oil in a skillet over medium-high heat. Add garlic and sizzle for 15 seconds. Add 1 teaspoon red pepper flakes and green onions; stir-fry for a just few seconds. Before the garlic starts to brown, add in the potato noodles. It&#39;s okay that some water comes into the pan as it will stop the cooking process and prevent the garlic from burning."
+} ,{
+"@type": "HowToStep"
+,"text": "Add sauce and stir until noodles are coated. Cook until noodles are heated through and sauce starts to simmer, 1 to 2 minutes. Turn off the heat and stir in 1/4 cup chopped cilantro."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Gds0FbTfTVZa_rutcnyX2dqd_QA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Spicy-Garlic-Potato-Noodles-2000-a5494238350e498ab419996a0e28f01e.jpg"
+}
+]
+,"text": "Divide noodles into 2 bowls and garnish with more cilantro and red pepper flakes."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rita"
+},
+"reviewBody": "After watching the video and listening to Chef John, I thought this would be tricky, but it was easier than I anticipated. Adding the boiling water slowly is a good tip when making the dough."
+}
+]

@@ -1,0 +1,499 @@
+,"name": "Chef John&#39;s Chicken and Rice Casserole"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "33"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "362 kcal"
+,"carbohydrateContent": "32 g"
+,"cholesterolContent": "72 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "24 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "1126 mg"
+,"sugarContent": "3 g"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"0.33333334326744 cup plain yogurt",
+"1 medium lime, zested and juiced",
+"2 teaspoons kosher salt",
+"1 teaspoon ground paprika",
+"1 teaspoon ground cumin",
+"0.5 teaspoon ground coriander",
+"0.25 teaspoon cayenne pepper",
+"0.25 teaspoon ground white pepper",
+"0.25 teaspoon ground cardamom",
+"0.25 teaspoon ground cinnamon",
+"0.25 teaspoon ground allspice",
+"1 (2 to 3 pound) whole chicken, cut into 8 pieces",
+"1 pinch saffron",
+"2.25 cups chicken broth, divided",
+"2 tablespoons unsalted butter",
+"1 teaspoon kosher salt",
+"1.5 cups basmati rice",
+"1 drizzle olive oil",
+"salt to taste",
+"0.5 cup plain yogurt",
+"2 cloves garlic, crushed",
+"2 tablespoons thinly sliced green onions",
+"2 tablespoons finely chopped mint",
+"2 tablespoons finely chopped cilantro",
+"salt to taste",
+"1 tablespoon water, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Add yogurt, lime zest and juice, salt, paprika, cumin, coriander, cayenne, white pepper, cardamom, cinnamon, and allspice for marinade to a large mixing bowl; whisk to combine."
+} ,{
+"@type": "HowToStep"
+,"text": "Make one or two slits into each piece of dark chicken meat, down to the bone. Add chicken parts to the yogurt marinade and toss very thoroughly. Wrap in plastic wrap and marinate in the refrigerator for 4 to 8 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C). Lightly grease a 9x13-inch casserole dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Grind saffron in a mortar with a pestle. Pour in 1/4 cup chicken broth and stir to combine."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine unsalted butter and salt in a saucepan; pour in remaining 2 cups chicken broth and chicken broth-saffron mixture. Bring to a boil over high heat. Add basmati rice and stir to combine. Reduce heat to low, cover tightly, and let simmer gently for exactly 15 minutes; do not disturb while cooking. Turn off the heat and let rest for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "While rice is still hot, transfer into the prepared casserole dish. Use a fork to fluff the rice while gently spreading into an even layer. Place the chicken pieces, skin-side up, on top of rice. Drizzle with olive oil and sprinkle with salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Roast in the center of the preheated oven until chicken is no longer pink in the centers and juices run clear, about 45 minutes. An instant-read thermometer inserted into the thickest part of the thigh, near the bone, should read 165 degrees F (74 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/dUnx2-8SkpCfYcDq1I6wpwur-3s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-558-81c2498d98894c99a7e7beaedf644134.jpg"
+}
+]
+,"text": "While chicken is in the oven, mix yogurt, garlic, green onions, mint, cilantro, salt, and water together for sauce. Reserve in the refrigerator until needed. Serve chicken and rice on a plate and top with sauce."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT340M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "If you have a well stocked spice cabinet this is a very budget friendly meal that tastes exotic. Especially loved the rice. Definitely make the optional sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "this is amazing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurahallie"
+},
+"reviewBody": "I made this as a test recipe, and it was definitely good enough to go ahead with making it for company this weekend! The rice is so good, and the chicken generally tender, with a delicious baked-in marinade of savory and baking spices, with the cinnamon and cardamom standing out in particular. I marinated for 4 hours but will probably do the full 8 hours or so next time. I also may just buy a cut-up chicken, as I don't really enjoy the messy process of cutting it up myself. Finally, I'll double the delicious yogurt sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy"
+},
+"reviewBody": "I followed this recipe to a tee and it was fantastic! All the flavors of this dish is amazing. So glad I opted for the yogurt garlic sauce, it is also fantastic. My boyfriend and I both agree that we need to make this often!! Thank you Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim McLeod"
+},
+"reviewBody": "Made the recipe exactly as is. This is a wonderful dish! Exotic describes it perfectly. We loved the flavouring of both the chicken and the rice. This was the first time I've bought saffron... I'm not sure how much of the rice flavour comes from being cooked with chicken broth, or the saffron, or being baked with the chicken, but oh my - the rice was heavenly! this recipe is a keeper, along with all of the others I have tried from Chef John so far. Also, A++++ for his videos. Love listening to his voice cadence and his jokes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine Bean"
+},
+"reviewBody": "Very VERY good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "xksmith5151"
+},
+"reviewBody": "I've made this recipe four times now, and while it does take some time, it's very much worth it. Using a glass casserole dish allows the fat from the pieces of chicken to drain to the bottom resulting in a crunchy, tahdig- like rice. It's so delicious that I always double the recipe in order to insure leftovers. And don't forget the pita bread!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "4djkgsbr68"
+},
+"reviewBody": "I tried the recipe few times each and every time turns out to be delicious. My family loves it . I also tried it with vegetables instead of chicken and same results. Very flavourful \nThanks a lot for this wonderful recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nikkib"
+},
+"reviewBody": "This is one of the best dishes that I have ever eaten, and my kids love it too. I can't stop thinking about it the next day, it is so good. The mint yogurt sauce sends it over the top and should not be skipped."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yesenia Salazar"
+},
+"reviewBody": "Absolutely making this more often. I did make some mistakes and adjustments. I mistakenly used non-fat yogurt, so the chicken itself didn't have much flavor, but I balanced it after when making the yogurt mix to go on to top of the cooked chicken by adding honey, and it was perfect. I also cooked the rice and chicken separately, since I have never done a rice casserole and was afraid to get mooshie rice"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Margaret Harman"
+},
+"reviewBody": "This was soooo good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Hadden"
+},
+"reviewBody": "The optional sauce is amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica"
+},
+"reviewBody": "This sounded good and it was! I used thighs and halved the recipe rather than a whole chicken. There’s only two of us. It worked perfectly. The top of the rice does get a touch crunchy in parts. Not my thing, but I didn’t hate it (I thought I might). I liked the sauce but also don’t find it necessary. The chicken and rice have great flavor on their own. Thanks for something a little different to put in rotation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joanne"
+},
+"reviewBody": "Simple to prepare and VERY delicious! The crunchy rice was an added bonus. It’s a keeper, thanks Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shofland"
+},
+"reviewBody": "Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Justin Maggard"
+},
+"reviewBody": "Truly excellent made as per directions. Juicy chicken beautifully crisped skin, vibrant flavorful rice and such a nice fresh kick from the herb sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bryan"
+},
+"reviewBody": "Outstanding! Also works great with samon, with a shorter marination and cooking time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "thewizang"
+},
+"reviewBody": "Amazing. Simple to make and the flavor is out of this world. Definitely will be keeping this in our rotation and making if often!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenn"
+},
+"reviewBody": "One of my family's favorite recipes. Mine too. Not too labor-intensive, just make sure you leave time to marinate the chicken (key). It's so wonderful. Smells and tastes unique."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charles"
+},
+"reviewBody": "I generally love Chef John's humor and his recipes are at least as good and this one was no exception. I made it with three large quarters instead of a complete chicken, nearly three pounds of meat, but will try a fourth quarter next time. I had enough extra marinade to spoon it onto my quarters after laying them in the rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tina"
+},
+"reviewBody": "Fantastic recipe and a great way to prepare a whole chicken or just some legs. I added 1 tsp of red pepper flakes to the spice mixture. The sauce was really good but I would double the amount of yoghurt next time. I will make this again and play around with the spices and herbs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anthony Gilbert"
+},
+"reviewBody": "This was pretty good. It was like a biriyani chicken for people who might not ever try Indian food. I decided to just use what I had rather than go out and buy a whole chicken. I used boneless, skinless chicken breast and thighs. I would recommend checking the chicken at about 35 minutes. Mine came out a little dry but it was my fault. I also used oat yogurt and it actually worked well. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "The Big"
+},
+"reviewBody": "As always Chef John does it again! This dish was delicious, a big hit with the whole family. Admittedly I am a huge fan of Chef John's work but this chicken and rice dish might be my new favorite. Only had time to marinate the chicken for about 3-3 1/2 hours and STILL the flavor of the chicken and rice was amazing. You will definitely ENJOY :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "grace-over-fire"
+},
+"reviewBody": "This was delicious. I did use a dried lime, powdered, as mentioned in the video. I also used dill instead of mint for the sauce. It is very easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jay Gilbreath"
+},
+"reviewBody": "The flavors were excellent! I think next time I am just going to use dark meat to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jing Jiang"
+},
+"reviewBody": "Chef John never fails me! I used lemon zest and lemon juice because lime was sold out. I cooked rice in Instant Pot for 12 min. I baked 3 lb chicke wings for 40min. Very delicious! Will make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "marty"
+},
+"reviewBody": "Great. My other half didn't care for the sauce, but I like it. Followed the recipe and will defintely make this again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Hatfield"
+},
+"reviewBody": "Really simple and tasty. Good old chicken and rice with great exotic flavors. I followed the directions and recipe exactly, with the exception of using a larger chicken so my 9x13 pan was a little crowded. It worked out great anyway. The video has the best rice making lesson - followed it to the letter (no peeking!) And it came out perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Hall"
+},
+"reviewBody": "My husband made this last night for dinner and it was excellent! He followed the recipe exactly. I swear I could drink the yogurt sauce! Lots of great flavors and not difficult to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lynn"
+},
+"reviewBody": "I didn’t have yogurt so I used lite sour cream. Came out fantastic and the whole family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Andy Negenman"
+},
+"reviewBody": "Was okay. I was hoping it would taste more like the turkish kabobs which is one of my favorite recipes, since the spice blend is simular. Complex, nuanced, flavourful, but not what I'd call exotic. \nWill make again but will use the turkish kabob blend instead."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CJ"
+},
+"reviewBody": "Absolutely fantastic, just like most Chef John recipes!"
+}
+]

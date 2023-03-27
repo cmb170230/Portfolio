@@ -1,0 +1,77 @@
+,"name": "Bacon-Caramel Popcorn Balls"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "1"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "717 kcal"
+,"carbohydrateContent": "128 g"
+,"cholesterolContent": "19 mg"
+,"fiberContent": "23 g"
+,"proteinContent": "24 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "280 mg"
+,"sugarContent": "12 g"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"12 ounces bacon, cut into 1/4-inch pieces",
+"8 cups popped popcorn",
+"0.5 cup white sugar",
+"2 tablespoons cold unsalted butter, cubed",
+"1 pinch salt",
+"4 teaspoons water, at room temperature",
+"1 teaspoon unsalted butter, softened" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Cook bacon in a pan over medium heat until all the fat has rendered out, and all the pieces are well browned and crisp, 5 to 7 minutes. Transfer into a strainer set over a bowl to catch the excess grease. Let bacon cool to room temperature."
+} ,{
+"@type": "HowToStep"
+,"text": "Place popcorn in a large mixing bowl. Add cooled bacon and mix lightly until evenly distributed. Set aside until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour white sugar into a small saucepan and set over medium heat. As soon as the sugar begins to melt and turn clear around the edges, carefully shake and swirl the pan. Do not try to stir the sugar with a utensil! Just occasionally shake and swirl the pan, which will mix the still granulated sugar into the melted sugar."
+} ,{
+"@type": "HowToStep"
+,"text": "When almost all the sugar is melted, and the mixture is turning a light amber color, reduce the heat to low."
+} ,{
+"@type": "HowToStep"
+,"text": "Once all the sugar is melted, turn off the heat, and add cold butter cubes to the pan all at once. Carefully shake and swirl the pan until the butter melts into the sugar. Do not use a whisk yet."
+} ,{
+"@type": "HowToStep"
+,"text": "Add water and salt and use a whisk to mix until a smooth, thin caramel sauce forms. Some of the sugar may temporarily harden when you add the water, but just keep whisking until everything dissolves and you&#39;ve achieved a smooth sauce. If it&#39;s not melting, turn the heat on low, and continue until it does."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from heat and quickly, but carefully, drizzle caramel sauce over the bacon and popcorn while tossing with a lightly buttered spatula. Continue tossing until the popcorn is evenly coated with the caramel."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/bMGxoKXbd0v5LjuWqbY1xRD3ZRc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9361413-9f013f70dae94b0f86ab8ecf45b77b52.jpg"
+}
+]
+,"text": "Lightly butter your hands, and as soon as the mixture has cooled down enough to stick together, form it into balls. Don&#39;t squeeze the balls too hard as you form them, or you will compress the popcorn and it will not be as light in texture. Transfer balls to a pan to cool completely."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Wayne"
+},
+"reviewBody": "I think I need to make a bit more caramel and also salt it more heavily."
+}
+]

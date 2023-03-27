@@ -1,0 +1,59 @@
+,"name": "Strawberry Whip in a Black Sesame Tuile"
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "398 kcal"
+,"carbohydrateContent": "36 g"
+,"cholesterolContent": "120 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "16 g"
+,"sodiumContent": "132 mg"
+,"sugarContent": "29 g"
+,"fatContent": "27 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+, "recipeCategory": ["Dessert"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"For the Strawberry Whip",
+"1 cup diced or roughly chopped fresh strawberries",
+"1/4 cup white sugar",
+"3/4 cup ice cold heavy cream",
+"For the Tuile Cookie Cups",
+"1 large egg white",
+"Pinch of salt",
+"1/4 cup white sugar",
+"1/2 teaspoon vanilla extract",
+"3 tablespoon melted butter",
+"1/4 cup all-purpose flour",
+"1 tablespoon black sesame seeds, plus more as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine diced strawberries and sugar for the strawberry whip in a bowl and mix well. Refrigerate for 2 to 3 hours, tossing occasionally."
+} ,{
+"@type": "HowToStep"
+,"text": "While strawberries are macerating, make the tuile cups. Combine flour, sugar, melted butter, egg white, sesame seeds, vanilla extract, and salt in a bowl. Whisk for 2 minutes or until very smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Line 2 baking sheet2 with silicone baking mats."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread a heaping spoonful of batter onto the silicone baking mat and spread it into a circle about 5 1/2 inches across. Two per pan are recommended, since you have to shape them while still hot."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until the center of the tuile is golden-brown, with the edges darker brown, 10 to 12 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "While hot, transfer the tuile cookie into a small bowl, and press down in the center with a smaller bowl to make the bowl shape. Wait about 30 seconds, and remove the inside bowl, and allow the tuile to cool fully."
+} ,{
+"@type": "HowToStep"
+,"text": "To finish the whip, add cold heavy cream to the macerated berries and whisk until medium-stiff peaks form."
+} ,{
+"@type": "HowToStep"
+,"text": "Spoon the whip into the tuile cups and serve immediately."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT160M"

@@ -1,0 +1,230 @@
+,"name": "St. Patty Melt"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "14"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "765 kcal"
+,"carbohydrateContent": "57 g"
+,"cholesterolContent": "135 mg"
+,"fiberContent": "7 g"
+,"proteinContent": "29 g"
+,"saturatedFatContent": "31 g"
+,"sodiumContent": "1115 mg"
+,"sugarContent": "2 g"
+,"fatContent": "50 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 bunch Lacinato kale",
+"1 bunch mustard greens",
+"10 tablespoons Irish butter, divided",
+"2 cloves garlic, minced",
+"0.75 cup sliced green onions, white and light green parts only",
+"salt and freshly ground black pepper to taste",
+"1 pinch cayenne pepper, or to taste",
+"2 tablespoons seasoned rice vinegar",
+"8 thick slices French bread",
+"1 (8 ounce) package Irish white Cheddar cheese, sliced" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Remove tender, leafy parts of kale and mustard greens from their tough stems and place in a large bowl. Cover with cold water and wash greens, allowing dirt to sink to the bottom. Transfer greens into a colander or strainer to drain thoroughly."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring a large pot of generously salted water to a rolling boil over high heat. Add drained kale and mustard greens, using a spatula to make sure they are immersed. Bring back to a boil; cook until barely tender and not soft, 3 to 4 minutes. Transfer to a bowl and let cool until easily handled."
+} ,{
+"@type": "HowToStep"
+,"text": "While greens are cooling, heat 3 tablespoons butter in a pan over medium heat. Saute garlic, green onions, and salt until they soften and turn translucent, about 5 minutes. Stir in black pepper and cayenne."
+} ,{
+"@type": "HowToStep"
+,"text": "Squeeze water from cooled greens and chop. Add greens to the pan and continue to cook and stir until just heated through, 2 to 3 minutes. Taste and adjust for seasoning. Remove from heat and stir in rice vinegar."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat about 2 tablespoons butter in a pan over medium-low heat. Add 2 slices French bread; place 1/4 of the Irish Cheddar cheese on top. Place about 1/2 cup of braised greens on 1 slice of bread; top with remaining bread slice, cheese side-down. Cook, flipping as needed, until surface is golden brown and crisp, cheese is melted, and greens are heated through, 2 to 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/IfvO8rVVasERjqRx2xRFNBqxejI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7798268-a6492145a3f94c66aaa134fad677ce9d.jpg"
+}
+]
+,"text": "Repeat with remaining bread, cheese, and greens. Remove to a cutting board, slice in half at a slight angle, and serve."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rose Ladd"
+},
+"reviewBody": "Totally delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jo Ann Spellman"
+},
+"reviewBody": "Excellent. Served it with halibut and cole slaw, so 1/2 of this rich sandwich was perfect for each serving. Everyone loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kathryny"
+},
+"reviewBody": "Fanciest grill cheese I ever made. The greens really are delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "A123"
+},
+"reviewBody": "This is SERIOUSLY delicious. It’s not the kind of combination you expect to work well, but it comes out amazing. I didn’t have scallions so I subbed onions, and it turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dorothy Crabtree"
+},
+"reviewBody": "Devoured by whole family, including the pickiest eater! Served with tomato soup. Unusually delicious, and so healthy. What more could we ask for? Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Henrietta Dixon"
+},
+"reviewBody": "I definitely will be making it again. This sandwich is delicious I did however, change the bread I used sour dough, and and at first I couldn’t find the lacinato kale so I settled for regular kale and I was just going to mix that with the mustard greens and then I found lacinato or Dino kale at Whole Food Market so I just mixed all the greens together I also added shallots and bacon and I used Muenster cheese. Now that I have something to compare it with I will make the original but nonetheless mine was delicious even my 10 year old granddaughter loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sadielulu"
+},
+"reviewBody": "Really good! Made with Kale and Swiss chard, rye bread and Munster cheese....what I had on hand. Whole family enjoyed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Arminta Gunkel"
+},
+"reviewBody": "This is an amazing recipe!!!! Literally turned out just like the video, so few things do that in this day and age. We are vegetarians who don’t love kale etc but this hit the spot. The seasoned greens pair amazing with Kerry cheddar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carole Springer"
+},
+"reviewBody": "Loved this grilled sandwich. It was so delicious and fulfilling and was definitely worth the extra time that it took to make. I used my homemade Sour Dough bread. I will make this sandwich over and over!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tashagang"
+},
+"reviewBody": "This was really yummy. Used rye bread and only made two sandwiches. Had the remainder of the greens scrambled with eggs and topped with white cheddar for breakfast. Unsure which I liked better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Mettner"
+},
+"reviewBody": "We used Standard Kale and Swiss Chard for the greens. Used Wexford Irish Cheddar. Had it with some Fresh Tomato Cream soup. Holy cow it was good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daniel Scheiderich"
+},
+"reviewBody": "Supper delicious and simple. Will be making over and over!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dan Yount"
+},
+"reviewBody": "Loved this recipe! The cayenne, rice vinegar, and sourdough all meshed extremely well. Will be one of my go to sandwiches.\n\nI did end up using the green parts of the onions though since 3/4 cup is a lot. It could have been the product that I got from my store, but a small bundle (7-8 onions) only yielded about 1/4 cup of whites/light greens. Some of the green parts of the onions got overcooked, but it still came out great!"
+}
+]

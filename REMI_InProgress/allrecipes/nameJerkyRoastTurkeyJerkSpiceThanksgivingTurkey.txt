@@ -1,0 +1,63 @@
+,"name": "Jerky Roast Turkey – Jerk Spice Thanksgiving Turkey"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "316 kcal"
+,"carbohydrateContent": "9 g"
+,"cholesterolContent": "139 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "48 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "1158 mg"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"0.5 cup diced yellow onion",
+"0.25 cup green onions, sliced",
+"6 cloves garlic, roughly chopped",
+"2 habanero peppers, seeded and chopped",
+"1 tablespoon fresh thyme leaves",
+"2 teaspoons dried thyme",
+"1 tablespoon kosher salt",
+"1 teaspoon freshly ground black pepper",
+"1 teaspoon ground allspice",
+"0.5 teaspoon cinnamon",
+"0.5 teaspoon cumin",
+"0.5 teaspoon freshly grated nutmeg",
+"2 limes, juiced",
+"3 tablespoons soy sauce",
+"2 tablespoons packed brown sugar",
+"2 tablespoons vegetable oil",
+"3.5 pounds boneless turkey breast",
+"1 large yellow onion, sliced",
+"kosher salt to taste",
+"1 lime, cut into wedges" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine diced onions, green onions, garlic, habanero peppers, fresh and dried thyme, kosher salt, black pepper, allspice, cinnamon, cumin, and in a blender or in large cup if you are using an immersion blender. Add lime juice, soy sauce, brown sugar, and vegetable oil. Blend until smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Place turkey breasts into a large bowl, splay it open, and pour marinade all over the turkey. Flip and toss turkey breast a number of times until it is evenly covered in marinade. Press plastic wrap over the turkey and marinate in the refrigerator for a minimum of 4, up to 12 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer the turkey into a roasting pan and tie together with cooking twine. Add sliced onions underneath and around the turkey. Season with salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Roast turkey in the preheated oven for 30 minutes. Reduce temperature to 300 degrees F (150 degrees C) and roast until an instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C), about 1 hour and 15 minutes longer"
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/DfBd1GWeEjj2OA7YRxTPeA0H_0o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Jerky-Roast-Turkey-1x1-1-2000-35e0ed561e3e429f9ceeb7e00104210e.jpg"
+}
+]
+,"text": "Loosely tent with foil and let rest for about 20 minutes. Snip off the strings and serve."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT395M"

@@ -1,0 +1,164 @@
+,"name": "Blue Cheese Popovers"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "8"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "170 kcal"
+,"carbohydrateContent": "16 g"
+,"cholesterolContent": "76 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "244 mg"
+,"sugarContent": "2 g"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"5 large eggs, at room temperature",
+"2 cups whole milk, at room temperature",
+"2 cups all-purpose flour",
+"0.25 cup vegetable oil",
+"1 teaspoon kosher salt",
+"1 pinch cayenne pepper, or to taste",
+"1 tablespoon unsalted butter, softened",
+"nonstick vegetable oil cooking spray",
+"0.5 cup crumbled blue cheese, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Whisk eggs, milk, flour, oil, salt, and cayenne together in a large measuring cup or mixing bowl just until blended."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover the bowl with plastic wrap and allow to rest for 1 hour on the counter, or in the refrigerator for 2 to 3 hours, up to overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Grease 14 nonstick muffin cups with butter, and then mist with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk the batter for a few seconds and fill each prepared muffin cup 4/5 full. Sprinkle each evenly with blue cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the muffin pans into a cold oven with a drip pan set underneath. Set the heat to 450 degrees F (230 degrees C). Bake in the oven until popovers are well browned and fully puffed, 30 to 35 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/oxIEHteZbpNiTC-3YFcO1E7twFs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-131-9c88bc77c1b04801a104020fc288d59f.jpg"
+}
+]
+,"text": "Poke each popover with a knife to allow steam to escape. Serve hot."
+} ]
+,"recipeYield": ["14"]
+,"totalTime": "PT100M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Arwen Rosenbaum"
+},
+"reviewBody": "These are fantastic, and so easy. Instead of butter, I used beef tallow to grease the muffin tin - as a nod to Yorkshire pudding, which my husband has been jonesing after for ages now."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Fyr"
+},
+"reviewBody": "Amazing! Planing my next meal now!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra"
+},
+"reviewBody": "So fun and exciting to see them grow. In my oven 230 degrees C was too hot and the cheese ended up burning and turning bitter. Don’t let it burn."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bill"
+},
+"reviewBody": "Beautiful! Defies popover logic. Smaller than a Dutch baby. Like a Dutch fetus, maybe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim"
+},
+"reviewBody": "Absolutely delicious! I left out the blue cheese this time and served with homemade peach jam. First recipe I’ve ever found for these that start out in a cold oven; easy peasy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Knott (ProbablyKnott)"
+},
+"reviewBody": "These were very good. We made a half batch and they turned out amazing. We added a little bit of onion powder to the batter and some salt and pepper to the top after they came out of the oven."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Galina Lutz"
+},
+"reviewBody": "Love the easy fallow recipe, made it first time ever and love it, definitely will make it over and over..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sir Abu"
+},
+"reviewBody": "The best instructions ever. I used fresh parmesan reggiano and parsley. Delicious!!!"
+}
+]

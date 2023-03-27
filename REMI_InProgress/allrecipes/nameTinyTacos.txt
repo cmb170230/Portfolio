@@ -1,0 +1,101 @@
+,"name": "Tiny Tacos"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"cookTime": "PT55M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "300 kcal"
+,"carbohydrateContent": "19 g"
+,"cholesterolContent": "50 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "16 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "193 mg"
+,"sugarContent": "1 g"
+,"fatContent": "18 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 tablespoon olive oil",
+"0.33333334326744 cup finely diced onion",
+"1 pound ground beef",
+"1 teaspoon kosher salt, or to taste",
+"1 tablespoon chili powder",
+"1 teaspoon ground cumin",
+"0.5 teaspoon ground dried chipotle pepper",
+"0.25 teaspoon garlic powder",
+"0.5 teaspoon freshly ground black pepper",
+"0.125 teaspoon dried oregano",
+"2 pinches cayenne pepper",
+"2 teaspoons tomato paste",
+"0.5 cup water",
+"2 tablespoons minced jalapeno peppers",
+"15 (6 inch) corn tortillas",
+"1 cup grated Monterey Jack cheese",
+"1 cup shredded sharp Cheddar cheese",
+"1 tablespoon vegetable oil, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Add oil, onion, and ground beef to a cast iron skillet set over medium-high heat. Add salt, chili powder, cumin, chipotle, garlic powder, black pepper, oregano, and cayenne. Break beef apart with a spatula to mix in spices; cook until browned and crumbled into very small pieces, 5 to 7 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in tomato paste and water and return to a simmer. Reduce heat to medium-low and cook until most of the liquid has reduced, 15 to 20 minutes. Stir in jalapeno peppers and cook for 1 minute. Turn off the heat, taste, and adjust seasoning."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Stack up 2 or 3 corn tortillas at a time and use a 2-inch round pastry cutter to cut 4 small circles out of each stack, making 60 total. Place circles in a single layer, 1/2 inch apart, on sheet pans."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix Monterey Jack and Cheddar cheeses together. Top each tortilla circle with cheese, using the pastry cutter to keep it from spilling onto the pan. Repeat with remaining tortillas and cheese. Top each with about 1 teaspoon taco beef and another teaspoon cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until cheese melts, about 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the oven. Carefully fold each tortilla in half, being careful not to press out the filling. Allow to cool for a few minutes, then chill in the refrigerator until firm, about 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/7OUESWb8AckaaBgTnfK5Ga4s4dg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-479-e42548e5d6a247b7876535c34664795c.jpg"
+}
+]
+,"text": "Heat vegetable oil in a nonstick skillet over medium-high heat. Working in batches and adding more oil as necessary, pan-fry tacos until crispy and heated through and the edges are a bit caramelized, about 2 minutes per side. Transfer to a paper towel-lined plate to drain."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT100M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "joiseygirl"
+},
+"reviewBody": "These were amazing! I’m going to be the person I hate and say that I made a change because I only had flour tortillas. I had to be very careful frying them because they crisped up quickly. I used them in a taco salad just like a local restaurant makes by my house. I made a dressing of 6oz sour cream, 1/4 cup Mayo, about a 1/4 cup of Mexican style tomatoes with jalapeños, 1T lime juice, 2 large chopped garlic pieces, and then I added cumin, cilantro, chili powder, cayenne pepper, smoked paprika, garlic powder, salt and pepper to my liking. Blended it all up and it was awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cynthia brown"
+},
+"reviewBody": "I think it's the cutest thing I've ever made. How about tiny tostadas. Tiny enchiladas. Food should be cute!"
+}
+]

@@ -1,0 +1,215 @@
+,"name": "Scacce Ragusane (Sicilian Stuffed Flatbread)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "12"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "503 kcal"
+,"carbohydrateContent": "63 g"
+,"cholesterolContent": "29 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "22 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "1138 mg"
+,"sugarContent": "3 g"
+,"fatContent": "17 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"0.33333334326744 cup warm water, or more as needed",
+"1 teaspoon active dry yeast",
+"1.5 tablespoons olive oil",
+"1.75 cups semolina flour",
+"1.25 teaspoons kosher salt",
+"1 tablespoon cornmeal, or as needed",
+"0.5 cup prepared pizza sauce",
+"2 tablespoons chopped fresh basil, or to taste",
+"6 ounces aged provolone cheese, sliced" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Pour 1/3 cup warm water into a mixing bowl and sprinkle yeast over the top. Let stand for 10 to 15 minutes to make sure yeast is active."
+} ,{
+"@type": "HowToStep"
+,"text": "Add olive oil, semolina flour, and salt to the yeast mixture. Mix with your hand to form a relatively stiff ball of dough, adding more water if needed to bring the dough together."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough to a work surface and knead until smooth, about 5 minutes. Cover with the mixing bowl and let rest for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Uncover and knead the dough for another 3 or 4 minutes; divide dough into 2 portions, and shape each into smooth balls. Use damp hands to help smooth the dough out, if needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Generously dust half of a kitchen towel with semolina flour and place the 2 balls of dough on top. Sprinkle more flour on top of the balls and cover with the other half of the towel. Leave to rise until the dough has almost doubled in size, about 2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 500 degrees F (260 degrees C). Line a baking sheet with foil and sprinkle with cornmeal."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll each ball of dough out into a very thin circle or oval shape on a lightly floured surface."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine pizza sauce and basil in a bowl. Spread with a thin layer of sauce and scatter pieces of provolone cheese every few inches, leaving a 1 inch border. Fold over the opposite edges toward the middle to form a rectangle. Press lightly to flatten slightly. Repeat sauce and cheese step."
+} ,{
+"@type": "HowToStep"
+,"text": "Fold each end toward the center to make a square shape. Spread with a thin layer of sauce and scatter pieces of cheese on just one half. Fold in half, overlapping the edge by about 1 inch. Transfer to the prepared baking sheet. Repeat filling and folding the second piece of dough."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/NDDTCIWHlRIDougcnPaSMX_IYL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8359206-c3af4c974c414ddead412c7400379307.jpg"
+}
+]
+,"text": "Bake in the preheated oven until very well browned, 16 to 18 minutes. Some spots may get charred, but this is fine and desirable, since scacce are traditionally cooked in very hot wood-fired ovens. Let rest for 15 minutes before slicing and serving."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT225M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David R Campbell"
+},
+"reviewBody": "I made these last weekend adding thinly sliced pepperoni and previously shredded 6 cheese Italian blend. They were delicious! 5/5 adults loved them! I'm now making them for a second time and am writing this review while the dough is in it's final proof. I'm considering making these ahead of time and freezing them until baking. Sliced up I think they'd make great appetizers. Thanks Chef John! (Again!)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jane Diane Ricciardi"
+},
+"reviewBody": "Super easy and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ms Pac-Man"
+},
+"reviewBody": "Amazing! Tried this recipe and it was great. Very delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Perry"
+},
+"reviewBody": "This was s good. I have made it a couple of times. I got some very thin sliced salami and smoked provolone slices and put them in the inside. Rolling it thin can be challenge. I also used my pizza stone and heated it up in the hot oven."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Wow, this was excellent. I doubled the recipe thinking I would have extra for dinner. I now have 2 extra and hope they are as good tomorrow as they were today. I added pepperoni and ran out of provolone for my 4th one and used cheddar. Was still delicious. Will make this again often!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "sevim"
+},
+"reviewBody": "It was a good recipe. I use the same sauce over the Scacce"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trevor Spaulding"
+},
+"reviewBody": "Three hungry teenagers gobbled it up. \nKids gave me the green light to make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Krishna"
+},
+"reviewBody": "I made this substituting sunflower oil for olive oil(happened to be out of olive oil!) And it came out very well. The taste is admittedly different but not bad at all. And I made this with coarse rava (I should have ground it more) and therefore the first one I made just collapsed. But the second and third ones came out perfectly (though it took me about twice the amount of time that Chef John said). And, it smells so much like a pizza. Its my first try, so I forgive myself for the mistakes. Though maybe covering the dough with a bowl may have worked better. It kind of dried out under the towel. And I had to work it for several more minutes to make it smooth. Thank you Chef, I love trying out your recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Josh Burroughs"
+},
+"reviewBody": "Like some other users I needed to add more water than in the recipe to get the dough to pull together, more like half a cup. Otherwise found this very easy to make. \n\nI'll note that the dough can be rested in the fridge for several days. When I mixed up the dough I did the full batch and after dividing I tossed one of the dough balls into the fridge for three or four days before cooking it. I let it warm up and rise for about 2.5 hours. \n\nThe finished product it outstanding and very unique. I stuck close to the recipe my first attempts with red sauce, cheese and a little arugula. To bake I dusted a peel with semolina and slid scacce directly onto a baking stone in the hot oven, cook 15 minutes and let it cool on a rack for ten. Nice crisp, chewy bread exterior and a lovely saucy pasta-like interior. This will be a fun dish to play around with now that I've got the basic process down!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "3ftbeard "
+},
+"reviewBody": "This was awesome. Had to add a bit more warm water as my dough was quite dry. Used all mozzarella as that is what I had. This turned out wonderful. Saving this recipe as I will be making it again I'm sure . Thank you Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Victoria Hayhurst"
+},
+"reviewBody": "My dough was very dry. I used about twice as much water. I would have done the 2 hour rise under plastic wrap because just under a towel dried it further."
+}
+]

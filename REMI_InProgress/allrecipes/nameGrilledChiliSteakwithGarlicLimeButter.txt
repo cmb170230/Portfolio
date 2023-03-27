@@ -1,0 +1,93 @@
+,"name": "Grilled Chili Steak with Garlic-Lime Butter"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "2"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "630 kcal"
+,"carbohydrateContent": "7 g"
+,"cholesterolContent": "163 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "44 g"
+,"saturatedFatContent": "21 g"
+,"sodiumContent": "1734 mg"
+,"sugarContent": "1 g"
+,"fatContent": "48 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 teaspoons chili powder",
+"0.5 teaspoon ground cumin",
+"0.5 teaspoon ground chipotle powder",
+"1 teaspoon freshly ground black pepper",
+"3 pinches cayenne pepper",
+"2 (10 ounce) New York strip steaks",
+"1.5 teaspoons kosher salt",
+"1 clove garlic, sliced",
+"1 pinch salt",
+"2 tablespoons salted butter, softened",
+"1 medium lime, zested",
+"1 teaspoon vegetable oil",
+"grated lime zest for garnish" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix chili powder, cumin, chipotle powder, pepper, and cayenne for rub together in a small bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Place steaks on a large plate. Sprinkle kosher salt generously on both sides, then sprinkle rub over the salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Twist 3 pieces of foil into 1/2-inch diameter rolls and place them under the steaks to act as a rack and lift the steaks up from the plate. Pop steaks into the fridge and leave uncovered to dry-brine for 3 to 12 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, place garlic and salt for garlic-lime butter in a mortar. Grind to a paste with a pestle. Add butter and lime zest and stir with a small spoon to combine. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat a charcoal grill for high heat. Remove steaks from the refrigerator and brush with vegetable oil on both sides."
+} ,{
+"@type": "HowToStep"
+,"text": "Place steaks on the preheated grill and cook until firm and reddish-pink and juicy in the center and meat gently springs back to the touch, about 4 to 5 minutes per side. An instant-read thermometer inserted into the center should read 130 degrees F (54 degrees C) for medium-rare."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/GXnfuftamhD5algHCrQjySACxCM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-583-c524974a4c83412787475f69b414132a.jpg"
+}
+]
+,"text": "Remove from the grill and top with garlic-lime butter."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT205M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Yancando"
+},
+"reviewBody": "Definitely worth trying! We had trouble with the oil on the meat flaming up. Trying to control that made the meat more charred and smoky, which tasted good but somewhat overpowered the spices. Dry brining the meat made it super tender. The butter is divine! My husband wants to have it again tomorrow! Next time we will skip the oil and see how that goes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Matt"
+},
+"reviewBody": "I made this with the ingredients as-is, but cooked the steak sous vide and seared it in a cast iron pan to finish. The spice was nicely present, but not overpowering the flavor of the meat. Same can be said for the garlic lime butter. Overall, it's a nice change of flavor from the seasonings or minimalism typical of steak."
+}
+]

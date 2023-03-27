@@ -1,0 +1,396 @@
+,"name": "Lion&#39;s Head Meatballs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "28"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "315 kcal"
+,"carbohydrateContent": "19 g"
+,"cholesterolContent": "82 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "21 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "1608 mg"
+,"sugarContent": "7 g"
+,"fatContent": "18 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1.5 cups boiling water",
+"1 ounce dried shiitake mushrooms",
+"1 (8 ounce) container firm tofu, chopped into small bits",
+"0.25 cup minced canned water chestnuts",
+"1 pound fatty ground pork (at least 20% fat)",
+"0.25 cup finely sliced green onions (white and light green parts only)",
+"4 cloves garlic, finely minced",
+"1.5 teaspoons finely grated peeled fresh ginger",
+"2 tablespoons Shao Hsing rice wine or dry sherry (see Note)",
+"1 tablespoon soy sauce",
+"1 tablespoon brown sugar",
+"1 large egg",
+"2 teaspoons kosher salt",
+"0.25 teaspoon cayenne pepper",
+"1.5 teaspoons cornstarch",
+"1 small head napa cabbage",
+"2 cups chicken broth",
+"2 tablespoons soy sauce",
+"2 tablespoons sherry wine",
+"1 tablespoon brown sugar",
+"1.5 teaspoons cornstarch",
+"0.5 teaspoon sesame oil, or to taste",
+"0.25 cup sliced green onion tops",
+"2 tablespoons hot chili oil" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Pour boiling water over shiitake mushrooms, and let sit until soft enough to slice, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, make the meatball mixture: Combine tofu and chestnuts in a large bowl. Add ground pork, green onions, garlic, and ginger. Pour in rice wine, soy sauce, brown sugar, egg, salt, and cayenne. Dust with cornstarch. Mix with a clean hand until thoroughly combined. Cover with plastic wrap and refrigerate for at least 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Form mixture into 6 large meatballs with wet hands."
+} ,{
+"@type": "HowToStep"
+,"text": "Set an oven rack about 8 inches from the heat source and preheat the oven&#39;s broiler. Line a baking sheet with aluminum foil and oil lightly. Place meatballs on the prepared baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Broil in the preheated oven until browned, 8 to 10 minutes. Remove from the oven and let cool while prepping the pot."
+} ,{
+"@type": "HowToStep"
+,"text": "For the cooking liquid: Trim off the bottom of the head of cabbage and slice 1/2 of the head. Arrange sliced cabbage on the bottom of a large soup pot or Dutch oven. Arrange remaining cabbage leaves on top. Slice and scatter mushrooms on top of cabbage; reserve shiitake liquid. Nestle meatballs into cabbage leaves and pour juices over."
+} ,{
+"@type": "HowToStep"
+,"text": "Strain reserved shiitake liquid into a bowl. Add chicken broth, soy sauce, sherry, sesame oil, brown sugar, cornstarch, and sesame oil. Whisk until dissolved. Add to the pot, pouring over each meatball. Bring to a boil over high heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce heat to medium-low, cover, and cook for 20 minutes. Uncover and increase heat to medium-high. Continue cooking, basting meatballs often, until liquid reduces slightly and meatballs are no longer pink in the center, about 10 minutes. Taste for seasoning."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/aeI6G8boThpfbWpQmBCQg8awLKM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/KH_091622_AR5332-1x1-1-8f13df98a7724784a8e28809edf64e3d.jpg"
+}
+]
+,"text": "Ladle into serving bowls and arrange cabbage over meatballs. Top with green onions and chili oil."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT135M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Thom"
+},
+"reviewBody": "These were lovely. Rich tender and light all at the same time and the water chestnuts add a nice little crunch to every bite. The broth is great too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy"
+},
+"reviewBody": "Delicious. Warming without being heavy. Be sure to mince your tofu to the same fineness as the pork. The broth is stellar. I use it as a substitute for the much more time consuming pork broth in homemade ramen."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "goodlifeproperties"
+},
+"reviewBody": "Delicious and easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kjames"
+},
+"reviewBody": "I made this because I love the flavor of ramen and pho dishes. This did not disappoint. I made udon noodles to add to the serving bowls. Made it a complete meal. I drizzled chili sesame oil over the top with green onions. I bought ingredients that I don’t use often so very relieved they won’t go to waste because this recipe is a keeper! It was also fun to make. The tofu really makes these meatballs light and airy. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dbdb"
+},
+"reviewBody": "Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Reggie"
+},
+"reviewBody": "I am very partial to Asian dishes, but to be honest I wasn't sure the broth would have enough flavor. It was really good. Some variations on the recipe that this writer and others on the internet stated were: I used dry sherry (on hand), fresh shitake mushrooms (pan seared first), baked at 475 instead of broiled for 15 min. This was a great leftover as well. I finely chopped everything and you will be glad if you do too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "Cut the recipe in half, didn't change anything except simmer a bit longer and they were melt in your mouth! The broth was wonderful and the cabbage perfectly tender. Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ajeeper"
+},
+"reviewBody": "It's a little involved, but they are absolutely delicious. I made the meatball mix on day, and put it in the refrigerator. Next day completed the recipe. On a cold winter night it really fit the bill."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "susan"
+},
+"reviewBody": "This was delicious! Only thing I'll change next time is a tad less sherry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie Brennan"
+},
+"reviewBody": "Stellar. I think more mushrooms, but I’m a fungi fiend. Love it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "daynine"
+},
+"reviewBody": "I grew up eating this dish and it’s very much a comfort food for me. I’ve tried several recipes trying to recreate this childhood favorite and this one is pretty solid. I’ve never put brown sugar in with the meatballs so I was a little apprehensive but the rest of the ingredients were familiar. They came out tasting great and the steps seemed more streamlined than other recipes I’ve tried. This will be my new go to!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BUTTER FINGERS"
+},
+"reviewBody": "Good recipe. Chilli oil is a must, and add water to the broth if too salty for you. (It was for me). I added rice noodles and it tasted like a Pho noodle soup. Delicious.\nThis is a light meatball with lighter texture and some crunch. Don’t expect an Italian style meatball when making this. It’s an Asian style meatball."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judith Marie Gradick"
+},
+"reviewBody": "I substituted with half and half venison and beef mince and made this dish 4 different times since Chef John uploaded this recipe on YouTube in December. It was outstanding everytime. And even with alternate meats it was indeed melt-in-your-mouth tender and fluffy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dan Mann"
+},
+"reviewBody": "This meal was truly excellent."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "arc"
+},
+"reviewBody": "Absolutely delicious!! The only changes I made were to add 2 cups more of broth and some noodles, as well as dicing up the rest (maybe 1/2 C) of the water chestnuts in the can and adding them to the pot. The preparation was a lot of work, but worth it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "marjohnal"
+},
+"reviewBody": "Had high of expectations for this dish. Perhaps because of that it was bound to disappoint and it did. Meatballs were good but not 'mouth-watering' or even close. And it was a lot of work with some exotic ingredients that will unlikely be used again before having to be thrown away. Dish was tasty enough (tho a bit salty..more brown sugar?) but won't make again for those reasons."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cat Tyler"
+},
+"reviewBody": "I love this recipe ! Thought it was very fun to make as the ingredients were different from ones I usually use. Love the water chestnuts to provide the crunch. Juice was incredible !! I even bought a bottle of Sake to use in it. I'll make this again for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KevinJ"
+},
+"reviewBody": "Will make this again, delicious and comforting. Low Broil didn't get my meatballs browned enough, so next time I'll put it on high despite the smoke. A squeeze of siracha sauce on top brought it all together."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Douglas Erickson"
+},
+"reviewBody": "Excellent flavor! I didn't squeeze water from the tofu, so meatballs were very wet. otherwise, easy to prepare, easy to serve"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carl Pond"
+},
+"reviewBody": "I made it as per recipe the first time and then i got creative. I made the second batch with a pound of ground salmon and i tweeked the broth with miso and hondashi skipping the soy sauce - outstanding!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Warren Pope"
+},
+"reviewBody": "Simply delicious! it gave me a chance to use some tofu I had..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Meathead66"
+},
+"reviewBody": "I will definitely make this again. I didn't change anything. Wonderful flavors that go so well together. I wasn't too happy with the Nappa Cabbage though. I never had it before. It has a light subtle flavor compared to regular green cabbage but it wasn't as tender as I would have liked and it's rather expensive. Strangely to me the stalky parts were tender and the leaves were tough. Cooking the leftovers longer didn't help. It was a large head after doing some reading I might not have peeled enough of the outer leaves away. My first time trying Shiitake mushrooms too. They too have a nice subtle flavor but again rather expensive compared to reasonable substitutes. Next time I'll try Green Cabbage and Baby Portabellas. The meatballs are so flavorful I think they can stand up to stronger flavors. I added some Angel Hair Rice Noodles to the leftovers. Good stuff."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Matt J"
+},
+"reviewBody": "I added a teaspoon of ground furikake to the broth. I do recommend!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jippily"
+},
+"reviewBody": "This recipe was surprisingly delicious. I usually make Swedish meatballs, which while delicious are very rich and something you can’t eat too much of. The meatballs in this, on the other hand, are extremely light. I actually went back for seconds. Cooking was easy as well. I reduced the liquids down for 25 minutes rather than 10 as I like it slightly thicker, and the meatballs weren’t anywhere near being overcooked. \n\nHighly recommended."
+}
+]

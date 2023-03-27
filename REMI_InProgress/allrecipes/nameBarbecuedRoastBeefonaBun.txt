@@ -1,0 +1,65 @@
+,"name": "Barbecued Roast Beef on a Bun"
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "322 kcal"
+,"carbohydrateContent": "32 g"
+,"cholesterolContent": "57 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "26 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "1053 mg"
+,"sugarContent": "6 g"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 teaspoons kosher salt",
+"1.5 teaspoons white sugar",
+"1.5 teaspoons freshly ground black pepper",
+"0.5 teaspoon cayenne pepper",
+"1.5 pounds boneless top round steak",
+"2 tablespoons barbecue sauce",
+"2 tablespoons apple cider vinegar",
+"2 teaspoons Dijon mustard",
+"0.125 teaspoon ground turmeric",
+"3 cloves garlic, minced",
+"6 (2 ounce) hamburger buns, split" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix salt, sugar, pepper, and cayenne for dry rub together and coat beef well on both sides."
+} ,{
+"@type": "HowToStep"
+,"text": "Place on a rack set on a sheet pan and refrigerate, uncovered, for 12 to 24 hours, flipping over halfway through."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix barbecue sauce, vinegar, mustard, turmeric, and garlic together for wet rub and reserve."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer beef to a dish and pour 1/2 of the wet rub over top. Use two forks to poke the surface all over for about 1 minute. Turn beef over and repeat with remaining wet rub. Spoon any excess on the bottom over the top."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover and refrigerate for 4 to 12 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat a charcoal grill until the briquettes turn white and ashy. Remove meat from the refrigerator, uncover, and scrape off excess wet rub."
+} ,{
+"@type": "HowToStep"
+,"text": "Grill over hot charcoal until blackened and an instant-read thermometer inserted into the center of the meat reads 120 to 125 degrees F (49 to 52 degrees C), 7 to 10 minutes per side, or to desired doneness. Remove to a foil-lined plate, and quickly wrap up tightly in foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Let rest for at least 15 minutes, during which time the meat will finish cooking, and end up close to medium-rare."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/iiXCrv_FxqFs56OFRdwRX6kcii4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9308840-1a497d5c8fca43cfb127adf338d7ea2b.jpg"
+}
+]
+,"text": "Slice very thinly, toss in the meat drippings and juices left in the foil, and serve on buns."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT1000M"

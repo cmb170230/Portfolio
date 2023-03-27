@@ -1,0 +1,117 @@
+,"name": "Homemade Mascarpone Cheese"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "5"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "118 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "47 mg"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "13 mg"
+,"fatContent": "13 g"
+,"servingSize": "1 3/4 cups"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"2 cups heavy cream",
+"1 tablespoon lemon juice" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Pour heavy cream into a heavy-bottomed saucepan. Bring cream to 185 to 190 degrees F (85 to 88 degrees C) over medium heat, stirring occasionally."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce heat to medium-low and stir in lemon juice. Cook, stirring, for 3 minutes, maintaining the temperature at 185 to 190 degrees F (85 to 88 degrees C), then turn off the heat. The mixture should coat the back of a spoon."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk well and let cool for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer into a clean towel-lined strainer. Cover top with plastic wrap, pressing down gently onto the surface of the cream, and let cool to room temperature, 20 to 30 minutes more."
+} ,{
+"@type": "HowToStep"
+,"text": "Chill in a refrigerator for 8 hours, or overnight."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/On6ShHpTuQwr52h8d6tMeeVtuM4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1Homemade-Mascarpone-2000-2454858028cb4c4896273128c76e66fb.jpg"
+}
+]
+,"text": "Remove plastic wrap and store in a sealed container or use immediately."
+} ]
+,"recipeYield": ["14"]
+,"totalTime": "PT540M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Perfect recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Be careful! Be VERY-VERY careful! Making this recipe will cause you to acquire a diabolical urge to keep your refrigerator filled with several pints of heavy whip cream and fresh lemons at all times!! It's so ding-dong-dang yummy!!!! I'm afraid to make Chef John's other cheese recipes! ;)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "James Morrison"
+},
+"reviewBody": "This cheese is far superior than store bought. It's super easy to make, during the process and after you can add whatever flavor you wish. Chef John has the best recipes and I never have any problems with making whatever he posts. He mentions a soft creamy version of mascarpone. I would love for him to either post another recipe or even post in the comments about how to create this type of mascarpone. Regardless, I love the cheese and many other recipes. Thank you Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TexasTwo"
+},
+"reviewBody": "This was a perfect Mascarpone for my tiramisu. I made it a couple days before I had to assemble and loved it. I will go back and make some for spreading on toast etc... Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I followed the recipe exactly and was rewarded with the best mascarpone I've ever had. It had a lovely, subtle tanginess, and a decadently luxe texture. No salt or any other enhancements were needed, but I might try a lightly sweetened &amp; vanilla-ed version the next time I make it."
+}
+]

@@ -1,0 +1,240 @@
+,"name": "Butterscotch Budino"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "15"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "556 kcal"
+,"carbohydrateContent": "36 g"
+,"cholesterolContent": "290 mg"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "26 g"
+,"sodiumContent": "204 mg"
+,"sugarContent": "29 g"
+,"fatContent": "43 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.5 cup packed dark brown sugar",
+"0.25 teaspoon kosher salt",
+"0.25 cup water",
+"2 tablespoons unsalted butter",
+"1.5 cups heavy cream",
+"0.75 cup milk",
+"1 large egg",
+"2 large egg yolks",
+"2 tablespoons cornstarch",
+"1 teaspoon cornstarch",
+"1 tablespoon white rum" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine brown sugar, salt, and water in a deep, heavy-bottomed saucepan and place over medium-high heat. Bring to a boil; cook until caramel is very dark, and bubbles appear, 7 to 10 minutes. Immediately turn off the heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Carefully whisk in 2 tablespoons butter; pour in heavy cream and continue to stir. Be careful, as mixture may boil up in the pan. Stir over medium-low heat until sugar dissolves. Whisk in milk."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk whole egg, egg yolks, and 2 tablespoons plus 1 teaspoon cornstarch together in a mixing bowl. Slowly whisk in 1 cup of hot cream mixture to temper egg mixture. Whisk egg mixture into the saucepan and increase heat to medium-high. Bring to a simmer, and cook, whisking, until mixture thickens, about 2 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from heat and pour into a fine-mesh strainer set over a bowl to remove any lumps. Whisk in rum."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ghX-ETGtxAKxHtBwpnGRtbkdQ9Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8349527-butterscotch-budino-Chef-John-1x1-1-7c2d8bde373e4791a496a8686991e915.jpg"
+}
+]
+,"text": "Pour into serving glasses. Let cool to room temperature, about 20 minutes, before wrapping in plastic wrap and refrigerating until thoroughly chilled, 3 to 4 hours."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT235M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Trish-the-Dish"
+},
+"reviewBody": "This was very good. I let the recipe I used for the salted caramel boarder on burning, so it had a slight overcooked taste. But that had nothing to do with the main part of the Budino, which was smooth, creamy and tasty. A nice ending to our Valentine's Day dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Delicious and easy to make! Made a little more cream as topper - yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Al Morrow"
+},
+"reviewBody": "Made this as it was instructed. I was very impressed with this recipe. I see myself making this quite often."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anwarul Bashir Shuaib"
+},
+"reviewBody": "At first, I thought it was going to be a disaster since I have 0 cooking experience but it turned out to be exactly like Chef John's Budino! yummm"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TeCa Cali"
+},
+"reviewBody": "Followed the recipe to the T and it came out just as luxurious and decadent as what Chef John's had on his video. I only butchered the caramel sauce and poured it while they're still too hot.... but holy moly does it taste AMAZING!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Martha"
+},
+"reviewBody": "So this is on me but also it was trickier than I expected to make. Basically, to temper your eggs you need to go as slowly as you can your you will have this scrambled egg pudding. The butterscotch taste was amazing though. Just the texture didn't turn out even after straining. Also for some reason I was only able to fill 3 ramekins."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chefjfuzz"
+},
+"reviewBody": "I doubled the recipe but used Muscovado sugar and went with a full 5 1/2 Tbls of cornstarch. It came out thicker as expected, but I was able to finish with a full quarter cup of Captain Morgans Spiced Rum. Amazing! Thanks, Chef!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bacharone"
+},
+"reviewBody": "The first time I made it it was grainy. I think I let it cook too long. I made it the second time and it came out fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Miguel Arguelles"
+},
+"reviewBody": "Taste is just right; not too rich, but quite heavy. I'd portion the given measurements out into 8 servings instead of 4."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Billy Belcaro"
+},
+"reviewBody": "Followed the recipe and it came out marvelous. I did mesh strain before adding rum. Mmmm silky. Served with sliced local peaches, balanced lovely. everyone licked the cup clean! Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Bell"
+},
+"reviewBody": "I doubled the recipe to make it for family. I think that threw the times off a bit. Also we replaced the rum with rum extract (but half the measure) and that worked pretty well. Everyone seemed to really enjoy this recipe even though mine wasn't quite as thick as it might have been. Again, I think I cooked it a just a little too little on the second to final step. Oh well. Next time (and there will likely be a next time.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lin"
+},
+"reviewBody": "This recipe is easy to follow and I highly recommend."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Harrison Koyl"
+},
+"reviewBody": "Tastes decadent, rich, but unfortunately grainy, in my attempt anyway. I'm not sure if I didn't whisk fast enough or needed a finer mesh strainer than the one I used, but my attempt was disappointing in the texture department. The pudding also leaves a sort of buttery film over the roof of my mouth. Really appreciate some help or advice from Chef John or anyone else who tries this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "David"
+},
+"reviewBody": "Followed the recipe, but it doesn't mention the size of the rocks glass used. Turned out we got six, 4oz., servings as opposed to four."
+}
+]

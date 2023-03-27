@@ -1,0 +1,683 @@
+,"name": "Russian Honey Cake"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "52"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "795 kcal"
+,"carbohydrateContent": "85 g"
+,"cholesterolContent": "244 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "30 g"
+,"sodiumContent": "485 mg"
+,"sugarContent": "52 g"
+,"fatContent": "49 g"
+,"servingSize": "1 (9-inch) cake"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT45M"
+,"recipeIngredient": [
+"0.75 cup wildflower honey",
+"3 tablespoons cold water",
+"1 cup white sugar",
+"14 tablespoons unsalted butter, cut into slices",
+"0.75 cup wildflower honey",
+"2.5 teaspoons baking soda",
+"1 teaspoon ground cinnamon",
+"0.75 teaspoon fine salt",
+"6 large cold eggs",
+"3.75 cups all-purpose flour",
+"4 cups cold heavy whipping cream",
+"0.75 cup sour cream" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Pour 3/4 cup wildflower honey into a deep saucepan over medium heat. Boil until a shade darker and caramel-like in aroma, about 10 minutes. Turn off heat and whisk in cold water."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with a silicone baking mat. Place a mixing bowl and whisk in the refrigerator."
+} ,{
+"@type": "HowToStep"
+,"text": "Place a large metal bowl over the lowest heat setting on the stovetop. Add sugar, butter, 3/4 cup wildflower honey, and 1/4 cup burnt honey. Let sit until butter melts, 5 to 7 minutes. Reserve remaining burnt honey for the frosting."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, combine baking soda, cinnamon, and salt in a small bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk butter mixture and let sit until very warm to the touch. Whisk in eggs. Keep mixture over low heat until it warms up again, then whisk in baking soda mixture. Remove from heat. Sift in flour in 2 or 3 additions, stirring well after each, until batter is easily spreadable."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer about 1/2 cup batter onto the prepared baking sheet. Spread into an 8- or 9-inch circle using an offset spatula. Shake and tap the pan to knock out any air bubbles."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until lightly browned, 6 to 7 minutes. Remove liner from the pan and let cake layer continue cooling until firm enough to remove, 6 to 7 minutes. Invert cake onto a round of parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Repeat Steps 6 and 7 until you have 8 cake layers, letting each cool on an individual parchment round. Trim edges using a pizza wheel to ensure they are the same size; save scraps for crumb mixture."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread any remaining batter onto the lined baking sheet. Bake in the preheated oven until edges are dry, about 10 minutes. Remove from the oven and cut into small pieces; toss with reserved cake scraps."
+} ,{
+"@type": "HowToStep"
+,"text": "Return scraps to the oven and bake until browned, 7 to 10 minutes more. Let cool completely, 15 to 20 minutes. Transfer to a resealable bag and beat into fairly fine crumbs using a rolling pin. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove the bowl and whisk from the refrigerator. Pour in heavy cream and whisk until soft peaks form. Add sour cream and remaining burnt honey; continue whisking until stiff peaks form."
+} ,{
+"@type": "HowToStep"
+,"text": "Place a cake layer on a parchment paper round on a pizza pan or serving plate. Spread a cup of frosting evenly on top, almost to the edge. Repeat with cake layers and frosting, pressing layers in smooth-side down. Place last cake layer smooth-side up. Frost top and sides of cake. Cover with crumbs; clean any excess crumbs around base."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/hANefjEVHDxJF-Urvgyjg178lKg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7287365-8bad35ff11db4afd93de750cbc4a7e8a.jpg"
+}
+]
+,"text": "Cover with plastic wrap and refrigerate for at least 8 hours to overnight. Transfer to a cake stand using 2 spatulas. Cut and serve."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT580M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Incredible recipe that absolutely killed at the dinner party I baked it for. Chef John, you do not miss!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I was really happy with this recipe! I like that it wasn't too sweet and the taste of the burnt honey was nice. I made 1.5 times the frosting though, as people suggested, and that worked perfectly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This took a while but it came out amazing. I added sage leaves to the honey while boiling to make burnt honey and fresh blackberry purée to the 4th layer. I also cut the cinnamon to a quarter teaspoon to allow the uhoney and sage flavors to shine. I would recommend making twice the amount of burnt honey for the frosting. Highly recommend!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Beautiful cake. I enjoyed making it and everyone said it was delicious. Only downfall was I didn’t expect it to be so soft and it was difficult to move to the cake board. Thank Goodness for touch up cream and crushed biscoffee crumbs as I ran out of the crushed cake crumbs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dansuzkauffman"
+},
+"reviewBody": "Made it for my Ukrainian daughters birthday. They whole family loved it. She wasn’t sure about the burnt honey taste being authentic to honey cake in Ukraine, but loved it anyway. I added a little vanilla to the cake mix and I made it gluten free by using Bob Mills cup for cup flour. It turned out amazing! I used foil sheets on the cookie sheet for ease of removal so it’s doesn’t stick. It worked well. I will most likely make this cake again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "judy"
+},
+"reviewBody": "The cake was absolutely delicious! It was not too sweet as most American cakes are. I made it for a church group and everyone loved it. It only took 1 hour and 45 minutes to make and then I put it in the fridge overnight and served the next afternoon. Absolutely delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "innaaverina"
+},
+"reviewBody": "I am Russian, I bake this type of cake 100+ times. Do not add cinnamon!!! It is killing honey flavor- that is not spice Russian people use. Adding hazelnut! That what really makes it taste how it is supposed to."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cmarguel"
+},
+"reviewBody": "Couldn't find sour cream, so I used yogurt as suggested in another review (the yogurt was called \"sour cream yogurt\", but it worked!).\n\nI thought I'd screwed it up because a taste test of some crumbs and frosting on a spoon was disappointing, but the final product was so good! Just the right amount of moisture, a fairly subtle sweetness compared to many other cakes, and shockingly light too--you wouldn't think it from any photo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "whazupfoolio"
+},
+"reviewBody": "The best cake ever. Takes me all day to make, but our family loves it and it is part of our special occasions!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jae Praught"
+},
+"reviewBody": "I made this recipe as directed and it turned out delicious. It's time consuming and since no one in my family appreciates good food or all the work I put into wonderful things, I won't make it for just us again but I will make it for company."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was a big hit at a family party. Not too sweet, moist, great honey flavor but still light and delicate. And WOW! Does it look impressive!!! I let it sit for 2 days before cutting. First piece came out perfect! I referred to another reviewer's tip and used 2 large baking sheets with parchment paper. I traced an 8 inch paper plate in 2 spots on the back side of the parchment. Flipped the parchment over, and spread the batter up to the line visible on the right side. Use a large muffin scoop, about 2 heaping scoops of batter for each round. The layers turned out pretty even. Use all the batter to make rounds and choose the best 8 rounds for the cake and the rest for crumb. Measure and spread each round as you go so the batter doesn't get dried out and harder to spread. Once baked, I pulled the whole parchment sheet off the pan and onto a cooling rack. I used a batch and a half of the frosting. Next time, a batch plus additional quarter batch would be plenty. Measure it out to ensure even layers- a heaping cup per layer and use a little extra on the edges if the cake seems low in spots. You want to build it up in order to keep it as level as possible. I opted to crumb the whole cake. Let the crumbs cool all the way, then zip them to very fine in your food processor. The finer the better for this cake. Thanks for a great recipe. I will be making it again, its already being requested!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "reza_o3543"
+},
+"reviewBody": "Cake was so delicious and I loved the taste of burnt honey in it, but the big challenge was uneven layers. I tried different techniques but no luck to make layers closer to the video which ended up in uneven/ non-presentable. does anyone have a recommendation on that please? Thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "sundus.hameed99"
+},
+"reviewBody": "I made this cake. As you can see it turned out really great. Just exactly like the original one. But i gotta say. I was expecting it to be a more flavorful and moist. But i didnt like its taste. It was like all the normal pastries we buy from a bakery. And it was not moist enough.. like all the effort this cake took. My family liked it but I didnt like it that much. As i have baked alot of cakes. They all were flavorful, moist and delegant. This looks beautiful and its fun to bake. But just not upto my expectations. While i was cutting the cake i could feel the knife was going through each one of the layer. It shouldn’t feel like that."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SPeters"
+},
+"reviewBody": "It was a fun whole family project for us. This cake is sweet, but not in a sugary way. Loaded with flavor. Worth all the time and effort."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "James Milster"
+},
+"reviewBody": "I added walnuts for a bit of earthy-ness and texture but otherwise it came out really nice"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy"
+},
+"reviewBody": "Turned out perfectly. Tasty ,moist and very light. Served it to friends and they all loved it. This was time consuming to make but not really difficult."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheffy Jeffy"
+},
+"reviewBody": "Turned out great! Forgot to add the cold water to the burnt honey after it cooked, but just heated it back up and added it with no problems. A crucial step! \n\nHad JUST enough frosting and crumbs for a beautiful cake. This recipe leaves no room for error, unless you want a 7 layer cake lol (still impressive). The egg mixture was hard to gauge the temperature of... it felt not so warm when I just stuck my finger in... but when I moved my finger tip around in the batter, it felt almost HOT! Since this recipe is not measured by weight, I probably added a TAD too much flour, as my cakes were only slightly denser than I thought theyd be, and my batter was slightly thicker than Chefs in the YT video. I used parchment paper in lieu of a silica mat (they are basically the same thing), I guess the paper is less environmentally friendly, but it worked like a dream. The whip cream frosting is DIVINE with that burnt honey flavor and slight zip you get from the sour cream. You could put it on boot and it would taste good. Between the burnt honey in the batter, frosting, and toasted cake crumbs on the sides, there are many layers of honey flavor in this cake. If you are biting into this cake expecting anything other than honeyliciousness, you still wont be disappointed. Beautiful cake, first time making it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tarsis “Cabra” Martins"
+},
+"reviewBody": "We made all the batter into circles, then picked the best 8 circles for the layers and used the extra circles to make the crumb"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jonathon Wisnoski"
+},
+"reviewBody": "The lightest and probably best tasting cake I have ever made.\n\nYou can use maple syrup instead of honey, and you will not have to \"burn\" it. But it seemed to make the batter really thick, so will try exchanging some of the sugar for more maple next time.\n\nThis batter does not stick when baked at all, in my experience. A greased baking sheet works fabulously.\n\nSubstituting the sour cream for yogurt also worked fantastically for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nick Marzano"
+},
+"reviewBody": "Chef John's sense of humor and endearingly odd deadpan make an intimidating recipe feel in reach. The result was delicious! I have a pretty good idea where I went wrong on some of the thicker layers and uneven frosting, but that's all looks. The flavors and composition are surprisingly forgiving; you just need enough time to throw at it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "totojun"
+},
+"reviewBody": "So much work but so worth it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ben Leonard"
+},
+"reviewBody": "This cake has a distinctive flavor and is moist and impressive. It takes time to make, but is beautiful to look at."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lindsay Allardyce"
+},
+"reviewBody": "I have made this recipe several times, and it is always a hit! Even my wife who hates sweets loves this cake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DieBee"
+},
+"reviewBody": "Fun to make! Next time I'll make sure to bake thinner layers. Can't wait to try; it's in the fridge right now but the individual components tasted awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hannah Neely"
+},
+"reviewBody": "Oh my goodness, this is so good. I made this for my husband for his birthday and it was worth all of the hands-on prep, even with our 9 month old scrambling around at my feet the whole time. My advice to other people who want to make this cake is to not stress too much about perfection- it will turn out and it will be good. I used a double boiler-esque situation for the batter instead of putting the bowl directly on the burner. I spread 1/2 c of batter on parchment and aimed for an 8-9” circle and baked two layers at a time for 6 min. Then after cooling for a bit, I trimmed them using a 9” cake pan. The frosting is sooooo good with the burnt honey. This cake was a hit and our friend said it was the best cake he’s ever eaten! I’m glad the prep was worth it! And it’s so big, it would easily feed at least ten people with big slices, or probably 16 people for skinnier ones."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AnChi Mo"
+},
+"reviewBody": "May be this cake is really delicious, I do not know. I'm very sorry, but this particular way to prepare a honey cake is not Russian way. We do not boiled a honey so much, I'm not sure how healthy is that. We cook it also, but completely in different way. \nAnyway, cake looks gorgeous."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "S"
+},
+"reviewBody": "Very fun to make, and taste is quite unusual and not overly sweet which was great. \nTook me about 3 1/2 hours, baking 2 rounds at a time. \nHad trouble with the honey, going by smell alone was too confusing for me and I wasn't sure when it was caramelizing and I went by colour, still not sure if I should have cooked it a bit longer. \nI reduced flour by 1/2 cup as others suggested reducing flour, and I'm assuming it was because batter was too thick; at the start it's fine but as it cools it thickens up quick and becomes harder to spread. \nDid not have any silicone mats and used parchment paper and used a 9\" pan to draw circles that I could then spread onto. I understand why mats would be way better - parchment paper slides around and makes spreading really difficult but also it was nice that i could just lift them off the pans when cooked and replace with new ones. \nMade an extra half of icing, did not use all of it but I also eyeballed the cups for the centres so I maybe didn't put enough, the end result would have benefited from a tad more cream. \nQuite a large cake, putting the crumbs on is very messy and I still got crumbs everywhere when I unwrapped it. A great cake though, I didn't find it difficult just time consuming, and everyone thought it looked very impressive."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alyssa Vakulchik"
+},
+"reviewBody": "This was a resounding success. While i definitely didn’t get even cake layers, who cares when the final result tasted so amazing. I wound up mixing some Biscoff cookies into the crumb coating for the sides for some extra crunch, and drizzled some honey caramel on top to make it pretty.\n\nThis one is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joe Kessler"
+},
+"reviewBody": "Well this is just delicious, and cooking honey just leaves the whole house smelling amazing. The only amendment I would make is a slightly lower amount of flour. I had a really hard time spreading it thin enough to be able to do the 8 layers and got 5 dense layers instead. The flavors are on point and the cake was still incredible, but this was the struggle I had with it. Also, this recipe really made me appreciate a double oven and enough pans to keep the process moving smoothly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AH1999"
+},
+"reviewBody": "It turned out to be very delicious! It had a very strong And sweet burnt honey taste, so next time I might not add any burnt honey to the icing.\nPlus, it tasted so much better on the 10th day than the second day! Amazing recipe, thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dana"
+},
+"reviewBody": "Fantastic cake! My new favorite. The video was a giant help."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Petr"
+},
+"reviewBody": "thank you for an amazing recipe, chef John"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "noor"
+},
+"reviewBody": "Amazing cake.. I would recommend to reduce the flour"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brian Crabtree"
+},
+"reviewBody": "My wife is from Vladivostok, Russia and loves this recipe! I've made it 4 times and it goes fast every time. I purchased extra round cake pans to make several layers at a time which reduces the time to make the finished product."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tracery Bakery"
+},
+"reviewBody": "Worth every second of the 5 hours it took me to make this. Don't be intimidated, it just takes a little time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Kelly"
+},
+"reviewBody": "It is time consuming but well worth it. I used honey from local bee keepers which worked wonderfully well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kodiak"
+},
+"reviewBody": "So unique. The cake gets better the longer it sits in the fridge. The honey flavor is fantastic, and it appeals to most because it isn’t overly sweet. I’d consider making to take to an event next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jaco Voges"
+},
+"reviewBody": "One of the most satisfying and delicious recipes ever. Worth the “little” effort. The worst is to leave it overnight - which you must do."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Serinox"
+},
+"reviewBody": "I used gluten free equal measure flour and it came out wonderfully!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nightstar"
+},
+"reviewBody": "Was a big hit. I did make a couple alterations, used half as much Cardamon instead of Cinnamon, and a touch more honey in the whipped cream... which was amazing. Very well might use honey sweetened whipped cream in other recipes in the future as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Frank (FTC&Lily)"
+},
+"reviewBody": "What a delicious, impressive final product! And not an overly-sweet cake or icing at all. Everyone was delighted at my daughter’s Thanksgiving dinner. Kudos!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Carly van Waveren"
+},
+"reviewBody": "I liked it, I would have liked to make double the frosting next time because there was barely enough following the recipe. After refrigerating overnight the cake was really good, a few spots where the frosting was a little sparser were dry which is why I would recommend making 1.5x the frosting recipe in the future. The texture feels similar to firm lady finger in a tiramisu to me and the flavor is very subtle, I got the honey flavor from the frosting more. Would make again! Was really fun to make a cake using silpats and I think from now on I will make all my cakes 8 layer on silpats because the frosting can be more evenly distributed through 8 layers and it gives that perfect frosting to cake ratio in every bite! Thanks Chef John! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tatiana Morelli"
+},
+"reviewBody": "This cake is really something else and worth every second of it. Thank you so much for the delicious recipe, the entire family loved it, I’m planning on making this for Christmas and was wondering if I can make the cake batter in advance and freeze all the layers without the cream and the day before make the whipped cream and assemble it. \nThis is a new favorite in our family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lilian Luo"
+},
+"reviewBody": "The worst news is the cake has to refrigerate overnight. Mine is sitting in the fridge and the whole family is pretty upset it won’t be ready until tomorrow.\n\nOne tip, the crumbs should be super fine and dry and fluffy in order to cover the sides using the method in the video. I thought mine was pretty fine but not fine enough. The crumbs didn’t bounce back like in the video and it wasn’t light enough.\n\nThanks chef John. Glade to match a face to the voice and hands."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "wayne"
+},
+"reviewBody": "This cake is delicious."
+}
+]

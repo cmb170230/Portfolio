@@ -1,0 +1,177 @@
+,"name": "Buffalo Chicken Dynamite Rice"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "9"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "451 kcal"
+,"carbohydrateContent": "9 g"
+,"cholesterolContent": "144 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "31 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "601 mg"
+,"fatContent": "32 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"recipeIngredient": [
+"6 boneless, skinless chicken thighs",
+"2 tablespoons melted butter",
+"salt to taste",
+"0.66 cup mayonnaise",
+"3 tablespoons hot pepper sauce (such as Frank's RedHot®)",
+"1 teaspoon cayenne pepper, or more to taste",
+"0.5 teaspoon paprika",
+"0.25 teaspoon garlic powder",
+"0.25 teaspoon freshly ground black pepper",
+"1 tablespoon white vinegar",
+"1 cup long grain rice, cooked according to package directions",
+"1 cup diced celery, divided",
+"0.5 cup crumbled blue cheese, divided" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Add chicken thighs and melted butter to a baking dish, and toss until coated. Season the top with salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until chicken is just cooked through, about 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "While chicken is cooking, make sauce by adding mayonnaise, hot sauce, cayenne pepper, paprika, garlic powder, black pepper and white vinegar to a mixing bowl. Whisk together, and refrigerate until ready to use."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove cooked chicken from the oven. Transfer thighs to a plate or bowl, and place in the fridge until needed. Reserve all the juices and drippings from the casserole dish, and pour into a measuring cup. Add enough water to get to 1 2/3 cups."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring water-drippings mixture and rice to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until rice is tender and water has been absorbed, about 15 minutes. Turn off heat and allow rice to sit for 10 minutes longer."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer cooked rice to the baking dish used to bake the chicken. Use a spoon to create an even layer, but do not pack or press rice down. Drizzle any accumulated sauce from the cooked chicken over the rice."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer chicken to a cutting board and cut into 1/2-inch cubes. Add chicken to the mayo sauce and mix well. Sprinkle 1/2 of the celery over the rice. Spread out chicken-mayo mixture evenly over the rice. Crumble over about 1/2 of the blue cheese and season with some cayenne on top, if desired."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/AQqT5EXIiFm2O2oFnTg-tNwrsKM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8539210-Buffalo-Chicken-Dynamite-Rice-1x1-1-2000-ebae2af734674b4cac9faf8e6d609b31.jpg"
+}
+]
+,"text": "Place baking dish in the preheated oven and cook until the top starts to brown, 15 to 20 minutes. For additional browning, set broiler to high, and broil top for 1 to 2 minutes to achieve more color. Garnish top with the rest of the celery, more blue cheese if desired, and another drizzle of hot sauce. Top with celery leaves if available. Serve hot, or at room temp."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT0M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Beautiful very rich and tasty and a definite winner👍👍👍👍"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzanne"
+},
+"reviewBody": "My whole family loves this recipe. I made bone-in thighs in my instapot and made the rice in the instapot, then followed these directions. It is creamy and just the right amount of spicy! Go Bills!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "That's a very nice recipe. It's easy to do and is super tasty. I was glad that one can find Frank's RedHot in the UK - the only not so standard ingredient. I was hesitating what to put as blue cheese - Stilton or Staint Agur, and decided for the latter, which turns out to be a good choice. Next time will try stilton."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Yummy! Instead of chicken thighs, I used a roasted chicken that I pulled. Since I didn't have the drippings from baking, I just used stock and a little butter in place of the drippings John used for the rice. I would definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janis Godwin Spear"
+},
+"reviewBody": "Just a super creamy and delicious dish. Everyone here loved it. Just highly recommended."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "tasty super bowl snack; easy to make dairy free"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Delise Bomer"
+},
+"reviewBody": "Followed to a \"T\". Was amazing, creamy and just warm enough to make it interesting. Didn't have the oblong pan tho."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made this today. I have to say, this came out amazing. One of the best things I've made from Food Wishes recipes. I made a few substitutions. I had to use vegan mayonnaise I used shrimp I used Batch #37 garlic style hot sauce 🥵 Squeeze of lemon made it great"
+}
+]

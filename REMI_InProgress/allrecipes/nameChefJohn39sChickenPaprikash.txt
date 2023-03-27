@@ -1,0 +1,840 @@
+,"name": "Chef John&#39;s Chicken Paprikash"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "65"
+}
+,"cookTime": "PT85M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "353 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "100 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "24 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "406 mg"
+,"sugarContent": "2 g"
+,"fatContent": "25 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"8 (5 ounce) bone-in, skin-on chicken thighs",
+"salt to taste",
+"2 tablespoons olive oil",
+"2 medium yellow onions, diced",
+"3 cloves garlic, minced",
+"2 tablespoons tomato paste",
+"4 teaspoons all-purpose flour",
+"1 teaspoon kosher salt, or to taste",
+"0.5 teaspoon freshly ground black pepper",
+"1 teaspoon smoked paprika",
+"0.25 cup sweet Hungarian paprika",
+"1 pinch cayenne pepper",
+"2 cups chicken broth",
+"0.66666668653488 cup sour cream, room temperature",
+"0.25 cup heavy whipping cream" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Season chicken generously on both sides with salt. Heat olive oil in a heavy, deep-sided pan (that comes with a lid) over high heat and brown the chicken well, skin-side down, about 5 minutes; flip and continue to sear until other side is browned, 3 to 4 minutes more. Turn off heat. Transfer the browned chicken to a plate and reserve until needed; spoon out excess chicken fat if desired."
+} ,{
+"@type": "HowToStep"
+,"text": "Add onions and a pinch of salt to the same pan and saute over medium until golden, about 5 minutes. Add garlic, tomato paste, and flour and cook, stirring, another 3 to 4 minutes to form a tomato roux. Stir in 1 teaspoon kosher salt, freshly ground black pepper, smoked paprika, and sweet paprika and cook for 1 minute. Add chicken broth and bring to a simmer over high heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce heat to medium-low and transfer chicken and accumulated juices back into the pan. Baste the tops with the sauce, cover the pan with the lid, and simmer, basting occasionally with the sauce, until the chicken is no longer pink in the centers and is fork-tender, 45 to 60 minutes. Remove the chicken and transfer to a plate."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/07ihQp1-r1XA0Ejfv93ZSBvGosU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-241-3a78b65bb0b64b409fb2f2d95fbd4b34.jpg"
+}
+]
+,"text": "Skim some fat off the top of the sauce if desired. Whisk heavy cream and sour cream into the sauce and bring to a simmer, stirring occasionally. Transfer the chicken and any juices back into the sauce. Simmer, uncovered, basting often, until chicken is heated through and very tender, about 10 minutes. Taste and adjust seasoning if needed."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT95M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rudolf Rassendyll"
+},
+"reviewBody": "Like grandma's -- except ee use bacon fat by default."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Matty1963"
+},
+"reviewBody": "Mine is not as pretty, (possibly because I didn’t have Hungarian paprika) but definitely as delicious! This is my new go to!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kyle W"
+},
+"reviewBody": "Love this recipe! I had never made anything like it before and now I've made it 15+ times. It's in my regular rotation. I have a hard time finding bone in/skin-on thighs so usually just use boneless/skinless and it still comes out fantastic. Over white rice and some table bread. Amazing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Eddie Coyle"
+},
+"reviewBody": "I have never eaten paprikash, so I made this recipe to the letter. Not knowing what it is supposed to taste like, I liked it, but it has a very mild flavor. I wonder if a few more spices are in order. I used skin on chicken thighs and left ALL of the fat in the dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Pugliese"
+},
+"reviewBody": "Never made or eaten chicken paprikash before but I have to say, thanks to Chef John's recipe it was a revelation. Not just considering how good it tastes, but also how easy it was to prepare. Chef John has done it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy Bunker"
+},
+"reviewBody": "This was spectacular, I have been making Paprikash for years and it is a delightful dish. The first time that I made it we only had linguini in the house so that is the pasta that I used. My daughter (4 at the time) deemed it Messy Noodles and now I can't use any other pasta when I make it. I do use about half a cup of white wine in the sauce but otherwise the recipe is the same. Make sure that you have real Hungarian Paprika, it makes all the difference"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I followed the recipe as written and am now officially in love with this dish. I have never had a Paprikash before, so I don't have any comparisons to draw. However, I think this made a tasty and warming meal, perfect for colder days. I notice that it has cayenne pepper in the ingredient list, but (as far as I can tell) doesn't have it stated where to add it in the written directions. I ended up tossing it in at the end, though I suspect, in retrospect, I know where it should have gone in."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paul Madden"
+},
+"reviewBody": "Loved it, only change I made was I’d run out of smoked paprika so substituted Kashmiri chili powder. Deeeelish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patrick Claflin"
+},
+"reviewBody": "I decided to try the dish as it was featured in a chapter of \"European Travel for the Monstrous Gentlewomen\" by Theodora Goss and sounded tasty. I used boneless-skinless chicken thighs because that's what I had in the fridge. Both Herself and I enjoyed the dish with cucumbers and red onions in rice wine vinegar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "monika0810"
+},
+"reviewBody": "Chef John , I was born in Hungary and used to make chicken paprikash all the time. It is a little different than the original Hungarian recipe but very tasty. We only use Hungarian paprika and fresh bell pepper and tomatoes in the recipe all chopped up and thickened with sour cream and flour mix. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dbellmaine"
+},
+"reviewBody": "OMG, I'd never even had Chicken Paprikash, but the recipe plus reviews convinced me to try this. YUM! A few steps but all easy and the results are to die for. Hubby loved it too. Tried to find spaetzle but they didn't have it at the store, so served with rotini which soaks of the heavenly sauce beautifully. Thanks again to Chef John, you always make me look like a pro in the kitchen!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ljmarsden"
+},
+"reviewBody": "This dish is delicious. So much flavor is achieved. Did not change a thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cilia van Zal"
+},
+"reviewBody": "I tripled this recipe for about 20 people. I used diced chicken thighs. It was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "El Baz"
+},
+"reviewBody": "So delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tyarra"
+},
+"reviewBody": "This is wonderful! Simple to make, smells so good while it simmers, and the taste so rich and flavorful. I've made this several times since it's been posted, though I've used different things to serve it over - egg noodles, shell pasta, mashed potatoes ... it's all good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "connorlloyd1218"
+},
+"reviewBody": "So good, this has become a staple dinner in my home."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dalcazar"
+},
+"reviewBody": "Delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marie Anne Dougherty Peticca"
+},
+"reviewBody": "Very good! My mother use to make this years ago. My family loves it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bbqcookie1"
+},
+"reviewBody": "Saw it on YouTube on chef John's show and came looking for it. Very good! Tonight is second time making it with boneless skinless chicken thighs and all heavy cream no sour cream. (I like the sour cream but wife and kids like better without) Tonight is by wife's request for valentines with egg noodles and pan roasted broccoli and cauliflower."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jkg7t"
+},
+"reviewBody": "I thought it was amazing. My husband called it \"different\" because he is used to his (Hungarian descent) mother cooking it with apple cider vinegar (she gave me a very vague recipe that I can't replicate) and therefore it has a much tangier taste. I still think it's a total win, will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erin Thiele"
+},
+"reviewBody": "My new favorite recipe! Delicious flavor. Tender chicken. Delicious over smashed red potatoes. 10/10. Highly recommend."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The whole family loved it! We're big fans of goulash and we are big fans of chicken thighs so we were never going to not like this dish! Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nathan Terepocki"
+},
+"reviewBody": "I enjoyed but my wife did not."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "SLOURIE"
+},
+"reviewBody": "I'm a huge Chef John fan; but, this one just didn't seem so \"over the top\" good as most of his recipes. I thought there was a little too much flour and my husband thought that it had too much paprika. I wanted to love this, it is time consuming, which is also why I give it 3 stars. It was good; but, I wouldn't make it again. Still a Chef John fan!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "boogieman2009"
+},
+"reviewBody": "Man...that was so f*&amp;^in\" good!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lawoodside"
+},
+"reviewBody": "Amazing dinner! It was creamy and spicy and so delicious! Thanks for another great one Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nyssa"
+},
+"reviewBody": "This was so good! Do yourself a favor and make this. I made it with rice. May try noodles next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Hadden"
+},
+"reviewBody": "Delish. Had to add hot sauce, will do more paprika next time and try with egg noodles. I had French fries on the side, the sauce was delish for a dip."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lalobo"
+},
+"reviewBody": "Love it! Love it!! Love IT!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ryan Phillips"
+},
+"reviewBody": "don't change a thing and this recipe is perfect. it's the dish you never knew you needed in your life, but you definitely need it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Frances Smith"
+},
+"reviewBody": "This is one of the most flavorful dishes I have ever had. Sheer perfection. Chef John for the win, as always. This is now a family favorite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa in Phoenix"
+},
+"reviewBody": "So good! Made as directed except I didn’t have sweet Hungarian paprika, just regular. So in addition to the smoked and regular paprikas, I added a teaspoon of sugar. Made with chicken thighs and the dish turned out fantastic. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rodney Keith Bone"
+},
+"reviewBody": "Awesome. My wife is Hungarian and loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry Guthrie"
+},
+"reviewBody": "chef john. this is definitely a keeper. I think next time I am going to add peppers and mushrooms though. I think that would go well in this dish. even the three and seven year olds liked it. and they dont like much of anything unless it is premade junk food."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mara Loethen"
+},
+"reviewBody": "This was delicious and very simple and used mostly stuff I already have. Could have used a touch more heat but i suppose that is to taste (maybe a touch of red chili flake?) We had it with buttered egg noodles and licked our plates clean. I will be adding this recipe to my repertoire. I would have taken a picture but the smell was amazing and i couldn't wait to eat it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Gamelcy Rodriguez"
+},
+"reviewBody": "Yummm"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lois Doric"
+},
+"reviewBody": "I made this! No changes, it was sooo paprikashi, at first, but we enjoyed a small amount. The sour cream helped with the heat. Then about 3 days later we fell in love with it as leftovers! We did forget to use the sour cream with the leftovers, but it was really fantastic. Will make ahead, again! Thanks Chef John, I really do enjoy your recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "Absolutely amazing dish! The sauce is so flavorful and the whole thing just turned out beautifully. I served it over store bought spaetzle noodles and used crème fraiche instead of sour cream. Will definitely make this again! Thanks Chef!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dan Toomey"
+},
+"reviewBody": "Fantastic recipe! Pretty perfect as written. I swapped Aleppo Pepper for the cayenne pepper, did everything else per the recipe. Served it over a bed of Spaghetti Squash which really worked well. The sauce is really good. Everyone in the family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BECKY300N"
+},
+"reviewBody": "This recipe looked so interesting. I am on a Chef John Facebook fan page and many had made this. I followed the recipe exactly and it did not disappoint. At first I wondered if the sauce would be too paprika-y, but the longer it simmered, the more delicious it was. I served the chicken over buttered noodles and both my husband and I loved it. Another Chef John keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurahallie"
+},
+"reviewBody": "I’d like to begin with a guest review from my fiancé, who couldn’t stop talking about this dish: “the chicken was amazing. It fell off the bone and had a ton of flavor, and the sauce was also incredible. Overall, a very satisfying and interesting dish. This recipe has to be given the highest possible marks.” My thoughts and notes: Made this with the cast iron. I only had 6 chicken thighs but did not otherwise scale the recipe, so there was plenty of sauce for the accompanying pasta that I made with the dish. The sauce had a medium spice with the Hungarian paprika and was nice and creamy, kind of like a curry. I did not skim any fat off of the top of the dish, which is obviously unhealthy, but I’m cool with that. Finally, I didn’t have chives on hand but would include them next time as a nice garnish. Otherwise, I don’t think I would change anything."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Harvey"
+},
+"reviewBody": "Super delicious, great flavor, I haven’t used paprika much, so I did have to buy a smoke version and a sweet version, but it was totally worth it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JJanowitz"
+},
+"reviewBody": "Incrediblely good! Even my finicky youngest loved it. Now in our family meal rotation. Thank you Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Raqual"
+},
+"reviewBody": "Was so yum. Will definitely make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Matt Bischoff"
+},
+"reviewBody": "Chef John is the man."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Spenser"
+},
+"reviewBody": "Finom (dlicious) as my grandmother vood say -\"Darlink have some. She used a bit more sour cream for a lighter sauce. Szervusz Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elaine Brooks"
+},
+"reviewBody": "This dish was a stable item growing up. My Mom is 100% Hungarian."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fr. Tim Moyle"
+},
+"reviewBody": "Another hit from Chef John! I made it exactly as he did... but I didn't remove the chicken fat... and I was glad I didn't. It was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danielle Stueber"
+},
+"reviewBody": "My husband made this dish tonight, and I somehow loved it MORE than the goulash (which we've also made several times). I loved it so much, we're getting a purpose enameled cast iron pan to be able to make a larger batch for when we entertain (we only made three portions for us tonight in our small Dutch oven). Amazing job with this one Chef John! \n\nWe used half-sharp Hungarian paprika (from TheSpiceHouse.com) so it was a bit spicy, and that was perfect for us. This will definitely be a staple in our house."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom"
+},
+"reviewBody": "Very rich and tasty. Chef John, you've done it again! \n\nMake sure in addition to basting, you stir the sauce every now and again. My sauce ended up burning a bit and making it somewhat annoying to clean."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shorty"
+},
+"reviewBody": "Delicious. Followed the recipe exactly. Very forgiving recipe which, believe me, is the kind I need. Used Pride of Szeged Sweet Hungarian Style Paprika. Reminds me of the way my Hungarian grandma's paprikash tasted, oh, 50 years ago! The only precaution I took was to temper the sour cream before adding it. I have no idea whether that was necessary. May leave out the smoked paprika next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Foodwarrior"
+},
+"reviewBody": "I made this last weekend and used 10 thighs instead of 8. Had to thin the sauce a little bit but it was every bit as good as he said it would be. Even the young kids loved it. It is on the rotation in our house now."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alexis Stewart"
+},
+"reviewBody": "This was fantastic!! I’ve never had this dish before and I really loved it, super comforting without being too heavy. I burnt the onions but I’m pretty sure that was my fault ?? still very tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Andrew G Strauss"
+},
+"reviewBody": "Pretty great classic dish. Can’t go wrong with chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jrr"
+},
+"reviewBody": "I opted to finish it in the oven in a lidded Dutch oven. Amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Exodus"
+},
+"reviewBody": "Stunning dish! Slapped it together in no time and really wow!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "biggyt77"
+},
+"reviewBody": "This was fantastic. I followed the recipe. I don’t normally skim the oil but there is a ton of fat by the end. I skimmed some, and wished I would have skimmed more. It was still delicious. Served with egg noodles and I felt like it was perfectly paired. It reminded me of a chicken stroganoff with a ton of paprika. That’s why I think mushrooms could be a substitute for the onions or an addition."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CORNELL4"
+},
+"reviewBody": "Warm and comforting ans so easy to make. This one will be on high rotation!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paige Lee"
+},
+"reviewBody": "I made this last night, exactly as written, and it was awesome! Everyone loved it!\nI had never had a paprikash before, so I didn't have anything to compare it to, but since it was Chef John's, I can be certain it was one of the best examples!\n\nI am currently on the keto diet, so I had to have it without the pasta/dumplings. I tried to do cauliflower rice, but I don't think it was the right match LOL...ended up just eating the chicken and sauce by itself. \nI regret having it this way. After trying the sauce, I realized this one would have totally been worth cheating on my diet for lol! I can't wait to do it right next time :D.\nThanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sparkle Smurf"
+},
+"reviewBody": "Tasty. I can’t wait to check out more Hungarian recipes. Thanks Chef John"
+}
+]

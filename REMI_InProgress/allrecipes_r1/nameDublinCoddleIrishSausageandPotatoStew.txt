@@ -1,0 +1,262 @@
+,"name": "Dublin Coddle (Irish Sausage and Potato Stew)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "16"
+}
+,"cookTime": "PT225M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "676 kcal"
+,"carbohydrateContent": "83 g"
+,"cholesterolContent": "74 mg"
+,"fiberContent": "9 g"
+,"proteinContent": "26 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "2329 mg"
+,"sugarContent": "8 g"
+,"fatContent": "25 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+, "recipeCategory": ["Dinner"]
+,"recipeCuisine": ["Irish"]
+,"recipeIngredient": [
+"8 strips thick-cut bacon, cut in 1 inch pieces",
+"2 tablespoons butter",
+"2 yellow onions, chopped",
+"4 cloves garlic, minced",
+"1 cup chopped green onions, plus more to garnish top",
+"1 cup stout beer",
+"1 tablespoon fresh thyme leaves",
+"1/4 cup chopped Italian parsley",
+"freshly ground black pepper, to taste",
+"2 teaspoons kosher salt, or to taste",
+"pinch cayenne, optional",
+"3 pounds Yukon Gold potatoes, peeled, halved",
+"4 cups chicken broth",
+"6 large pork sausage links, about 2 1/2 pounds total" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Cook bacon in a Dutch oven or a large oven-safe pot with a lid over medium heat, turning occasionally, until evenly browned, about 10 minutes. Add butter, onions, and pinch of salt, and cook until onions are soft and translucent. Add garlic, and green onions, and cook stirring for 2 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour in beer, raise heat to high, and cook, stirring occasionally, until beer has reduced by about 75%. While beer is reducing, season with thyme, parsley, black pepper, salt, and pinch cayenne. Once beer has reduced, add potatoes and broth and bring to a simmer."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 300 degrees F (150 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Prick sausage on both sides, and add to the pot on top of the other ingredients."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover and place pot into the preheated oven. Cook for about 2 1/2 hours. Remove the lid, and continue cooking uncovered for about 1 more hour."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/AiFqisNAqMRsXywuvDGCkr83eKk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7185428DublinCoddleChefJohn4x3-8614fee20ce440bcb0822d62260b54c1.jpg"
+}
+]
+,"text": "Remove from oven and skim excess fat from top before serving. Garnish top with green onions, if desired."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT245M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BECKY300N"
+},
+"reviewBody": "If you are a Chef John fan, you know he doesn’t disappoint. This stew is delicious. I am a mediocre cook at best, but I followed the recipe to a T and it was so flavorful. Try it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Delicious²! Chef John makes it look so easy and it is --assuming you complete all the mise en place ahead of time like he does. Prep is the key to success here plus it allows you to inventory all the ingredients and make sure you have everything ready to go. After that you are simply coddling the dish along. I used a few dashes more cayenne than chef John just because that's how I roll. Also I added a couple of shallot to the onion mix. As someone else mentioned watch the salt level as two major components have salt: bacon and chicken broth and the butter potentially. Magnificent stay inside, stormy day dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Versus Forward"
+},
+"reviewBody": "Chef John is the only person I trust in this life. I made my coddle exactly as instructed. I will make the following warnings: don't add salt. You can add salt at the end if it's not salty, but the bacon and depending on the brats/sausage you use, your coddle should be plenty salty without adding any additionally. The sausage and potatoes in this were so good, melted in your mouth, and the slight hint of malty bitterness made the flavor more complex than expected. Excellent over all. I used 10 brats since each package of 5 was about 1.35lbs and the recipes called for 2.5. I'm glad I did, because it comes out so tender and good you'll want more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Turner"
+},
+"reviewBody": "I loved this recipe! I couldn't find Irish sausage, so I substituted with regular bratwurst; added corned beef spices, correander, black pepper, dried thyme, and it was amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kurt Knippel"
+},
+"reviewBody": "This stew is fantastic! I held true to the recipe except I did not add any salt and used low-salt bacon and low-salt chicken broth. It still came out with plenty of salt and packed with flavor, as much as I would expect from a restaurant, in fact. I highly recommend this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Generally great pointers for building out a bit deeper flavor than one sometimes finds with a Coddle. One way to bring out a bit more authentic flavor direction, especially if good Irish bangers aren't available to you, is to use some sage, white pepper, ground ginger—and definitely nutmeg and mace. Thyme is okay if ya like it yet the former are the common spices for \"the flavor\" of bangers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My family LOVED this stew! I did add carrots because we all love them. I served it with fresh pumpernickel and Irish soda bread slathered in butter. This stew is definitely going into the regular dinner rotation!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anthony Boyd"
+},
+"reviewBody": "I also used brats. I dropped the cayenne but of course gave it a couple shots of Howler Monkey Amarillo, which is a scotch bonnet hot sauce. Never skip the heat!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KenZ"
+},
+"reviewBody": "Made this as written but added carrots with the potatoes. My only comment is that this is in no way for 4 servings. 2 1/2 lbs of sausage, 3 lbs of potatoes. My 2.4 lbs of Irish garlic sausage, (which the market had because it's almost St. Patty's day) was 10 links. about the size of the ones Chef John uses in the video. It was delicious, and I expect the leftovers to be wonderful as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tstreet"
+},
+"reviewBody": "Used non alcoholic beer. Followed all other directions. It was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "looks fabulous!, what size dutch oven was used? (qts etc.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "daisycat"
+},
+"reviewBody": "Loved this! Didn't have fresh garlic, or Stout, so used garlic powder and a Porter. It still turned out great. My husband wants this in regular rotation now. This is like an original \"fix it and forget it\" recipe. So easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "making it right now"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason Powell"
+},
+"reviewBody": "Very good! I definitely will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Greg Spinelli"
+},
+"reviewBody": "Made as directed, except used on 1tsp kosher salt. Was perfect for my taste. Nice hearty stew, broth has deep flavor."
+}
+]

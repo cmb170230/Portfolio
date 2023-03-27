@@ -1,0 +1,67 @@
+,"name": "Parisian Potatoes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "404 kcal"
+,"carbohydrateContent": "67 g"
+,"cholesterolContent": "33 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "5793 mg"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 large russet potatoes, peeled",
+"4 cups water",
+"2 tablespoons kosher salt",
+"2 tablespoons clarified butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Scoop out as many potato balls as you can per potato using the smaller end of a Parisian scooper, 8 or 9 balls per large potato. You can&#39;t get too many out of each potato. If you want perfectly shaped balls, don&#39;t scoop too close together."
+} ,{
+"@type": "HowToStep"
+,"text": "Drop potato balls into a large bowl of cold fresh water so they don&#39;t discolor. Use potato carcasses for another use, e.g. potato pancakes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add potato balls, water, and kosher salt to a large pot. Stir and bring to a boil over medium-high heat. Once water is boiling, boil for just 2 minutes. Potatoes should still be firm, but not raw."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn off heat and remove potato balls with a strainer. Allow to drain in one layer on a plate lined with paper towels. Cool until they are room temperature."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat clarified butter in a skillet over medium heat for 2 minutes. Carefully add completely dry and cooled potatoes to butter. Brown potatoes until outsides are golden and crispy, and the insides are tender and fluffy, 7 to 10 minutes. Move and stir potatoes often so they brown evenly ."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/eMDs_s8fac3ZIH-O7Zkyt6f9DFM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Parisian-Potatoes-1x1-1-2000-a95c8604b0ed418dabd96cf703412662.jpg"
+}
+]
+,"text": "Remove from heat and serve immediately."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "❤️"
+}
+]

@@ -1,0 +1,94 @@
+,"name": "Mississippi Slugburger"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "2"
+}
+,"cookTime": "PT55M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "268 kcal"
+,"carbohydrateContent": "16 g"
+,"cholesterolContent": "54 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "16 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "736 mg"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"7 slices potato bread",
+"1 pound ground chuck",
+"1 teaspoon kosher salt",
+"0.5 teaspoon freshly ground black pepper",
+"0.25 teaspoon garlic powder",
+"0.25 teaspoon onion powder",
+"1 cup vegetable oil for frying, or as needed",
+"6 hamburger buns, split",
+"0.25 cup prepared yellow mustard, or to taste",
+"0.25 cup dill pickle slices, or to taste",
+"1 pinch chili powder, or to taste",
+"1 pinch cayenne pepper, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 175 degrees F (80 degrees C). Line a baking sheet with parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut the crusts off the bread slices. Place slices on the prepared baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until dry and toasted, about 45 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer toasted bread to the bowl of a food processor and pulse until you reach coarse crumbs."
+} ,{
+"@type": "HowToStep"
+,"text": "Place ground chuck, salt, pepper, garlic powder, and onion powder into a bowl. Add bread crumbs. Combine with your fingers, breaking apart the meat."
+} ,{
+"@type": "HowToStep"
+,"text": "Dampen your fingers with water and form mixture into hamburger patties."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat ¼ to ½ inch vegetable oil in a skillet over medium-high heat. Place a patty into the pan and turn heat down to medium. Cook until well browned and crusty, 3 to 4 minutes per side. Repeat with remaining patties, adding more oil if needed."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/x0yWcGnL5h2XklsOJhXmphn2cVg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_7328-2000-82455e5002144f3bba40d9b9066ca316.jpg"
+}
+]
+,"text": "Remove from the pan and serve on hamburger buns with mustard and pickles; sprinkle tops of patties with chili powder and/or cayenne if you like prior to serving."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great recipe. It's yummy! A slug is the small metal disk before it's cast into a noble. Not even worth a movie before it's cast. Just a clump of metal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "loved it keep it coming"
+}
+]

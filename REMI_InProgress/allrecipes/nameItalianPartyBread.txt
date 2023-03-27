@@ -1,0 +1,197 @@
+,"name": "Italian Party Bread"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "16"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "280 kcal"
+,"carbohydrateContent": "29 g"
+,"cholesterolContent": "19 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "12 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "715 mg"
+,"sugarContent": "3 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 (16 ounce) package pizza dough",
+"1 tablespoon all-purpose flour, or as needed for dusting",
+"0.33333334326744 cup prepared pesto sauce",
+"6 thin slices provolone cheese",
+"2 ounces sliced prosciutto, torn into ribbons",
+"0.33333334326744 cup diced banana peppers" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C). Line a baking sheet with parchment paper or a silicone mat."
+} ,{
+"@type": "HowToStep"
+,"text": "Place pizza dough on a floured surface and roll into a rectangular shape between 1/8-inch and 1/4-inch thick, letting dough relax occasionally if it keeps springing back. Spread pesto on top, leaving about a 1-inch border around the edge. Top evenly with provolone cheese, prosciutto, and peppers."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll up tightly in the direction that gives you the most length, ending with the seam on the bottom. Press down to flatten slightly and dust the top lightly with flour. Use a pizza wheel to cut dough lengthwise into 3 long, even strips using a pizza wheel."
+} ,{
+"@type": "HowToStep"
+,"text": "Place strips next to each other but not touching, the middle strip cut-side up and the other two cut-sides facing in. Braid them together, then curl the ends in to form a round wreath shape, tucking any loose ends under the loaf. Transfer onto the prepared baking sheet."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/HwyuahwAx2b6o66zShhQ92PhP-c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7397936-19d98bfcceb64e6d80fd68bf56374804.jpg"
+}
+]
+,"text": "Bake in the preheated oven until nicely browned, about 30 minutes. Let cool slightly and serve warm or at room temperature."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brad Istace"
+},
+"reviewBody": "This was a hit at the potluck I went to. Turned out a little burnt, so I'll take it out earlier next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kathleen"
+},
+"reviewBody": "Outstanding! Used salami. Great alternative."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danielap"
+},
+"reviewBody": "This is amazing! The appetizer for my next party!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dude food"
+},
+"reviewBody": "This is a great food to share, I went a little heavy with the banana peppers but this dish was tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cat Camera"
+},
+"reviewBody": "450 was too hot for my oven at 6500 feet for that long. But, the dish (red sauce and olives instead of peppers and pesto) was outstanding. Thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CeCe Bloom"
+},
+"reviewBody": "My new favorite Go To for a quick party dish. Was a little messy with the braid? but it turns out fine. I will bake my next one at 425 for 40 minutes as the middle was still a little raw."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judy Shomper"
+},
+"reviewBody": "Used pizza sauce instead of pesto. Delish! Will try again with artichokes, Oil and garlic, roasted red peppers, and spinach... vegan style! Use the sauce only for dipping."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Meema"
+},
+"reviewBody": "I have made this 4 times now and the braiding does get easier every time. I use a grated hard sheep cheese ( due to dietary issues with cow dairy) and olive tapenade instead of the peppers. Everyone who has tried this bread loves it. I did set my oven at 425 degrees. The bread seemed a little too browned baked at 450 in my oven."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David"
+},
+"reviewBody": "1.5 cups flour for the dough (smaller loaf), 33min bake time"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "meatloaflover"
+},
+"reviewBody": "this turned out absolutely delicious, but unless you are very confident working with dough, i'd suggest stopping at the point where you roll it up, slicing vents in it, and baking it that way.\n\ni am not that experienced with pizza dough, so the braiding stage was extremely messy and awkward, and the exposed cheese/meat caused the bottom of the loaf to brown too fast. it was still extremely delicious, just kind of stressful to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Frank (FTC&Lily)"
+},
+"reviewBody": "What I thought was going to be a ‘twisted nightmare’ turned out to be a delicious dinner/snack."
+}
+]

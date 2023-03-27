@@ -1,0 +1,211 @@
+,"name": "Chef John&#39;s Zucchini Bread"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "15"
+}
+,"cookTime": "PT50M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "298 kcal"
+,"carbohydrateContent": "39 g"
+,"cholesterolContent": "46 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "483 mg"
+,"sugarContent": "20 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 tablespoon kosher salt",
+"4 cups grated zucchini",
+"3 cups all-purpose flour",
+"1 teaspoon baking powder",
+"1 teaspoon baking soda",
+"1 teaspoon ground cinnamon",
+"0.5 teaspoon ground ginger",
+"1 pinch cayenne pepper",
+"1 pinch freshly grated nutmeg",
+"2 large eggs",
+"1.5 cups white sugar",
+"1.5 teaspoons vanilla extract",
+"0.75 cup unsalted butter, melted",
+"1 cup chopped walnuts" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Generously butter two loaf pans."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix kosher salt into zucchini and let sit for 10 minutes. Transfer to a strainer and rinse very thoroughly under cold water to remove salt. Let drain for 15 to 20 minutes before using."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk flour, baking powder, baking soda, cinnamon, ginger, cayenne, and nutmeg together in a mixing bowl. Reserve until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine eggs, sugar, and vanilla in another large mixing bowl, and whisk until mixture is smooth and turns a pale yellow, about 1 minute. Grab a handful of the drained zucchini with both hands and squeeze out any excess water before transferring into the egg-sugar mixture. Repeat until all the zucchini has been transferred in."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour in melted butter and stir until combined. Stir walnuts into the batter, followed by the flour mixture. Use a spatula to mix until the flour disappears."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer into the prepared loaf pans. Tap pans on the countertop to settle the batter."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/scnufgbySh6FcVFMS-9tZphkZuI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9383016-443316ddd0a346fa87fadba8d8c49de9.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until golden brown on top and a skewer poked in the center comes out clean, about 50 minutes. Let cool for 10 minutes in the pan, and then turn out on to a cooling rack. Let cool completely before serving."
+} ]
+,"recipeYield": ["16"]
+,"totalTime": "PT100M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mas"
+},
+"reviewBody": "All my friends raved and asked for the recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "A very tasty and moist bread. Left out the walnuts and added the chocolate chips!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CT_Jenn"
+},
+"reviewBody": "Overall I liked this recipe; added rehydrated craisins for a jammy surprise and topped with coarse sugar. I did think this recipe could use a little salt to offset the sweetness, so I’ll either switch to salted butter and/or add a 1/2 tsp or so of sea salt next time. Definitely a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The cayenne pepper was brilliant! Really gave it a special zing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "L Massey"
+},
+"reviewBody": "Excellent recipe. I have made this numerous times this summer already and am putting mini loaves in the freezer for Christmas presents. It freezes great and is still moist when pulled out in December. Make sure to wrap it well if you freeze it. I am baking the mini loaves about 25 minutes. This recipe is great to use up those giant zucchini that may be in your garden."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jordanalleycat"
+},
+"reviewBody": "Very good chef John recipe as usual. Give the zucchini more than 20 min to drain. Like an hour. The ginger can be overpowering so be careful. It's better to under ginger than over ginger."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carolyn Sapio"
+},
+"reviewBody": "Added copied pecans instead of walnuts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "4dbates"
+},
+"reviewBody": "This is a wonderful, easy zucchini bread.\n\nI modified it slightly by cutting the zucchini down to 2cup and adding 2 cups of shredded carrots. It makes for a more festive looking bread... enjoy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "fazrojas"
+},
+"reviewBody": "I’m sorry to be rude, but I will not use this recipe again. I only used it because I couldn’t find the one I typically use in my cookbook. I would never put cayenne pepper in a sweet quick bread. Also, I had to go back and add 1/2 c of water or so because the batter was too dry from removing the liquid from the zucchini. For meal prepping, esp. when I’m already stressed and pressed for time, this recipe is not ideal. Thank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "savi220"
+},
+"reviewBody": "Did half walnuts and half chocolate chips and it came it really well! Just not as sweet as I would have imagined - next time would add a little more sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "foodie-gardener"
+},
+"reviewBody": "I have lots of Zucchini Bread recipes and most are pretty similar. But I love Chef John's style and decided to give his version a try today. Made a few changes and one was inadvertent...I had already beaten 3 eggs when I realized this recipe only called for 2. My oversized zucchini was already very dry, so I didn't salt and rinse it either. I only had 2 cups of Zucchini once grated, and I swapped fresh-picked blueberries for the nuts. I also prefer muffins to loaves, so had to adjust baking time. Other than that, I followed his recipe pretty closely. I liked the unusual addition of ginger and cayenne. The end result was very tasty, and I will be trying it again with the right number of eggs and"
+}
+]

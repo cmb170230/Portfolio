@@ -1,0 +1,706 @@
+,"name": "Chef John&#39;s Sticky Buns"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "52"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "449 kcal"
+,"carbohydrateContent": "63 g"
+,"cholesterolContent": "47 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "325 mg"
+,"sugarContent": "30 g"
+,"fatContent": "20 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"0.66666668653488 cup warm water",
+"0.66666668653488 cup warm milk",
+"2 teaspoons active dry yeast",
+"2 tablespoons white sugar",
+"1 large egg, beaten",
+"6 tablespoons unsalted butter, melted",
+"4 cups all-purpose flour, or more as needed",
+"1.5 teaspoons fine salt",
+"0.5 cup packed light brown sugar",
+"0.25 cup white sugar",
+"1 pinch salt",
+"6 tablespoons unsalted butter, melted",
+"3 tablespoons water",
+"1 cup chopped toasted pecans",
+"0.75 cup packed light brown sugar",
+"1 teaspoon ground cinnamon" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine warm water and milk in a mixing bowl and sprinkle yeast over. Let sit until frothy, about 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add sugar, egg, and melted butter for dough to the yeast mixture. Mix with a whisk before adding 75% of the flour with the salt. Mix, adding more flour, until a very soft and sticky dough is formed. Let knead in the mixer for about 5 minutes. Cover and let rise in a warm spot until doubled in size, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "While dough is rising, preheat the oven to 375 degrees F (190 degrees C). Generously butter a 9x13-inch metal baking pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine brown sugar, white sugar, salt, melted butter, and water for topping in a bowl. Mix thoroughly until smooth. Pour into the prepared pan and spread evenly to cover the bottom. Scatter pecans evenly over the top. Set aside until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine brown sugar and cinnamon in a bowl for filling; mix until thoroughly combined. Set aside until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough onto a lightly floured surface. Lightly flour your hands and press and stretch the dough to form a 18x15-inch rectangle. Sprinkle cinnamon-sugar mixture evenly over the dough to the edges, leaving a 2-inch border along the edges. Lightly press the sugar mixture into the dough with your hands."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll the dough into a cylinder with lightly floured hands starting with the edge closest to you; try not to roll too tightly. Finish shaping the cylinder as uniformly as possible, seam-side down. Lightly score the roll with the edge of a knife to indicate 12 equal portions."
+} ,{
+"@type": "HowToStep"
+,"text": "Slide a piece of string or floss under the dough, lining it up at the first knife mark. Cross the ends of the string over the top and pull in opposite directions to cut through the dough. Continue with remaining dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer buns into the pan with topping, making 3 rows of 4 buns. If one side of a bun has more dough than another, place with the doughier side up in the pan. Tent the pan loosely with foil and let rise until buns have almost doubled in size, 45 minutes to 1 hour. Save foil in case you need it towards the end of baking time."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until an instant-read thermometer inserted into the center of a bun reaches 200 degrees F (93 degrees C), about 35 minutes. If the tops are getting too browned, loosely tent the pan with foil for the last 5 to 10 minutes of baking time."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/NzcqruDjXavNeEqaF1Y_B7i4Gx0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7804014-ba7a626e92514a06b8839bb7889e4ba3.jpg"
+}
+]
+,"text": "Remove from the oven onto a wire rack and let cool for 5 minutes. Turn pan over carefully onto a serving platter. Use a spoon to transfer any sticky topping that has remained in the pan. Let cool and serve warm or at room temperature."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT185M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hexel"
+},
+"reviewBody": "Absolutely perfect. The dough is tender flavorful and I didn’t find it too difficult to work with. The flavor 0f the sticky and swirl is excellent. This is now my go to sticky bun recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lollysmom"
+},
+"reviewBody": "This recipe is easy to follow and tastes divine! I used walnuts instead since I had on hand and did not roast them. The bread is so soft! Thank you for sharing. I am sure will be making again soon! Also wanted to mention I did not have a bread machine so I went old school set the timer for time suggested and stirred /flipped it with a wooden spoon. I set for 350 for 25 minutes convection oven. Perfect. I poked one with dry spaghetti to test for doneness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dogsbestfriend28"
+},
+"reviewBody": "Difficult to make but so worth it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melanie"
+},
+"reviewBody": "Made this just like it was written, without the pecans though. Really good recipe, although now that I’ve made it once, I would double the sauce next time… and there will be a next time as I got rave reviews from family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Francesca "
+},
+"reviewBody": "i am 25 years old and 3 years ago i couldnt even bake cookies. i made my first batch a year ago of good cookies, and decided to take this challenge on. and let me tell you! these are the best buns ever! i have had multiple people of all ages ask for this recipe. i have made them 3 times and every time they came out perfectly. \nmy suggestion is doubling the glaze and i double the Cinnamon. of course thats just adjusted to my families taste buds. and this recipe doubles as pizza dough!! \ni do everything exactly the same for pizza. and this crust comes out thick and airy! my son hates crust but said MOM now this crust ill eat \ni now follow john and search anything i want to make on his page. he is my go to chef/baker. absolutely astounding. \n10/10!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lauryn B"
+},
+"reviewBody": "Thank you Chef John for another incredible recipe. Best sticky cinnamon buns ever! \n\nI topped with cream cheese icing (8 oz cream cheese, ¼ cup butter, 2 cups confectioners' sugar and 1 tsp vanilla extract)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mutrata"
+},
+"reviewBody": "So amazing hot out of the oven - husband said “it’s the best thing you’ve ever made!”"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cody johnson"
+},
+"reviewBody": "Definitely don't need the full listed amount of flour! the less flour we used the better it turned out. But a fun and great recipe all around :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erin Stratton"
+},
+"reviewBody": "really great recipe and not too difficult! I did all the steps except baking and kept it in the fridge overnight for Christmas morning. so yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Josie Gee"
+},
+"reviewBody": "really yummy, followed instructions exactly except ended up only using 3.5 cups flour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MatyPrp"
+},
+"reviewBody": "Momma wanted these for Christmas morning. I make extra topping and filling for the rolls. Let them rise a little while longer to so they’re nice and fluffy. Thank you Chef John. Merry Christmas!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teresa Amy Castleman"
+},
+"reviewBody": "I have no doubt these would be amazing. My family has to eat gluten free and I’d love to see Chef John put out some GF recipes for baked items like these. I can’t seem to make breads and biscuits work with GF flour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "ann"
+},
+"reviewBody": "The rolls raised nicely and all the flavors were great. I followed the directions. The sticky topping stuck to my pan after waiting the recommended 5 minutes. So I, after dumping the rolls out, heated the pan again and then scooped the topping out and put it on the rolls. I think I’ll reduce wait time to 1 minute next time. The topping got very tough after cooling. I wish the topping would have cooled to a softer consistency."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa in Phoenix"
+},
+"reviewBody": "I’ve made these twice, the 1st time following the directions but the 2nd time, I weighed the flour (thinking I had learned something in these past months of baking bread from scratch). However, the dough was much stickier and they didn’t turn out as nice as when I just measured out the flour. These are really good and will continue to make as Chef John has written."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bruce Kehler"
+},
+"reviewBody": "1st attempt turned out fantastic! I used a glass 9x13, flipped it all over onto the foil used to cover last bit of baking. That really helped in clean up after they were all consumed a few minutes later."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Albert Pollard"
+},
+"reviewBody": "I made the dough by hand, it still came out great. I used walnuts instead of pecans and added raisins."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shirley Moncur"
+},
+"reviewBody": "An excellent recipe. Turned out great. We didn’t have any pecans so we skipped them. We like stronger cinnamon so we doubled the cinnamon in the filling. Even though we only had a glass pan the crust on the bread was crisp and the caramel was chewy and stretched to form Candy like threads. Will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kris"
+},
+"reviewBody": "I followed the recipe exactly except a rounded tsp of cinnamon. I turned oven down to 350 last 8 minutes. \nI’ll make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alyssa Vakulchik"
+},
+"reviewBody": "I wish I had a picture of them post flip.. but this was an AMAZING bun recipe! They were so tender and delicious. Highly recommend."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MattErnst"
+},
+"reviewBody": "We did the \"sticky\" a bit differently, but the dough was per the recipe. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debra"
+},
+"reviewBody": "Yes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "eatsleepSWIM"
+},
+"reviewBody": "amazing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Vera Gauthier"
+},
+"reviewBody": "Sorry Chef John but wasn't crazy about the buns; hubby asked me to go back to the old recipe: his Grandma's. Dough 100 %, sweetness 100%, ease of making and baking, 100%...taste far too bland. But I love 99% of the recipes from you!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robert Ramsay"
+},
+"reviewBody": "Amazing recipe, the trick to this one is patience and time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jayne"
+},
+"reviewBody": "Love this one! It seemed too sticky but it works out just fine.Ive made this twice,second time I halved the dough.One half as recipe directs.The second half,I put butter,garlic powder and parsley flakes for the saucy bottom that becomes the top when flipped.Chedder cheese rolled inside.Awesomeness!Similar to the famous restaurant’s Cheddar Buscuit..Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy Todish Brown"
+},
+"reviewBody": "Loved them everytime. have used bread flour and great results"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ken Slivken"
+},
+"reviewBody": "Excellent. Chef John recipes are always easy to understand and follow. Not having a Stand Mixer- made the dough with a wooden spoon and it still turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Custar"
+},
+"reviewBody": "Chef John , thank you so much for your wonderful recipe! Super Easy and easy to follow with your video. It is so nice to be able to have them in an afternoon...4 hours! I used whole pecans because those who don’t like nuts can pick them off. Also, I doubled the topping! My family loved them. I also made them 1 1/2 inch , measured... got 15 rolls."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Medora Jensen"
+},
+"reviewBody": "We loved them. The dough was really airy. Melted in your mouth. I just used a knife to cut mine and it worked out fine. Unfortunately I don't have a metal 9X13 so I used my metal roasting pan, which is larger, so I made more buns (cut them a little smaller) so they would fill the bottom of my pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "christine"
+},
+"reviewBody": "Will make it again. Used almonds not pecans."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela"
+},
+"reviewBody": "So delicious! I added 1 tsp of vanilla to the dough and they came out amazing! I've already made them twice this month."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "smidgette"
+},
+"reviewBody": "Such an easy recipe and turned out perfect! The only thing I will do different next time is use fewer pecans and double the topping. My family loved them but wanted them even more sticky."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Garrett Beaudoin"
+},
+"reviewBody": "Awesome recipe, easy to follow and make. Turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "???????? ?????"
+},
+"reviewBody": "Something is off with the measurements. 320 g of liquids + butter and egg for 940g of flour. That's low hydration. I put in half the flour and it was almost too much for the cinsistency"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DKblumchen"
+},
+"reviewBody": "Full disclosure: I forgot the egg, and I used half whole wheat flour. Still, despite that, the rolls were delicious! I will say the sticky part was a little too sweet for my tastes, but I think if I used a regular white sugar and cinnamon mix on the inside, it wouldn't be. I will give it a try, next time I make this - and next time, I WON'T forget the egg!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cara"
+},
+"reviewBody": "Definitely will make again. Really good rolls."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SHORECOOK"
+},
+"reviewBody": "YUM! Not being able to leave home due to the corona virus, I decided to spend the day baking. I was low on flour so I halved the recipe. I replaced the pecans with raisins and maraschino cherries that I chopped as that was what I had on hand. I used an 8\" square glass dish. This was another wonderful recipe! Thank you Chef John you never let me down!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "leo"
+},
+"reviewBody": "I had to make it twice, because the first time I used almond flour instead of regular all purpose flour. The second time I made then I used wheat flour because all the All Purpose Flour was sold out everywhere. But in the end. The sticky buns can out victorious. I just substitute somethings because my beautiful wife is vegan. So good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "pomplemousse"
+},
+"reviewBody": "Nice sticky buns. I haven't baked in a while, and this was a good recipe with which to bake again. The dough is very nice; a little tacky, but easily worked with. I used the bread machine to make the dough as I'm a walk away type of baker. The most difficult part of this recipe for me is that my brown sugar was hard so I had to get it out of the container and soften it in the microwave; otherwise, pretty easy. I didn't oil the pan but didn't need to; the topping, which has butter in it, helped the buns come out easily. I didn't even notice until after I baked this, served this, and we ate it that the recipe called for a 375 degree oven. This is where it's handy to know your oven. Mine always bakes bread and sweets (unless it's pizza or baguettes) on 350, so that's what I set it on. Perfectly done at 45 minutes. This is a good recipe, but the dough is a bit plain for us. I'd maybe add vanilla or cinnamon, but we like a tad more flavor. Most people would like this as is, I think. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Walker Higgins"
+},
+"reviewBody": "These were just fantastic. Couple of notes: \n\n* I didn't have a metal pan, so I used a glass one of similar size. The sizes weren't as high as John's, so I had to be extra careful to put some foil on the rack below to catch drippings\n\n*I cut back the sugar in the filling to 1/2 cup, which I personally enjoyed more. \n\n* I used a 50/50 split of peacans and walnuts, which was a-okay. They both became deliciously candied in the oven"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Betty Curran"
+},
+"reviewBody": "Excellent!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ImATurtle.com"
+},
+"reviewBody": "Not bad for a 1sr try. 375F definitely too high for suggested bake time which we shortened by 12 min. The were getting crunchy. We will try again when these are done."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "yunmibaba"
+},
+"reviewBody": "Another awesome recipe Chef John! It’s not too sweet, definitely a must try! It’s really important not to dump all the flour at once, 75% is definitely enough."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sacadosify"
+},
+"reviewBody": "Very tasty. I had one modification while preparing the dough and will make another modification next time. I only needed about 3 1/4 to 3 1/2 cups of flour total and the dough was tacky, but maybe not quite as sticky as Chef John's. I live in a dry climate, so that might make a difference. The dough came out nice and soft after baking. The one thing I would change right away is that I would try using only 1 tablespoon of sugar in the dough next time, since it was a tad too sweet for me. I baked mine in a ceramic dish and it turned out just fine. Thanks for sharing the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eric Berry"
+},
+"reviewBody": "This is a fantastic recipe. I followed the recipe as closely as I could and I’m pretty sure I didn’t do it as well as it could have been done and the results were phenomenal nonetheless. I may have heated the milk and water a little too much in the beginning of the process and stunted the growth of the used a little bit, if that is a thing. I also did not have a suitable metal pan and used stone bakeware. To top it off I somehow made eight rolls instead of 12 and used no pecans. The finished product did not last long enough for a photo to be taken. The whole family love them. Great recipe chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ruby Figueroa"
+},
+"reviewBody": "Did not have pecans and admittedly forgot to butter my glass baking dish, but otherwise these came out deliciously! These are sweet and fluffy and I cannot wait to make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CSal"
+},
+"reviewBody": "These were absolutely amazing! I've never had a sticky bun with such a soft and delicate dough, but it made all the difference! I only had to bake them for about 25 minutes as they were already at 200F. Thank you for another amazingly delicious recipe, Chef John! As my husband said: Chef John did it again!\""
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Hanz F"
+},
+"reviewBody": "first attempt tasted great light and fluffy, added 1/4 cup mashed potatoes into dough"
+}
+]

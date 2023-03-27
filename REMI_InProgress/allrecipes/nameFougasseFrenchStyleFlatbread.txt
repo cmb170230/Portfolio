@@ -1,0 +1,107 @@
+,"name": "Fougasse (French-Style Flatbread)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "203 kcal"
+,"carbohydrateContent": "40 g"
+,"fiberContent": "2 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "483 mg"
+,"fatContent": "2 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT45M"
+,"recipeIngredient": [
+"2 teaspoons olive oil, plus more for brushing",
+"3 cups all-purpose flour",
+"0.333 cup spelt flour",
+"1 teaspoon active dry yeast",
+"2 teaspoons kosher salt",
+"1.5 cups water, at room temperature",
+"1 teaspoon chopped fresh rosemary, or to taste",
+"1 tablespoon cornmeal, or as needed",
+"coarse sea salt to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Grease a large bowl with olive oil."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine all-purpose flour, spelt flour, yeast, and kosher salt in the bowl of a stand mixer fitted with a dough hook. Add water and knead until dough is smooth, elastic, wet, and sticky, about 5 minutes. Transfer dough to the prepared bowl. Cover and let rise on the counter for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Uncover the dough. Wet one hand and grab one side of the dough in the bowl. Pull it up slightly and fold it in towards the center. Repeat this folding technique 6 or 7 more times, turning the bowl slightly in between each fold. Cover and let rest for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Repeat Step 3 (above) two more times. Dough will have rested for a total of 2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Repeat folding technique once more. Cover and place in the refrigerator for 12 to 24 hours. Bake the Fougasse"
+} ,{
+"@type": "HowToStep"
+,"text": "When ready to bake, line a sheet pan with a silicone liner; sprinkle some flour on the liner."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough to a lightly floured surface and pat or press it into an oval shape, flouring lightly as necessary. Cut the oval in half lengthwise into two equal portions."
+} ,{
+"@type": "HowToStep"
+,"text": "Shape fougasse: On one piece of dough, fold one end in over the center third, then fold the other end in over top. Dough should resemble a triangle. Transfer dough to the prepared pan. Repeat with the second piece of dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover both triangles with an oiled piece of plastic wrap and let sit until dough warms up, 30 minutes to 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Line two baking sheets with parchment paper; generously sprinkle cornmeal on the parchment. Remove plastic from the dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer one piece of dough to a lightly floured surface. Sprinkle some flour over top and use a rolling pin and your hands to stretch the triangle until it&#39;s ½- to ¾-inch thick. Sprinkle rosemary over top and press it into the dough. Transfer dough to one of the parchment-lined baking sheets."
+} ,{
+"@type": "HowToStep"
+,"text": "Use a pizza wheel to cut through the dough in a vertical line up the center of the triangle; do not cut through the top and bottom edges. Pull dough apart to spread open the cut."
+} ,{
+"@type": "HowToStep"
+,"text": "Make two more cuts at the top, one on each side from the center going out toward the edge, making sure you don&#39;t cut through the edges. Pull dough gently to spread it out. Make four more cuts, two in the middle, and two at the bottom, and pull dough apart. Make two more small cuts at the bottom. You will have one long cut in the center and 4 going down each side, so the fougasse will resemble a leaf. Cover with oiled plastic wrap and let proof for 30 to 60 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Repeat Steps 6 to 8 (above) to shape and proof the remaining dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove plastic wrap from one fougasse. Brush olive oil over the entire surface and sprinkle with sea salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until beautifully browned, about 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/LT2V23YCRp5CblsibBGxYg-wSBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Fougasse-French-Style-Flatbread-2000-b38e08de8ba743d683b4947b9cff0c32.jpg"
+}
+]
+,"text": "Transfer to a rack to cool. Repeat Steps 11 and 12 (above) to bake remaining fougasse."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT1015M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made this exactly following the recipe. It turned out great. My husband always says my bread is not bready, but he loved this."
+}
+]

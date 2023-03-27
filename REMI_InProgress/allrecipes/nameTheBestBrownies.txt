@@ -1,0 +1,695 @@
+,"name": "The Best Brownies"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "50"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "296 kcal"
+,"carbohydrateContent": "38 g"
+,"cholesterolContent": "68 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "179 mg"
+,"sugarContent": "28 g"
+,"fatContent": "16 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.66666668653488 cup all-purpose flour",
+"0.75 teaspoon kosher salt",
+"3 ounces unsweetened chocolate, chopped",
+"0.5 cup unsalted butter",
+"1.25 cups white sugar",
+"2 large eggs",
+"1 teaspoon pure vanilla extract" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Butter an 8-inch square baking dish or pan, then line with parchment paper if desired to make getting the brownies out easier."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix flour and salt together in a bowl; set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Place chopped chocolate and butter into a heatproof bowl and set over a saucepan with 1 inch of very gently simmering water. When the butter and almost all of the chocolate is melted, stir until smooth. Turn off the heat and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix sugar and eggs in a mixing bowl with an electric hand mixer until very airy, thick, and creamy, about 5 minutes. Mix in vanilla extract, then slowly drizzle in the melted chocolate mixture, while mixing on high speed."
+} ,{
+"@type": "HowToStep"
+,"text": "Dump in the flour mixture and mix on low speed just until the flour disappears. Use a spatula to transfer the batter into the prepared baking dish and spread as evenly as possible."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/FWTBZOtyu8RTOqKb6h78IqDljyg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8954424-03f8024dc5d9452f900ece093e0318e4.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until a toothpick inserted near the center comes out virtually clean, about 30 minutes. Let cool on a wire rack for 15 minutes. Use a spatula to lightly press down the higher parts of the brownie around the edge of the dish. Let cool to room temperature, 20 to 30 minutes, before removing and cutting into 9 pieces."
+} ]
+,"recipeYield": ["9"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ANGELA"
+},
+"reviewBody": "I made this with my daughter for Saint Valentine Day, it is so good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Jeska"
+},
+"reviewBody": "So very fast and easy recipe! Made it for National Brownie day! Excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurie Hudon"
+},
+"reviewBody": "I followed the recipe and video to a T and the brownies look awesome! They taste pretty good too! My batter was slightly thicker than in the the video but didn’t seem to make a difference. I flattened the edges after the “required rest for EXACTLY 15 minutes” (bhahahahah) for uniform brownies. Next time I make them I’ll add nuts or coconut."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I followed the directions exactly, but when it came to the part where it said too add an inch of water to the pot, it was too much water. The mixture was a complete liquid after adding the chocolate and butter, so I added a bunch more flour and some more cocoa powder. I thought it was good so I put it in the oven for 30 minutes when the toothpick came out clean, but the brownies ended up tasting like chocolate cake. Not crispy on the outside, not fudgy in the inside. Just cake. Overall, these aren't \"The Best Brownies\"."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I used 20% less sugar in my recipe, plus I added chopped walnuts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ocean4t"
+},
+"reviewBody": "These are truly the bomb. I made them as written except for adding a handful of chocolate chips. Basic but very good ingredients produce a wonderful brownie. I know no one can wait to taste them, but I promise you, they are sooo much better after fully cooling. Thank you, Chef John, these are worth breaking the Kitchenaid out. :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ilona"
+},
+"reviewBody": "Hahaha... Bite sip with edge dunking... I thought I was the only OCD brownie eater! Hey you guys... this IS the ONLY way, truly enjoy great brownies! (Take it from two chefs ;}) 1) I add some espresso to heighten the chocolate flavor. 2) Use salted butter (sometimes browned with the pecans), less in recipe, sprinkle fleur de sel atop 3) hand beat in flour I'm afraid, vewy afwaid to beat the flour. 4) I butter and either sugar or cocoa \"flour\" for ease of release. 5) Pecans... butter and salt toasted The rest is great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jules"
+},
+"reviewBody": "A week ago there were so many reviews and they have all disappeared except for the pictures! What gives? These are great brownies and the comments were useful! Doubled recipe on 4th try. Cut back butter and sugar. Added espresso powder. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mrs. Jones"
+},
+"reviewBody": "Seriously the best brownies! They have consistently become my favorite. I didn't have bakers chocolate. So I used 1/2 cup plus 1 tbsp cocoa powder and 3 tbsp butter. This beats ANY pre-made mix."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nathan Borowy"
+},
+"reviewBody": "I'm actually making this again this morning (albeit modified) because I enjoyed how these came out the first time. I have read a couple reviews that these were too sweet, but I was originally worried the cacao would be overbearing for my elementary schooler. In reality, the awesome tones of the cacao are in there, along with chewy goodness and sweetness - this is a good recipe. I'm holding out on five stars because my review is coming a few weeks after attempt #1, and I'm not ready to commit my old man brains to a five star yet. I'll update my rating when I realize the error of my ways.\n\nAnd for those wondering, review based on following recipe as is. Today I'm doing something doomed for failure with coffee, and hopefully chef John's base recipe will save my experiments from total catastrophe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sara ayoub"
+},
+"reviewBody": "Absolutely delicious not only on the first day but on all the days that it lasted ! \nGreat recipe \nI did reduce a little the sugar to my taste \nThank you Chef John my daughter and I will be doing it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Catherine D. Hildebrand"
+},
+"reviewBody": "Best Brownie So Far\n\nFor several years I have been looking for and trying recipes for brownies. Ever since Lady Lee brownies disappeared from Lucky's Supermarket, I've been unhappy with all brownies. \n\nI don't know why it didn't occur to me before to try Chef John's recipe. I love almost everything I try of his.\n\nWell, he didn't disappoint. They aren't Lady Lee, but they are as close as I've been so far. We loved them. They were crisp on the outside, chewy on the edges, and gooey on the inside. We loved them. \n\nThanks, Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Owen"
+},
+"reviewBody": "I used half white and half brown sugar because that's all I had. I added some 66% and 72% bars that were gifts. I was afraid of the excess sugar and forgot to use less, or add more cocoa powder to offset the extra sugar and fat in the bars. They still came out like Chef John said they would- crispy on the outside and chewy on the inside. I doubled the recipe and needed an hour plus of baking time using a big toaster oven. I used a deeper 8x13 glass dish. There weren't any excess sugar crystals. Whipping the batter to get the air inside made the difference. I would try it with some mint chocolate and nuts in them next time and offset some of the sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Emily"
+},
+"reviewBody": "I’m so sorry Chef John, but these brownies are not good! The texture is exactly as he describes, chewy edges, soft center, but they taste entirely of sugar. There’s also not a lot of chocolate flavor, which is really disappointing. The after taste is the worst part — It makes me feel like I just downed a tablespoon of pure sugar. He suggests a glass of milk, which I think would help a lot, but I also think they should be edible on their own! I’ve tried to give them to 2 different people and they both say they’re just too sweet. I’d be curious to see how these come out with half the sugar and way more chocolate, so maybe give that a go if you try this recipe out.\n\nI love Chef John’s videos, though! And I can’t deny that they look really pretty when they’re plated up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bub"
+},
+"reviewBody": "Amount tip: Bakers chocolate bar comes in a 4 ounce size so I increased the recipe amounts to use the whole bar. It still fit in the square glass Pyrex dish.\nSecond: I put the bar of chocolate box and all into a quart freezer bag and smashed with a hammer on the concrete patio. This is way easier than cutting with a knife."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "AREENA"
+},
+"reviewBody": "I added 1/2 cup of walnut pieces and these turned out very good. I had undissolved granules of sugar and kosher salt, but I didn't mind that too much. I had a junior helper who didn't have patience for whipping the egg and sugar mixture long enough; next time I'll manage that process myself so the sugar dissolves and we get a bit more lift. The kid and I enjoyed the brownies immensely so no harm done"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sunshinedelights"
+},
+"reviewBody": "The best brownies indeed! I couldn't have access to a unsweetened 100% cacao chocolate but my 85% bar worked amazing, if you don't want to do math to get it right and subtracting the last 1/4 cup of sugar or even less would do the trick. I totally sold with this recipe, great flavour, great texture and super easy to make. If you haven't found a brownie that meets your expectations give this one a try."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kary Snell"
+},
+"reviewBody": "I'm making these for the second time right now because they are SO GOOD. They really are the best brownies--vouch. Honestly, there's no recipe by Chef John that isn't the best."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cosmo"
+},
+"reviewBody": "I’m a big fan of chef John and I have made many of his recipes posted here on all recipes.com but also food wishes. I’ve read some of the reviews of the brownies and being too sweet? I didn’t have that experience just the opposite. I thought that they were just the right sweetness and I even made a mistake in such a hurry to make the recipe that I forgot vanilla ingredient! To no avail the brownies still were delicious. One change that I would make next time is to actually use high-quality non-sweetened chocolate. I only had dry cocoa to use it still turned out just fine. I will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ekarmst"
+},
+"reviewBody": "These turned out exactly like the video. I followed the recommendations and I did use 100% cacao Ghirardelli chocolate. For me it was just a touch too bitter. Next time I will use a 68-72% cacao chocolate. Yes, I will be making these again. Crispy top, moist interior, with a great chew. 25 minutes is plenty of bake time. Recommend."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rose"
+},
+"reviewBody": "Delicious I'll be making it again! Doubled the batch and I'm glad I did... what a great recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Misener"
+},
+"reviewBody": "Delicious. They barely lasted two days as we could just not stop eating them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Gweb8"
+},
+"reviewBody": "Very good. I’d like recipes that will suit an 8 x 8 pan, So this works. Basic techniques yield a very good product. But, not the best as the big boy proclaims. I think next time I’ll go with 70% cacao. That is; unless I make Brooks bombshell brownies instead LOL:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hynes1974"
+},
+"reviewBody": "Yummy!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Sam Irrel"
+},
+"reviewBody": "These brownies were WAAY too sweet! I have no idea how so many enjoyed it, it's disgustingly sweet, I used 250 grams of sugar as John asked and it was SOOOO SWEET! I couldn't finish one without chugging down a whole glass of milk, the texture was excellent but I just wasted an hour making extremely sweet brownies, next time I'll halve the amount."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen"
+},
+"reviewBody": "These are the best brownies I’ve ever made, and I’ve tried dozens of recipes! SO happy to finally have a fantastic and delicious recipe for brownies!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "yumyum"
+},
+"reviewBody": "I’m soooo sorry. I usually absolutely love every recipe Chef John has shared with us (and I have cooked tons of his dishes), but these were insanely too sweet in my opinion (and I love sugar sadly) and we kept biting into undissolved salt crystals which was a total turn off. (He said to use kosher salt and most of the crystals didn’t dissolve.) I will never make this recipe again and am still on the hunt for the perfect brownie recipe that has nuts! I think nuts helps cut the sweetness in general."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julia La"
+},
+"reviewBody": "When this video was uploaded on YouTube I sent the link to my husband and said...i'm going to make this bc it looked so easy. And it was! Simple steps, no fancy ingredients I had to go buy and the perfect size for toaster oven. The bonus is how it satisfied my pregnant sweet tooth...so good! Perfect timing for this recipe release!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Veronica Karrer"
+},
+"reviewBody": "These are AMAZING. Just make these exactly as written and eat with a glass of milk. The center is gooey and the outside is crispy. So perfect. I ate too much. Thanks Chef John, you have been my go to guy for 10+ years. You are basically part of the family :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason"
+},
+"reviewBody": "Alright, CJ. I made the recipe as is. The verdict: exceptional!\n\nCrusty on the outside, fudgy on the inside , and crustiness where the batter touched the pan edge. Superb!\n\nI made a second batch where the middle was undercooked - even BETTER!! I had that with homemade vanilla and homemade hot fudge sauce!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy"
+},
+"reviewBody": "Chef.....followed your recipe exactly for the perfect brownie...ice cold milk, the brownie.....I was like.......this. is. perfect. My family agreed and I've made them 3 times now. Thank you for your delicious recipes and your humor in your videos is contagious and appreciated. Keep ' em coming!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Francesca Roberts"
+},
+"reviewBody": "Great recipe! Easy to follow and taste delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "K. Robb"
+},
+"reviewBody": "This is exactly like the recipe my mom used to make for brownies. They are chewy and chocolatey and amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "kej"
+},
+"reviewBody": "This recipe wasn’t my favorite because it was much too sweet, masking the chocolate. \n\nThe only change was the type of mixer I used. I have a stand mixer which took much less time beating the eggs and sugar and making it necessary to fold in the flour by hand."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "James Gerace"
+},
+"reviewBody": "I follow John’s YouTube channel and the video for this recipe ness posted while I was browsing. Watched it and realized I’d never made brownies from scratch before. Now I’ll never go back to the boxed stuff. These were just outstanding and truly are “the holy trinity” of brownies. \nSpeaking as an infrequent baker, these were very easy to put together too. If I can’t screw them up then you’d have to try pretty hard to do so!\nThanks so much Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ttran"
+},
+"reviewBody": "Thank you Chef John for simple but yummy recipe! For the chocolate, I bought a bar of Ghiradelli's 100% unsweeted chocolate bar from the baking aisle. It's 4 oz, an ounce more than the recommended, but I put the whole thing in anyways, plus half a cup of walnuts, and used a 9-inch dutch oven. It turned out sooo crispy and chocolately that I had to make an account here to leave my review and photo to encourage you all to try it! This will be my go-to brownie recipe from now on. So delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lance Fulton"
+},
+"reviewBody": "Excellent and addictive. I used a stand mixer, doubled the recipe for a 13x9, and used a microwave to melt 2 sticks of butter and 6 ounces of Baker's 100% (unchopped, just broken-up) 30 seconds at a time in a pourable Pyrex. Mixed the salt in with the melted chocolate, I didn't want a lot of dishes. I cooked them for about 38 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tony"
+},
+"reviewBody": "These are great - top crust is really puffy and tasty, almost like a meringue. Has a good mix of fudgy and cakey textures throughout."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marilyn Ohl"
+},
+"reviewBody": "These brownies are in fact “The Best.” Definitely fudgey in the middle and super chewy on the edges, my favorite part. Recipe is easy to follow and didn’t take long. We sprinkled peanut butter chips on the top before baking!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa"
+},
+"reviewBody": "I'm making these again today because they are the best dang brownie! I've even added caramel a few times to them! My family loves them so much! We love all your recipes! Making your pot roast along with the brownies! The best! Thank you Chef!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Randi"
+},
+"reviewBody": "Amazing! Chef John is so right when everyone just undercooks their brownies and calls them \"fudgy\". Now these are fudgy!\n\nI only had salted butter, so I reduced the salt amount only a smidge as I prefer the saltiness paired with chocolate. Best brownies I've ever made! Thanks Chef John (making the honey garlic shrimp this week)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "eileen"
+},
+"reviewBody": "They are truly the best! Perfect texture and taste. Chef John never fails to deliver great recipes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TheSugarBakers"
+},
+"reviewBody": "Holy Moly, Chef John! I only created an account to tell you how amazing this recipe is! I followed your video, and they turned out perfect. Really easy to make. They truly are the BEST Brownies, and my new potluck dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fatih Ilhan"
+},
+"reviewBody": "I made some minor mistakes but still it turned out pretty good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Robert Glover"
+},
+"reviewBody": "Made this recipe tonight.\n\nI found I had to bake them about 50 minutes to get them to the point the toothpick came out clean (I.e. batter is fully cooked).\n\nTexture is AS ADVERTISED, and frankly, PERFECT - Crispy/crunchy top. Fudgy center. Chewy edge. Exactly how I want a brownie to be.\n\nMy complaint is that they are not chocolatey enough. I want them to be VERY chocolatey, and I didn’t feel these were enough for me. I want them a little sweeter AND chocolatier. That being said, these are good, but I need to find a way to get them even more chocolatey."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lauryn B"
+},
+"reviewBody": "Another awesome recipe by Chef John. Will be my go to brownie recipe!\n\nI've made these 4 times now and I found ¾ tsp coarse kosher salt to be too salty so if using coarse kosher salt, I would use ¼-½ tsp instead. If using regular table salt, ¾ tsp is the perfect amount."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon Pickell"
+},
+"reviewBody": "Turned out great! I used Cocoa powder, didn’t have any baking chocolate on hand. Had to bake it a bout 40 minutes total to make sure it was done. Turned out perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mariam Essa"
+},
+"reviewBody": "These brownies turned out delicious and the perfect texture! I've been planning to make brownies for a few days now so was excited to see that Chef John posted a recipe! I wouldn't normally do all the steps suggested in a recipe or use as many bowls, but I did in this case and I am glad I did, plus our home now smells amazing as a side bonus. I used 1 cup sugar instead of 1 1/4 cup, and used a stand mixer instead of handheld - kept everything else the same.\n\nMy husband and I follow a lot of your recipes and have loved every single one so far! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jocelyn Welch"
+},
+"reviewBody": "They're delicious, but I did find that for some reason the cook time needed about twice as long as the recipe expressed. I was still dipping the knife into raw batter well into 55 minutes of baking. The only alteration I made was adding a small scoop of mini chocolate chips, nothing that should have made the time difference that large."
+}
+]

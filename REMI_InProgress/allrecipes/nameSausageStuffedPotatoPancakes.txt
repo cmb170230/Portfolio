@@ -1,0 +1,72 @@
+,"name": "Sausage-Stuffed Potato Pancakes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3",
+"ratingCount": "1"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "242 kcal"
+,"carbohydrateContent": "23 g"
+,"cholesterolContent": "45 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "590 mg"
+,"sugarContent": "1 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"6 ounces Italian sausage links, casings removed",
+"1.5 pounds russet potatoes, peeled",
+"1 teaspoon kosher salt",
+"0.5 teaspoon freshly ground black pepper",
+"1 pinch cayenne pepper",
+"2 tablespoons all-purpose flour",
+"1 large egg, beaten",
+"2.5 tablespoons vegetable oil",
+"2 tablespoons diced roasted red peppers",
+"3 tablespoons sour cream, or to taste",
+"1 tablespoon chopped fresh chives, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Divide sausage into 6 equal pieces, and press between plastic wrap to flatten into discs about 2 1/2 inches round and about 1/8 inch thick. Keep in the refrigerator until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Grate potatoes and transfer into a large bowl of cold water. Stir the grated potatoes with your hand for a few seconds, and then drain the potatoes in a strainer. Using your hands and/or a towel, squeeze out as much water as possible."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer the potatoes to a mixing bowl. Add salt, black pepper, cayenne, flour, and egg; mix thoroughly."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in large nonstick pan over medium-high heat. For each pancake, place down about 3 tablespoons of the potato mixture. Reduce heat to medium; top each pancake with a sausage patty, pressing it down lightly into the surface. Top each sausage patty with another heaping tablespoon of potato mixture and spread over the top until the sausage is covered. Flatten down with a spoon or spatula."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/i6aFdI1eGi-MM2afqomhYQlxRGg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-237-e6011752787c4c2a8f3f14a974c0dbfd.jpg"
+}
+]
+,"text": "Cook the first side until very well browned, about 5 minutes. Flip and cook the other side until browned, the sausage is no longer pink, and potatoes are tender, about 5 minutes more. Serve with diced roasted red peppers, sour cream, and fresh chives."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "G.S."
+},
+"reviewBody": "Excellent hashbrown recipe! Sadly I did not love the sausage stuffing, the textural contrast didn't work for me. I'll be making the hashbrown recipe again, but I'll be cooking my sausage patties alongside next time - and then making a stack with runny eggs and cheese!"
+}
+]

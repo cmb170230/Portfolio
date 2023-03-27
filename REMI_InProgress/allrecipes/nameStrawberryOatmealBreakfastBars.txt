@@ -1,0 +1,572 @@
+,"name": "Strawberry Oatmeal Breakfast Bars"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "48"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "299 kcal"
+,"carbohydrateContent": "44 g"
+,"cholesterolContent": "31 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "128 mg"
+,"sugarContent": "20 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 pound fresh strawberries",
+"0.5 lemon, juiced",
+"2 tablespoons white sugar",
+"2 teaspoons cornstarch",
+"1.5 cups old-fashioned rolled oats",
+"0.5 cup all-purpose flour",
+"0.5 cup whole wheat flour",
+"0.5 cup packed light brown sugar",
+"0.5 teaspoon kosher salt",
+"0.25 teaspoon ground ginger",
+"8 tablespoons unsalted butter, melted" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Butter a 9x12-inch baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove the green tops from strawberries using the tip of small, sharp knife or strawberry huller. Place the berries cut-side down on a work surface and cut in half. Slice each half lengthwise 3 to 5 times before turning and cutting across in a nice, uniform dice."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine diced strawberries, lemon juice, sugar, and cornstarch in a mixing bowl and stir until thoroughly combined and the cornstarch disappears. Set aside until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine oats, all-purpose flour, whole wheat flour, brown sugar, salt, and ginger in a mixing bowl. Pour in melted butter and stir thoroughly until dry ingredients are evenly coated."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer 60% of the oatmeal mixture into the prepared baking dish and spread out into an even layer. Press the mixture down with the back of a spoon or spatula to compress slightly."
+} ,{
+"@type": "HowToStep"
+,"text": "Place strawberries over the top using a slotted spoon. Do not press down. Reserve any accumulated juices in the bowl. Top with remaining oatmeal mixture and press down lightly with the back of a spoon or spatula. Drizzle reserved juices on top."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/7QcSCVAtmFZKEf7m4-MF9ng-o7M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8148469-strawberry-oatmeal-breakfast-bars-Chef-John-1x1-1-28f5a703714e492aa4276782943eea3b.jpg"
+}
+]
+,"text": "Bake in the preheated oven until the top is golden brown, about 45 minutes. Press the top down with a spatula to compress slightly. Let cool completely, about 1 hour. Cut into bars and serve."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT120M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bob"
+},
+"reviewBody": "Made an Apricot jam out of dried apricots for this. Yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NanC"
+},
+"reviewBody": "Wonderful! Not too sweet"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Amazing! Added some lemon zest So fresh tasting and delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mr Bill"
+},
+"reviewBody": "Kind of a cheater review because I didn't use strawberries. Someone ate them. BUT I did have some homemade fig jam and some apricot and orange preserves. So I put them in instead of the strawberries. And. My hungry baker sorts... it was delicious. So don't be afraid to punt. Put jam or conserves or whatever you have. Mine came out like a superlative oatmeal cookie crisp. Vanilla ice cream would have been fab. Someone ate that to. Me. But I didn't eat the berries. Not all of them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Celine"
+},
+"reviewBody": "I used instant oats, but next time will used regular oats. Also will add a little vanilla next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie"
+},
+"reviewBody": "Buttery deliciousness!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kenzie"
+},
+"reviewBody": "I made as written for my son (I'm not a fan of oats) and he said they are fantastic. He ate all of them in two days!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ryantucker1986"
+},
+"reviewBody": "Does Chef John ever miss? I think not. These breakfast bars are great. It's just the right amount of sweet mixed with the crunchy oats."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer"
+},
+"reviewBody": "So good!!!! Finally found a good recipe to replace the unhealthy nutrigrain bars my kids always want to eat. The second time I made these, I didn't have fresh strawberries so used jam instead and still amazing. Now I'm thinking of all the flavor variations you could do with this recipe. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AMHMC"
+},
+"reviewBody": "So great-I forgot the salt-def needed but these were great and fairly healthy. Next time will try adding rhubarb or blueberries as I think they would be even better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jamie Geis"
+},
+"reviewBody": "Love These! I make them with frozen blueberries and my family loves them. I also swap the AP flour for almond flour for a bit more fiber/protein and have made with GF flour for a friend."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Teri"
+},
+"reviewBody": "I used frozen mixed fruit with good results. Next time I will make more of the oatmeal mix to make a thicker bar and add a little less sugar. This is very good. Thanks for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nic"
+},
+"reviewBody": "LOVED these bars. I used the tip and made another batch with a smaller pan so the bars would be thicker and I definitely preferred that. More filling and less crumbly that way."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Graeme"
+},
+"reviewBody": "Epic tasty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Waddle"
+},
+"reviewBody": "Very good I used my 9 x 9 pan"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jamie Meilicke"
+},
+"reviewBody": "Absolutely amazing and so easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Henry"
+},
+"reviewBody": "I made these as written and they turned out as promised. I’m wrapping them individually for the grandkids’ lunches. Refrigeration makes a difference for ease of cutting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sagk22"
+},
+"reviewBody": "This was SO good!! I did not have wheat flour so used all white flour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "loves2cook"
+},
+"reviewBody": "These turned out fantastic! I forgot to spread 60% on the bottom and 40% on the top, it was more like 50, 50. but it still turned out great. I stressed about getting the first one out, but lo and behold it popped right out after it was cooled completely. I used my steel bench scraper, it has a very sharp edge, to cut and pop them out. I also used my 7 x 11 baking dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "anniering13"
+},
+"reviewBody": "The strawberry bars were a crowd pleaser for my family. They tasted delicous! The only thing I would change would be that I wouldn't put it in for so long, some of the strawberry's got burnt. Also be generous on the dry ingrediants."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hstabnow"
+},
+"reviewBody": "Made per recipe the first time, have made four times since, used less sugar, also substituted frozen berries and other kinds of berries, it has all been excellent. Have also done almond flour instead of wheat flour and turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie McCartney"
+},
+"reviewBody": "I make it in 8x8 pan. It seems to be better than what Chef John suggests."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shink"
+},
+"reviewBody": "Really tasty, and not too sweet (definitely more of a breakfast bar than a dessert). I used margarine instead of butter since that's all I had on hand, they came out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "frmncrr"
+},
+"reviewBody": "I didn't have any lemons so I had to substitute bottled lemon juice. Other than that I followed the recipe exactly. These bars aren't too sweet or too tart. They are a bit crumbly but other than that they're very good. I'll definitely consider making them again next year during strawberry season."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tashagang"
+},
+"reviewBody": "This may be the perfect grab and go breakfast. Fast and easy to make and tastes great. I'll be experimenting with other fruits. Thanks Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly"
+},
+"reviewBody": "So good! I made zero changes, other than going a tad light on the sugar on the strawberries. I wasn't sure how the ginger would work, but seriously, these bars are tasty and healthier than many alternatives."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dallas Dan"
+},
+"reviewBody": "Baked in an 8x8 pan and added 5 minutes to bake time. Used coconut oil instead of butter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Sisario"
+},
+"reviewBody": "Easy to make and REALLY GOOD"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janice D."
+},
+"reviewBody": "This is a great recipe. Everyone enjoyed it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Zelda"
+},
+"reviewBody": "I put off making this for like a solid week. When i finally made it, it was so easy i wondered why i put it off so long. \nSo, the main thing, i forgot brown sugar so the only sweetener was probably less than a 1/4 sugar in the strawberries. And honestly? Pretty good. My strawberries were very tart but i only missed the sweetness a little.\nI also made this in a 7x11 pan for thicker bars are i personally feel like that was a good choice.\nI also browned my butter a bit instead of just melting it.\nI also ate a piece warm and was dying to slap a scoop of ice cream on it cause it would have been perfect. But it was still a solid snacc to eat on its own, very enjoyable."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Francie"
+},
+"reviewBody": "I wish I had made this in an 8x8 so the bars were a little thicker. We enjoyed these and I would definitely make them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "James Colley"
+},
+"reviewBody": "I made this exactly per the recipe, which is what I like to do the first time so I don't screw it up with my own spin on it LOL. Everyone loved it, they were gone in no time. I'm thinking of future incarnations with blueberries, maybe apple pie filling, and a strawberry-rhubarb version if I can ever get my hands on some rhubarb. Thanks Chef John! You're the Kevin Hart of my homemade Pop Tart!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ad Muniz"
+},
+"reviewBody": "I like! A lot! Didn’t have lemons so sub lime juice!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherlock Ward"
+},
+"reviewBody": "Only change I made was using a lime instead of a lemon (the lemon was left behind in grocery sorting.This recipe turned out extremely well. My old oven made the very very edges a little too crispy but the rest is A-ok. Definitely will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lobo"
+},
+"reviewBody": "This is fantastic! Very easy to make and just perfect for breakfast. Thank you, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "stampedbym"
+},
+"reviewBody": "So good! I made this with using only all purpose flour since that’s what I had on hand. One of these bars with my morning coffee was just perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Olivia Villaronga"
+},
+"reviewBody": "This is so good!! I did reduce the sugar a bit and it was still great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Scott Waun"
+},
+"reviewBody": "Turned out great. Didn’t have lemons on hand so made with lime juice and it was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Scanich"
+},
+"reviewBody": "After watching Chef John's video last night I knew what we were making for breakfast today. I didn't make any changes except to use frozen strawberries. My 3 kids loved it and ate half the 9x13 by themselves. They requested we try apples next time. This one is a keeper!"
+}
+]

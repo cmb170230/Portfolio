@@ -1,0 +1,106 @@
+,"name": "Sesame Seared Tuna and Sushi Bar Spinach Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "593 kcal"
+,"carbohydrateContent": "20 g"
+,"cholesterolContent": "74 mg"
+,"fiberContent": "6 g"
+,"proteinContent": "42 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "1167 mg"
+,"sugarContent": "8 g"
+,"fatContent": "40 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.5 pound baby spinach leaves",
+"3 tablespoons white sesame seeds",
+"1 tablespoon white sugar",
+"1 tablespoon soy sauce, or to taste",
+"0.5 teaspoon mirin",
+"0.25 cup mayonnaise",
+"2 teaspoons white miso paste",
+"1 tablespoon seasoned rice vinegar",
+"2 (5 ounce) sushi-grade ahi tuna steaks",
+"salt to taste",
+"2 tablespoons black sesame seeds",
+"2 teaspoons vegetable oil",
+"1 tablespoon prepared ponzu sauce" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place spinach in a dry pot set over medium-high heat and cook, stirring, until it just begins to wilt, 1 to 2 minutes. Transfer into a strainer to cool."
+} ,{
+"@type": "HowToStep"
+,"text": "While spinach cools, toast white sesame seeds in a dry pan over medium heat until light golden brown. Transfer into a mortar and pestle and crush into a very coarse paste, leaving some seeds whole. Add white sugar, soy sauce, and mirin. Stir with a wooden spoon to combine and reserve."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer cooled spinach to a towel and squeeze out any excess liquid. Chop roughly and add to a mixing bowl. Add the dressing and mix well. Cover and chill thoroughly before serving."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix mayonnaise, miso paste, and rice vinegar together for miso mayo sauce. Place in the refrigerator until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Lightly salt tuna steaks, and then coat all sides well with as many sesame seeds as you like, pressing them lightly as you do."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush a nonstick pan with oil and place over medium heat. Sear tuna steaks in the hot pan for 30 to 45 seconds on each side, as well as each edges."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/2kHhv_KRFQr4NmTYRFGF0Spp3KY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9074322-07e80fc01dc4471c8e3c73e91c51e031.jpg"
+}
+]
+,"text": "Slice and place tuna over the miso sauce. Brush tuna with ponzu and serve with spinach salad on the side."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason Alix"
+},
+"reviewBody": "Amazing recipe! So very close to the real thing. The seaweed salad is spectacular!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bill B"
+},
+"reviewBody": "This is amazing, CJ! I have had this in restaurants but never tried it. Comes together beautifully. Especially good because it can be prepped in advance and finished to raves in a few minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Murphy"
+},
+"reviewBody": "Are you kidding me with how good this is? Subtle flavors play and come together beautifully; sweet savory notes from the spinach + sesame dressing, meaty + tangy from the sushi-grade tuna + ponzu, rounded out by a creamy, tangy miso mayo aioli to balance the leanness of the dish with a bit of fat. \n\nI added koshihikari rice to the meal to make it a bit more filling, but otherwise I wouldn't change anything about this meal. Definitely spring for a block of sashimi-grade tuna if you can find it, there are so few ingredients and the preparation is so uncomplicated that you won't be able to mask lesser-quality fish."
+}
+]

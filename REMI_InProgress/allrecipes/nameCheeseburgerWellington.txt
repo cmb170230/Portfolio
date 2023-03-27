@@ -1,0 +1,102 @@
+,"name": "Cheeseburger Wellington"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "935 kcal"
+,"carbohydrateContent": "39 g"
+,"cholesterolContent": "204 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "31 g"
+,"saturatedFatContent": "24 g"
+,"sodiumContent": "460 mg"
+,"fatContent": "72 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"6 ounces frozen puff pastry",
+"1 slice bacon, cut in half",
+"8 ounces ground beef",
+"salt and freshly ground black pepper to taste",
+"cayenne pepper to taste",
+"0.5 ounce sharp Cheddar cheese",
+"1 large egg" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place bacon in a large cold skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels. Drain bacon fat and wipe the pan, but do not clean completely."
+} ,{
+"@type": "HowToStep"
+,"text": "Shape ground beef into a patty that is about 1 inch thick by 4 1/4 inches in diameter. Season well with salt, pepper, and cayenne. Sear seasoned burger on high in the skillet for 2 minutes per side. Move the burger to a plate and transfer into a refrigerator to cool."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove a sheet of puff pastry from the freezer (I used 1/2 package of Dufour Puff Pastry). Roll the pastry to 1/8 inch thick. Cut out a 5 1/4 to 5 1/2 inch round circle of dough for the bottom. Cut out a 7 1/4 to 7 1/2-inch round circle of dough for the top. Place the dough on a sheet pan, and put in the freezer until firm."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut a small hole into the middle of the top piece (to function as a vent), and lightly score the surface of the pastry with the tip of a knife, but do not cut all the way through. Place the top piece in the fridge to keep cold."
+} ,{
+"@type": "HowToStep"
+,"text": "Take the bottom pastry on the pan from the freezer and top with burger, bacon, and cheese. Beat egg with 1 teaspoon water in a small bowl and brush the edges with the egg wash. Place the top pastry piece over the fillings. As dough warms and softens, press the top edges into the bottom piece edges and seal tightly. The bottom edge of dough can be rolled up and over top of the pastry to finish the seal. Place in the fridge until well chilled, about 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Crimp the edge of the pastry with a fork, and egg wash the top surface."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/MVIa6_Q1qQSEDuqfExNZTRU4oR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cheeseburger-Wellington-1x1-1-fe648b4475704d5db8180c56df57614b.jpg"
+}
+]
+,"text": "Bake in the preheated oven until nicely browned, 20 to 22 minutes. Transfer to a cooling rack and allow to sit for about 5 minutes before serving."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT105M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made this with ground bison instead of beef and sliced emmental cheese instead of cheddar to make it more of a treat; it came out beautifully! Definitely more work than I want to put in for a regular weeknight or even weekend meal, but much less than a true beef wellington. Great for special occasions!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Delicious! Made one with bacon and one without. I think the cheese might have fused with the puff pastry? I tasted it but couldn't see it anywhere. Thanks for the easy-to-follow recipe and video!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "I made this last night for dinner, it was so fun to make and looked gorgeous! I made two of these, one beef and bacon, the other a meat alternative, both worked out really well. I seasoned up the meat how we like it, and for fun, added pickles. I think next time I'll add sauteed onions and use slices of cheese because the shredded left a little empty cavity on the top of the burger after the cheese melted. I have only worked with puff pastry a few times, definitely remove it from the pan while cooling. By the time we were done with dinner, the remainders were nicely darkened on the bottoms. Thank you, Chef for another great dinner!"
+}
+]

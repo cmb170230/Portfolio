@@ -1,0 +1,129 @@
+,"name": "Pumpkin Seed-Crusted Pork Tenderloin Roast"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "5"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "545 kcal"
+,"carbohydrateContent": "12 g"
+,"cholesterolContent": "156 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "50 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "2313 mg"
+,"sugarContent": "6 g"
+,"fatContent": "33 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 (1 1/4 pound) pork tenderloin, trimmed",
+"1.5 teaspoons kosher salt",
+"freshly ground black pepper to taste",
+"1 pinch cayenne pepper, or to taste",
+"2 teaspoons vegetable oil",
+"1 tablespoon Dijon mustard",
+"2 teaspoons maple syrup",
+"0.25 teaspoon ground cumin",
+"0.33333334326744 cup finely chopped pumpkin seeds",
+"1 cup chicken broth, divided",
+"2 tablespoons rice vinegar",
+"2 teaspoons balsamic vinegar",
+"2 tablespoons unsalted butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C). Season pork with salt, freshly ground black pepper, and cayenne."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat vegetable oil in an oven-proof pan over high heat. Sear pork in the hot oil until well-browned on all sides. Turn off the heat, and transfer to a plate."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix mustard, maple syrup, and cumin together in a small bowl. Use a spoon to spread mustard mixture all over the surface of the pork, getting as thick a layer as possible."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer the pumpkin seeds on top of the mustard mixture in a thick layer, and lightly press down into the surface. Press pumpkin seeds into the sides as well."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer pork back into the pan and add 1/2 cup of broth."
+} ,{
+"@type": "HowToStep"
+,"text": "Roast in the preheated oven until pork is slightly pink in the center, about 20 minutes. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C). Remove pork to a plate and cover loosely with foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the same pan back over medium-high heat and add remaining 1/2 cup of broth, rice vinegar, and balsamic vinegar. Stir with a spoon and bring to a boil."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook until liquid has reduced by half, about 1 minute. Turn off the heat and stir in butter. Taste for seasoning and serve over sliced pork."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LakeGirl"
+},
+"reviewBody": "I tried this recipe with both pork and chicken, and it was wonderful either way! It's a perfect fall recipe, nice on a chilly evening served with mashed potatoes and bourbon glazed carrots. Another Chef John masterpiece!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "almichael"
+},
+"reviewBody": "Easy and a nice flavor. Could be a good week night meal. We made bourbon glazed carrots to go along with it. We will definitely be making again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gail_B"
+},
+"reviewBody": "So So yummy! Pay attention and use 20 minutes. I set two timers (mistakenly) - one was for 20, the other for 22. Twenty-two minutes was Just a hair too long."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "zippity"
+},
+"reviewBody": "Another perfect recipe and the best pork tenderloin I ever eaten. Notice he sticks the pumpkin seeds with a combination of dijon, maple syrup and cumin, and it is even more tasty than you can imagine.\nPlus, notice the final cooking only takes 20 min."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aly Sullivan"
+},
+"reviewBody": "Chef John has never let me down. Literally, never. Ever single one of his recipes I have tried is 5 stars. \n\nSubstituted the maple syrup for honey (because that’s what I had) and had to adjust my time for a larger roast but this was the best roast I have ever made. Perfect combination of spicy, sweet and savory with a nice crunch from the pumpkin seeds. Give it a try!"
+}
+]

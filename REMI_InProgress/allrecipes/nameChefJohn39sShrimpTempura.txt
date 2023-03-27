@@ -1,0 +1,85 @@
+,"name": "Chef John&#39;s Shrimp Tempura"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "170 kcal"
+,"carbohydrateContent": "19 g"
+,"cholesterolContent": "96 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "15 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "1381 mg"
+,"fatContent": "1 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"12 large shrimp, peeled and deveined",
+"canola oil for frying",
+"0.25 cup self-rising flour",
+"0.25 cup potato starch",
+"0.5 teaspoon kosher salt",
+"1 pinch cayenne pepper",
+"0.5 cup cold sparkling water",
+"0.5 cup prepared dashi stock",
+"0.25 cup mirin",
+"0.25 cup soy sauce",
+"1 pinch white sugar, or to taste",
+"grated daikon radish" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Dry peeled and deveined shrimp on paper towels. Flip each shrimp over and make shallow cuts through to make sure they won&#39;t curl up when frying. Refrigerate until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a deep fryer to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine self-rising flour, potato starch, salt, and cayenne in a bowl with a whisk. Add cold water and whisk until flour disappears and a crepe-like batter is achieved. Coat shrimp in batter."
+} ,{
+"@type": "HowToStep"
+,"text": "Fry shrimp in small batches, no more than 6 at a time, making sure they don&#39;t stick together, until golden brown and crisp, about 3 minutes. Drain on paper towels."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/uuxnkGfDfdWmZ7V_8SECaZ5BTLE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1Chef-Johns-Shrimp-Tempura-2000-118e5a102b524a25931ba2c328ee0865.jpg"
+}
+]
+,"text": "Stir together dashi broth, mirin, soy sauce, and sugar for sauce. Grate daikon radish over. Taste and adjust as needed. Serve shrimp with dipping sauce."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TxLady2"
+},
+"reviewBody": "After searching for a way to make this treat at home all over the internet, and finding dismal, just wrong, recipes, I found Chef John. Knowing he's never steered me wrong, (even his dipping sauce is authentic) and once again, he nailed it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Easy recipe. Used rice flour since it was in the pantry. Did make the sauce. Tasted wonderful."
+}
+]

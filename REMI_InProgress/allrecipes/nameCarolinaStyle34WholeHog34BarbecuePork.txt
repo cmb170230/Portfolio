@@ -1,0 +1,119 @@
+,"name": "Carolina-Style &#34;Whole Hog&#34; Barbecue Pork"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "4"
+}
+,"cookTime": "PT540M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "775 kcal"
+,"carbohydrateContent": "4 g"
+,"cholesterolContent": "229 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "61 g"
+,"saturatedFatContent": "20 g"
+,"sodiumContent": "1625 mg"
+,"fatContent": "56 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2.5 pounds baby back pork ribs",
+"1.75 pounds pork shoulder roast",
+"1.25 pounds pork tenderloin, trimmed",
+"1 pound pork belly, skin removed",
+"0.75 pound pork sirloin roast",
+"5 teaspoons kosher salt",
+"2 tablespoons brown sugar",
+"2 teaspoons smoked salt",
+"2 teaspoons smoked paprika",
+"2 teaspoons ground black pepper",
+"1 teaspoon ground cumin",
+"1 teaspoon garlic powder",
+"1 teaspoon onion powder",
+"0.5 teaspoon cayenne pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 250 degrees F (120 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut ribs, pork shoulder, tenderloin, pork belly, and pork sirloin in half."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine kosher salt, brown sugar, smoked salt, smoked paprika, black pepper, cumin, garlic powder, onion powder, and cayenne for dry rub in a small bowl with a spoon."
+} ,{
+"@type": "HowToStep"
+,"text": "Season cuts of meat on both sides with dry rub; reserve about 4 teaspoons of the rub to season the cooked pork if needed after tasting."
+} ,{
+"@type": "HowToStep"
+,"text": "Place a piece of heavy-duty foil on a sheet pan. Place a half of ribs down in the center of the foil; top with shoulder, tenderloin, pork belly, and sirloin. Top with other rib half. Wrap tightly in 3 more layers of foil. Transfer to a Dutch oven."
+} ,{
+"@type": "HowToStep"
+,"text": "Roast in the preheated oven until meat is falling off the bone and very, very tender, about 9 hours."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/NCwWTebFM2PVNx9M6vTYXcJIQSs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/carolina-stylewholehogbarbecue1-2000-c72fc042650b4e5f9647a220bcf35da3.jpg"
+}
+]
+,"text": "Remove bones and pull/shred meat before serving. All or some of the rendered fat can be mixed into the meat."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT555M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We've made so many Chef John's recipes usually with no changes and most are very good. This time, the idea of combining various pork cuts was key and we made several changes to the process. My family prefers pulled pork butt using the sous vide que method so that was the approach for this recipe. I used a spare rib since it was cheaper and flatter than baby back. Subbed a cured but not dried pancetta slab for the belly. Had a good hunk of loin and shoulder available but no tenderloin. All cuts were dry brined overnight except the pancetta of course. Then lightly coated with Chef Johns rub and smoked for a couple hours in my gas Camp Chef until the thinnest piece reached 165f. Cut up the various pieces and assembled the 'meat sandwiches' per the recipe. Vacuum sealed two stacks - 5lbs and 3lbs. Then into sous vide bath at 165f for 24 hours. Quick chilled and into the fridge overnight. Next day drained the purge from the smaller bag into a pan, tied the meat stack with twine, and then added another light dusting of rub. The larger bag is fully pasteurized and will keep in the fridge for at least 3 weeks in the sealed bag. Then back into the smoker for a few hours until the center temp reached 160f. Residual heat brought IT to 165f. Let rest for a couple hours in a cooler and then removed bones and any fat clumps, pulled to smaller chunks, and topped with the heated purge. This was unquestionably the best smoked pork we have ever tasted bar none. The various textures and tastes were exceptional and the meat was very tender and juicy due to the sous vide cook. The final smoke added a nice bark that contrasted well with the tender pork. Thanks for the great idea of combining several different pork cuts rather than just shoulder. This is a winner that I'll be making again. It was also fun to prepare."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I decided to change this up a bit… rather than roasting in the oven, I combined the ingredients into sous vide bags and cooked it all at 165F for 18 hours. It was so rich and succulent… I’ve done sous vide pulled pork using just the shoulder before, but this was on a whole new level of flavor! Would never have thought of it without this video. Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jon Hennington"
+},
+"reviewBody": "The flavor is amazing! So easy to make and so delicious! Chef John wasn't exaggerating when he said that if you haven't had whole hog pulled pork, you haven't really had pulled pork. The combinations of flavors and textures once everything has been pulled and blended together is simply incredible. This will be my go-to for pulled pork from now on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Fantastic Method! I was watching the youtube channel and was instantly excited about the idea of doing pit style BBQ but in my small Bay Area kitchen! I made some minor modifications. I wrapped my pork up in butcher paper instead of foil. I also put the entire package into a dutch oven to make sure I held onto all the steam. I ran of smoked salt so I used liquid. My spice rub was inspired by the recipe but I know what I like. My ribs were frozen rock hard, so I ended up subbing in some pork belly. Over all I love this idea!"
+}
+]

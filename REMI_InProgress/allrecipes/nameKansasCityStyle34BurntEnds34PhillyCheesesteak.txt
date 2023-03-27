@@ -1,0 +1,80 @@
+,"name": "Kansas City Style &#34;Burnt Ends&#34; Philly Cheesesteak"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT300M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "1582 kcal"
+,"carbohydrateContent": "81 g"
+,"cholesterolContent": "328 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "87 g"
+,"saturatedFatContent": "41 g"
+,"sodiumContent": "3212 mg"
+,"fatContent": "99 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"3.5 pounds beef chuck roast (should be very well-marbled)",
+"3 tablespoons barbecue dry rub",
+"0.5 cup Kansas City style BBQ sauce",
+"4 sandwich or hoagie rolls",
+"1 (8 ounce) container cheese whiz, or sliced cheese as needed",
+"0.66 cup sautéed onions",
+"0.66 cup chopped jarred pickled peppers",
+"2 tablespoons sliced green onions" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 325 degrees F (165 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Season beef with dry rub, and double wrap in foil. Place on a sheet pan or in a baking dish, seam side up."
+} ,{
+"@type": "HowToStep"
+,"text": "Roast in the preheated oven for 2 1/2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Let rest for 1 hour. Unwrap and transfer to a cutting board. Reserve all juices. Cut into 1-inch cubes and transfer to a mixing bowl. Add cooking juices, more dry rub if desired, and bbq sauce. Mix well, wrap, and refrigerate overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer into a shallow baking dish and brush generously with bbq sauce."
+} ,{
+"@type": "HowToStep"
+,"text": "Roast in the preheated oven until meat starts to char around the edges, about 1 hour. Remove from the oven and brush again with bbq sauce."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce oven temperature to 250 degrees F (120 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/79yw4-YxRfY9ewrsxkNOnDEvOmc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8537970-Kansas-City-Style-Burnt-Ends-Philly-Cheesesteak-1x1-1-2000-5eadd77c4c9e41a29f36a8ab22cd6013.jpg"
+}
+]
+,"text": "Roast until the &#34;burnt ends&#34; are as tender as you want, about 1 1/2 hours more. Transfer the &#34;burnt ends&#34; onto the rolls, and finish with cheese whiz, onions, peppers, and green onions."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT790M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LubinVA"
+},
+"reviewBody": "I followed the recipe to the letter and when I pulled it out of the oven, it looked like a total disaster (see attached photo). Then we snuck a taste.... wow! Probably the most flavorful beef we've ever enjoyed. It has been a huge challenge to save it for tonight's Superbowl party."
+}
+]

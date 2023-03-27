@@ -1,0 +1,117 @@
+,"name": "Bacon-Wrapped Chicken Dogs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "4"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "444 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "121 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "41 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "774 mg"
+,"sugarContent": "5 g"
+,"fatContent": "27 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"vegetable oil cooking spray",
+"3 tablespoons mayonnaise, divided, or to taste",
+"1 teaspoon Dijon mustard",
+"freshly ground black pepper to taste",
+"1 pinch cayenne pepper",
+"1 (12 ounce) skinless, boneless chicken breast half",
+"kosher salt to taste",
+"4 slices center-cut bacon",
+"2 hot dog buns",
+"1 medium jalapeno pepper, seeded and sliced, or to taste",
+"2 tablespoons barbecue sauce, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 500 degrees F (260 degrees C). Line a baking sheet with foil and spray foil with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir 1 tablespoon mayonnaise, mustard, pepper, and cayenne together in a small bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Slice chicken breast in half lengthwise, then slice each piece in half again. Align the thicker end of one piece of chicken with the thinner end of another, forming a consistent thickness that would fit into a hot dog bun. Repeat with remaining two pieces."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer chicken to a plate and season chicken with kosher salt. Spread mayonnaise mixture over top and toss to coat."
+} ,{
+"@type": "HowToStep"
+,"text": "Re-align chicken pieces and wrap each chicken &#34;dog&#34; with 2 slices bacon, making sure you don&#39;t wrap too tightly and that you tuck the ends of the bacon underneath the chicken. Place on the prepared baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until the bacon is browned and the chicken is no longer pink in the center and the juices run clear, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Ou_ivjx_lllOAbuJ_kvZP65G2mk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-481-6ce23f3757314de99d08ebac8060f4b9.jpg"
+}
+]
+,"text": "Generously spread hot dog rolls with mayonnaise and add jalapeno slices. Place chicken dogs on rolls and top with barbecue sauce."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mme Magoo"
+},
+"reviewBody": "Outstanding and easy. Chicken stays moist which isn't always the case with breasts. I used poblano peppers which added just the right amount of heat for us. If you want a little more crisp to the bacon just pop it under the broiler after baking. This is part of our regular repertoire now. Highly recommend!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daniel Nilssen"
+},
+"reviewBody": "Simple and turned out great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becky Day"
+},
+"reviewBody": "We both loved it. Chef John was right, the BBQ sauce really makes it. Used milder green pepper for me instead of jalapenos."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crystal"
+},
+"reviewBody": "Loved it! A bit biased because I'm a big CheJoFa (Chef John Fan) and I like (almost) everything from him, but I can honestly say I super loved this, as did the people to whom I served it. By Chef John standards, it was really quick and easy to prepare, which was a nice bonus, but I loved the flavor and taste. The pairing with BBQ sauce was an excellent touch. I'd definitely make again. \n\nI didn't use the bun or jalapeno but I'm sure that would have made it even better. Thanks as always Chef John!"
+}
+]

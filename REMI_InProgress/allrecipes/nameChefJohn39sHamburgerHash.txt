@@ -1,0 +1,181 @@
+,"name": "Chef John&#39;s Hamburger Hash"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "10"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "501 kcal"
+,"carbohydrateContent": "40 g"
+,"cholesterolContent": "77 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "24 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "102 mg"
+,"sugarContent": "4 g"
+,"fatContent": "28 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"2 large russet potatoes, peeled",
+"1 tablespoon salted butter",
+"2 tablespoons olive oil",
+"1 pound ground beef",
+"salt to taste",
+"0.75 cup diced yellow onions",
+"0.75 cup diced button mushrooms",
+"freshly ground black pepper to taste",
+"1 pinch cayenne pepper",
+"1 pinch dried rosemary",
+"0.5 cup diced red bell pepper",
+"0.5 cup diced poblano pepper",
+"0.5 cup thinly sliced green onions" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Cut a 1/4-inch slice off the bottom each potato so it sits flat on a cutting board. Cut some more 1/4-inch slices straight down and then cut potatoes into sticks. Turn sticks and cut across to create a uniform dice. Transfer to a bowl of cold water."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine butter and olive oil in a skillet over high heat until butter melts. Add ground beef and cook, breaking up with a flat-edge utensil, until crumbly, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain potatoes and add to the beef with a nice pinch of salt. Reduce heat to medium-high and cook, stirring occasionally, until potatoes just start to soften, 5 to 7 minutes. Smooth mixture in the skillet and press against the bottom of the pan to help everything get nice and crusty."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in onions and mushrooms and add another pinch of salt. Cook, stirring occasionally, until onions and mushrooms have softened up and taken on some beautiful color, 5 to 7 minutes. Season with black pepper, cayenne, and rosemary."
+} ,{
+"@type": "HowToStep"
+,"text": "Add bell pepper, poblano pepper, and another pinch of salt. Cook until peppers are tender and the rest of the ingredients are dark and crispy, about 5 more minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/zYNDo4ULiev0qzFo_8Zfaoq5lYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9084138-4efe98edd795438fb8f556418bfbedc6.jpg"
+}
+]
+,"text": "Stir in green onions and cook for a few more minutes. Remove from the heat and serve."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "D J Loften"
+},
+"reviewBody": "I made it I also added some white pepper instead of ground pepper A dish for the whole family"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce Booth Mullins"
+},
+"reviewBody": "This was delicious! I was looking for a recipe to use ingredients I had on hand that didn't include cheese, which is a difficult task (hubby doesn't like cheese)! I followed the recipe for the most part. I used all butter instead of olive oil since I was out. In lieu of mushrooms and bell pepper, I used green chiles as that is what I had. I didn't get the crustiness because I used a cast iron and all my crusty's stuck to the pan :(. But it was still a winner and I added shredded cheese on mine and it was great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PapaGene"
+},
+"reviewBody": "This recipe is deceptively good. For such simple ingredients it had a complex, outstanding taste. Chef John seldom fails to deliver! I have been making hash for years, but did not know about pressing down the food to increase browning, trick (in the video). You can teach an old dog new tricks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LubinVA"
+},
+"reviewBody": "Delicious! I followed the recipe very closely, other than the times indicated which really are guidelines. The key to success is based on developing color, caramelization and \"crustification\". I served it with ketchup plus the poached eggs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JohnT"
+},
+"reviewBody": "Didn't get quite as dark as Chef John's. I think that was the non-stick pans fault. Very easy to make. Hardest part was the poached egg. Great weeknight dinner recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mauxjen"
+},
+"reviewBody": "Oh. My. Gawd! This was so good! I had it for breakfast with an egg on top and now I’m going to have it for dinner with some sour cream on top and a big piece of bread on the side. Maybe a small green salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "DDriver"
+},
+"reviewBody": "This was tasty and easy. Perfect amount of spice. Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kikikim"
+},
+"reviewBody": "I really like Chief John's recipes and I usually follow his recipes to a ' T'. However,my mother was an expert in making Hash,so instead of cooking the hamburger, and then throwing in the potatoes all together,I use my mother's procedure, and fry the diced potatoes first and cook until they are crispy,rather then soft. After they are crisp remove them to another plate,keeping them warm,and proceed cooking the hamburger,onions,peppers,mushrooms,and seasoning as written,with the only exception of frying the potatoes first then adding them to the other ingredients once they have cooked thoroughly. By doing it this way,I get that same texture of my mother's homemade hash with the crispiness coming from the potatoes, and Chief John's professional technique. The best of both world's so yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tessa Y"
+},
+"reviewBody": "Made this last night! Chef John never disappoints! Delicious and easy!!"
+}
+]

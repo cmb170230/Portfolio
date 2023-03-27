@@ -1,0 +1,113 @@
+,"name": "Chicago Deep-Dish Pizza Muffins"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "5"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "194 kcal"
+,"carbohydrateContent": "20 g"
+,"cholesterolContent": "18 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "532 mg"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT35M"
+,"recipeIngredient": [
+"2 teaspoons olive oil",
+"1 (16 ounce) package cold, prepared pizza dough",
+"4 ounces provolone cheese, diced",
+"0.75 cup cooked, crumbled Italian sausage",
+"0.5 cup cooked, diced sweet peppers",
+"4 ounces mozzarella cheese, grated",
+"0.5 cup prepared pizza sauce",
+"0.75 cup freshly grated Parmigiano-Reggiano cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C). Generously grease a 12-cup standard muffin pan with 2 teaspoons oil."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll dough on a lightly floured surface to a thickness of 1/8 inch. Pick it up from the edges to make sure it&#39;s not stuck to the surface, then cut out twelve 4-inch circles. Reroll the dough to cut all 12 circles if necessary."
+} ,{
+"@type": "HowToStep"
+,"text": "Place each circle into a prepared muffin cup, making sure it&#39;s centered. Press and push dough up the sides of the cups, getting close to, but not all the way up to the top. When all circles have been placed in the muffin pan, go around one more time to push and press on each one."
+} ,{
+"@type": "HowToStep"
+,"text": "Put 1 tablespoon provolone cheese into each cup, followed by 1 tablespoon cooked sausage and 2 teaspoons cooked peppers. Lightly press on the fillings to compress, then top with 1 rounded tablespoon mozzarella cheese and 2 tablespoons pizza sauce, pushing the sauce down gently into the fillings; it&#39;s okay that the fillings will be slightly higher than the pan. Sprinkle Parmigiano-Reggiano cheese generously over top."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the upper center of the preheated oven until the tops are beautifully browned, 30 to 35 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the oven and cool in the pan for 10 to 15 minutes. Go around the edge of each muffin with a knife, then use a fork or small spatula to remove from the pan."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/vn1sfUPwAXa34EjnOmbWbwM09ho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chicago-Deep-Dish-Pizza-Muffins-2000-2fb07a3fc7c5432d92b60f4127158a9f.jpg"
+}
+]
+,"text": "Let cool on a rack for a few minutes, then garnish with parsley and serve."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Siobhan Silva"
+},
+"reviewBody": "Easy and SO good!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "anna_k"
+},
+"reviewBody": "I am not a fan of peppers so I replaced them by mushrooms and also added pepperoni on top (the latter made the dish a bit messier). I was very pleasantly surprised by how good it tasted on my first try. It was super hard to roll the pizza dough, so next time, I'll roll the dough, let it rest and roll it some more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jwodeyar"
+},
+"reviewBody": "Made these tonight and was super thrilled with how they turned out ! My muffins browned up a bit quicker than the 30-35 minutes baking time specified by Chef John. That's why mine have a slightly darker colour compared to Chef John's own batch in the video. Regardless I loved how these came out, and will be making another batch for a party soon !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Sue"
+},
+"reviewBody": "I will admit that I can be terrible about returning to a recipe to leave a review. I'll try and do better... BUT, these made me want to write home to my mama they were so good! They took some work, and because I only own one muffin pan, I only made 12. Everyone in the house was disappointed in me! In fact, I'm going out today to buy two more pans just to make more of these. I even used store bought refrigerated pizza dough and jar sauce, and it was still amazing! I followed the recipe and used sausage and peppers, but I think using diced pepperoni would change all of our lives! I cannot thank you enough for bringing this recipe into our lives!"
+}
+]

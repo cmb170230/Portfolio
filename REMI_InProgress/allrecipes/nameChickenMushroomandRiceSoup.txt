@@ -1,0 +1,300 @@
+,"name": "Chicken, Mushroom, and Rice Soup"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "18"
+}
+,"cookTime": "PT150M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "513 kcal"
+,"carbohydrateContent": "35 g"
+,"cholesterolContent": "153 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "49 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "472 mg"
+,"sugarContent": "4 g"
+,"fatContent": "19 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 (3 1/2) pound whole chicken",
+"1 large carrot, cut into 2-inch pieces",
+"1 rib celery, cut into 2-inch pieces",
+"1 medium red onion, roughly chopped",
+"1 large bay leaf",
+"water to cover",
+"0.25 cup unsalted butter",
+"1 pound mushrooms, thickly sliced",
+"1 teaspoon kosher salt, or more to taste",
+"1 cup diced red onion",
+"4 cloves garlic, minced",
+"0.5 teaspoon freshly ground black pepper",
+"1 pinch cayenne pepper",
+"3 sprigs fresh thyme",
+"1 cup medium-grain white rice" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place chicken, carrot, celery, onion, and bay leaf in a stockpot. Add 4 quarts of cold water, or enough to cover the chicken. Bring to a simmer on high heat. Reduce heat to low; simmer gently until the meat can be easily pulled off the bones and is no longer pink in the center, about 1 1/2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove the meat and bones to a bowl and allow to cool enough to handle, about 10 minutes. Leave the stockpot over low heat. Separate the meat from the bones and skin and break it up into bite-sized pieces. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer the bones and skin back to the stockpot and continue to simmer on low until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt butter in a soup pot over medium-high heat until it starts to brown. Add mushrooms and salt; saute until mushrooms are well browned. Add garlic and diced onion and saute for 2 to 3 minutes. Strain in 4 cups of the chicken broth from the stockpot and bring to a simmer. Add black pepper, cayenne, and thyme. Reduce heat to medium and simmer for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add rice and cook, stirring occasionally, for 20 minutes. Taste for seasoning and add more salt if needed; remove thyme stems. Stir in the chicken meat and a few more cups of the chicken broth to achieve the desired texture. The soup will continue to thicken as the rice swells, so more may be needed if you want a thinner soup."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/QaTtCJNqwsDhnkptaRzXb06MscI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-330-e89b67e3cc294f4fbb487e0027416447.jpg"
+}
+]
+,"text": "Let simmer until chicken is heated through and has absorbed the flavors, and rice is fully cooked, about 15 minutes. Taste one last time for seasoning. Adjust with more broth as needed. Serve immediately."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT180M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharyl"
+},
+"reviewBody": "I really enjoyed the richness of this soup, but felt that something was missing. After reading the reviews, I realized that I did not use the sour cream or pickled onion garnish. Definitely do not use more rice than in the recipe. I used half wild rice and half white rice and think I would cut back on the white rice. Even using twice the amount of broth it was very thick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Courtty"
+},
+"reviewBody": "Easy and Delicious! Couldn't find a small bird, but use a 4.8 lb. one and made the broth the same way. We ended up using all of the broth, and most of the extra chicken. Soup was hardy and tasted great! We made extra pickled onions for on top. If you don't like picked onions or sour cream, the soup itself will need something acidic. We will be making again! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daryl Brayman"
+},
+"reviewBody": "The soup is amazing, but and there is always a but. Not living in the USA I have to convert from oz to grams. Very seldom do I measure my butter in cups or fractions there of. Usually I just use weight. 1/4 cup is 2 oz or 58 grams. Easy peasy. Then you start using \"sticks of butter\". Really, the imperial system isn't messed up enough for you.? Now you start using made up, industry measurements. Next we can use \"pats of butter\" 1/3 of an oz or 9.5 grams. Or a \"pin of stock\" 4 gallons of 15 litres.\n\nThat being said, your recipes are fantastic. Love to watch you cook."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MJKEngineering"
+},
+"reviewBody": "Great soup! We used a rotisserie chicken instead of starting from scratch but other than that it was by the book and the flavors were perfect. A real comfort food on cold winter night!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mousielove"
+},
+"reviewBody": "Delicious, as always with a Chef John recipe! I have made this twice. First as-is, second time using up a small bit of barley. Also good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra Streifel"
+},
+"reviewBody": "I used backs and necks instead of a whole chicken, and barley instead of rice. Delicious!!! My son, and even my parrot, agreed!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Zell"
+},
+"reviewBody": "I loved this soup! Since I was only making it for myself, I reduced the recipe by I think about half. Instead of using a whole chicken, I just used pieces of chicken I already had (I think a breast and maybe a couple of thighs). I also didn't have sour cream but I used a very similar substitute - labne! It really, really added to the dish. I'd like to try making the picked onions next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy Blumberg Jakubowski"
+},
+"reviewBody": "I made this just like the recipe said and I thought it was way too many mushrooms and it didn't taste like chicken soup. Dissappointed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BayJoe"
+},
+"reviewBody": "This soup is absolutely delicious! Add extra cayenne for a little kick and, YUM, this is perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurel Anne"
+},
+"reviewBody": "I love everything from Chef John. This was an all day process, but worth it. I used brown rice which took longer to cook - I think I'd cook the rice separately next time, and add at the end (which Chef John mentions in the video). Anyhow, I was the C Everett Coop of my Chicken Rice soup - and it was oh, so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Falkenhagen Vandeweterin"
+},
+"reviewBody": "Excellent! The pickled red onion was killer, and I used portobello mushrooms. Rave reviews from the whole family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hannah Daniels"
+},
+"reviewBody": "I came from YouTube and this looked amazing so I had to try! I did use baked chicken breast instead of boiled whole chicken to use what I already had on hand which worked great as well. I’ll admit I thought that sour cream and red wine vinegar onions were a little strange at first but they ended up being a must! The acidity from the sour cream and onion brought the soup up a notch, so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tony Logue"
+},
+"reviewBody": "I made this twice since this recipe was released. It is that amazing. I made it the exact way as the video. Don’t skip the sour cream, pickled onions or the thyme. Every single component adds and makes the dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Misterblutarsky"
+},
+"reviewBody": "Like the overwhelming majority of Chef John's other recipes, this one is yet another winner. I made it exactly as listed, except the pickled onions as a garnish. It turned out rich and delicious, AND I have a bunch of cooked chicken left over to make chicken salad and pot pie. Thank you again, Chef John. You rock."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doons"
+},
+"reviewBody": "He's done it again, folks. This is a fantastic, hearty soup. I made some slight changes to suit my circumstances (e.g., added carrots, more cayenne), but that's just me cookin'.;) Keeping the chicken in large chunks is key to prevent it from breaking down into much smaller pieces when added back to the pot. Chapeau, chef!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason Powell"
+},
+"reviewBody": "Very good! Definitely add the pickled red onions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kyle"
+},
+"reviewBody": "Really enjoyed this. Super easy, tasty, and cheap. Perfect for a cold day. I didn’t have a super large pot so i got the smallest chicken I could find at the grocery store."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Lynch"
+},
+"reviewBody": "I make it with LOTS of cayenne, fresh thyme (do not use ground thyme), and black pepper. And by lots I do mean lots. This took me a couple of tries to make correctly. Be careful not to use more rice than Chef John suggests or your soup will turn to mush. This is my absolute favorite soup when made like this!"
+}
+]

@@ -1,0 +1,81 @@
+,"name": "Chantilly Mashed Potato Casserole"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "376 kcal"
+,"carbohydrateContent": "35 g"
+,"cholesterolContent": "70 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "11 g"
+,"saturatedFatContent": "14 g"
+,"sodiumContent": "211 mg"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"4 large russet potatoes, peeled and quartered",
+"6 tablespoons unsalted butter, cubed",
+"kosher salt to taste",
+"0.5 cup grated Gruyere cheese",
+"1 pinch cayenne pepper, or more to taste",
+"1 cup finely grated Parmigiano-Reggiano cheese, divided",
+"0.5 cup buttermilk",
+"0.75 cup cold heavy cream",
+"2 tablespoons sliced green onions" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 475 degrees F (245 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Place potatoes into a pot, cover with fresh, cold water by 2 inches, and add 2 tablespoons kosher salt. Set heat to high and bring to a boil. Reduce heat to medium and simmer until tender, testing by poking potatoes with a knife. The time will depend on the size of your potatoes but could be between 15 and 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the heat and let drain in a colander for 5 to 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer into a large bowl and mash thoroughly with a potato masher until no lumps remain. Add butter, kosher salt, and Gruyere cheese. Mix and mash until everything has been incorporated."
+} ,{
+"@type": "HowToStep"
+,"text": "Add cayenne, 3/4 cup Parmigiano-Reggiano cheese, and buttermilk, and mash until well combined. Taste and adjust for salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk cream in a metal bowl until thick and fairly stiff peaks form, 1 to 2 minutes. Pour 1/2 of the whipped cream onto the potatoes and cut it in with the side of a spatula to lighten the mixture. Repeat with remaining whipped cream but do it carefully to preserve the maximum amount of volume, cutting in until just barely mixed."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer into a well-buttered casserole dish and distribute gently with a fork. Smooth the top with a spoon if desired. Sprinkle remaining 1/4 cup Parmigiano-Reggiano on top and dust lightly with cayenne."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the baking dish on a pan and bake in the center of the preheated oven until beautifully browned, 15 to 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/OcIBHDbYVU_qIN-3p-OuRJ8139w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8304378-chantilly-mashed-potatoes-casserole-Chef-John-1x1-1-61a818f383894d53b3a0e25b83c74acd.jpg"
+}
+]
+,"text": "Remove from the oven and sprinkle with green onions before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mallardy"
+},
+"reviewBody": "Decadent! Creamy and cheesy. And surprisingly, really feeling. It's actually on my rotation of low-ish calorie dishes, as long as I keep myself to a single serving."
+}
+]

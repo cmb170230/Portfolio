@@ -1,0 +1,133 @@
+,"name": "Buffalo Chicken Dutch Babies"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "6"
+}
+,"cookTime": "PT55M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "197 kcal"
+,"carbohydrateContent": "12 g"
+,"cholesterolContent": "95 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "16 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "421 mg"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"3 tablespoons butter",
+"3 large boneless, skinless chicken thighs",
+"kosher salt and freshly ground black pepper to taste",
+"0.333 cup Louisiana-style hot sauce (such as Franks®)",
+"2 large eggs",
+"0.5 teaspoon kosher salt",
+"1.25 cups all-purpose flour",
+"1.333 cups whole milk",
+"1 tablespoon butter, softened",
+"nonstick cooking spray",
+"0.5 cup crumbled blue cheese",
+"6 stalks celery, halved crosswise" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Melt 3 tablespoons butter in a saucepan over medium-high heat. Add chicken thighs with the smoother sides facing down and cook until browned, 3 to 4 minutes. Flip and repeat on the other sides. Turn off the heat and remove chicken to a plate. Let sit until cool enough to handle, about 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut chicken into ½-inch pieces and transfer back to the plate."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour chicken and any accumulated juices back into the saucepan. Season with salt, pepper, and cayenne. Stir in hot sauce, turn heat to medium-high, and bring to a simmer. Reduce heat to medium and simmer, stirring occasionally, until slightly reduced, 10 to 15 minutes. Transfer to a bowl to cool."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, combine eggs, salt, flour, and milk for Dutch babies in a bowl. Whisk for a few minutes until batter is smooth and thin. Let rest for 15 to 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Grease a 12-cup muffin tin with 1 tablespoon butter, then spray the cups with nonstick spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer the rested batter into a liquid measure. Pour into the prepared muffin cups, filling each about halfway full. Spoon some Buffalo chicken into each cup then sprinkle blue cheese over top."
+} ,{
+"@type": "HowToStep"
+,"text": "Place in the center of a cold oven. Set a baking sheet on a lower rack to catch any drips. Turn the heat to 450 degrees F (230 degrees C) and set a timer for 30 minutes, at which point the Dutch babies should be puffed up and browned."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/2lQK8Inq7f_SkVVu2xuOtGAWSX8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Buffalo-Chicken-Dutch-Babies-2000-29153d8a7dda4b92aa08cd0af35d69b0.jpg"
+}
+]
+,"text": "Remove from the oven and let sit until the centers collapse, 3 to 5 minutes. Let cool in the pan for another 5 minutes, then use a fork to carefully remove them to a wire rack. Serve hot, warm, or at room temperature with a celery stick in each one."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT110M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This looked really good and I finally got around to making it. I did switch it up by using bbq sauce instead of hot sauce and white cheddar instead of the blue cheese. Also, I pre-heated my oven and so I put the pan into a hot oven instead of the cold oven (just mis-read the recipe). Still came out really good. I will be making this again with the buffalo style and also will freelance and try other combinations."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tisha Bryant"
+},
+"reviewBody": "Delicious!!! I made double the Buffalo chicken portion so that I could have leftovers"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Ask"
+},
+"reviewBody": "These were an absolute hit. I've made it a few times now and it's always tasty. I've done it with and without cheese. With is best, of course. I'd love to hear about how to make a breakfast version. I'm trying to imagine how that works. Soft scramble eggs with browned sausage and cheese, then add that to the middle? I'm going to try it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ryantucker1986"
+},
+"reviewBody": "Made these for a small Superbowl party. They came out great and are nice to snack on!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "oliviasluzar"
+},
+"reviewBody": "Made a double batch, ended up with 31 cups. Half buffalo chicken (baked for 25min) half used pepperoni, cheese and tomato sauce (baked 30min). All came out amazing. Loved this recipe, thanks!"
+}
+]

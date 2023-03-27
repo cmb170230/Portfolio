@@ -1,0 +1,84 @@
+,"name": "Pepper Jack Cornbread Biscuits"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "188 kcal"
+,"carbohydrateContent": "24 g"
+,"cholesterolContent": "23 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "411 mg"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"2 cups self-rising flour (see Tip)",
+"1 cup yellow cornmeal",
+"2 tablespoons white sugar",
+"0.5 teaspoon salt",
+"1 teaspoon baking soda",
+"1 stick (1/2 cup) very cold unsalted butter, cubed",
+"1.25 cups cold buttermilk",
+"2 ounces pepper Jack cheese",
+"2 tablespoons melted butter for brushing tops" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix together self-rising flour, cornmeal, white sugar, salt, and baking soda (See Cook&#39;s Note for substitution). Add cubed, very cold butter and mix in with a pastry cutter/blender until the mixture is crumbly and the butter pieces are approximately the size of lentils."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in the buttermilk with a fork until a crumbly dough forms, which can be pressed together with your hands. Press into a square, and roll out into a 12 x12-inch square."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut in half, and stack one piece on the other. Roll back out to a 12-inch square. Jagged edges are fine, and can simply be pressed in with a bench scraper. Cut into quarters, and stack up. Square up the sides a little by pressing in with a bench scraper, and roll back out to a 12-inch square."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C). Line a baking sheet with a Silpat mat."
+} ,{
+"@type": "HowToStep"
+,"text": "Grate the pepper Jack cheese over the top of the dough (for best results, pop cheese in the freezer for a few minutes to firm up, making it easier to grate and distribute evenly). Fold into thirds to form a rectangle, and press lightly."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll until the rectangle is about 3/4 inch thick, and then use a floured round cutter (mine was 2.75 inches) to punch out 8 biscuits. Dough can also be cut into squares instead."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer cut dough to the prepared baking sheet. Extra dough can be pressed together and re-rolled, and used to cut more biscuits. Press each biscuit lightly in the center with your thumb. Brush each biscuit lightly with melted butter."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until nicely risen and golden brown, 18 to 20 minutes. While still warm, brush with more melted butter if desired. Let cool before serving."
+} ]
+,"recipeYield": ["14"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great as always"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef John"
+},
+"reviewBody": "These biscuits go great with my recipe for Brunswick Stew."
+}
+]

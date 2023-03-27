@@ -1,0 +1,102 @@
+,"name": "Armenian-Style Potato Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "4"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "272 kcal"
+,"carbohydrateContent": "35 g"
+,"fiberContent": "4 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "734 mg"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"3 pounds Yukon Gold potatoes, peeled, quartered, and sliced into 1/4-inch pieces",
+"1 tablespoon kosher salt, or more to taste",
+"1 tablespoon dried mint, divided",
+"0.5 cup mild olive oil, divided",
+"1 large red onion, diced",
+"0.5 cup diced red bell pepper",
+"2 cloves garlic, minced",
+"0.33 cup lemon juice, or more to taste",
+"0.5 cup thinly sliced green onions",
+"0.25 cup chopped fresh mint",
+"2 tablespoons chopped fresh Italian parsley",
+"0.25 teaspoon freshly ground black pepper",
+"0.25 teaspoon Aleppo chili flakes",
+"1 pinch cayenne pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Transfer sliced potatoes into a large pot with enough cold water to cover the potatoes by a couple of inches. Stir in 1 rounded tablespoon kosher salt and 2 ½ teaspoons dried mint. Bring to a boil over high heat. Reduce heat to medium and let cook until tender, about 15 minutes, checking every 5 to 6 minutes for doneness. Drain well."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer cooked potatoes to a large mixing bowl and let cool slightly."
+} ,{
+"@type": "HowToStep"
+,"text": "While potatoes cool, heat ¼ cup olive oil in a skillet over medium-high heat. Add red onion, red bell pepper, garlic, and a pinch of salt; cook and stir for just 1 minute. Turn off the heat and stir in remaining dried mint."
+} ,{
+"@type": "HowToStep"
+,"text": "Drizzle freshly squeezed lemon juice into potatoes and toss gently with a spatula. Add green onions, red onion mixture, remaining olive oil, fresh mint, fresh parsley, salt to taste, black pepper, chili flakes, and cayenne. Mix with a spatula until combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover with plastic wrap and refrigerate until chilled and flavors have melded, 3 to 4 hours."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/dfwmPPAZaBfo87zxlDwPv6NTv8s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/armenianstylepotatosalad1-2000-80ea22e6d690414699271678e1484186.jpg"
+}
+]
+,"text": "Unwrap; stir, taste, and adjust seasonings as needed to personal tastes. The salad almost always needs more salt stirred in once it&#39;s tasted after being chilled. Serve."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT210M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I was so intrigued with this recipe, and when I saw Chef John plate it with roasted lamb I knew I had to try it. This was a wonderful potato salad that paired perfectly with the roasted lamb. With mint and lemon it was very refreshing and great for a summer evening. It also is vey colorful and looked great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Robert Beurkens"
+},
+"reviewBody": "I was very excited to make this, I love Chef John and I was enthralled by his description of this dish. The final product was mediocre. I love mint in savory foods and I was very underwhelmed. I had two people try it, separately, and get this, they both said the same thing... \"It's different\"."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is so delicious! I was unable to get parsley and Aleppo pepper, so I used some Thai basil from our garden and Korean chili flakes (gochugaru) as substitutes. It was perfect! The lemon and mint make it so refreshing. I used red potatoes and left the skins on, still amazing! This is my new favorite! Thank you Chef John!"
+}
+]

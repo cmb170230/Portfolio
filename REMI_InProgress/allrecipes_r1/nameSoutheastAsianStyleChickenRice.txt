@@ -1,0 +1,126 @@
+,"name": "Southeast Asian Style Chicken Rice"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "4"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "820 kcal"
+,"carbohydrateContent": "87 g"
+,"cholesterolContent": "132 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "51 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "2268 mg"
+,"fatContent": "29 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 large chicken breast, skin on",
+"1 teaspoon kosher salt, plus more as needed",
+"1 tablespoon vegetable oil",
+"1 tablespoon minced ginger",
+"2 cloves garlic, minced",
+"0.33 cup diced onions",
+"0.5 teaspoon turmeric",
+"1 cup plus 1 tablespoon jasmine rice",
+"1.5 cups chicken broth",
+"0.5 cup thinly sliced red onion",
+"0.25 cup sliced green onions",
+"1 small red Fresno chili, thinly sliced, or any other hot pepper",
+"2 tablespoons fresh lime juice, plus more to taste",
+"2 teaspoons soy sauce, or to taste",
+"1 teaspoon sambal hot chili sauce",
+"1 teaspoon sesame oil, or to taste",
+"0.25 teaspoon freshly ground black pepper",
+"salt to taste",
+"0.5 cup freshly torn mint leaves",
+"0.5 cup freshly torn cilantro leaves",
+"lime wedges" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Set chicken breast onto a cutting board and make 5 or 6 shallow cuts through the skin. Season generously on both sides with salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat vegetable oil in a skillet over medium high heat and sear chicken breast, skin-side down, until the skin is golden brown and fat has rendered out, about 5 minutes. Flip breast over, and keep cooking until chicken is cooked through, about 5 minutes more. If oil starts to smoke before the chicken is cooked, reduce heat to medium or medium-low."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn off the heat and transfer chicken to a plate to rest until cool enough to handle. Peel off the skin and finely chop. Refrigerate chicken breast."
+} ,{
+"@type": "HowToStep"
+,"text": "Add minced chicken skin back into the skillet over and medium heat. Cook and stir until the skin browns and starts getting crisp, 3 to 5 minutes. Add ginger, garlic, and onions and cook, stirring, until onions start to turn translucent, about 5 minutes. Add turmeric and rice; cook and stir until rice is well coated with oil, 2 to 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in broth, turn heat to high, and bring to a boil. Cover, reduce heat to low, and simmer undisturbed for 20 minutes. Turn off the heat and set a timer for 10 minutes to allow rice to rest."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, shred the chicken meat using your hands or cut into small pieces. Place into a bowl. Add red onion, green onions, Fresno chili, lime juice, soy sauce, hot sauce, sesame oil, salt, pepper, fresh mint and cilantro. Toss until well combined. Taste and adjust with more lime juice, salt, and/or spice as needed."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/foIYHICszPlgbXvdAz_1_5wm_CY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Southest-Asian-Chicken-Rice-Bowl-1x1-1-2000-7f1c18f5c22a44c99ed7a20e8c2c32bd.jpg"
+}
+]
+,"text": "After the 10 minute rice timer is up, remove cover, and fluff rice with a fork. Taste and adjust seasoning if necessary. Serve rice topped with the chicken herb salad mixture and lime wedges."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heathins"
+},
+"reviewBody": "So much flavor! I love the cold salad on the warm rice! Didn’t have Sambal sauce, so I used Gochujang."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was so delicious, I love all of your recipes but this is one of the best 😀"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Had chicken thighs in the fridge so used those. Subbed Thai chilies for the Fresno and Sriracha for the hot chili sauce. It was a lot spicier than I thought but with my subs I should have seen it coming. Even with those substitutions it was so good I had seconds in spite of trying to cut back on eating until I'm stuffed. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lacyanne"
+},
+"reviewBody": "This was such a delicious and simple weeknight dinner! The flavor of the rice was fantastic with all the chickeny goodness. I didn't have mint so I used some parsley but the freshness of the herbs really elevated the chicken. The husband was apprehensive but was pleasantly surprised (even if he did add soy sauce). This will definitely be on the dinner rotation since it feeds two people with one chicken breast. Thanks, Chef John!"
+}
+]

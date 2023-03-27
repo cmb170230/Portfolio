@@ -1,0 +1,131 @@
+,"name": "Chicken Rice-A-Roni"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "8"
+}
+,"cookTime": "PT120M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "1381 kcal"
+,"carbohydrateContent": "89 g"
+,"cholesterolContent": "313 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "86 g"
+,"saturatedFatContent": "22 g"
+,"sodiumContent": "2868 mg"
+,"fatContent": "74 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT35M"
+,"recipeIngredient": [
+"1 (3 1/2) pound whole chicken",
+"1 stalk celery, roughly chopped",
+"1 medium carrot, roughly chopped",
+"0.5 medium yellow onion, roughly chopped",
+"1 large bay leaf",
+"1 tablespoon kosher salt",
+"3 quarts water",
+"2 tablespoons olive oil",
+"2 tablespoons butter",
+"0.5 medium yellow onion, diced",
+"0.333 cup diced red bell pepper",
+"2 teaspoons kosher salt",
+"1 cup broken uncooked spaghetti (2-inch pieces)",
+"1.5 cups basmati rice",
+"0.25 teaspoon freshly ground black pepper",
+"0.25 teaspoon dried oregano",
+"0.5 teaspoon ground cumin",
+"0.5 teaspoon saffron threads, crushed",
+"1 pinch cayenne pepper",
+"0.5 cup garbanzo beans, drained and rinsed",
+"0.333 cup frozen green peas, thawed and drained",
+"2 tablespoons chopped fresh parsley, or to taste",
+"2 tablespoons chopped fresh cilantro, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place chicken, celery, carrot, onion, and bay leaf in a stockpot and cover with water. Set over high heat, add salt, and bring to a simmer. Reduce heat to medium-low and simmer until the thighs and legs can be pulled easily from the carcass, about 1 hour and 15 minutes. Remove chicken to a bowl, carefully tipping the carcass to drain any broth from the cavity back into the stockpot."
+} ,{
+"@type": "HowToStep"
+,"text": "Let meat sit until it&#39;s cool enough to handle, 15 to 20 minutes. Separate skin, bones, and meat. Set aside 2 cups shredded meat (white, dark, or a combination of the two) for rice-a-roni and reserve the rest for another use."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer skin and bones back to the stockpot with the broth and simmer for 1 to 2 hours or until you need it. Strain."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine oil and butter in a skillet over medium-high heat. When hot and melted, add onion, bell pepper, and salt. Cook and stir until onion just starts to turn translucent, 3 to 4 minutes. Add broken spaghetti and cook until toasted and light golden brown to dark brown in color, about 3 minutes; it&#39;s okay if the onions and peppers start to caramelize."
+} ,{
+"@type": "HowToStep"
+,"text": "Add rice and stir until completely coated. Add pepper, oregano, cumin, and saffron. Stir in 3 ½ cups chicken broth. Add cayenne, garbanzo beans, peas, and shredded chicken and return to a simmer."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover tightly with a lid, reduce heat to medium-low, and cook for 15 minutes; do not lift the lid or stir during this time."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove the lid and check the rice in a couple spots. It should be just barely tender. (If it seems undercooked, you can cover and cook for a few more minutes.) Replace the lid, turn off the heat, and let rice sit for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/YdbkAQQH7xDNedDkknUZMg6KYfU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chicken-Rice-a-Roni-ebb99bdbb4d7455f8e01ca3bbac7190f.jpg"
+}
+]
+,"text": "Sprinkle parsley and cilantro over top and stir to combine. Check for seasoning and serve immediately."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT180M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was slightly spicy but compatible with rice. I loved the noodles and vegetables."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Alora"
+},
+"reviewBody": "This is one of my daughters' favorite meals. I had to make it two nights in a row because they wanted more leftovers. Definitely a home run. I usually just buy a rotisserie chicken from Costco and boil the carcass down to make the stock. And leave out the garbanzos and bell peppers since the kids aren't fans lol. A+++ in our house!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "wcsawyerws"
+},
+"reviewBody": "If you're going to use boxed broth and rotisserie chicken; two things. One, pick a low sodium broth and a lightly seasoned chicken. Two, toss the picked chicken bones in a pot with the box stock and bring it to a boil then simmer for at least 20 minutes. You're welcome."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John Neilson"
+},
+"reviewBody": "This is great - way better than the boxed version!"
+}
+]

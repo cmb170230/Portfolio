@@ -1,0 +1,363 @@
+,"name": "Chef John&#39;s Cloud Eggs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "27"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "88 kcal"
+,"carbohydrateContent": "0 g"
+,"cholesterolContent": "191 mg"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "148 mg"
+,"sugarContent": "0 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 large eggs",
+"0.25 teaspoon white vinegar",
+"1 pinch salt",
+"1 teaspoon unsalted butter, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with a silicone liner (such as Silpat®) and butter lightly."
+} ,{
+"@type": "HowToStep"
+,"text": "Crack 1 egg into a clean hand and then separate carefully by letting the egg white drip down between your fingers into a large bowl. Reserve the yolk in a separate, smaller bowl. Repeat with second egg."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour vinegar into the egg whites, add salt, and whip with a whisk until we have relatively firm, but not dry, peaks."
+} ,{
+"@type": "HowToStep"
+,"text": "Spoon onto the prepared baking sheet, making sure they are not too wide, as we want some height here. Shape as desired and make a small depression in the top centers using a spoon for yolks."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/OQSwtsylYQRditsZM7KjmzzwYvQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8059529-0c96efb7d75b46f1bb709924abaa6413.jpg"
+}
+]
+,"text": "Bake in center of the preheated oven until they just start to take on some golden color, 5 to 6 minutes. Add yolks and bake until yolks are heated through, but still runny, 3 to 4 minutes more. Serve on butter toast."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leslie"
+},
+"reviewBody": "They are soo pretty and taste as good as they look!!! I’ll definitely make these again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doug Jeffreys"
+},
+"reviewBody": "I made these for the wife and me. They were very tasty and fun to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ChefSteph"
+},
+"reviewBody": "Super fun to eat! And Chef John's video was entertaining and very informative. The eggs came out perfectly fluffy :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great recipe! It is quick to make and an interesting way to have eggs in the morning. I use a hand mixer though and just make sure to not over whip the whites."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Addison"
+},
+"reviewBody": "Very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet Lee Levine-Silverthorne"
+},
+"reviewBody": "I have made the recipe twice. My arms get a good workout wisking the egg whites, but the end result is well worth the time. My only problem, is that when I put the yoke in the middle of the whipped eggs they sometimes break and leak. Oh well they are delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "The Cook"
+},
+"reviewBody": "I would tell others that make sure your depression is big because if not it leaks out while baking the second time but extremely delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Quinn Henderson"
+},
+"reviewBody": "Just made this for my mom and she loved it!! Hint: spray a little Pam into the little glass bowls before putting your yolks in them. One stuck and tore as I was sliding it out into the cloud. It cooked, but wasn't as perfect as the other one. \nWill definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Meghan Helms"
+},
+"reviewBody": "This was one of your worst dishes yet. The egg whites never mixed together after the simple 2min you said they would. They didn't even mix after 1 whole hour. I even follow the recipe exactly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dr. Sheri"
+},
+"reviewBody": "This was amazing! Cooked the yokes 6 minutes perfect!! Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Goldschlager"
+},
+"reviewBody": "Fun and easy, these eggs are a delight. I used my stick blender whisk though and it worked out just fine. My wrist was most grateful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth Duckworth"
+},
+"reviewBody": "Sorry, this didn't do it for me. I guess I don't like doing weird things to normal food, it's funny but I love sweetened Meringue over a lemon pudding but unsweetened meringue with a runny egg yolk isn't a palatable choice for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sweet P"
+},
+"reviewBody": "I made a kind of eggs Benedict, no hollandaise. Used a spicy pastrami over sour dough bread. I seasoned the egg whip with garlic, onion powder and parmesan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brent Blodgett"
+},
+"reviewBody": "Used a mixer"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JoAnn"
+},
+"reviewBody": "awesome! these were delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mike E"
+},
+"reviewBody": "I followed the recipe exactly. With exception to using greased parchment paper instead of a silicone sheet. These eggs were a nice treat, my kids really loved them! It was a bit tiring wisking them to the right consistency. I might go against Chef John’s recommendation to not use a power mixer next time. (Sorry Chef, I’ll let you know if it’s a disaster). Thanks Chef John, I’m a huge fan of your recipes and helpful videos!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dan Mingori"
+},
+"reviewBody": "This turned out great. The only change I made, I didn’t have clean hands so I substituted unclean hands. Was this the key to my success? Either way, another Chef John winner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Logical Paradox"
+},
+"reviewBody": "Made this for Mother’s Day 2020. Added saffron and cardamom to the whites, along with chives, cilantro, parsley, and a bit of dill. Topped with caramelized green onions.\n\nAwesome! Served over NYT No Knead Bread."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leo O'Campo"
+},
+"reviewBody": "Made this for Mother’s Day brunch with saffron and cardamom added to the whites, along with dill, cilantro, and parsley. Came out AWESOME!\n\nServed alongside the NYT No Knead Bread recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Aly"
+},
+"reviewBody": "This was awesome!! I topped it with crumbled bacon, grated cheese and a sprinkle of cayenne pepper on top and it was lovely. The only thing was that I baked the eggs a bit too long, so the yokes were not runny. Bake them only for the time suggested. I by accident put it in for extra time. It takes quite a while to whip the egg whites and my arm got quite tired but it other wise was very easy and delicious. I made these for my mom because it was Mother’s Day and she like them a lot too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "crboris"
+},
+"reviewBody": "Looks super impressive and it also looks like it was a lot of work. Super simple and quite delicious. I’ll definitely make this for guests when we can have them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pavel Zvonov"
+},
+"reviewBody": "So easy to make indeed. Thank you chef John! Loved your recipes and YouTube videos"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doris "
+},
+"reviewBody": "Looks beautiful and was easy to make. Even tho I broke the eggs transferring it cause it took me so long to whip the whites that it kinda dried the yolk a little. But it still worked! Just scooped all the yolk into the divet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "csbsix"
+},
+"reviewBody": "These were fun to make &amp; turned out fluffy and flavorful!"
+}
+]

@@ -1,0 +1,80 @@
+,"name": "Make-Ahead Frozen Yogurt Parfaits"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "594 kcal"
+,"carbohydrateContent": "89 g"
+,"cholesterolContent": "23 mg"
+,"fiberContent": "8 g"
+,"proteinContent": "14 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "77 mg"
+,"fatContent": "21 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1.5 cups raspberries, rinsed and drained",
+"0.5 cup white sugar",
+"1 cup blueberries, rinsed and drained",
+"1.5 cups granola",
+"2 cups full-fat plain Greek yogurt",
+"1 teaspoon vanilla extract",
+"1 teaspoon lemon zest",
+"0.5 cup white sugar" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine raspberries and ½ cup white sugar in a bowl. Crush with a potato masher into a puree. Cover and let sit out for 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Pass berry puree through a fine mesh strainer to remove seeds. Add blueberries, stir, and keep in the refrigerator until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk yogurt, vanilla, lemon zest, and sugar for frozen yogurt together in a bowl until sugar dissolves and the mixture is light and fluffy. Transfer into a piping bag and refrigerate until needed. To Build Parfaits:"
+} ,{
+"@type": "HowToStep"
+,"text": "Add 2 tablespoons of granola into an 8-ounce jar, or similar vessel. Top with 2 tablespoons of the fruit mixture. Try to make sure some of the fruit sauce is touching the glass so you can see the layers when frozen. Top with 2 heaping tablespoons of the yogurt mixture. Repeat twice more for a total of 3 layers. Top can be garnished with any remaining fruit and sauce."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/o5UUeLybadbNKt0W3A5IGSga_ww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_7863-2000-d5cc0edb850a4e7e923e59c2613b7a8d.jpg"
+}
+]
+,"text": "Freeze until frozen solid, about 8 hours, or overnight."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT555M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kaung Htaik San"
+},
+"reviewBody": "Tasty one"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Perfect!"
+}
+]

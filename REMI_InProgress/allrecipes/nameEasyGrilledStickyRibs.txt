@@ -1,0 +1,123 @@
+,"name": "Easy Grilled Sticky Ribs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "5"
+}
+,"cookTime": "PT135M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "890 kcal"
+,"carbohydrateContent": "25 g"
+,"cholesterolContent": "255 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "66 g"
+,"saturatedFatContent": "21 g"
+,"sodiumContent": "2892 mg"
+,"fatContent": "59 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"4 teaspoons kosher salt",
+"4 teaspoons white sugar",
+"1 teaspoon freshly ground black pepper",
+"1 teaspoon paprika",
+"1 teaspoon garlic powder",
+"2 racks baby back pork ribs",
+"0.33 cup ketchup",
+"0.25 cup brown sugar",
+"2 tablespoons soy sauce",
+"2 tablespoons rice vinegar",
+"1 tablespoon vegetable oil",
+"1 pinch cayenne pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 250 degrees F (120 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix salt, sugar, black pepper, paprika, and garlic powder for dry rub together in a small bowl. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Line a large sheet pan with heavy-duty aluminum foil. Place rack of ribs on the prepared pan, bone side down. Poke all over with a sharp knife. Make shallow slits across at an angle, and then repeat the opposite way; this allows the dry rub to penetrate. Coat on both sides with rub; flip back over, ensuring the bone side is down. Wrap tightly with foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer to the center of the preheated oven and bake for 2 hours. Remove from the oven and let cool to room temperature. Refrigerate until cold and firm, at least 2 hours, up to overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat a charcoal grill until coals are very ashy and hot."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the refrigerator, unwrap, and brush off excess fat. Slice between the bones to separate each rib."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine ketchup, brown sugar, soy sauce, vinegar, oil, and cayenne with a spoon in a bowl for glaze."
+} ,{
+"@type": "HowToStep"
+,"text": "Place ribs on the preheated grill and cook for 2 minutes; flip and brush over glaze. Flip and repeat process until ribs are as caramelized as you prefer, about 10 minutes more."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/vIoyFyRZRJ89wy--n4rem-pg6Lc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1Easy-Grilled-Sticky-Ribs--2000-1a3f695c022b47bfa4af8a6b7f14248a.jpg"
+}
+]
+,"text": "Remove to a plate and brush over one more application of glaze. Serve."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT300M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Tender and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason Copes"
+},
+"reviewBody": "Pretty foolproof way to make ribs everyone will love. The taste:effort ratio is high (or low, depending on your point of view). Low effort, high taste, in other words. People who have never cooked ribs before will think you're amazing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "These turned out really well! I could have baked them longer but didn't check them before I put them in the fridge. The flavor was great, and everyone loved them. Will do these again because the process was so easy to follow!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Definitely a great rib recipe without needing to bust out the smoker. I recommend doubling the sauce recipe (and maybe adding chipotle) for a stickier rib."
+}
+]

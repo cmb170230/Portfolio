@@ -1,0 +1,159 @@
+,"name": "One-Pan Chicken, Sausage, Peppers, and Potatoes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "10"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "625 kcal"
+,"carbohydrateContent": "44 g"
+,"cholesterolContent": "115 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "31 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "1868 mg"
+,"fatContent": "36 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 tablespoons olive oil, or more as needed",
+"1 sweet Italian sausage, casing removed",
+"3 small Yukon Gold potatoes, cut in half",
+"3 boneless, skinless chicken thighs, cut into 2-inch pieces",
+"1 teaspoon kosher salt, or to taste",
+"freshly ground black pepper to taste",
+"1 pinch cayenne pepper",
+"1 teaspoon dried Italian herb blend",
+"1 small red onion, sliced",
+"1 cup sliced red bell pepper",
+"0.5 cup chicken broth",
+"0.5 lemon, juiced",
+"2 slices Italian bread, toasted",
+"1 tablespoon chopped fresh Italian parsley" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Pour 2 tablespoons olive oil into a nonstick skillet. Break up sausage into small pieces and add to the pan; add potato pieces sporadically, flesh-side down. Place chicken pieces throughout the pan, smooth side down. Season with salt, black pepper, and cayenne. Sprinkle over Italian herbs. Scatter over sliced onion and bell peppers. Sear over high heat until sausage starts to brown, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce heat to medium-high, cover, and cook until potatoes are just tender, about 5 minutes. Add broth and cook until reduced by at least half."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/33AI7DZGVYurb5yXbueYHwKnblw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1One-Pan-Chicken-Sausage-Peppers-and-Potatoes-2000-f4ea8bb30fe3450bbac5d27dda765440.jpg"
+}
+]
+,"text": "Stir and squeeze over lemon juice. Taste and adjust if needed. Serve over toasted bread and top with parsley."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "squirllhunter"
+},
+"reviewBody": "Doubled everything as I was feeding 5 people. Plus added mushrooms. Left out green peppers as I didn't have any and I used white onion as I didnt have red"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I used frozen pepper medley but let it thaw &amp; dry before using. Used chicken breast &amp; added it a bit later in the cook. Next time I'll use a little more chicken stock as mine reduced quickly. Great flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "plates4u"
+},
+"reviewBody": "Made this recipe pretty much as is except that added mushrooms, had to use skin on chicken thighs, and did not use the cayenne. It was fantastic. I will make this again and honestly in my opinion is a main course on its own. Will definitely make it again!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim OKane"
+},
+"reviewBody": "I made this for dinner last night everyone loved it. I am going to make this again next week. It’s that good! Thank you, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DREGINEK"
+},
+"reviewBody": "10 stars!!! I think I may be one of the few, tenured users of this site that has NOT tried the sheet pan version but darn! Now I don’t want to! This was AMAZING! Blew our socks off! We doubled and used red and green bell peppers. I also added some garlic but - I have a hard time not adding fresh garlic to everything. 😉FORGOT the lemon juice! It’s still sitting on my counter. Oops! But wow oh wow! This was such a wonderful meal, we didn’t notice. I am seriously considering making again tomorrow! It’s that good!!! Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Absolutely delicious. Made according to recipe, except with more bell pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "silvercsw2056"
+},
+"reviewBody": "I only had chicken breast on hand. I tucked the thin end under to make the thickness of the breast uniform (no dry bits). I added the whole breast in right before lowering the heat to medium and putting the cover on the pan and didn't touch it for 10mins. When I took the lid off, flipped the breast over to brown for 2mins, took it out of pan to rest while I added the wine and stock. Carved the breast before serving. The chicken was juicy and everything had a beautiful carmelization! Served over orzo. Delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "marcpar"
+},
+"reviewBody": "Excellent!!! I have to say I prefer the original but I had this on the table in 45 minutes and that includes deboning the chicken thighs!!! Thanks for consistently great recipes!!!"
+}
+]

@@ -1,0 +1,119 @@
+,"name": "Chef John&#39;s Rocky Road"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "5"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "181 kcal"
+,"carbohydrateContent": "18 g"
+,"cholesterolContent": "6 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "47 mg"
+,"sugarContent": "4 g"
+,"fatContent": "12 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1.5 cups dark chocolate chips",
+"3 tablespoons unsalted butter, cubed",
+"2 teaspoons maple syrup",
+"1.5 cups miniature marshmallows",
+"1.25 cups lightly salted roasted almonds",
+"0.25 cup unsweetened cocoa powder" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine dark chocolate chips, butter, and maple syrup in a heat-safe bowl and place over a saucepan filled with about 1 inch of hot water set over the lowest heat setting on the stovetop. Allow mixture to melt; do not stir."
+} ,{
+"@type": "HowToStep"
+,"text": "While mixture melts, line an 8x8-inch baking pan with plastic wrap."
+} ,{
+"@type": "HowToStep"
+,"text": "Slowly stir melted chocolate mixture together with a spatula until shiny and smooth. Remove from heat and stir in marshmallows and almonds until combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Quickly transfer mixture into the prepared baking pan. Distribute evenly but do not smooth or press down the top--try to preserve a rough texture on the top. Let cool to room temperature, about 30 minutes. Wrap in plastic wrap and refrigerate until well chilled and firm, about 2 hours."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/wHhK1_J8eGHHjsV7goc36lMMmiQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8640115-917bc5b1dc954dcdafcd0d8224f48b13.jpg"
+}
+]
+,"text": "Sift cocoa over the top and cut into 16 squares."
+} ]
+,"recipeYield": ["16"]
+,"totalTime": "PT180M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bobbi"
+},
+"reviewBody": "LOVE!!! SO EASY &amp; QUICK!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JETJOUSTER"
+},
+"reviewBody": "Added 1/4 t of Cayenne when stirring. Used pecans and the FunMallows - orange strawberry lemon and lime. \nA keeper. Very easy to do and great end result. Everyone thinks you spent hours on it. Thanks Chef."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Buffy Slagle Dandoy"
+},
+"reviewBody": "Great recipe but be sure you really work fast to get the almonds and marshmallows in because the chocolate hardens quick but not sure if I did something wrong because my marshmallows started melting. The chocolate is too hot to work with right from the stove but too hard to work with if you let it cool a bit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elaine Ferrell"
+},
+"reviewBody": "Chef John has done it again! This recipe is so easy and so delicious. I've done this with both walnuts and pecans (I don't keep almonds) and both versions were incredible. Only difference with mine was I didn't add the cocoa on top. This one is definitely a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Matthew White"
+},
+"reviewBody": "This was really good to include in my homemade custard adding it was a tad bit hard but man homemade rocky road ice cream was delicious thank you for the rocky road recipe."
+}
+]

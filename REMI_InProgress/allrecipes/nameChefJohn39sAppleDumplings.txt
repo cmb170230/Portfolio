@@ -1,0 +1,209 @@
+,"name": "Chef John&#39;s Apple Dumplings"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "12"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "545 kcal"
+,"carbohydrateContent": "78 g"
+,"cholesterolContent": "18 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "350 mg"
+,"sugarContent": "51 g"
+,"fatContent": "25 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 teaspoon butter, or as needed",
+"1.5 cups packed light brown sugar",
+"3 tablespoons butter",
+"1 cup cold water",
+"3 tablespoons white sugar",
+"1 teaspoon ground cinnamon",
+"4 small Honeycrisp apples",
+"1 recipe prepared pie crust dough",
+"4 teaspoons butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Butter a baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine brown sugar, 3 tablespoons butter, and water in a small pot over medium-high heat. Bring to a boil, stirring occasionally, and boil until all sugar is dissolved. Turn off heat and swirl pot gently to combine. Reserve sauce until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir sugar and cinnamon together in a small bowl. Core the unpeeled apples."
+} ,{
+"@type": "HowToStep"
+,"text": "Divide pie dough into 4 portions. Roll out on a lightly floured surface into 4 circles about 1/8-inch thick and 7 inches in diameter, or large enough to fully wrap an apple."
+} ,{
+"@type": "HowToStep"
+,"text": "Place apples in the center of each round of dough. Spoon about 3 teaspoons of cinnamon sugar into the apple cores; fill each hole with a teaspoon of butter."
+} ,{
+"@type": "HowToStep"
+,"text": "Wrap each apple up in pie dough, sealing the dough together at the top. Be careful not to pull and stretch it too tightly around the apple as you wrap, or it might break apart when it bakes; brush lightly with water if dough won&#39;t stick together. Even out the top and trim off any excess; shape into decorative leaves if desired."
+} ,{
+"@type": "HowToStep"
+,"text": "Place wrapped apples seam-side up into the buttered baking dish. Ladle some sauce over each to cover completely."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/S1y_YI2UpBo_xFCdjW8XAnUXq58=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7694025-4f8b806863824219add2344858ee7195.jpg"
+}
+]
+,"text": "Bake in the preheated oven, basting with sauce occasionally, until pastry is browned and cooked through and apples are tender, 50 to 60 minutes. Remove from the oven and baste with more sauce. Serve warm."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT90M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Nielsen LeRoy"
+},
+"reviewBody": "We needed to use up some extra pie dough (Chef John's peach pie...also yum) and it was good! the crust did pop open a bit but not too bad, probably didn't have enough to really wrap it well. we used a honey crisp apple, next time would use same or granny smith. It turned out crisp brown, gooey and delicious! Wouldn't change a thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherri Holmes"
+},
+"reviewBody": "I used rerolled dough, folding is the trick. Basting is better than pouring sauce over apples, too much liquid at bottom of some. Dusting outside of apple as well with the sugar cinnamon mix added to the bit of apple later."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "von.wiggins63"
+},
+"reviewBody": "Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sherrys1115"
+},
+"reviewBody": "I made the dumplings with the pie crust recipe that is suggested here. The crust was easy to make and very tasty. Really added a lot of flavor to the dumplings."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeremy D"
+},
+"reviewBody": "I don't understand the low ratings for this recipe. Yeah, the dough splits if you stretch it too thin. So don't stretch it too thin. I've made this at least five times now, and it's great. I don't really like the peels left on, so I peel the apples now. These are like mini apple pies, but better. Ignore the people complaining about splitting and just make it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Richard Baas"
+},
+"reviewBody": "4th time trying this. 4th time they broke apart. Chef John needs to do something about this recipe, because it's an awful lot of work for a disaster."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Foody"
+},
+"reviewBody": "I used the commercial puff pastry I had on hand instead of pie pastry. The dumplings turned out nice and tasted okay. I used 4 different types of apples, Envy, golden delicious, fuji, and honey bee. After 60 minutes of baking, the former two types likely resulted in better texture. The Fuji was a bit too firm for my liking. The overall flavour could use something to give it more interest. Maybe next time I’ll add a few Crasins in the apple. The dumplings were not as sweet as I thought they would be even though the syrup itself was sweet. I made 10 apple dumplings, but in hindsight I really didn’t need to double the syrup, because now I have nearly a cup of it left over. This recipe is a good starting point."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BJ Mewborne"
+},
+"reviewBody": "This came out great! I saved a bit of time by skipping the decorative leaves. Also, I highly recommend saving your excess sauce after baking. It becomes essentially an apple infused caramel sauce that can be used in countless desserts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Diavet Hoye"
+},
+"reviewBody": "Taste was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "carrol cofer"
+},
+"reviewBody": "Mine turned out exactly like the one he made for Michelle! It was lovely at 50 minutes &amp; I went to 60 &amp; the crusts cracked open. Now they look like big ol' dinosaur eggs. The crust has a great hard glaze to it. #ForkDon'tLie They're cooling currently &amp; once I get a feel for the doneness of the Fuji apple, I'll know if 50 minutes was the right time or not."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Toni Bausch"
+},
+"reviewBody": "Fantastic as always. Thanks again Chef John!"
+}
+]

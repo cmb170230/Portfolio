@@ -1,0 +1,642 @@
+'http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/2975350028-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<meta content='IE=EmulateIE7' http-equiv='X-UA-Compatible'/>
+<meta content='width=1100' name='viewport'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://foodwishes.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://foodwishes.blogspot.com/2009/11/intro-text.html' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://foodwishes.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Food Wishes Video Recipes - RSS" href="https://foodwishes.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://www.blogger.com/feeds/7173052990851751381/posts/default" />
+
+<link rel="alternate" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://foodwishes.blogspot.com/feeds/2116491575748900522/comments/default" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<link href='http://4.bp.blogspot.com/_TtjHZtf6vtA/SvnGzWDTCFI/AAAAAAAAHCI/MvPRua6n1m4/File.jpg' rel='image_src'/>
+<meta content='https://foodwishes.blogspot.com/2009/11/intro-text.html' property='og:url'/>
+<meta content='The First Annual Foodbuzz Blogger Festival: The Greatest Food Blogger Event in the History of the World.' property='og:title'/>
+<meta content='I&#39;ll say right up front that this is the only food blogger festival I&#39;ve ever attended, but I can&#39;t imagine there has ever been anything to ...' property='og:description'/>
+<meta content='//4.bp.blogspot.com/_TtjHZtf6vtA/SvnGzWDTCFI/AAAAAAAAHCI/MvPRua6n1m4/w1200-h630-p-k-no-nu/File.jpg' property='og:image'/>
+<title>Food Wishes Video Recipes: The First Annual Foodbuzz Blogger Festival: The Greatest Food Blogger Event in the History of the World.</title>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Watermark
+Designer: Josh Peterson
+URL:      www.noaesthetic.com
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="keycolor" description="Main Color" type="color" default="#c0a154"/>
+<Group description="Page Text" selector=".main-inner">
+<Variable name="body.font" description="Font" type="font"
+default="normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="body.text.color" description="Text Color" type="color" default="#333333"/>
+</Group>
+<Group description="Backgrounds" selector=".main-inner">
+<Variable name="body.background.color" description="Outer Background" type="color" default="#c0a154"/>
+<Variable name="footer.background.color" description="Footer Background" type="color" default="transparent"/>
+</Group>
+<Group description="Links" selector=".main-inner">
+<Variable name="link.color" description="Link Color" type="color" default="#cc3300"/>
+<Variable name="link.visited.color" description="Visited Color" type="color" default="#993322"/>
+<Variable name="link.hover.color" description="Hover Color" type="color" default="#ff3300"/>
+</Group>
+<Group description="Blog Title" selector=".header">
+<Variable name="header.font" description="Title Font" type="font"
+default="normal normal 40px Georgia, Utopia, 'Palatino Linotype', Palatino, serif"/>
+<Variable name="header.text.color" description="Title Color" type="color" default="#ffffff" />
+<Variable name="description.text.color" description="Description Color" type="color"
+default="#997755" />
+</Group>
+<Group description="Tabs Text" selector=".tabs-outer .PageList">
+<Variable name="tabs.font" description="Font" type="font"
+default="normal normal 5px Georgia, Utopia, 'Palatino Linotype', Palatino, serif"/>
+<Variable name="tabs.text.color" description="Text Color" type="color" default="#ac2e04"/>
+<Variable name="tabs.selected.text.color" description="Selected Color" type="color" default="#000000"/>
+</Group>
+<Group description="Tabs Background" selector=".tabs-outer .PageList">
+<Variable name="tabs.background.color" description="Background Color" type="color" default="transparent"/>
+<Variable name="tabs.separator.color" description="Separator Color" type="color" default="#929d77"/>
+</Group>
+<Group description="Date Header" selector=".Blog">
+<Variable name="date.font" description="Font" type="font"
+default="normal normal 16px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="date.text.color" description="Text Color" type="color" default="#997755"/>
+</Group>
+<Group description="Post" selector=".post">
+<Variable name="post.title.font" description="Title Font" type="font"
+default="normal normal 30px Georgia, Utopia, 'Palatino Linotype', Palatino, serif"/>
+<Variable name="post.background.color" description="Background Color" type="color" default="transparent"/>
+<Variable name="post.border.color" description="Border Color" type="color" default="#ccbb99" />
+</Group>
+<Group description="Post Footer" selector=".post-footer">
+<Variable name="post.footer.text.color" description="Text Color" type="color" default="#997755"/>
+</Group>
+<Group description="Gadgets" selector=".sidebar .widget">
+<Variable name="widget.title.font" description="Title Font" type="font"
+default="normal normal 20px Georgia, Utopia, 'Palatino Linotype', Palatino, serif"/>
+<Variable name="widget.title.text.color" description="Title Color" type="color" default="#000000"/>
+<Variable name="widget.alternate.text.color" description="Alternate Color" type="color" default="#777777"/>
+</Group>
+<Group description="Footer" selector=".footer-inner">
+<Variable name="footer.text.color" description="Text Color" type="color" default="#000000"/>
+<Variable name="footer.widget.title.text.color" description="Gadget Title Color" type="color" default="#505050"/>
+</Group>
+<Group description="Footer Links" selector=".footer-inner">
+<Variable name="footer.link.color" description="Link Color" type="color" default="#ac2e04"/>
+<Variable name="footer.link.visited.color" description="Visited Color" type="color" default="#b63104"/>
+<Variable name="footer.link.hover.color" description="Hover Color" type="color" default="#8bae28"/>
+</Group>
+<Variable name="body.background" description="Body Background" type="background"
+color="#929d77" default="$(color) url(http://www.blogblog.com/1kt/watermark/body_background_birds.png) repeat scroll top left"/>
+<Variable name="body.background.overlay" description="Overlay Background" type="background" color="#929d77"
+default="transparent url(http://www.blogblog.com/1kt/watermark/body_overlay_birds.png) no-repeat scroll top right"/>
+<Variable name="body.background.overlay.height" description="Overlay Background Height" type="length" default="121px"/>
+<Variable name="tabs.background.inner" description="Tabs Background Inner" type="url" default="none"/>
+<Variable name="tabs.background.outer" description="Tabs Background Outer" type="url" default="none"/>
+<Variable name="tabs.border.size" description="Tabs Border Size" type="length" default="0"/>
+<Variable name="tabs.shadow.spread" description="Tabs Shadow Spread" type="length" default="0"/>
+<Variable name="main.padding.top" description="Main Padding Top" type="length" default="30px"/>
+<Variable name="main.cap.height" description="Main Cap Height" type="length" default="0"/>
+<Variable name="main.cap.image" description="Main Cap Image" type="url" default="none"/>
+<Variable name="main.cap.overlay" description="Main Cap Overlay" type="url" default="none"/>
+<Variable name="main.background" description="Main Background" type="background"
+default="transparent none no-repeat scroll top left"/>
+<Variable name="post.background.url" description="Post Background URL" type="url"
+default="url(http://www.blogblog.com/1kt/watermark/post_background_birds.png)"/>
+<Variable name="post.border.size" description="Post Border Size" type="length" default="1px"/>
+<Variable name="post.border.style" description="Post Border Style" type="string" default="dotted"/>
+<Variable name="post.shadow.spread" description="Post Shadow Spread" type="length" default="0"/>
+<Variable name="footer.background" description="Footer Background" type="background"
+color="#000000" default="$(color) url(http://www.blogblog.com/1kt/watermark/body_background_navigator.png) repeat scroll top left"/>
+<Variable name="startSide" description="Side where text starts in blog language" type="automatic" default="left"/>
+<Variable name="endSide" description="Side where text ends in blog language" type="automatic" default="right"/>
+*/
+/* Use this with templates/1ktemplate-*.html */
+/* Content
+----------------------------------------------- */
+body, .body-fauxcolumn-outer {
+font: normal normal 15px Verdana, Geneva, sans-serif;;
+color: #000000;
+background: #929d77 url(//www.blogblog.com/1kt/watermark/body_background_birds.png) repeat scroll top left;
+}
+html body .content-outer {
+min-width: 0;
+max-width: 100%;
+width: 100%;
+}
+.content-outer {
+font-size: 92%;
+}
+a:link {
+text-decoration:none;
+color: #ac2e04;
+}
+a:visited {
+text-decoration:none;
+color: #b63104;
+}
+a:hover {
+text-decoration:underline;
+color: #8bae28;
+}
+.body-fauxcolumns .cap-top {
+margin-top: 30px;
+background: #929d77 none no-repeat scroll center center;
+height: 96px;
+}
+.content-inner {
+padding: 0;
+}
+/* Header
+----------------------------------------------- */
+.header-inner .Header .titlewrapper,
+.header-inner .Header .descriptionwrapper {
+padding-left: 20px;
+padding-right: 20px;
+}
+.Header h1 {
+font: normal normal 40px Verdana, Geneva, sans-serif;;
+color: #ffffff;
+text-shadow: 3px 3px rgba(0, 0, 0, .15);
+}
+.Header h1 a {
+color: #ffffff;
+}
+.Header .description {
+font-size: 50%;
+color: #83864a;
+}
+/* Tabs
+----------------------------------------------- */
+.tabs-inner .section {
+margin: 0 20px;
+}
+.tabs-inner .PageList, .tabs-inner .LinkList, .tabs-inner .Labels {
+margin-left: -11px;
+margin-right: -11px;
+background-color: transparent;
+border-top: 0 solid #ffffff;
+border-bottom: 0 solid #ffffff;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .3);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .3);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .3);
+box-shadow: 0 0 0 rgba(0, 0, 0, .3);
+}
+.tabs-inner .PageList .widget-content,
+.tabs-inner .LinkList .widget-content,
+.tabs-inner .Labels .widget-content {
+margin: -3px -11px;
+background: transparent none  no-repeat scroll right;
+}
+.tabs-inner .widget ul {
+padding: 2px 25px;
+max-height: 34px;
+background: transparent none no-repeat scroll left;
+}
+.tabs-inner .widget li {
+border: none;
+}
+.tabs-inner .widget li a {
+display: inline-block;
+padding: .25em 1em;
+font: normal normal 5px Georgia, Utopia, 'Palatino Linotype', Palatino, serif;
+color: #cc3300;
+border-right: 1px solid #929d77;
+}
+.tabs-inner .widget li:first-child a {
+border-left: 1px solid #929d77;
+}
+.tabs-inner .widget li.selected a, .tabs-inner .widget li a:hover {
+color: #000000;
+}
+/* Headings
+----------------------------------------------- */
+h2 {
+font: normal bold 14px Verdana, Geneva, sans-serif;;
+color: #505050;
+margin: 0 0 .5em;
+}
+h2.date-header {
+font: normal normal 16px 'Courier New', Courier, FreeMono, monospace;;
+color: #000000;
+}
+/* Main
+----------------------------------------------- */
+.main-inner .column-center-inner,
+.main-inner .column-left-inner,
+.main-inner .column-right-inner {
+padding: 0 5px;
+}
+.main-outer {
+margin-top: 0;
+background: transparent none no-repeat scroll top left;
+}
+.main-inner {
+padding-top: 10px;
+}
+.main-cap-top {
+position: relative;
+}
+.main-cap-top .cap-right {
+position: absolute;
+height: 0;
+width: 100%;
+bottom: 0;
+background: transparent none repeat-x scroll bottom center;
+}
+.main-cap-top .cap-left {
+position: absolute;
+height: 245px;
+width: 280px;
+right: 0;
+bottom: 0;
+background: transparent none no-repeat scroll bottom left;
+}
+/* Posts
+----------------------------------------------- */
+.post-outer {
+padding: 15px 20px;
+margin: 0 0 25px;
+background: #f2f6ea url(//www.blogblog.com/1kt/watermark/post_background_birds.png) repeat scroll top left;
+_background-image: none;
+border: dotted 1px #2e04ac;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+}
+h3.post-title {
+font: normal normal 24px Verdana, Geneva, sans-serif;;
+margin: 0;
+}
+.comments h4 {
+font: normal normal 24px Verdana, Geneva, sans-serif;;
+margin: 1em 0 0;
+}
+.post-body {
+font-size: 105%;
+line-height: 1.5;
+position: relative;
+}
+.post-header {
+margin: 0 0 1em;
+color: #83864a;
+}
+.post-footer {
+margin: 10px 0 0;
+padding: 10px 0 0;
+color: #83864a;
+border-top: dashed 1px #686868;
+}
+#blog-pager {
+font-size: 140%
+}
+#comments .comment-author {
+padding-top: 1.5em;
+border-top: dashed 1px #686868;
+background-position: 0 1.5em;
+}
+#comments .comment-author:first-child {
+padding-top: 0;
+border-top: none;
+}
+.avatar-image-container {
+margin: .2em 0 0;
+}
+/* Widgets
+----------------------------------------------- */
+.widget ul, .widget #ArchiveList ul.flat {
+padding: 0;
+list-style: none;
+}
+.widget ul li, .widget #ArchiveList ul.flat li {
+padding: .15em 0;
+text-indent: 0;
+border-top: dashed 1px #686868;
+}
+.widget ul li:first-child, .widget #ArchiveList ul.flat li:first-child {
+border-top: none;
+}
+.widget .post-body ul {
+list-style: disc;
+}
+.widget .post-body ul li {
+border: none;
+}
+.widget .zippy {
+color: #686868;
+}
+.post-body img, .post-body .tr-caption-container, .Profile img, .Image img,
+.BlogList .item-thumbnail img {
+padding: 5px;
+background: #fff;
+-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+-webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+-goog-ms-box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+box-shadow: 1px 1px 5px rgba(0, 0, 0, .5);
+}
+.post-body img, .post-body .tr-caption-container {
+padding: 8px;
+}
+.post-body .tr-caption-container {
+color: #333333;
+}
+.post-body .tr-caption-container img {
+padding: 0;
+background: transparent;
+border: none;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+}
+/* Footer
+----------------------------------------------- */
+.footer-outer {
+color:#bcc891;
+background: #000000 url(//www.blogblog.com/1kt/watermark/body_background_navigator.png) repeat scroll top left;
+}
+.footer-outer a {
+color: #ffd148;
+}
+.footer-outer a:visited {
+color: #d7aa23;
+}
+.footer-outer a:hover {
+color: #ffe26c;
+}
+.footer-outer .widget h2 {
+color: #e0ecb4;
+
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body {
+min-width: 1000px;
+}
+.content-outer, .content-fauxcolumn-outer, .region-inner {
+min-width: 1000px;
+max-width: 1000px;
+_width: 1000px;
+}
+.main-inner .columns {
+padding-left: 0;
+padding-right: 360px;
+}
+.main-inner .fauxcolumn-center-outer {
+left: 0;
+right: 360px;
+/* IE6 does not respect left and right together */
+_width: expression(this.parentNode.offsetWidth -
+parseInt("0") -
+parseInt("360px") + 'px');
+}
+.main-inner .fauxcolumn-left-outer {
+width: 0;
+}
+.main-inner .fauxcolumn-right-outer {
+width: 360px;
+}
+.main-inner .column-left-outer {
+width: 0;
+right: 100%;
+margin-left: -0;
+}
+.main-inner .column-right-outer {
+width: 360px;
+margin-right: -360px;
+}
+#layout {
+min-width: 0;
+}
+#layout .content-outer {
+min-width: 0;
+width: 900px;
+}
+#layout .region-inner {
+min-width: 0;
+width: auto;
+}
+--></style>
+<script type='text/javascript'>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1239220-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<meta content='XfDQyexKVqWZra8wFSODFO8OMmvfTPxC3Cpy8Us25Xk' name='google-site-verification'/>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7173052990851751381&amp;zx=4fa998b4-1f72-48c1-a678-03fb5694ab92' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7173052990851751381&amp;zx=4fa998b4-1f72-48c1-a678-03fb5694ab92' rel='stylesheet'/></noscript>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6116047697248916&host=ca-host-pub-1556223355139109" crossorigin="anonymous"></script>
+
+<!-- data-ad-client=ca-pub-6116047697248916 -->
+
+</head>
+<body class='loading'>
+<div class='navbar section' id='navbar'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d7173052990851751381\x26blogName\x3dFood+Wishes+Video+Recipes\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://foodwishes.blogspot.com/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttps://foodwishes.blogspot.com/\x26targetPostID\x3d2116491575748900522\x26blogPostOrPageUrl\x3dhttps://foodwishes.blogspot.com/2009/11/intro-text.html\x26vt\x3d-1975500309835367144',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div class='body-fauxcolumns'>
+<div class='fauxcolumn-outer body-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content'>
+<div class='content-fauxcolumns'>
+<div class='fauxcolumn-outer content-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content-outer'>
+<div class='content-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left content-fauxborder-left'>
+<div class='fauxborder-right content-fauxborder-right'></div>
+<div class='content-inner'>
+<header>
+<div class='header-outer'>
+<div class='header-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left header-fauxborder-left'>
+<div class='fauxborder-right header-fauxborder-right'></div>
+<div class='region-inner header-inner'>
+<div class='header section' id='header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<a href='https://foodwishes.blogspot.com/' style='display: block'>
+<img alt="Food Wishes Video Recipes" height="94px; " id="Header1_headerimg" src="//3.bp.blogspot.com/-KmGufCZW8FI/UIjCr0zRvoI/AAAAAAAAMic/KXVlQU4rrho/s1600/fwblog.jpg" style="display: block" width="1107px; ">
+</a>
+</div>
+</div></div>
+</div>
+</div>
+<div class='header-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</header>
+<div class='tabs-outer'>
+<div class='tabs-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left tabs-fauxborder-left'>
+<div class='fauxborder-right tabs-fauxborder-right'></div>
+<div class='region-inner tabs-inner'>
+<div class='tabs no-items section' id='crosscol'></div>
+<div class='tabs no-items section' id='crosscol-overflow'></div>
+</div>
+</div>
+<div class='tabs-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='main-outer'>
+<div class='main-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left main-fauxborder-left'>
+<div class='fauxborder-right main-fauxborder-right'></div>
+<div class='region-inner main-inner'>
+<div class='columns fauxcolumns'>
+<div class='fauxcolumn-outer fauxcolumn-center-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-left-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-right-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<!-- corrects IE6 width calculation -->
+<div class='columns-inner'>
+<div class='column-center-outer'>
+<div class='column-center-inner'>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Tuesday, November 10, 2009</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry'>
+<a name='2116491575748900522'></a>
+<h3 class='post-title entry-title'>
+<a href='https://foodwishes.blogspot.com/2009/11/intro-text.html'>The First Annual Foodbuzz Blogger Festival: The Greatest Food Blogger Event in the History of the World.</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content'>
+<span style="font-family: verdana;font-size:85%;" ><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="//4.bp.blogspot.com/_TtjHZtf6vtA/SvnGzWDTCFI/AAAAAAAAHCI/MvPRua6n1m4/s1600-h/File.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 320px; height: 240px;" src="//4.bp.blogspot.com/_TtjHZtf6vtA/SvnGzWDTCFI/AAAAAAAAHCI/MvPRua6n1m4/File.jpg" alt="" id="BLOGGER_PHOTO_ID_5402567813402658898" border="0"></a></span><span style="font-family: verdana;font-size:85%;" >I'll say right up front that this is the only food blogger festival I've ever attended, but I can't imagine there has ever been anything to match this weekend's level of fantastic food, extraordinary drink, and amazingly diverse group of attendees.</span><span style="font-family: verdana;font-size:85%;" ><br /></span><p style="font-family: verdana;font-family:Verdana;" ><span style="font-size:85%;">When smart, creative, fun people plan an event, it should come as no surprise that the event ends up being smart, creative, and fun. That was certainly the case this weekend as I attended the <a href="http://www.foodbuzz.com/pages/festival">First Annual Foodbuzz Blogger Festival</a>.<br /><br />It was a smashing success on every level. Super delicious food, thought-provoking seminars and demos, and best of all, a chance to meet and mingle with the fine</span><span style="font-size:85%;">st food bloggers in the country.<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="//2.bp.blogspot.com/_TtjHZtf6vtA/SvnIMffBJdI/AAAAAAAAHCQ/r_z4-v03kd0/s1600-h/me.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px; height: 240px;" src="//2.bp.blogspot.com/_TtjHZtf6vtA/SvnIMffBJdI/AAAAAAAAHCQ/r_z4-v03kd0/me.jpg" alt="" id="BLOGGER_PHOTO_ID_5402569344943203794" border="0"></a></span><span style="font-size:85%;">They were all there; from fast-growing newcomers to food blogger royalty like Jaden from <a href="http://steamykitchen.com/">Steamy Kitchen</a>, Pim from <a href="http://chezpim.typepad.com/">Chez Pim</a>, and Elise from <a href="http://simplyrecipes.com/">Simple Recipes</a> (it was Elise's blog that first gave me the notion that blogging professionally could be a reality).<br /><br />It was a glorious weekend of eating food, while talking about food, while talking pictures of food &#8211; for a food blogger, that's the ultimate experience. That, and getting a link on one of the aforementioned blogs.<br /><br />The following recap is woefully incomplete. I made a conscience effort to stay in the moment and enjoy the food and people without being consumed with trying to get every shot and record every bite. Besides, with hundreds of the greatest food bloggers attending, I knew I could just link to their recaps later!<br /><br />What follows is a collection of highlights and pictures from a weekend I will never forget. Thank you <a href="http://www.foodbuzz.com/pages/festival">Foodbuzz</a>!</span></p><p style="font-family: verdana;font-family:Verdana;" class="MsoNormal" ><span style="font-size:85%;">The festivities began on the 8th floor terrace of the <a href="http://www.hotelvitale.com/">Hotel Vitale</a>. The views were incredible, as were the cocktails provided by <a href="http://www.skyy.com/">Skyy Spirits</a>. Bloggers from all over the country greeted each other, sharing similar tales of crazy commenters, blogroll slights, and annoyed spouses. Joie De Vivre chefs Nick Balla and Michelle Mah provided plenty of tasty tidbits, including a spicy bacon-laced mac and cheese that had the crowd buzzing.</span></p><div id="iqrg"  style="text-align: left; font-family: verdana;font-family:verdana;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-nuQeVGl3l-K3acX4aFrg5c7xkbMFMU5z045wbTxQfSQOBYfFtuiu8NWRe-qLiyJCPZRP_Lcn4at3VujGjMxbnQjSMydQO4tcnZeLVKbozcnZ2Q_ZeUCw=s0-d"></span></p></div><p style="font-family: verdana;font-family:Verdana;" ><span style="font-size:85%;">Then we all walked across the Embarcadero to the beautiful Ferry Building for a S.F. Street Food Fare. We were greeted by plates of Chicharrónes (crispy puffed pork skin fries). This one was expertly passed around by Kiersten from Foodbuzz, and one of the festivals driving forces. I've never been to a party where Chicharrónes were passed around that didn't turn out to be a great time, and this was no exception! (photo from Joel at   <a href="http://sixby10.blogspot.com/">Six By 10 Tiny Kitchen</a>)</span></p><div id="rjif"  style="text-align: left; font-family: verdana;font-family:verdana;"><p><span style="font-size:85%;"><img style="width: 500px; height: 426px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-l5jU4NKtBBGh7vtfHoh2B_q0QnOYjO66X3ieMMPuM_mEvJJRyVabH4bQrQ_OEwDk7gfvkQyZGpcTAjsMOgvbph3GnqbyABuNsLQNBzefx95jOyW7nuS9E=s0-d"></span></p></div><p style="font-family: verdana;font-family:Verdana;" class="MsoNormal" ><span style="font-size:85%;">Street food is huge in the City these days and some of our finest practitioners were there, including; Tacolicious, Spencer on the Go, 4505 Meats, and my favorite Roli Roti&#8217;s Porchetta. The porchetta sandwich you see here is simpy one of the most delicious things in the entire city. Succulent pork, crispy skin, caramelized onions, tiny peppercress &#8211; it is a masterpiece of culinary engineering. (Photo from Jo Boston at</span><span style="font-size:85%;"> <a href="http://www.jobostonisafoodie.blogspot.com/">Taking Over the World One Bite at a Time</a>)<br /></span></p><div id="xp13"  style="text-align: left; font-family: verdana;font-family:verdana;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-lLkX2vrqkYv_daB9AAh7X9NYRrcWlCVGcFezMmChv_Bq4BKUgN0blHraoAt_3uKglZVbPNOHwxaUk1-HJv3lpTededaS8RzRmJeiQHUHe3mMoqK6F-7RM=s0-d"></span></p></div><p style="font-family: verdana;font-family:Verdana;" class="MsoNormal" ><span style="font-size:85%;">The next set of photos is from the Saturday Tasting Pavilion at the Metreon's City View. Over 40 participating food producers, wineries, chefs, and bakers, shared their offerings to throngs of camera wielding food bloggers. It was a blast meeting and re-meeting bloggers here from all over &#8211; trading likes and dislikes, business cards, and many laughs.</span></p><div id="voi1"  style="text-align: left; font-family: verdana;font-family:verdana;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-mhVxygp5-lWtyCyIN5iRyyHPp041Y4Boy3WlMyj6TIzmfWGFvA2X5RGKTeH8KRCEw8iPVeMGgyE5VXedVkCGaS8Ulnl3ttz3YDf_xdHfc-il0V17m35w=s0-d"></span></p></div><p style="font-family: verdana;font-family:Verdana;" ><span style="font-size:85%;">This marinated squid and scallop dish from Fuego at the Maya was every bit as delicious as it was beautiful.</span></p><div id="hi9o"  style="text-align: left; font-family: verdana;font-family:Verdana;"><div id="mm84" style="text-align: left;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-ljZo7Yd1VUIfY6rHWLIfbVlumrkQLOkn2mqDx8X-wy3okuBtrfVqtF8j9_bYh1hG1PmvGxXh5oawbGrlH7MaIJ_10mXOrfBruKkJNlYxrb_Xlo_twMtQ=s0-d"></span></p></div><p><span style="font-size:85%;"><a href="http://www.bertolli.us/">Bertolli</a> was a major sponsor of the Foodbuzz Festival, and this simple crostini was one of my favorite bites. Caramelized onions, pinenuts, gorgonzola, and one of their prepared sauces made for a simple, but very satisfying snack. Using prepared sauces as a base for quick appetizers like this is a great trick for holiday entertaining. </span></p><div id="e9ck" style="text-align: left;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-mk0o7dEtPM5L69NMrBOpG6jj0Ry1W4cBHeEXuMzRCTAX5KRpk6aesx2am-WB-ruycGRHziV___-3MZ5pL9O2kir7biilQAP9S4vSYdU6vGDoKyE4xO=s0-d"></span></p></div><p><span style="font-size:85%;">Rouge Beer was sampling something called Morimoto Soba Ale. I didn't know the taciturn Iron Chef was so into beer, but it makes sense, to me there's nothing better with simple, clean Japaneses food than a tall, cold beer. I didn't get an exact translation, but I believe the characters on the bottle read, "It's always Beer-thirty somewhere."</span></p><div id="sxf7" style="text-align: left;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-lWP8ep2z1rLtCHvDBxb-90a4L8CU1HjgjuTPt4YapUz0vqm7Wl942pw_MONzcGXK3izTQxcLvWtzJIjfTK8fPEm5y80Ur9N1Xx5Ul1_2InPe6hWQv57A=s0-d"></span></p></div><p><span style="font-size:85%;">Pranther Ranch Meats were serving these perfectly portioned hot dogs. With all the "fancy" food we had over the course of the weekend, it was great biting into a reminder of what my inner-most foodie always craves. And look at those mustard racing stripes! Perfect.</span></p><div id="klwp" style="text-align: left;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-kx9pWO9wehN6iBwVMmGOj-aMd9nspo5uFLgZ6fY-v-VPHW-mfNErf8bbGTdiliplsIPsOj31sgQDqwZSKFrNZUdvkHUGoPjoXawq_F6AGg0NAZ7xH1ltM=s0-d"></span></p></div><p><span style="font-size:85%;">I didn't have one of these beautiful mini cupcakes, but the way the cloudless blue sky was reflecting off the white tray made me feel happy. Mini cupcakes are huge. </span></p><div id="pz9p" style="text-align: left;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-kC4iTEfGPDv1wyIRX8citN053_YnocGHm6aiq8PZJqz0kOuJtSzUo0kgD1zu2kWv1xbAXxYrVTmW2pLZEHOH_ZpfMS4HFHGUTBAVEQn-oV4tnAbmSG5O4=s0-d"></span></p></div><p><span style="font-size:85%;">I also attended a fun wine tasting seminar by Alder Yarrow, celebrity wine blogger and proprietor of <a href="http://vinography.com/">Vinography.Com</a>. It was called "Underappreciated California Merlots." Alder started the class by saying, "We're here today because of a comment some asshole made in a movie called Sideways." We tasted four great Merlots, and the take-away was it's now safe to buy and serve Merlots again. </span></p><div id="wqlu" style="text-align: left;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-l-1ZY8NeF2UFTmhiVI9u-jFkuNyfHuAKXFgagPFplUnWa7zFRkqvZZvzCbbgMX54xzsXQ8Ybo_YbeFfgy-h-lYdkLfWZ4IonQcQYKd55t_KJzMaxsQiw=s0-d"></span></p></div><p><span style="font-size:85%;">After a 10-mile run and a brief nap (only one of those is true - guess which), it was off to the Foodbuzz Farm-to-Table Dinner &amp; Blog Awards. We enjoyed an incredible dinner by <a href="http://www.outstandinginthefield.com/">Outstanding in the Field</a>, which was served family style on one long table that snaked around and through the <a href="http://www.greenleafsf.com/index.html">Greenleaf Produce Warehouse</a>. The feast was prepared by Chef Dennis Lee of <a href="http://www.namusf.com/">Namu</a> and featured an amazing array of fresh, local, seasonal ingredients.</span></p><p><span style="font-size:85%;">There was a passed amuse bouche of Ahi tonnato on buttery toasts, garnished with gochukaru and parsley. Speaking of gochukaru, for the rest of this post you are going to see lots of strange sounding ingredients listed. Feel free to google them, I'm getting ready to head up to Sonoma for a press trip and just don't have time to research them. All I know is they were GREAT. It was a very memorable meal to say the least.</span></p><div id="gc::" style="text-align: left;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-lJU1RfVKN9k5sRodDEi3Z3HAqumHZrh8n2bptyEvHjpWIUOPJkvk9d5ACKBFdOfTvkJrDbLCXzl8ElGki-ffh81RPvsWWOX0pCoRW9tWdLUTVAdHGNcV8=s0-d"></span></p></div><p><span style="font-size:85%;">There were wooden plates of marinated vegetables on all the tables. Beans, greens, roots, shoots, and my new favorite thing, kim chi. Every meal should start out this way. The cold, tangy crunch of the quickly pickled vegetables revived our weary tastebuds like a charm. I was now ready for the magic to come.</span></p><div id="h78v" style="text-align: left;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-lFqscgkV76LBICM_7-lpnCk1w9H0QiC4_i7MaFexo6Dy3OEEicR9GEZN2v08es8l5NnQtMmZM0B1f7pDmf5TnkatUnRHDxFC89mF48-B5d7LfMLiMSKT0=s0-d"></span></p></div> <p><span style="font-size:85%;">Next was a super-light mushroom dashi. The clear soup a perfect vehicle for the earthy array of maitake, shimeji, enoki mushrooms.</span></p><div id="ph0m" style="text-align: left;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-kCOaz4O4kYg1SDD_v9Bcak5-GzFDf2eGIVNI5GAID46VpLPBPsOSjQqejY9H0NT1yXrSiRvYdfEFTQoPsWCAdHsUroVYRDgFzPzI6di0ZkjDXxGagIBi4=s0-d"></span></p></div><p><span style="font-size:85%;">Next came an Udon noodle (is that redundant?) topped with grilled Monterey calamari with a browned butter ponzu reduction, cucumber, kaiware, frisée, yellow pear tomatoes, chojang and sesame vinaigrette. It was spicy, but not so much as to cover the staggering layers of flavors these ingredients produced.<br /></span></p><p><span style="font-size:85%;">This was one of the weekend's highlights for me, and brought about a sadness that came from knowing I could never make this myself. The chef had told me earlier that the squid was grilled over imported Japanese white oak. Where the hell am I going to get Japanese white oak?</span></p><div id="bvy9" style="text-align: left;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-mGX-fV59dvLLi2kUPM1L2wXhRyYMREdC54B54E29YzL7uyBmXlRW0SN2o4dRCMIGmcmsNm6rcWEme80HFT-EdMI3CUyyfUrLh3pXb-xgIdjhbs6Lq-ukg=s0-d"></span></p></div><p><span style="font-size:85%;">We enjoyed refreshing seltzer water from these cool blue bottles. Take that regular water!</span></p><div id="bdu0" style="text-align: left;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-lNvrWIqcwbLNxZjd8BnJZS_o6ZRY9-rJ7ZMVqmGkSEapmkXjdNsSK86LgpsilXfLwbLjb8vpChmT68YwLA-xfizDKZ5VkbRBbezvb5Dkx98KI0_UpLyzE=s0-d"></span></p><p><span style="font-size:85%;">My buddy Jesse from <a href="http://beerandnosh.com/">Beer and Nosh</a> (who won Best Beer Blog!) smuggled in a few bottles of home brewed beer which he shared with the table. It was fantastically funky and a great treat. Next year he needs to sneak in some beer mugs, these wine glasses were just too dainty for the muscular brew.</span></p></div><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-n7EpucCEdpZUF77oqg_MzlU5PsRwz2rMuFxpSCYO9OLdOS9OldWopjCu27HsmlWZMuHWd9K1EiQu7kNKlNLE_Mxja-e_xToyump3FIA9rABRx2eo8WNEA=s0-d"></span></p><p><span style="font-size:85%;">People kept saying how awesome the salmon was, but it was actually sea trout. It was cooked very rare on dashikombu and topped with fried garlic and Japanese curry powder. It was phenomenal! I could have eaten a pound of this with very little effort.</span></p><div id="lclj" style="text-align: left;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-kBxebhMAO0eJfwQo2gAg3AgeSBStgsZO4_EQUNnLm7os9oPqzwYI_jDZh5HbXrvdeGFHidz2bVmamsRzU34hsgN_zCgOWcnZemDJlYW2Cdh5LDzyt2wIE=s0-d"></span></p></div><p><span style="font-size:85%;">The sea trout was served with a creamy risotto made with koshihikari rice and topped with crispy maitake mushrooms. Wow. In a perfect world, crispy maitake mushrooms would replace popcorn as the snack of choice for watching movies. Can someone work on that?</span></p><div id="b0db" style="text-align: left;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-lG4OK2lawhQBlsEzTobeqBWDkfF02E9c6GbE_FHJx-bT564jwpV0Vreb8SQYEYQW0EYymeJEiKg3YxaSIypef9gtADqIMXXDAM81pXCM75yYvjzjqw9w=s0-d"></span></p></div><p><span style="font-size:85%;">Wines for the dinner were provided by Randall Grahm of <a href="https://www.bonnydoonvineyard.com/">Boony Doon</a>, a very legendary California winemaker. If you want to read a very intersting story, google "Le Cigare Volant" and read the history of how this wine got its name. These wines were a close encounter of the best kind! (that last line only makes sense if you know the story)</span></p><div id="dg2w" style="text-align: left;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-ntCQNDkyNHvIYwub_4adiFzcyCXtOxAQqpdOfoytq4nWN3igRbyCmtp_t0CY5nUc1ElJ5GHlNDUKStM4jsN-LoCZGa8ztOFu37l94Cx2K1qlwql6VsbQ=s0-d"></span></p></div><p><span style="font-size:85%;">I have no shots of the last course, which was a soy braised beef cheeks and oxtails served with baby carrots (you can see the carrots below) and fingerling potatoes. It was incredible, but the roasted brussels sprouts with ponzu fried garlic, guanciale, and bonito fakes stole the show. They were perfect. By the way, as soon as my fellow blogger start uploading photos I'll snag one to place here, so you can see the whole course.</span></p><div id="xh-e" style="text-align: left;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-nlqJ2GKZQtog14ikZt86VK4KaQQ_iLGOv3sJtZPV-PQECf5Yk4G6NjMqCeCJP0M81bIKoorX_C6AmaLTkBAy7QZfz8_efyEkRf7zcDDFk4qim2E5ci1zM=s0-d"></span></p></div><div id="tr1g" style="text-align: left;"><p><span style="font-size:85%;"><img style="width: 500px; height: 375px;" src="https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-mORm8Uv-dSfTIxHTYOrKD6NVZSfgmu1conRVV8_ZQed9EHm3x9aSzvX4gAO_DSbrU8XN3YpHgrCOwCwFsVi9AiNWYsxMJwSaulo6tJLmSo7mcFBa-KPJs=s0-d"><br /><p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="//3.bp.blogspot.com/_TtjHZtf6vtA/SvvP61iqlZI/AAAAAAAAHCo/aDiUsklS0Zs/s1600-h/beefcheeks.JPG"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 500px; height: 333px;" src="//3.bp.blogspot.com/_TtjHZtf6vtA/SvvP61iqlZI/AAAAAAAAHCo/aDiUsklS0Zs/beefcheeks.JPG" alt="" id="BLOGGER_PHOTO_ID_5403140787672880530" border="0"></a><br /></p><br /></span></p><p><span style="font-size:85%;"><br /></span></p><p><span style="font-size:85%;"><br /></span></p><p><span style="font-size:85%;"><br /></span></p><p><span style="font-size:85%;"><br /></span></p><p><span style="font-size:85%;"><br /></span></p><p><span style="font-size:85%;"><span style="font-weight: bold;">UPDATE: </span>Thanks to Brooke at <a href="http://foodwoolf.com/">Foodwoolf</a>, we now have photographic evidence of the aforementioned beef cheeks and oxtails course! Thanks Brooke!<br /></span></p><p><span style="font-size:85%;">The dessert was Koshihikari rice pudding with cookie crumble and warren pears. Unfortunately, I didn't have any as the nominees for the <a href="http://www.foodbuzz.com/blogs/1474529-announcing-the-foodbuzz-blog-awards">First-Annual Foodbuzz Blog Awards</a> were asked to approach the stage for the moment of truth. The collection of food blogging talent was staggering, and I realized just how special it was to be among the nominees.</span></p></div><p><span style="font-size:85%;">When Director of Community &amp; Managing Editor Ryan Stern and co-Mistress of Ceremonies, Jenn Di Piazza of <a href="http://www.leftoverqueen.com/">The Leftover Queen</a>, announced I had won the Award for Best Video Blog, I made my way to the stage with one simple goal. Do not fall down. Mission accomplished!!</span></p><p><span style="font-size:85%;">The weekend ended Sunday morning with a sunny brunch with <a href="http://www.naturespridebread.com/">Nature's Pride Bread</a> at Restaurant LuLu. The gathering included a make-your-own Bloody Mary bar, and not surprisingly no usable photos were taken. It was sad saying goodbye to all my new friends, but it was time for everyone to get back to "real life." I hope I get to see them all again next year!<br /></span></p><p><span style="font-size:85%;">A million thanks to Foodbuzz and <a href="http://www.foodbuzz.com/pages/festival_sponsors/">all the sponsors that made this magical weekend a reality</a>. I met so many inspiring bloggers from all over the country, and have a renewed sense of purpose for my blog. Thanks to everyone who voted, and stay tuned as I add links to the bottom of this post to other recaps of this wonderful event. Enjoy!</span></p></div>

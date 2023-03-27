@@ -1,0 +1,159 @@
+,"name": "Flash Pizza"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "7"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "619 kcal"
+,"carbohydrateContent": "59 g"
+,"cholesterolContent": "68 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "30 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "1725 mg"
+,"fatContent": "28 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 cups self-rising flour, or more as needed",
+"1.5 teaspoons white sugar",
+"2 tablespoons finely grated Parmigiano-Reggiano cheese",
+"1 tablespoon olive oil",
+"1 cup plain Greek yogurt",
+"1 teaspoon water, or as needed",
+"2 tablespoons cornmeal, divided",
+"0.667 cup pizza sauce, divided",
+"8 ounces low-moisture mozzarella cheese, shredded",
+"0.25 cup finely grated Parmigiano-Reggiano cheese, divided",
+"26 slices pepperoni, divided",
+"2 teaspoons olive oil, divided" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 500 degrees F (260 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix 2 cups self-rising flour, sugar, and Parmigiano-Reggiano cheese for dough in a bowl until well combined. Add olive oil and Greek yogurt and mix with a spoon until a shaggy dough forms. Clean off the spoon and mix the dough with your hands until it mostly comes together."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough to a work surface and continue pushing it together until it smooths out. It will be dry; don&#39;t be tempted yet to add more liquid. Knead dough until smooth and elastic, 3 to 4 minutes, only adding a teaspoon or two of water or flour if absolutely necessary. Cut dough into two equal pieces."
+} ,{
+"@type": "HowToStep"
+,"text": "Line a rimmed baking sheet with parchment paper and sprinkle 1 tablespoon cornmeal over the surface."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll one piece dough on a lightly floured surface to an 1/8-inch-thick rectangle. Transfer to the prepared baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Top dough with ½ of the pizza sauce, spreading it almost, but not quite all the way, to the edges. Sprinkle ½ of the mozzarella over the sauce, then ½ of the Parmigiano-Reggiano over top. Arrange ½ of the pepperoni slices over the cheese, then drizzle 1 teaspoon oil over top."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until crust is beautifully browned and toppings are bubbly, about 15 minutes. Transfer to a wire rack and let sit for 5 minutes before slicing and serving."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/WoF4J5sV0nJxKo0uDXydVRawT3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Flash-Pizza-2000-05e86013570141979be6cf37be1c0614.jpg"
+}
+]
+,"text": "As soon as you remove the pizza from the oven, repeat Steps 3 to 6 to top and bake second pizza."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT65M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chuck Smallman"
+},
+"reviewBody": "I used pesto instead of tomato sauce, with onions, jalapeños, spicy sausage, pepperoni, mozzarella, parmasean, and a little olive oil. Well-received by \"she-who-doesn't-care-for-pizza \"... :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JoyAnna Hester"
+},
+"reviewBody": "We absolutely love this recipe for a quick and easy pizza. Simple to mix, even if you don't have a stand mixer. I will add that if you don't have the parmesan reggiano cheese regular grated parmesan will work. It also tastes amazing as a crust flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sue"
+},
+"reviewBody": "If you don't have self-rising flour, you can make your own by adding 1 1/2 tsp baking powder and 1/2 tsp salt per cup of all purpose flour - also an AR recipe. I make my crust in a 10\" cast iron fry pan, which seems to brown the bottom better. I make one pizza with pepperoni, and one without. This recipe accommodates different tastes well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ray S"
+},
+"reviewBody": "Pretty quick and easy. Definitely liked the crust just not enough pepperoni for me so I added more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Simone Wheeler"
+},
+"reviewBody": "Really easy to make. I follow the recipe exactly as it is and the pizza came out delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim McLeod"
+},
+"reviewBody": "Thank you, Chef John, for making me feel like a pro once again. This pizza turned out amazingly. I made the recipe as is, except I used salami instead of pepperoni. The dough came together beautifully - I did not need to add water nor flour (just gave it some time kneading). It lifted easily off my surface and onto the pan. The cornmeal dusting on the bottom of the pan was brilliant. What a great touch. I made it using Chef John's pizza sauce recipe, which was also perfect. The crust came out nice. I was worried it would be soggy or flimsy, but it was just the right amount of firm. I don't see the temperature in the recipe write-up, but it's in the video. He says hot 500 degree oven for 15 minutes, which is what I did. I also impatiently waited while it cooled a bit on a wire rack - I recommend the wait, I think the crust turns out better. I only used one half of the dough, and put the other in the fridge. Not sure if it will work out the same after it's sat 24 hours... guess I will find out tomorrow, and I will let y'all know. I'm also going to throw on a few more toppings - not too many - and see how that works out. This recipe is a keeper! Super easy, super yummy. What more could you ask for? UPDATE: I baked the 2nd half of the dough 24 hours later. Put a little more sauce on, salami, chopped anchovy fillets and sliced black olives. It was SO GOOD. Crust turned out great! Photo is of this one."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "unis3"
+},
+"reviewBody": "So this is pizza AND it is a recipe from Chef John - of course it will be 5 stars! The entire family enjoyed this and I will be adding to my list of keepers. I baked at 450F for around 12 or 13 minutes. No changes were made other than omitting the pepperoni."
+}
+]

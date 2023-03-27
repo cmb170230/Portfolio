@@ -1,0 +1,330 @@
+,"name": "All-American Barbecue Sauce"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "27"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "45 kcal"
+,"carbohydrateContent": "12 g"
+,"fiberContent": "0 g"
+,"proteinContent": "0 g"
+,"sodiumContent": "226 mg"
+,"sugarContent": "10 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"2 cups ketchup",
+"0.33333334326744 cup packed brown sugar",
+"0.33333334326744 cup dark molasses",
+"0.5 cup white distilled vinegar",
+"0.5 teaspoon smoked paprika",
+"0.5 teaspoon chili powder",
+"0.5 teaspoon cayenne powder, or to taste",
+"0.5 teaspoon freshly ground black pepper",
+"0.25 teaspoon ground allspice",
+"0.25 teaspoon ground coriander",
+"0.25 teaspoon ground cumin" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/eEl9DOxnllOCYs0uJQLRnVgUYYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8239368-13547153eb054366b742bba6ae75a81f.jpg"
+}
+]
+,"text": "Combine ketchup, brown sugar, molasses, vinegar, paprika, chili powder, cayenne, black pepper, allspice, coriander, and cumin in a mixing bowl and whisk thoroughly."
+} ]
+,"recipeYield": ["24"]
+,"totalTime": "PT5M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Waaayyy too sweet, might be our limited range of ketchups here in Oz but leave the sugar out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maddie Franklin"
+},
+"reviewBody": "Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Chef John, please use metric weights. Conversions (for smaller batches) are much simpler."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom Zimmer"
+},
+"reviewBody": "I have been using a very similar recipe for many years but also add some reconstituted dried minced onion. Will sometimes add a few drops of liquid smoke if not using an outdoor grill."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rod c"
+},
+"reviewBody": "Excellent balance of sweet and heat. You can easily tweak it a bit more/less to achieve your own perfect balance."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chihuahuaphil"
+},
+"reviewBody": "Made as written except subbed 1/4 tsp curry powder for the coriander I didn't have, solely on the basis they both start with \"c\". Brought to boil &amp; then fridged overnight before using. Makes a perfect glaze for pork ribs as is. I'd play with the sugar &amp; cayenne if making as a table sauce, it could use a little more of both I think."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Scott Ledford"
+},
+"reviewBody": "I thought it was okay. My wife through it was too ketchupy...and that was after I added Worchester Sauce to give it more body."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dave Lawlis"
+},
+"reviewBody": "Exellent! And unlike many homemade BBQ sauce recipes this isn't overpowered by ground spices (and no I'm not averse to spicy foods at all). I did cut way back on the molasses because I just don't care for it that much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry"
+},
+"reviewBody": "Woweeeee. This sauce is delicious. Used to make BBQ Pizza II also from this site."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terri Wright"
+},
+"reviewBody": "While BBQing ribs we realized we had no BBQ sauce ( we add after cooking). Tried this recipe since I had all the ingredients on hand. No more store bought for us! Will be making this again!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan C"
+},
+"reviewBody": "This is an easy and tasty bbq sauce. I have made it twice and will be making it again today for a Labor Day get together. It pairs perfectly with Chef John's Salt and Pepper Ribs, which I will also be making again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Stinker47"
+},
+"reviewBody": "I reduce the sugar by half, with ketchup as a base you'll never miss it. That and add aTB of Worcesterhire sauce in place of the molasses."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jcfretts"
+},
+"reviewBody": "Delicious! I used this on pulled pork after it was rubbed and roasted, and this added the perfect finishing touch.\n\nI added onion powder and liquid smoke to mine, and will experiment with some of the add-ins others have suggested."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark"
+},
+"reviewBody": "Simple and tasty. Made as shown."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gl"
+},
+"reviewBody": "Excellent. Added 1/2 tsp. liquid smoke and 1 tsp. garlic powder. Will make again. (And I don't even like BBQ sauce!!!)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jean Riffou"
+},
+"reviewBody": "Quick and easy , taste great . i made 1/2 batch and kept it in the fridge for a couple of week ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bork"
+},
+"reviewBody": "Not a bad start for experimentation.\n\nIf you leave out the molasses you get a pretty convincing copy of Arby's Sauce!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "staticantics"
+},
+"reviewBody": "As the title says, classic All-American BBQ sauce. I've made it three times now. Because my store doesn't have 2 cup-sized ketchup bottles, the regular 20oz bottle is just a bit more I just use it all now, and it gives me a container to deliver the goods later. I think the flavors meld the best after hearing to a summer. Funnel back into ketchup bottle when done. \n\nOther tweaks to consider:\n- add Sriracha for a garlicky heat\n- too sweet? Add Soy and Worcestershire Sauce\n- want smokey? Add a 1/4 tsp liquid smoke\n\nOnce you make it the regular way, you'll want to experiment. Set out some ramikins and try adding pinches of different ingredients to see what you like."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Warren Pope"
+},
+"reviewBody": "This is a great, basic recipe. I couldn't help adding a bit of red wine vinegar and soy sauce. The recipe is a good one, that's open to all kinds of experimentation!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bobsyouruncle"
+},
+"reviewBody": "Better than store bought. Easy to make with pantry ingredients and taste great. Has a nice back end heat, I used it on pulled pork, and everyone ENJOYED!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KWatt"
+},
+"reviewBody": "Great sauce! We marinated baby back ribs in a dry rub, slow cooked for 2-3 hours (4 racks), and then basted the ribs with this sauce before grilling. Also poured a little over the ribs as we ate. Will definitely be my go to BBQ sauce!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Darren O'Neil"
+},
+"reviewBody": "This was the first time I made it and all I can say is WOW this is incredible and so easy to make I will make it again and very soon \nThanks Chef John"
+}
+]

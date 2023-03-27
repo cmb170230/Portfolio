@@ -1,0 +1,225 @@
+,"name": "The Perfect Picnic Pasta Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "14"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "492 kcal"
+,"carbohydrateContent": "51 g"
+,"fiberContent": "4 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "642 mg"
+,"sugarContent": "5 g"
+,"fatContent": "28 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"3 tablespoons Dijon mustard",
+"0.25 cup cider vinegar",
+"0.25 cup rice vinegar",
+"1 teaspoon kosher salt",
+"2 teaspoons white sugar",
+"1 pinch cayenne pepper",
+"1 cup olive oil",
+"2 teaspoons chopped fresh tarragon",
+"2 teaspoons chopped fresh dill",
+"2 teaspoons chopped fresh Italian parsley",
+"1 teaspoon chopped fresh chives",
+"1 teaspoon chopped fresh thyme",
+"1 pound rotini (corkscrew) pasta",
+"1 cup sliced snow peas",
+"1 cup thinly sliced carrots",
+"0.5 cup shelled English peas",
+"1 cup broccoli florets",
+"0.5 cup diced bell peppers",
+"1 cup sliced cherry tomatoes",
+"0.25 cup finely diced red onion",
+"2 tablespoons sliced green onions",
+"1 teaspoon kosher salt, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Whisk Dijon mustard, cider vinegar, rice vinegar, salt, sugar, and cayenne together in a large bowl for about 30 seconds. Whisk in olive oil in 1-teaspoon increments until emulsified. Whisk in tarragon, dill, parsley, chives, and thyme. Remove and reserve 1/2 of the dressing in a separate small bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring a large pot of lightly salted water to a boil; cook rotini at a boil until tender yet firm to the bite, about 8 minutes. Add snow peas, carrots, peas, and broccoli about 2 minutes before the pasta is done. Drain pasta and veggies well, but do not rinse."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer hot pasta mixture to the vinaigrette in the large mixing bowl and toss well to combine. Let rest for 5 minutes and toss again. Toss occasionally until the mixture is almost room temperature, 15 to 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add bell peppers, cherry tomatoes, red onion, green onions, salt, and the reserved dressing and toss well."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/7FTqdZyOYhypx8z5MrpQuQ0qZB0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9233661-7049dfea4c30464fb93ce8be65b69194.jpg"
+}
+]
+,"text": "Wrap and chill in the refrigerator for 3 to 4 hours before serving. Toss and adjust seasoning before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT225M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rnDee"
+},
+"reviewBody": "I'm hoping that this pasta survives the chilling stage. I keep finding excuses to go toss and taste it while waiting. I followed the recipe exactly (except that store did not have flat parsley so I had to settle for curly). I also wanted tri-color pasta but the store was not interested in what I wanted today. I would not change a thing. This recipe is a keeper that is going into my recipe box for future use."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "machiningpro44"
+},
+"reviewBody": "I added celery,"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I took this dish on a river trip. BIG hit with all 7. Definitely a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael J Whalen"
+},
+"reviewBody": "Unlike any other pasta I have a tasted thank you chef John🙏🙏🙏🙏💪💪💪💪"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chicklet5"
+},
+"reviewBody": "Made recipe exactly as written - delicious and made a ton for everybody. Vegan too. Loved."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Matty1963"
+},
+"reviewBody": "Prettiest, most delicious pasta salad, ev”ah!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Aaron Brooks"
+},
+"reviewBody": "I'm not typically a fan of pasta salad, but when I saw this recipe come out I knew I had to try it! Very impressed! The recipe is great as-is and we added lemon zest and fresh parm to it just before serving and really liked that addition as well. It is on the menu tomorrow for an Independence Day cookout! Give this one a try!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BreCookin'"
+},
+"reviewBody": "Crave-worthy pasta salad, can’t get enough! We altered the veggies to our liking and left our cayenne pepper, but STILL incredible! Thank you Chef John"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mike McNally"
+},
+"reviewBody": "I made this pretty much exactly as per the published recipe, and it was fantastic. My variations were to used shallot &amp; garlic seasoned oil for the dressing, and a little bit of garlic powder too, and Korean pepper flakes instead of cayenne. Overall however it was basically the same and it is probably the best pasta salad I've ever had. Fresh peas are a tad undercooked with just a couple minutes of boiling, but that made it better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason"
+},
+"reviewBody": "Like anything else CJ steals, it's a Grand Slam!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LisaMiller"
+},
+"reviewBody": "Beautiful and flavorful! Vinaigrette is delicious and versatile. Make the day before for flavors to develop and it was devoured!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gloria Scott"
+},
+"reviewBody": "It was really nice and I like the fact there are so many veggies."
+}
+]

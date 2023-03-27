@@ -1,0 +1,531 @@
+,"name": "Firehouse Chili and Cornbread Casserole"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "45"
+}
+,"cookTime": "PT105M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "523 kcal"
+,"carbohydrateContent": "47 g"
+,"cholesterolContent": "114 mg"
+,"fiberContent": "6 g"
+,"proteinContent": "29 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "1529 mg"
+,"sugarContent": "8 g"
+,"fatContent": "25 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 tablespoon olive oil",
+"1 yellow onion, diced",
+"2 teaspoons kosher salt, or more to taste",
+"2 pounds ground beef",
+"2 tablespoons all-purpose flour",
+"0.5 cup diced poblano pepper",
+"3 cloves garlic, crushed",
+"3 tablespoons chili powder",
+"2 teaspoons ground cumin",
+"2 teaspoons freshly ground black pepper",
+"0.5 teaspoon cayenne pepper",
+"0.5 teaspoon dried oregano",
+"1 (15 ounce) can fire-roasted diced tomatoes",
+"1 (15 ounce) can fire-roasted crushed tomatoes",
+"2 cups water, or as needed",
+"1 (16 ounce) can kidney beans, rinsed and drained",
+"2 (7.5 ounce) packages corn muffin mix (such as Jiffy®)",
+"1 cup grated white Cheddar cheese, divided",
+"2 large eggs",
+"1 cup milk",
+"0.25 cup sour cream, or to taste",
+"0.25 cup chopped fresh cilantro, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat oil in a large pot over high heat. Add onion, salt, and ground beef. Cook and stir with a wooden spoon or spatula until meat is browned and crumbled into small pieces, about 5 minutes. Stir in flour and cook for 2 minutes. Add poblano pepper, garlic, chili powder, cumin, black pepper, cayenne, and oregano; cook, stirring, for 2 to 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in diced tomatoes and crushed tomatoes. Measure water using the empty tomato cans and pour into the pot. Bring to a simmer, stirring occasionally, then reduce heat to medium-low. Let simmer, stirring occasionally, for 30 minutes before stirring in kidney beans. Continue simmering until bubbling and fragrant, about 30 minutes more. Taste for seasoning and adjust."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Place a deep 9x13-inch baking dish on a baking sheet. Transfer chili to the dish, being sure to leave at least 1 inch of space at the top. Stir to evenly distribute."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk corn muffin mix, 1/2 of the Cheddar cheese, eggs, and milk together in a bowl until smooth. Spoon evenly over chili until the surface is covered. Sprinkle with remaining Cheddar cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until cornbread crust is browned and a toothpick inserted into the crust comes out clean, about 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/sM529zso_YCgWbBw-6gBBOjIKAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7764000-2a8c558472744550a75986a155d980bc.jpg"
+}
+]
+,"text": "Spoon or ladle into a dish and garnish with sour cream and cilantro."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT120M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bobbie S"
+},
+"reviewBody": "Oh yeah! This was good. Chef John’s recipes seem to always be good. Since it’s just my husband and me I had to cut the recipe in half. I used bell pepper instead of the poblano peppers and I didn’t have any crushed tomatoes so I used an 8oz can of tomato sauce, otherwise I followed the recipe. I only used about 1/4 tsp cayenne pepper but I should have cut that back to 1/8 tsp because the heat was overpowering but still good. I put about 1/2 cup cheddar cheese in the one box of cornbread mix (Jiffy) but couldn’t taste it, probably because of the cayenne. I will make it again, it’s really good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marinta"
+},
+"reviewBody": "I have made twice without any changes and both times it was very good. I recommend putting a cookie sheet under the baking dish in the oven incase the chili bubbles over."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made it. I didn't add a whole onion,because my kids don't like onion too much. I sprinkled mozzarella on top after finishing. it was delicious. Super easy. Very quick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Noreen Mosley"
+},
+"reviewBody": "awesome!!! made the chili hot and the corn bread cooks on top!! very tasty recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "James"
+},
+"reviewBody": "Chef John does it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rosenfeldsally"
+},
+"reviewBody": "The chili was fabulous. I ended up doing the cornbread separately. Everything was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Char"
+},
+"reviewBody": "Although I did make a few changes based on personal likes - this was amazing!! I took it to a potluck and everyone wanted the recipe. Highly recommend and frankly, I might not ever make chili any other way. The crunchy corn bread on the top was to DIE for and will likely add more next time. \n\nHere are the changes I made. Ground turkey instead of beef. Chipotle spice instead of cayenne. Oat milk instead of cow. Used 2 cans of of fire roasted diced tomatoes, no crushed. Added some left over black beans to use up as well as Kidney. Double all the spices except salt. \n\nNext time, I will make all these same changes, but also add diced jalapeno to the corn bread mix with the cheese. GREAT recipe!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jim feldman"
+},
+"reviewBody": "I like my cornbread on it's own but this is a very tasty chili recipie that doesn't take a lot of prep time. In fact, I've created seasoning \"pods\" of all the seasonings (except flour) using small screw top food savers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Clinton"
+},
+"reviewBody": "This recipe is great! My family loves it and has already requested that I make it again soon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jen D"
+},
+"reviewBody": "This was even better than expected! I made a oil"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yune"
+},
+"reviewBody": "I rarely write reviews, but with this recipe couldn't resist. I followed the instructions but omitted the peppers, with 3 picky eaters at home, my 3 boys, didn't whant to risk it. My family loved it, the 9x13 inch dish was gone 30 minutes after getting out of the oven. Thank you for the recipe, I'll definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alicia Still Hausmann"
+},
+"reviewBody": "So awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mark3562"
+},
+"reviewBody": "This was a little bit of work but chili and cornbread is always worth it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MaryandBobby Glockson"
+},
+"reviewBody": "Loved this. Will definitely be in regular rotation. I cut the salt and cayenne in half and it was still great. Missed where it called for how much cheese in the ingredient listing? I winged it and just sprinkled 3/4 cup cheddar on top at the end."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Samantha"
+},
+"reviewBody": "We love Chef John's recipes! This one in particular has become a home staple for cooler days!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Silentangel1300"
+},
+"reviewBody": "Wonderful ! I will 100% make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Margaret Holguin"
+},
+"reviewBody": "absolutly delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "QOHearts"
+},
+"reviewBody": "Chef John did it again. I enjoy his recipes and videos! I made this one as written and it came out very yummy! The only change I made is I cooked and baked this in my large Dutch oven (6 qt). I’m a big fan of one-pot meals. This did lead to the cornbread being a little thicker and took about 5 extra minutes of baking time. Will definitely add this to my favorites!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dina Batchelder Hoskinson"
+},
+"reviewBody": "I know if it’s Chef John’s recipe, it is good. When I made the chili, I tasted it and wasn’t loving it; however, when I baked it with the cornbread, all the flavors melded together and it was so fabulous!!! Cant wait to make again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kathryny"
+},
+"reviewBody": "This was wonderful. The cornbread topping really hits it out of the park. I can't handle too much spice so I just used one tbsp of chilli and 2 tbsp of cumin and added cinnamon stick and bay leaf to my simmering pot. This created a milder heat level but still full of flavour. Delightful! Also, I couldn't find corn muffin mix in the grocery store but it was easy enough to make with cornmeal, flour, sugar, baking powder, salt, and vegetable oil. Just google jiffy corn muffin copycat recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trevor Bradshaw"
+},
+"reviewBody": "Easy recipe to do and delicious. I will be making this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brenda_J"
+},
+"reviewBody": "Absolutely loved it Chef John! Just a slight alteration, I used vanilla custard instead of sour cream. Subtle difference but really ties the dish together :) looks like this nurse is showing the firemen how to do it now LOL"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Remedy"
+},
+"reviewBody": "Solid chili recipe and a hearty dinner. I think its even better the second day reheated :3"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Myers"
+},
+"reviewBody": "Great recipe! The video is entertaining as heck for the commentary alone! I like my chili thicker, so I used less water. Other than that, it tasted too good to make any other changes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ml1888"
+},
+"reviewBody": "Yes I will make it again! My husband loved it!! Made during the Coronavirus shortage, so I used 2 cans of diced tomatoes (no crushed tomatoes in the stores); used Marie Callender cornbread mix, Jiffy all gone in stores. Spooned out a cup of chili so that the cornbread mix would fit, and that reserve came in handy to chili-fy my husband’s 2nd serving. Super yummy &amp; easy recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Nordstrom"
+},
+"reviewBody": "It was awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Wes Swain"
+},
+"reviewBody": "I made it just as the recipe called for, and I honestly think there was...too much cornbread in the chili to cornbread ratio? Next time I will cut it back to one box worth... otherwise it was fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Zechariahas Francis"
+},
+"reviewBody": "Chef John you’re a cooking legend. This recipe was fire."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ron bodratti"
+},
+"reviewBody": "my girlfriends newest favorite. made it per the recipe and it is great. use lean (85 or 90%) or be prepared to ladle off some grease before putting it in the oven. i too used the larger 8.5 oz iffy mix and it turned out fine. another great recipe from chef john"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Scott Janzer"
+},
+"reviewBody": "There is a typo, I believe: I couldn't find 7.5oz Juffy corn muffin mix, only 8.5. \n\nThe chili was missing...something. maybe my spices were smokey enough, or maybe next time I'll use smoked paprika.... \n\nI might also try to add some sweet corn onto the chili, but that will definitely push it away from \"chili\" and more into a mexican/tex-mex style dish. \n\nI think I added too much cheese for my own preference, but it was still tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carrie Degan"
+},
+"reviewBody": "I have been making Chili...forever....however, I have never thought to add this amazing topping of cornmeal. The only thing we changed was, no poblano pepper and added a heaping tablespoon of sour cream to the topping mixture. So moist and all was delicious!\nThank -you Chef John...for this recipe that we will make many times over!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mac"
+},
+"reviewBody": "Looks great! Could you do this in a Dutch oven as well?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KevinJ"
+},
+"reviewBody": "Mmm, this one's a winner. Wonderful combo. My grocery store didn't have cornbread muffin mix, so I had to make my own ('basic corn muffins' on this site). I lowered the cayenne by 1/2, but it could have used a bit more for my tastes... always tricky! Chile was not at all watery, which is often a problem for casseroles."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie"
+},
+"reviewBody": "This was awesome! I cooked this exactly as written and it came out fantastic! My husband loved it. I will definitely be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce Cordova"
+},
+"reviewBody": "I've made this twice now, the first time I followed the recipe exactly (awesome) and the next time I used slightly different ingredients due to shortages at our local grocery store during the whole COVID-19 panic buying apocalypse. I used the Gluten Free Corn Muffin Mix from Bob's Red Mill since the regular Jiffy mix was out of stock, and used regular sharp cheddar cheese. I just followed the instructions on the package of corn muffin mix and doubled the cheese since gluten free stuff tend to be drier. Crust tuned out moist and perfect. For the chili, I could only get regular diced tomatoes so I used two cans of that. This recipe is very forgiving and hard to mess up. Thank you for sharing this recipe, Chef John!"
+}
+]

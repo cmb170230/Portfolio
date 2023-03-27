@@ -1,0 +1,96 @@
+,"name": "&#34;Minute&#34; Steak and Egg with Red Hot Butter Sauce"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "659 kcal"
+,"carbohydrateContent": "7 g"
+,"cholesterolContent": "387 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "44 g"
+,"saturatedFatContent": "28 g"
+,"sodiumContent": "605 mg"
+,"fatContent": "50 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1 (6 ounce) top sirloin steak",
+"salt and freshly ground black pepper to taste",
+"4 teaspoons fine dry bread crumbs",
+"2 tablespoons clarified butter, melted",
+"1 large egg",
+"1 teaspoon clarified butter, melted",
+"2 teaspoons butter, at room temperature",
+"1 tablespoon Louisiana-style hot sauce",
+"2 teaspoons water",
+"1 teaspoon sliced green onions" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place steak between two pieces of plastic wrap and pound to a ¼-inch thickness. Season one side generously with salt and pepper, then sprinkle ½ of the bread crumbs over top. Place the plastic wrap back over the steak and pound a few times with the meat mallet. Repeat to season the other side with salt, pepper, and remaining bread crumbs."
+} ,{
+"@type": "HowToStep"
+,"text": "Set a pan over high heat. Add 2 tablespoons melted clarified butter and wait until it starts to smoke. Quickly and carefully add steak to the pan and cook for 1 minute. Flip steak and reduce heat to medium-high; cook until you see a little bit of pink juice pool on top of the steak, about 1 more minute. Flip again, turn off the heat, and transfer steak to a warm plate."
+} ,{
+"@type": "HowToStep"
+,"text": "Let the pan cool for 30 to 60 seconds, then add 1 teaspoon melted clarified butter. Turn heat to medium and add egg. Break the egg white so it&#39;s all the same thickness and the yolk is in the center. Add a pinch of salt and cook until egg white is cooked through with brown and crispy edges. Place the egg on top of the steak."
+} ,{
+"@type": "HowToStep"
+,"text": "Add room temperature butter and hot sauce to the warm pan. Swirl the pan until the butter has melted and emulsified into the hot sauce. Stir in water if sauce is too thick or starts to separate."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/9wxDwGdJBwK0pw7pKBrNN02EVuU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Minute-Steak-and-Egg-with-Red-Hot-Butter-Sauce-2000-884d880ba1394713bde6061b4b779acc.jpg"
+}
+]
+,"text": "Spoon sauce over steak and egg, and garnish with chives."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT15M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jsweeney0707"
+},
+"reviewBody": "So simple and so good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brenda Atkinson"
+},
+"reviewBody": "Just amazing, truly a breakfast of champions! Availability of steak choices were limited where we live, so go with Chef's sirloin recommendation if you can. I didn't have a Louisiana hot sauce either, mine had more black pepper undertones, but it was still delish. I recommend following the recipe if you can, but if you need to adjust based on what you have in stock it's still a great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "J Alan Hall"
+},
+"reviewBody": "This was everything Chef John said it was, and better. Kind of fun to make, too. Steak was crazy tender! Sauce was terrific, too. It was more hot sauce than I would usually use on an egg, but with the butter, it was perfect. Allrecipes rotated my picture for some reason."
+}
+]

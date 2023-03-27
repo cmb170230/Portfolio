@@ -1,0 +1,447 @@
+,"name": "Banana Bread Pancakes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "30"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "652 kcal"
+,"carbohydrateContent": "76 g"
+,"cholesterolContent": "115 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "12 g"
+,"saturatedFatContent": "14 g"
+,"sodiumContent": "542 mg"
+,"sugarContent": "30 g"
+,"fatContent": "35 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1.25 cups all-purpose flour",
+"0.5 teaspoon kosher salt",
+"0.5 teaspoon baking powder",
+"0.25 teaspoon baking soda",
+"1 large ripe banana",
+"1 large egg",
+"0.33333334326744 cup white sugar",
+"0.25 cup milk",
+"0.25 teaspoon vanilla extract",
+"0.25 cup unsalted butter, melted",
+"0.5 cup finely chopped walnuts",
+"1 tablespoon unsalted butter, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine flour, salt, baking powder, and baking soda in a small bowl with a whisk. Reserve until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Place banana in a mixing bowl and mash into a smooth paste with a potato masher. Add egg and sugar and whisk thoroughly until sugar is dissolved and mixture is smooth and creamy, about 2 minutes. Add milk, vanilla extract, 1/4 cup melted butter, walnuts, and flour mixture. Whisk until just combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Let batter rest for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/74c0BNKeUQBykI6RKfZFHnron3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-258-e762b95b10db48e9b5b6d731c81b30eb.jpg"
+}
+]
+,"text": "Melt 1 tablespoon butter in a large, nonstick pan or skillet over medium-high heat. Once the pan is hot, transfer in about 1/3 cup of the batter per pancake. Reduce heat to medium and cook until edges start to look dry and small air bubbles pop up through the surface, about 3 minutes. Flip and cook until golden brown, about 3 minutes more. Serve immediately."
+} ]
+,"recipeYield": ["3"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This has become my go to recipe that I have recently been making all the time. I love the way these pancakes turn out, flavor and texture, my friend said they are the best pancakes she has ever tried. There are a few changes I make. Even if you don't like to alter a recipe you will find, as others noted, you will have to at least double the milk. I made these the first time because I had bananas to use up, so I have always made them with two big bananas instead of one. Maybe as a result, I find it works best to use two eggs, and recently have been using vegetable oil instead of butter for my dairy allergy daughter. I also use a dairy free milk and the last two times used a few tbsps maple syrup instead of sugar. (The more moisture the better with this recipe, I even go a little light on flour) Finish with chocolate chips and crushed pecans, a little cinnamon mixed in the batter. Seriously the best pancakes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shuns29156"
+},
+"reviewBody": "Awesome!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Kovacs"
+},
+"reviewBody": "These were really amazing! I needed to add twice the liquid the recipe called for, though. Maybe because I was using buttermilk, which is quite a bit thicker than regular milk. Adding just a 1/4 cup was way too thick and doughy. Pancakes are all about batter texture. It takes some practice to get it right. Highly recommend using buttermilk for all pancake recipes though. I also add up to a tablespoon of cinnamon to all pancake batter. Even a little allspice or a dash of nutmeg give it a little extra interest."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "morenutty"
+},
+"reviewBody": "These banana bread pancakes were against the law good! I love banana bread, so these were right up my alley. I only used 1/4 cup sugar and upped the milk by just a splash, they were so delicious! Very quick and easy to put together, my new favorite pancakes! Thanks Chef John, never disappointed with your recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SamFloss"
+},
+"reviewBody": "I have made this a few times as written, and once with a mixture of flours because I ran out of all-purpose. These pancakes are addictive!\n\nI want to share my Goldilocks observation:\nWhen using one banana, if it is a very ripe huge banana, the batter will be looser. If a huge not-so-ripe banana, it contributes too much fluid and needs a little more flour or else you end up with runny batter. Small bananas which are very ripe do not contribute enough fluid and the batter will resemble brick-layer’s cement or spackle (or possibly sticky bread dough) — you need to use a spoon to poke it into a round shape in the pan to get a pancake of even thickness. Still tastes good.\n\nIdeally you use one slightly over-ripe medium banana, or two small very over-ripe bananas. Nothing fancy, just the generic yellow bananas found in American supermarkets. Just right!\n\nToday I used 1 and 1/2 super-ripe medium bananas that had shrunk on the counter as they aged. I added a bit of extra flour, which was not necessary. I poked the pancake batter in the pan with a wooden spoon, just a little, to hasten the shaping. Perfection!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leighton924"
+},
+"reviewBody": "I just made these and they were delicious, But i did add another banana and chocolate chips and it was really good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brian Scearce"
+},
+"reviewBody": "As others have noted, the batter is way too thick. My first pancake was a mound of batter, it wouldn't settle into a flat disk under its own weight, and no bubbles could work their way through, so I burned the first side waiting for them to appear.\n\nI about doubled the amount of milk in the remaining batter, resulting in something thick but pourable, and the rest of the 'cakes came out delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jan"
+},
+"reviewBody": "Delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bookwormmama"
+},
+"reviewBody": "Very tasty! I left out the nuts because that's my family's preference, and I will drop the sugar to 1/4 cup when I make these next time -- I will definitely be making them again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jess"
+},
+"reviewBody": "Chef John has done it again! These pancakes were tender, flavorful and easy to make. 3 min per side turned out to be perfect for me. Best pancakes I've had; no contest."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Puppy Love"
+},
+"reviewBody": "These were well liked by my family. I, like other reviewers, had to adjust the milk. 1/4 cup of milk was not enough for the batter to be manageable and I struggled with getting them to cook properly. Tripling the milk to 3/4 cup worked for me. Now to decide......Is this breakfast, or dessert?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "S Castillo"
+},
+"reviewBody": "They fluffed up beautifully. Everyone enjoyed them. I will make them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dee"
+},
+"reviewBody": "So good I also double the milk to thin it out"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeff St0rmtw"
+},
+"reviewBody": "I only changes the amount of milk. The second time I used twice the milk and it worked better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael M"
+},
+"reviewBody": "Made them this morning. Toasted the nuts first, and ADDED MORE MILK to get the right consistency. Served with fresh banana slices, maple syrup, and creme fraiche - along with a side of Farmland hickory smoked thick sliced bacon. Excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenny G"
+},
+"reviewBody": "So easy and yummy! Batter was thick and pancakes came out huge, but every piece was devoured. A keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MrsU"
+},
+"reviewBody": "Darn good! I went by the suggestions and used 1/2 cup of milk. It made 6 good sized pancakes. I'll for sure make them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Carbone"
+},
+"reviewBody": "Was easy to make and was very tasty. Surprised how much banana flavor it had! Perfect! Skipped the salt because only had salted butter. Used half brown, half white sugar. Added ceylon cinnamon No nuts or fresh nutmeg on hand but definitely next time! Thanks, Chef John"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "spice dumpling"
+},
+"reviewBody": "Very good. Nice change for breakfast.\nThanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Hippolyta7"
+},
+"reviewBody": "Extremely thick batter. I think I also tripled the amount of milk. It also could have used some spices. I think next time I will sub brown sugar and add cinnamon and nutmeg."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "D V"
+},
+"reviewBody": "Excellent! I'm going to use this recipe to make mini cupcakes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "morriganmum"
+},
+"reviewBody": "These really do taste just like banana bread. \nThick batter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marianne Offutt Harris"
+},
+"reviewBody": "Made one substitution—almond milk instead of cow’s milk. I also had two very ripe bananas and used both. The recipe made eight pancakes using a 1/3 cup measure. I did sift the flour before measuring and didn’t experience a dense product as others had suggested. Served with peanut butter syrup from Allrecipes and the combination was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Hollar"
+},
+"reviewBody": "The flavor of these was absolutely delicious! The bananas were a nice touch too. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daniel Fox"
+},
+"reviewBody": "This batter turned out slightly thicker than I wanted it to be but once I thinned it out with just a little more milk they turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jewlzly"
+},
+"reviewBody": "Just made those and they were delicious!! This recipe is perfect and 3 min per side is the exact cooking time. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vanessa Heesen"
+},
+"reviewBody": "The batter came out a bit thick for my preference, so I'll add a touch more milk next time, but excellent flavor! Can't wait to try some other add-ins. Will definitely become one of my go-tos for extra bananas!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "blackhighheels"
+},
+"reviewBody": "These were way too dense and heavy for me. Also, the batter was so thick for me that I checked and rechecked to see if I had put in enough milk. I wound up tripling the amount of milk called for before it was the right consistency. I really do wonder if there is a typo on the amount of milk."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Abdallah Taha"
+},
+"reviewBody": "God bless you chef Jon"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teresa O'Brien"
+},
+"reviewBody": "It was perfect!"
+}
+]

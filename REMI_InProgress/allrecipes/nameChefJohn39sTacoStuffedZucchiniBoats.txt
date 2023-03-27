@@ -1,0 +1,270 @@
+,"name": "Chef John&#39;s Taco-Stuffed Zucchini Boats"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "16"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "263 kcal"
+,"carbohydrateContent": "11 g"
+,"cholesterolContent": "62 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "18 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "731 mg"
+,"sugarContent": "5 g"
+,"fatContent": "17 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 tablespoon olive oil",
+"0.66666668653488 cup diced yellow onion",
+"1 pound ground beef",
+"2 cloves garlic, minced",
+"2 tablespoons diced jalapeno pepper",
+"1.5 teaspoons kosher salt, divided, or to taste",
+"1 tablespoon chili powder",
+"1 teaspoon paprika",
+"1 pinch cayenne pepper, or to taste",
+"1 teaspoon ground cumin",
+"0.5 teaspoon dried oregano",
+"2 teaspoons cornmeal",
+"1 pinch freshly ground black pepper to taste",
+"1 cup tomato sauce",
+"0.5 cup water",
+"4 large zucchini, halved lengthwise",
+"1.5 cups grated pepper Jack cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine olive oil, onion, and ground beef in a skillet over high heat. Cook, stirring, until onion turns translucent and the beef is browned and broken up into very small pieces, about 5 minutes. Add garlic and jalapeno pepper and stir for 2 minutes. Stir in 1 teaspoon salt, chili powder, paprika, cayenne, cumin, dried oregano, cornmeal, and black pepper. Cook for 1 minute more."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in tomato sauce and water and bring to a boil. Reduce heat to medium and simmer, stirring occasionally, until the mixture thickens to your desired texture, 5 to 10 minutes. Remove from heat and set aside to cool."
+} ,{
+"@type": "HowToStep"
+,"text": "Use a teaspoon or melon baller to scoop out about half the center of each zucchini to create a &#34;boat.&#34; Sprinkle generously with remaining kosher salt and let sit, 15 to 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with a silicone liner."
+} ,{
+"@type": "HowToStep"
+,"text": "Use a paper towel to blot any moisture that the salt draws out of the zucchini. Place boats on the prepared baking sheet and fill each one with as much taco meat mixture as will fit. Top evenly with pepper Jack cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until the cheese is browned and the zucchini is just barely tender, about 20 minutes. Test for doneness with a sharp knife. Serve immediately."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT85M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry"
+},
+"reviewBody": "Another winning Chef John Recipe. Hubby is not a big fan of zucchini but sure cobbled this dish up. I did put these in a glass baking dish as I did not want to lose any run over. Baked an additional 10 minutes. Loved this dish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Chef John, could you please explain the stuffing recipe ingredient: 1 1/2 tsp boneless skinless chicken breast cut into 4 pieces. Thanks, Chef Jack"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Murphy"
+},
+"reviewBody": "Whole family love this and ask for it often. Much healthier alternative to tacos. Even picky guests have loved them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "I used extra jalapeno, mozzarella, meat alternative and no cornmeal. Even the hubs loved! Will make again because the leftovers were great for lunch!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jane Mac"
+},
+"reviewBody": "I made this exactly as per the recipe. Wow, so good! Tasty and just perfect amount of spicy zing. My husband loved it as well. Two enthusiastic thumbs up!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gina"
+},
+"reviewBody": "Added additional peppers; otherwise I kept to the recipe. I've made it four times. It has become a summer favorite when fresh summer zucchini is available."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathleen Lensenmayer"
+},
+"reviewBody": "These were great! Excellent combination of the zuchinni with the taco filling. Will definitely make again!! Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rhonda taylor"
+},
+"reviewBody": "so good and no need to change"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maria"
+},
+"reviewBody": "I didn’t have any jalapeños so I added a little extra chili powder but otherwise made it exactly as noted. Very tasty and a great way to add a vegetable. Absolutely will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy F."
+},
+"reviewBody": "Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tina"
+},
+"reviewBody": "I don't agree with Chef John that zucchini is not very exciting or fun to eat. I think it is one of the great veggies of summer. I'm also a big fan of tacos. Therefore I fully expected to like this recpice. And I did. I make stuffed zucchinis a few times a year but usually with Mediterranean inspired stuffing using rice or potatoes, feta or fresh mozarella and pine nuts. Zucchini and ground beef (or pork) is always a great combo and this one is no exception. The taco seasoning and slight heat works great with this versatile veggie. My only swap was the cheese. I used a mild cheddar because Pepper Jack does not exist where I live."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EllenL."
+},
+"reviewBody": "Will be making this again and again. Hubby loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KnoxvilleJody"
+},
+"reviewBody": "Will make it again. Kids liked it and were surprised (expecting the worst usually helps). Didn't sub anything."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Legvold"
+},
+"reviewBody": "Excellent ! Loved how easy they were to make and my husband loved eating it. Will definitely make them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet"
+},
+"reviewBody": "Another hit from Chef John. Made this exactly as written and everyone loved it. I was careful to check the zucchini for doneness several times with a knife point as I loathe mushy vegetables. Pretty on the plate, too. Served with a salad on the side. Will definitely make again. Thanks Chef!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "buffycritter97"
+},
+"reviewBody": "I made this last night but had to substitute 93% Lean Ground Turkey for the Ground Beef. It still turned out delicious and we couldn't wait to eat the leftovers for lunch!"
+}
+]

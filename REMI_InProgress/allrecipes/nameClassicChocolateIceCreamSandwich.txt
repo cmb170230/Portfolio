@@ -1,0 +1,183 @@
+,"name": "Classic Chocolate Ice Cream Sandwich"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "10"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "205 kcal"
+,"carbohydrateContent": "30 g"
+,"cholesterolContent": "26 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "158 mg"
+,"sugarContent": "18 g"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"vegetable oil cooking spray",
+"0.5 cup all-purpose flour",
+"1 tablespoon all-purpose flour",
+"0.25 teaspoon kosher salt",
+"0.25 teaspoon baking soda",
+"0.33333334326744 cup sifted Dutch-process cocoa powder",
+"3 tablespoons unsalted butter, softened",
+"0.25 cup white sugar",
+"2 tablespoons light brown sugar",
+"0.5 teaspoon pure vanilla extract",
+"0.33333334326744 cup whole milk, at room temperature",
+"6 scoops vanilla ice cream" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with a silicone liner (such as Silpat®). Spray liner with cooking spray and rub it in to be sure it&#39;s completely covered."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk 1/2 cup plus 1 tablespoon flour, salt, baking soda, and cocoa together in a bowl until thoroughly combined. Sift mixture if it seems at all clumpy or chunky."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix butter, both sugars, and vanilla in another bowl with a spatula until you have a smooth paste. Add flour mixture along with milk and stir until batter is smooth and stiff. Clean off the spatula with a cookie scoop and drop 12 scoops batter onto the prepared baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until the tops of the cookies no longer look wet and shiny, 9 to 10 minutes. Remove from the oven and tap and shake the pan on the counter 5 times to settle and compress the cookies. Let cookies cool to room temperature on the pan, about 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer baking sheet into the freezer until cookies are firm, about 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the freezer and remove cookies from the pan by lifting the silicone liner carefully under each one. Poke 10 or 12 holes in the surface of each cookie with the sharp edge of a chopstick. Return to the freezer until ready to assemble."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/QeiCVL-1j4OEcPf9Oy5DLkSJXdI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9221756-fb1d3f473ba44b42a0e503f6e8c24298.jpg"
+}
+]
+,"text": "When ready to assemble, remove from the freezer. Turn one cookie upside down, place 1 scoop ice cream on top, and sandwich with a second cookie. Serve immediately or wrap in plastic wrap and freeze for 3 hours before serving. Repeat to make remaining ice cream sandwiches."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Excellent recipe! I made the recipe as written, but converted the measurements to weights to be more exact. So that I could use the correct ice cream scoop for the cookies, I took a screenshot of the ice cream scoop used in the video and enlarged the photo. The number on the scoop is 40 which equates to 1 1/2 tablespoons (see attached). I used my 1 1/2 tablespoon ice cream scoop but was only able to get 10 cookies from the recipe. Perhaps I over-filled the ice cream scoop. Like another reviewer, I used both a silicone mat and parchment paper and really couldn't tell any difference between the two. Anyway, the ice cream sandwiches were delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela Speight"
+},
+"reviewBody": "Loved this recipe. I made it exactly as it was written -- it came out perfect except that I had 8 small ice cream sandwiches instead of 6. I will double the recipe next time in order to make the sandwiches a little larger."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lizz"
+},
+"reviewBody": "Super easy and just as described - Classic Ice Cream Sandwich! I wasn't sure about scoop size so I ended up using a #30 scoop with a double batch of cookie dough. Made 17 1/2 \"cookies\" about 3\" in diameter (baked 9 minutes). Filled with Kirkland Brand (from CostCo) Vanilla ice cream and then took 1/2 the batch and rolled the ice cream ends in star sprinkles - super fun and tasty! My husband missed the rectangle shape so next time I am going to try making in a 9 x 13 pan and cutting them. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "edikeman"
+},
+"reviewBody": "This was a hit! The cookie part is great and I will definitely make it again. My yield was much different, though, just 9 cookies. Chef John, could you please share what size scoop you used for the cookie batter? Thanks so much!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shes Crafty"
+},
+"reviewBody": "Spot on! Delish -- and it did remind me of the ones I had growing up. And bonus points for being easy :D The hardest part was waiting 3 hours for them to set in the freezer. Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Electra"
+},
+"reviewBody": "This was so good! My dad raved on and on about the cookie part. I also made my Bryers ice cream into soft serve by mixing in a 1/2 of homemade whip cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael"
+},
+"reviewBody": "Easy to make! I used both Silpat and parchment paper...the parchment paper worked better for me...better &amp; more even cookie spread and easier to remove than my Silpat. Thanks, Chef John -- you're definitely one of my favorite internet chefs!!!!! (LOVE the Rigatoni al Segreto!)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brian Fox"
+},
+"reviewBody": "Its so good I want to say thank u"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Reents"
+},
+"reviewBody": "And as alwayss... eeeenjoyyyy!"
+}
+]

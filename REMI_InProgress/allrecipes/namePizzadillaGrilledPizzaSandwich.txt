@@ -1,0 +1,130 @@
+,"name": "Pizzadilla (Grilled Pizza Sandwich)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "6"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "704 kcal"
+,"carbohydrateContent": "78 g"
+,"cholesterolContent": "51 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "33 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "2022 mg"
+,"sugarContent": "12 g"
+,"fatContent": "28 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"20 ounces prepared pizza dough",
+"2 tablespoons olive oil, divided, or as needed",
+"1 cup pizza sauce, divided",
+"8 ounces mozzarella cheese, divided",
+"0.5 cup cooked Italian sausage, or to taste",
+"0.5 cup cooked mushrooms, or to taste",
+"0.5 cup cooked red onions, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Divide dough into 4 equal pieces. Roll each piece into a 1/8-inch thick circle on a lightly floured surface."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat a pan over medium-high heat and brush with oil. Add 1 piece of dough and reduce heat to medium. Cook for 2 minutes and flip. Spread 1/4 of the sauce over the dough. Sprinkle 1/4 of the mozzarella cheese and some sausage, mushrooms, and red onion on top, leaving about 1/2 inch of dough around the outside. Press gently into the middle of the dough with a spatula to make a crease; fold in half."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush crust with a little more olive oil and flip over. Repeat on the other side and continue cooking until both sides of the pizzadilla are as browned and crisp as you like."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/oUiRfo0_0FFKsGNNBStKnvA8NLY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7745003-fc32a43718784f929361331603ffed45.jpg"
+}
+]
+,"text": "Repeat with remaining pizza dough and toppings. Cut each pizzadilla in half and serve."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lacyanne"
+},
+"reviewBody": "This recipe is delicious as written and also wonderfully customizable. The sausage and mushroom combination is one of the best pizza combos but I can't wait to try other ingredients together. It is great to make ahead for lunch as it holds up well to being reheated. Also, it is very easy to dip into whatever condiment you may choose. This would be a fun appetizer for a party. Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erich J"
+},
+"reviewBody": "This was very good. I used Rao's pizza sauce and pre-prepared pizza dough."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MJ Shumaker"
+},
+"reviewBody": "I never made this, but it reminds me of something my family likes to do. We call it tortilla pizza. We put pizza sauce, cheese, and pepperoni on a tortilla, and fold it in half. Then, we cook it in a pan over the stove top. It's so much fun. You can even have a build your own tortilla pizza party with any toppings you could imagine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JChester"
+},
+"reviewBody": "Thanks for the basics, Chef John! Good to have in the arsenal!\nNow I just have to figure out the fillings for our favorite... the \"Philly Cheesesteak Papadilla\"!\nBut... I wonder if it's worth it, if they're only 6 bucks each &amp; they'll bring 'em to ya, on nights when I REALLY don't want to cook."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ely&Nino"
+},
+"reviewBody": "Wonderful and delicious! So easy to make when you don’t have an oven. Pizza should always be possible and with just a few basic ingredients and a hot pan, it is indeed possible! Fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy"
+},
+"reviewBody": "Yum. Absolutely delicious and so easy. I followed the directions in the recipe and our pizzadillas came out perfect. I made up my sauce and dough the day ahead (and zip locked each 1/4 recipe and refrigerated it), then let it come to room temperature before we started cooking our pizzadillas. I set up sauce (Chef John's recipe with San Marzano tomatoes and fresh and dried oregano), mushrooms, sausage, onions, peppers, olives (green and black) and pepperoni so everyone could top their own -- with the recommendation NOT TO OVERDO. It was a hit and a lot of fun. One guest did overdo, though -- he just couldn't pass up all the various toppings, which probably would have been okay if he had gone *very light* with each, but probably needless to say, he didn't and it was a little bit of a mess when he tried to fold it -- and messed up the pan for the next person (it was an easy clean). I didn't think to snap any photos, but will next time -- soon!"
+}
+]

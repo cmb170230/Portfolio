@@ -1,0 +1,1216 @@
+,"name": "The Best Baked Ziti"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "97"
+}
+,"cookTime": "PT105M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "627 kcal"
+,"carbohydrateContent": "58 g"
+,"cholesterolContent": "72 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "31 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "1380 mg"
+,"sugarContent": "14 g"
+,"fatContent": "30 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"0.75 pound hot Italian sausage",
+"0.75 pound sweet Italian sausage",
+"2 tablespoons olive oil",
+"1 large yellow onion, diced",
+"0.5 teaspoon dried oregano",
+"0.25 teaspoon dried thyme",
+"0.25 teaspoon dried rosemary",
+"2 (24 ounce) jars prepared marinara sauce",
+"2 cups water",
+"1 (16 ounce) package ziti pasta",
+"1 drizzle olive oil",
+"1.5 cups whole-milk ricotta cheese",
+"8 ounces mozzarella cheese, cut into small cubes",
+"1 cup grated Pecorino Romano cheese",
+"1 teaspoon chopped flat-leaf (Italian) parsley, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Cut down the length of each sausage with a sharp knife. Remove and discard casings."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a large saucepan set over high heat. Add sausages and onion. Cook, stirring occasionally and breaking up with a spatula, until sausage begins to brown, and onion turns translucent, 5 to 7 minutes. Add oregano, thyme, and rosemary and cook for 1 minute more. Pour in marinara sauce. Pour 1 cup water into each jar to rinse out remaining sauce; add to the saucepan. Stir together and bring sauce to a simmer."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce the heat to medium-low, and let simmer, stirring occasionally, for 1 hour. Taste for seasoning and adjust if needed. Turn off heat and reserve until needed. Before using, skim any excess fat that rises to the surface."
+} ,{
+"@type": "HowToStep"
+,"text": "While sauce simmers, bring a large pot of generously salted water to a boil. Add ziti and cook, stirring occasionally, for 1 or 2 minutes less than the directions on the package call for, about 8 minutes. Drain well and transfer into a large mixing bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Carefully add the meat sauce and stir until thoroughly combined. Let rest for 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, preheat the oven to 375 degrees F (190 degrees C). Grease a large 9x15-inch or 9x13-inch casserole dish with a drizzle of olive oil."
+} ,{
+"@type": "HowToStep"
+,"text": "Use a slotted spoon to transfer half of the pasta and sauce mixture to the prepared dish, then use a spatula to even out into a uniform layer. Top with 1/2 of the ricotta cheese, 1/2 of the mozzarella cheese, and then 1/2 of the grated Pecorino Romano cheese, being sure to distribute evenly. Top with the rest of the pasta and sauce mixture and give the pan a little shake to settle the sauce. Repeat the cheese application."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/nR9VQBJbMa9oWJVDUR2TSIc48rM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8564993-660d06496def41eb91cd21a8b8aa69c0.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until the cheese is melted and the casserole is piping hot, 30 to 35 minutes. Remove from the oven and let cool 10 to 15 minutes before serving. Top with parsley."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT140M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tina T"
+},
+"reviewBody": "This was a great recipe. I made it Friday for dinner and I have to say, the flavor was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "Hubbs loves this version. It was a day off, so I even made the ricotta! It wasn't dry, but mine didn't hold together either. I added a parmesan rind and a basil stem to the sauce as it simmered and only used hot sausage. Hubbs had the leftovers for his lunches so that really does mean he liked it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sweege"
+},
+"reviewBody": "This is delicious! The only change I had to make was to omit the onions, since no one in my family (but me) likes the texture and will not eat them. I added some onion powder to the sausage instead. Also followed Chef John's notes and used Parmesan instead of Pecorino cheese. Otherwise, I followed the recipe to the letter. Put the leftovers in the fridge and they soon disappeared. MAGIC! My kids are already asking me to make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Does not have an Italian taste. Not enough ricotta or mozzarella. Thyme and rosemary do not belong here and their taste comes through too much. Very generic diner ziti."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dale Parrott"
+},
+"reviewBody": "I added 2 cloves of garlic to the sauce and used Italian seasonings instead of the individual seasonings. I did use parsley on top though. Excelletnté!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeff Intake"
+},
+"reviewBody": "Channeling my inner Chef John today. 1/2 Italian &amp; (no longer but also) lived for years in San Francisco! Lol Had a meat sauce going since early morning &amp; trying to decide what to do with it, found this recipe. I do have some mozzarella &amp; ricotta on hand, so here goes nothing. Will definitely take into account what you said about making sure not too dry. The other recipe I've used calls for mixing most of the cheeses &amp; pasta with sauce before pouring into baking dish. Will try your way instead &amp; add some water to my sauce so not too thick. Thanks again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Olivia"
+},
+"reviewBody": "This is great! I did make a few changes: -I used all mild Italian sausage and added some fermented calabrian chili peppers for spice. My store was out of spicy sausage. -I also added a few cloves of minced garlic a couple minutes before adding the marinara to the meat. -Added 1/4 tsp dry basil with the other spices. -I had goat cheese I needed to use so I added 5 oz of goat cheese crumbled and mixed into the ricotta for some extra tang. -Rigatoni noodles instead of ziti Other than that I did everything just as written and it was delicious! I think using Rao's brand marinara and high quality cheese is really key here. Also it may look like too much sauce but it's definitely not!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steve G"
+},
+"reviewBody": "Chef John's recipes never disappoint. He's right about most ziti dishes being dry. Definitely not this one! It's delicious and a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jane Couture Lyons"
+},
+"reviewBody": "It got rave reviews from my dinner guests"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allison Clarke"
+},
+"reviewBody": "I used a lb of mild and hot sausage and added a garlic clove. Other than that followed the recipe exactly. Everyone loved it. I will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "colegramling"
+},
+"reviewBody": "Incredible, like any Chef John recipe. The amount of sauce is the key and prevents a bunch of flavorless crunchy ziti like I'm used to. I cut up a few zucchini and used a Chef John method from another video, salting the pieces heavily and letting that draw out moisture for 20 min in a strainer before rinsing &amp; adding them to the sauce mixture for the last 5 minutes of simmering. Flavorful &amp; a little crunchy instead of bland and mushy! Next time maybe I'll stir in a bag of spinach and call it health food."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Hosted a dinner for 30 people recently for a 50th wedding anniversary party. Loving all Chef Johns recipes, I knew this would be perfect. I doubled the recipe and served with salad and garlic dinner rolls. IT WAS A HUGE HIT! Every single person (children to those in their 60-70's) commented how it was the best they had ever had. Most had seconds and some thirds! The entire weekend, everyone still commented how good it was, and admitted to having reservations when they heard I was serving ziti. Like all of us, ziti are usually dry pile of noodles and tasteless. We even had it for breakfast the next morning. Thanks for sharing Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BMWRick"
+},
+"reviewBody": "One of my favorite dinners! I substituted onion powder for the onion, plus I add 1 teaspoon of garlic powder and I’m a little heavy with the cheese! It’s delicious, so good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzie"
+},
+"reviewBody": "This was AWESOME! Wonderful flavors, even better the second day! One of my daughters said, your pasta was AMAZING mom, can you save some more for me. Loved it! As always...thank you Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PDKOST"
+},
+"reviewBody": "I made this as written, using all sweet Italian sausage. It was a huge hit with our guests! It was absolutely delicious and a recipe I'll be using again and again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tera"
+},
+"reviewBody": "This recipe is THEE BEST! The only thing I did differently is add kosher salt to the sauce while it was simmering. Watching the video was a great help in putting dish together. Kudos to Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "wheezer"
+},
+"reviewBody": "Excellent! Great flavor, not dry, very cheesy, sausage a delicious addition. My sauce cooked down pretty quickly -I didn't have the same volume as seen in the video."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cherylhinch"
+},
+"reviewBody": "I followed the recipe exactly along with an added 1/4 cup chopped basil into the sauce just before layering. My husband loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bran"
+},
+"reviewBody": "Awesome ziti. Easy to make, and it's a crowd pleaser. Slap your momma good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl G"
+},
+"reviewBody": "Chef John nails it again. It has a rich meat sauce, it is moist, and has enough cheese. This is my new go to pasta when I want ziti or lasagne. It was a hit at my dinner party. I followed the recipe exactly as written."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bibi"
+},
+"reviewBody": "This tastes like a great lasagna, without all the layers. The whole family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John R"
+},
+"reviewBody": "the best I've made"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dvonthaden"
+},
+"reviewBody": "came out great! even my super picky kids loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "marge"
+},
+"reviewBody": "Everyone loved it. Exception I added ground meat mixed with sausage."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "9h4b7wj62v"
+},
+"reviewBody": "I've made this about 6 times now. I didn't change a thing. It's a classic baked ziti I noticed many recipes don't use ricotta. My family doesn't do leftovers but this one always gets better the next day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CookinDaddy"
+},
+"reviewBody": "Muy Perfecto! This one is a keeper! I only had a pound of Italian Sausage so I added 1/2 lb of ground beef. To me, the next-day leftovers are are even better, but sometimes can be a little dry so I love the amount of sauce with this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "js1"
+},
+"reviewBody": "Didn’t change a thing and it was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy Vandanna"
+},
+"reviewBody": "I make a lot of Italian dishes, and the simplicity of this recipe surprised me. I followed the directions but did add a tablespoon of minced garlic to the meat/garlic mixture. This is a really good sauce which I also plan to try on veggie pasta. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joanne"
+},
+"reviewBody": "I love this recipe. I have made it several times and it is always delicious.\nHow many days in advance can I make it without freezing it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Franki"
+},
+"reviewBody": "This was so delicious. I used sweet sausage and ground veal as the meats. And I really piled on the mozzarella. It came out great, everyone loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patrick Buchanan"
+},
+"reviewBody": "Best I’ve had ever. Just buy the best Italian sausage you can (not Johnsonville, etc). Go to a nice store like wegmans, fresh market, or wherever)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "POGOMAHONE"
+},
+"reviewBody": "I made this recipe as a last-minute dinner, and my family loved it! Made a couple of substitutions, including the suggested parmesan for pecorino romano - I didn't have any Italian sausage, so I used a pound of lean ground beef and adjusted the spices accordingly. Also chopped up a 1/4 cup of fresh basil to replace the Italian parsley. Taste is amazing, texture is heavenly. Use whole-wheat pasta for a bit of extra nutrition. Next time we'll try the sausage, because I plan to make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brenda Merchant"
+},
+"reviewBody": "Best Baked Ziti ever is right!!! will never use another recipe for this again!!!!!!!!!!!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Melgar"
+},
+"reviewBody": "Phenomenal recipe! I wouldn’t change a thing when making it again, the flavors were all spot on - love the mix of sweet and spicy sausage. I didn’t need to add any extra seasoning. The pasta was perfectly cooked at 30 min in the oven. I just subbed fresh rosemary and regular parsley from my garden"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pamela"
+},
+"reviewBody": "My whole house smells so amazing. DELICIOUS. I will definitely make this again. Tasty, easy. YUM."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tommytg"
+},
+"reviewBody": "Chef John, you are the best! This is a top ten meal in our family. My children are young at 9, 7 and 4. They are super picky and it's rare to find a meal that they all like. Well this is one! I cook this in a large lasagna pan. And after the first meal, we always have enough left over for two more meals. I chill the pan overnight in the fridge, then divvy the leftovers into food saver bags and vacuum seal them for the freezer.\nI do make a couple of changes to this recipe, I add about 1/2 cup of Asiago and mix it with the pecorino and I add about 1/2 cup red wine to deglaze the sausage and onions. Everything is better with asiago and red wine ;-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Isabella Freeman"
+},
+"reviewBody": "It really is the best baked Ziti! My dad and Mum loved it! But my dad said it wasn't as good as his and me and my mum went laughing away!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lorraine"
+},
+"reviewBody": "Very good! I substituted hamburger for the hot sausage and used Italian sweet sausage. Very yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DebbyJean"
+},
+"reviewBody": "This really is The Best. It isn't too saucy or dry. It's perfect. Even reheated well. My new go to recipe for ziti."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bonnie Carter"
+},
+"reviewBody": "So glad I tried this. I made it for my husband and didn't plan on eating any because I don't like sausage. I recommend making it as written, although doubling mozzarella is a good idea for cheese lovers"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rodney Keith Bone"
+},
+"reviewBody": "Awesome"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LKH"
+},
+"reviewBody": "The double sauce really makes this dish great. I love this and now make it regularly. I make the full amt. of sauce, and since my supermarket sells uncased sausage in 1 lb. packs, I use the whole 2 lbs., adding an 8oz can of pl. tom. sauce and a can of fire roasted tomatoes because I like the chunks. I freeze half the sauce and make an 8x8 dish of it for 2 of us with the other and 8oz ziti. I love ricotta and use the whole 14oz container. Then the right amt. of mozz, pepper jack, asiago and romano, parm., whatever's in the frig.\nThis is comfort at it's best, sorry mac and cheese! I will make this forever, as a matter of fact, right now. Thanks, Chef John (and Allrecipes) !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Thom"
+},
+"reviewBody": "I've made this one several times. The second and subsequent times I added a bit more pecorino. Hey! pecorino is a little on the pricey side. I didn't want any to go to waste. This is defiantly a family favorite. Of course you can cut the recipe down to a more manageable size, but I do the full service for ten. As good as this was fresh, the leftovers were nothing less than outstanding. Make sure you use a big enough pot for the sauce. It totally filled my 6 quart French oven. I thought it was going to be too much sauce. However, it cooked down nicely."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nick"
+},
+"reviewBody": "Outstanding! Fun to make and simply delicious. This makes people think that I know what I'm doing, which is all you ever really ask of a recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Thought this would be better than Baked Ziti I but It isn’t. I think it’s because of the ricotta and mozzarella which I think aren’t enough. Flavor too mild. The Baked Ziti I has sour cream j stead of ricotta and provolone which"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ekbrook"
+},
+"reviewBody": "I agree...it is the best baked Ziti I have had. This is my new standard recipe. Thanks for another masterpiece Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary"
+},
+"reviewBody": "I love this baked ziti! I usually don't even like baked ziti that much because it is always so dry, but this is amazing! I have made it several times and it comes out perfectly each time. I followed the directions exactly- no reason to change anything. It is perfection! \nI would suggest you try any recipes by Chef John. He is awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DobieLover"
+},
+"reviewBody": "To make it a bit healthier I substituted the hot italian pork sausage with hot italian turkey sausage. This was an extremely tasty dish!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "whatevworks"
+},
+"reviewBody": "Made it EXACTLY as written. Okay, not really. Used whole wheat pasta (which required an additional amount of water since ww noodles soaked up more of the sauce) and chunk parmesan cheese (grated) instead of overly priced p.r. cheese. We, love, Love, LOVE this recipe. Have made it SEVERAL times ! Thanks, Chef John !!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pate111"
+},
+"reviewBody": "Best baked ziti recipe EVER !!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "A. Mosely"
+},
+"reviewBody": "Needs a baking dish larger than 9 x 13 as it overflowed in the oven. Easy to prepare and tastes great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ashsmiles"
+},
+"reviewBody": "I actually checked out this recipe because Chef John knows best, and I've been making traditional Italian ziti for years. But I wanted to see if I was nailing it according to the expert. My recipe is bang on similar, accept I use 5 sausages not 4, and I never added rosemary to it. Other then that, I guess I just have one question for Chef John or whoever at Allrecipes: what do you advise is the best way to reheat Ziti from frozen? I've been cooking large amounts (to share) with this pandemic, and dropping off food on my family or friends porches. Any tips for reheat after defrost?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "james"
+},
+"reviewBody": "Be careful when making this, as there will be fights for the leftovers. I strayed from my usual recipe and tried this and this is our new favorite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tim"
+},
+"reviewBody": "I followed the recipe except I used Romano cheese instead of pecorino Romano and I added garlic powder and mushrooms. It turned out great… Slightly different flavor than we were used to, from the local Italian restaurant but really close. For us, the recipe only needs tweaking but overall, it’s outstanding!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dave Spurrier"
+},
+"reviewBody": "Best ziti ever. I'm not a fan of sausage in my sauce, so I cut that down to 2 links of hot. I used one jar of diavolo sauce and a large can of San Marzano tomatoes (DOP). Crushed the tomatoes into the sauce. Used rigatoni instead of ziti, as that's what I had on hand. Spaced 8 meatballs in the bottom layer of pasta. And otherwise made it as directed. Best baked ziti I ever ate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Frahmann"
+},
+"reviewBody": "It was a big hit for Christmas eve dinner. The 5 year olds ate every bite on their plate. Easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Kindig"
+},
+"reviewBody": "Great recipe! The whole family loved it. I only had shredded mozzarella but I plan to follow the suggestion in the recipe for cutting the cheese into cubes. I also used 1 lb hot Italian sausage and 1 lb of ground beef I needed to use up. As a personal preference, next time I will use all hot Italian sausage. But this tasted great! Wonderful and easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BobZoom"
+},
+"reviewBody": "This is a wonderful recipe just as it is, but I've made a few changes that my reviewers believe upped the ante.\nI use roll sausage from Seven Sons Farms, one Italian and one Spicy. I use Rao's marinara, two 28 oz jars. Yes, it's expensive. When it goes on sale at Costco I drop in and buy a few jars for the pantry, two jars for a little over $8. Worth it. I add a jigger of good vodka. The alcohol brings out flavor components in the tomatoes without making the dish winey. Water? Oh no, vegetable or chicken stock. Let's not dilute the flavors. I'm not a fan of penne pasta, it's just too much noodle for me. I use Casarecci or Gemelli, something else you'll find at Costco. These noodles hold sauce very well without being 'too much noodle.' \nYes, this makes a big pan of pasta. No problem. I fridge the leftovers, and the next day cut up into portions and pack into vacuum bags. I then have several portions ready for the microwave whenever I'm in the mood."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "El Baz"
+},
+"reviewBody": "Made it exactly (or as close as possible) and it was a big hit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AnnaR"
+},
+"reviewBody": "Great recipe! Made it many many times and I always change it up a bit. I either use ground beef/lamb instead or add more veggies but use the cook times and amounts as guide."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patricia Early"
+},
+"reviewBody": "It was lovely!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl Yazell"
+},
+"reviewBody": "Great recipe! I used turkey hot and traditional sausage instead of pork. It was a hit with everyone. Definitely making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Candy"
+},
+"reviewBody": "I used a cup of red Italian wine instead of one of the cups of water, otherwise I followed the recipe. This was really excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pkchop59"
+},
+"reviewBody": "I made this and it’s a hit . Definitely a keeper recipe my wife said it’s her favorite Zita recipe yet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jj81tj"
+},
+"reviewBody": "Best baked pasta recipe I’ve ever made. Will keep this one and throw out my other similar recipes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "aputler"
+},
+"reviewBody": "This was very good as written and easy to make as well! Thanks for the receipe Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Deborah"
+},
+"reviewBody": "I used sweet and hot sausage so every bite was a surprise! Parmesan worked great and I used a bit more cheese. PERFECT even with gluten free noodles."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daniela Harp"
+},
+"reviewBody": "Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Goldstein"
+},
+"reviewBody": "We made this recipe about 10 days ago. I can still remember the insanely good taste. We made it mostly with ground turkey and a bit of sausage, as I need more healthy. Absolutely terrific, so moist. We had this recipe for 3 meals for the two of us. We are going to make this same recipe later today, and I can't wait to savor each and every bite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mrs. DiStefano"
+},
+"reviewBody": "Seriously amazing! I used rigatoni and I think the ridges made it even better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dustin Lien"
+},
+"reviewBody": "Turned out great and everyone was going back for second servings. I only changed 1 thing and that was using penne instead of ziti because the market was out of stock."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Francie"
+},
+"reviewBody": "As always, Chef John does not disappoint. I like the sausage mixed in with the sauce as opposed to layered in with the cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "vwash727"
+},
+"reviewBody": "This turned out really good! The fam absolutely loved it! My mother (hard to please) said it was really good solome asking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tavia Hughes"
+},
+"reviewBody": "A male friend of mine told me this was one of his most favorite foods. So I made it for him from this recipe and oh my did I receive a big kiss on the mouth for doing so!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lee"
+},
+"reviewBody": "somehow it wasn't as saucy but next time I'll add more water even though I followed instruction on that part."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie McCartney"
+},
+"reviewBody": "Loved it! Oh, my goodness sooooo good. We will do it again but using regular ground beef. Sorry, Chef John, was not a fan of the sweet sausage we got."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gift ngando"
+},
+"reviewBody": "it taste really good i will make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Valerie"
+},
+"reviewBody": "The only change I made was to use cottage cheese instead of ricotta. I actually saw this on America's Test Kitchen when they were making lasagna and they said it had better a little better \"tang\" in the flavor vs. ricotta. I have been doing that ever since. As they recommended, put a stick blender into the cottage cheese and blend it up a big so the curds are not visible, which I always do. I also use 4% milkfat cottage cheese. Much cheaper and works like a charm!\nThe only other change I made was to cut this recipe in half and it was plenty even for 4 people. Baked for only 22 minutes in an 11x7 pan which was perfect size. \nI thought the 24 oz. jar of sauce plus one cup of water was going to be WAY too much for the 8 oz. of ziti I used, but couldn't believe it was perfect! I did use a smidge more mozzarella and parmesan than in the recipe as we like cheese, but basically same recipe just cut in half! \nThanks for an awesome recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy"
+},
+"reviewBody": "The best ever and so easy to make! Are used Newman‘s marinara sauce and that was quite tasty. I also used 80-20 ground beef instead of sausage. I definitely will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "George Carlton"
+},
+"reviewBody": "Made the recipe exactly as Chef John. Turned out fantastic! I've had baked Ziti before, and he's right, most of the time it's too dry. This one had enough sauce to keep it moist."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Philip Staff"
+},
+"reviewBody": "Excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ethan Phillips"
+},
+"reviewBody": "amazing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Milton Figures"
+},
+"reviewBody": "Amazing. Made it exactly like Chef John did except that I made my own marinara sauce for it. It was perfect \n\nDefinitely do skim off the grease from the sauce before tossing in the pasta."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce Cordova"
+},
+"reviewBody": "I just made this for dinner and it definitely is the best baked Ziti I've ever had. I used Rao's Marinara Sauce since I think that's what Chef John used in the video based on part of the label I could see (I paused and zoomed in). I followed the recipe exactly and didn't even need to add more salt and pepper. It was perfect and will be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jewell"
+},
+"reviewBody": "Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MakMack"
+},
+"reviewBody": "I made just as the recipe directed, only I made it half the size. My family loved it! It really was great considering how simple it is. It didn’t need any changes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vee"
+},
+"reviewBody": "Followed Chef John's recipe and it came out perfect. Rave reviews. Thanks again Chef John for convincing me cooking is as easy as you make it look."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ziggy"
+},
+"reviewBody": "Absolutely delicious! Used chicken sausage instead, this will be added to my meal plan!!! Thank you Chef John!!"
+}
+]

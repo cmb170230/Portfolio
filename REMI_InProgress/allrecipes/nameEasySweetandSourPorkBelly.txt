@@ -1,0 +1,70 @@
+,"name": "Easy Sweet and Sour Pork Belly"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT220M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "633 kcal"
+,"carbohydrateContent": "11 g"
+,"cholesterolContent": "82 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "11 g"
+,"saturatedFatContent": "22 g"
+,"sodiumContent": "840 mg"
+,"fatContent": "60 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"recipeIngredient": [
+"1.5 pounds pork belly, skin removed",
+"2 teaspoons kosher salt",
+"1 tablespoon brown sugar",
+"0.125 teaspoon cayenne pepper",
+"1 teaspoon ground black pepper",
+"1 teaspoon minced fresh ginger",
+"2 cloves garlic, minced",
+"1 (6 ounce) can pineapple juice",
+"1 tablespoon brown sugar",
+"0.25 cup ketchup",
+"0.333 cup seasoned rice vinegar",
+"1 teaspoon soy sauce, or to taste",
+"2 teaspoons sambal chili paste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 250 degrees F (120 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Use a sharp knife to make 1/8-inch deep cuts, spaced 1/2 inch apart, into the fatty side of the pork belly. Turn and repeat the cuts, crossing the first set at a 45-degree angle. Transfer into a shallow baking dish that&#39;s just large enough to fit the meat."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix salt, brown sugar, cayenne, and black pepper for dry rub in a small bowl. Apply it generously to both sides of the meat, sprinkling it on and then pressing it in. Press the sides of the pork belly into the dish to pick up any additional dry rub. End with the fatty side of the pork facing up. Cover the baking dish with foil and place it onto a sheet pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until tender when tested with the tip of a knife, about 3 1/2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the oven and let cool to room temperature, about 30 minutes. Cover and place in the refrigerator to chill thoroughly, 8 hours to overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the refrigerator and transfer meat to a cutting board. Cut pork belly into ½-inch slices."
+} ,{
+"@type": "HowToStep"
+,"text": "Prepare glaze: Spoon 2 teaspoons rendered pork fat from the top of the drippings and heat it in a saucepan over medium-high heat. Add ginger and garlic and cook until fragrant, about 30 seconds. Stir in pineapple juice, brown sugar, ketchup, rice vinegar, soy sauce, and chili paste and bring to a simmer. Cook until sauce reduces by about half, 3 to 5 minutes. Remove from the heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook pork belly slices in a dry, nonstick pan over medium-high heat until surface is browned a bit, about 2 minutes per side. Add a couple tablespoons of the pork belly &#34;jelly&#34; from the baking dish and the sweet and sour sauce. Cook until sauce reduces down to a glaze, 2 to 3 more minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/naOasQKymEbjT84qK8GTXx2UKi8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/CJ-Easy-Sweet-and-Sour-Pork-Belly-2000-d09b3e534f614bcd9f5c2c7888b11d6c.jpg"
+}
+]
+,"text": "Remove from the heat and serve."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT730M"

@@ -1,0 +1,315 @@
+,"name": "Chef John&#39;s Milk Bread"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "20"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "201 kcal"
+,"carbohydrateContent": "30 g"
+,"cholesterolContent": "33 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "258 mg"
+,"sugarContent": "6 g"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"0.25 cup bread flour",
+"0.25 cup water",
+"0.33333334326744 cup whole milk",
+"2.5 cups bread flour",
+"1.25 teaspoons kosher salt",
+"0.25 cup white sugar",
+"1 (.25 ounce) package instant dry yeast",
+"0.5 cup warm whole milk (110 degrees F (43 degrees C))",
+"1 large egg, beaten",
+"4 tablespoons unsalted butter, at room temperature, cubed",
+"1 tablespoon milk, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Whisk bread flour, water, and milk for starter together in a small saucepan until very smooth. Place over medium-low heat and cook, stirring often, until very thick and just about to bubble. If you want to check, it should be at least 150 degrees F (65 degrees C). Pull off the heat and transfer into a measuring cup; you will need exactly 1/2 cup. Let cool to room temperature, about 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Prepare dough: Combine bread flour, cooled starter, salt, sugar, yeast, warm milk, and egg in the bowl of a stand mixer fitted with the dough hook attachment. Beat on low speed until dough begins to form a ball and pull away from the sides of the bowl, scraping down the sides as needed, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stop the mixer and scrape dough off the hook and into the bowl. Add butter and knead on low speed until dough is slightly tacky but very smooth and elastic, scraping down the sides as needed, 10 to 12 more minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove dough from the bowl and shape into a smooth ball. Transfer into a lightly buttered bowl, cover, and let rise in a warm spot until doubled in size, about 1 to 1 1/2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Very generously butter a 9x5-inch loaf pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough to a work surface (you don&#39;t need flour.) Press and knead out all the air and shape into a 9-inch wide rectangle. Starting at one 9-inch side, roll dough lengthwise into a log. Transfer log into the prepared loaf pan with the seam down. Press on dough a bit to be sure it&#39;s evenly distributed. Cover the pan and let dough rise until it comes to just about the top of the pan, 35 to 45 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush the top of the loaf with just enough milk to lightly coat the surface."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/OSiV_sS90hUwedmaEQhyBi_8R2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-360-49d746563e2447808bc9b6c51dc8b430.jpg"
+}
+]
+,"text": "Bake in the center of the preheated oven until the top is golden brown and the loaf is beautifully puffed up, about 35 minutes. Remove from the oven and let rest in the pan for 10 minutes. Very carefully remove bread and place on a wire rack to cool all the way to room temperature before slicing, about 1 hour."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT260M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie Kelly"
+},
+"reviewBody": "I’ve made yeast bread my whole life and this is the best bread I’ve had in my life! It taste great made with buttermilk too. So good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Musictchr"
+},
+"reviewBody": "So moist and fluffy! The first time I tried it, it was a disaster, because I didn’t know my yeast was the old fashioned kind, that needs proofing before use. After I fixed that error, this rose perfectly and has an amazing texture too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SardonicGrin"
+},
+"reviewBody": "Wonderful recipe. If you're getting \"dough soup\", try using 300g - 310g flour in the second part. You're \"fluffing\" your flour to measure it and not adding enough. Follow Chef John's direction and go by stretchy-ness to know when you've added enough. At least if there's not enough flour, you can always add more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "laughingcloud"
+},
+"reviewBody": "Amazing, made it as instructed except with AP flour and it took longer in the mixer but that's about it. Chef John never disappoints!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kate Morris"
+},
+"reviewBody": "Outstanding. Made with bread flour and rolled into dinner rolls - baked at 350 until brown. Followed Chef John’s temperatures and everything came out perfectly. Delicious slightly sweet taste and amazing texture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Krystina Begley Fielder"
+},
+"reviewBody": "Excellent Milk Bread recipe! I have tried a few. I like that it doesn't call for powdered milk, one less thing to stock in my pantry, it has just enough sweetness to it, very soft inside and ha a slightly chewy crust. Milk bread is a favorite of my family and works well as toast, sandwich bread, grilled cheese, or just eaten with a little butter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Theja"
+},
+"reviewBody": "This is an awesome recipe and yes I made it and it came out perfect. After I moisturized the top I seasoned it with everything bagel seasoning. Taste yummy yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nolanmfak"
+},
+"reviewBody": "Hey Chef John! Another food wishes success story (not surprised, every food wishes recipe we've made has been killer!) I didn't have a lot of all purpose flour, so I only used it for the \"starter\" and then used whole wheat flour for the rest of the recipe. I followed the advice of one of the commenters saying that you need to do volumetric measurements instead of weighing the flour by mass- and it turned out excellent! It's so soft, fluffy, and delicious. And not hard to make either! Definitely will be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary"
+},
+"reviewBody": "As with everything Chef John does, it was amazing! Only he can do a white bread recipe that is the BEST, MOST AMAZING white bread you've ever made! It's why we love him!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jacob Penney"
+},
+"reviewBody": "I've made this many times with all purpose and bread flour. I've made full loaves, half loaves, and dinner rolls. I make it by hand, and using all-purpose flour will take a lot more kneading. The crumb is perfect and it has never failed me like no other bread dough has. Amazing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Five stars for the video and instructions. I must give a smiling thumbs up to Chef John for his entertaining presentation!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom Orr"
+},
+"reviewBody": "I have never made a loaf of bread before and I have perfect success it was amazing tasted delicious and best chicken salad sandwiches i have ever eaten...thank you chef John..u convinced me that I could do it!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "drkal"
+},
+"reviewBody": "I must be the only person who has ever actually made bread before. It has to be a glitch on the website. IF you follow the measurements given you WILL end up with soup. For the dough, the wetter the better. I get that - something is wrong with the measurements I'm seeing. I had to almost sextuple the flour to end up with a dough. It just has to be a glitch, but from my given meaurements from allrecipes this is a complete and utter fail."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "doris turner"
+},
+"reviewBody": "So good. I will make it again for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jayne Burden"
+},
+"reviewBody": "Delicious! So soft and fluffy, and also really flavorful. Awesome with the Japanese Egg Salad. I didn't have any bread flour, but AP flour worked fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leah Luczynski"
+},
+"reviewBody": "This changed my opinion of bread making. Finally, a moist (stays moist for days) soft, loaf!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steven Delbruegge"
+},
+"reviewBody": "I had to add a little bit more flour as it was in the mixer blending the ingredients. This is the result of baking after the second rise. It was very moist and delicious. I also coated the bread with melted butter while still warm. My wife absolutely loves the taste and texture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mme Magoo"
+},
+"reviewBody": "I have made this several times now and always comes out perfect. This makes the best white toast you've ever had. Thanks again for another great recipe Chef John"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "daleygirl"
+},
+"reviewBody": "Delicious! I rolled the dough into 8 equal sized balls and put them in the bread tin in a single layer to make a pull apart bread. So good. I also added a tbsp of powdered milk I saw on another recipe. No idea if that changed the outcome at all, but it tasted great. I waited 10 minutes to turn it out and the kids came in because they smelled it, half of the loaf was gone 2 minutes later."
+}
+]

@@ -1,0 +1,136 @@
+,"name": "Pepperoni Pizza Cheese Drip Chips"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "8"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "129 kcal"
+,"carbohydrateContent": "2 g"
+,"cholesterolContent": "26 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "421 mg"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"4 ounces low-moisture mozzarella cheese",
+"4 ounces provolone cheese",
+"2 ounces Parmigiano-Reggiano cheese",
+"0.5 cup prepared pizza sauce",
+"30 slices pepperoni" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C). Line a 13x18-inch, half-sheet pan with parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Grate provolone and mozzarella cheeses with the larger side of a box grater into a large bowl. Use the smaller side and grate in Parmigiano-Reggiano cheese. Toss with your hands to combine."
+} ,{
+"@type": "HowToStep"
+,"text": "Scoop tablespoonfuls of the cheese mixture into 12 circular piles on the prepared baking sheet, making sure you&#39;re getting all three cheeses in each scoop. Top each circle with about ¾ teaspoon pizza sauce, then place a slice of pepperoni on top."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until melted and sizzling, 12 to 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove parchment paper and chips to a wire rack to cool. Line the baking sheet with a fresh sheet of parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Repeat Steps 3 to 5 to bake remaining 18 chips."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/rarUQLSXEvsTwnbu-0Zm5NDNtBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Pepperoni-Pizza-Cheese-Drip-Chips-2000-15cec53ba155400aa33587c1561f01d5.jpg"
+}
+]
+,"text": "Let chips cool to room temperature, 15 to 20 minutes. Remove from the parchment paper and serve."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT75M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lorraine"
+},
+"reviewBody": "suzanne, the cheese alone will give you alot of grease. try using turkey pepperoni which isn't nearly as greasy. i use it all the time for recipes. maybe that will make a difference"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzanne Pulley Briscoe"
+},
+"reviewBody": "These are delicious. However, even though I used parchment paper as directed, mine stuck to the paper. Next time I will spray the parchment paper. Also, there was a lot of grease, assuming from the pepperoni and they needed to be drained. Mine never were “crispy” like a chip. Any suggestions?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "L Massey"
+},
+"reviewBody": "Loved these. The best part of the pizza. Have made these a couple of times. My new go to snack. I keep the cheese already grated in the freezer and pull it out when I want to make a pan full. Great snack."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kaz"
+},
+"reviewBody": "First .... changing ANY of Chef John's recipe is against the law in most states ....... guilty as charged. But, in my defense I only made changes AFTER making it per the recipe first!! The change I made was really beneficial. If you look at the pan in the photo for this recipe it is what I used instead of the parchment &amp; oven. I used my microwave and the non-stick metal microwave pan and the steel elevation rack on high for 5.5 minutes on high. They were PERFECT!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Knoel"
+},
+"reviewBody": "These are stupendous!! The best part of pizza, &amp; no crust!! Easy to make once I grated my cheeses and the family ate a bunch, so I'd better make more soon!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy Beaty"
+},
+"reviewBody": "Delish!"
+}
+]

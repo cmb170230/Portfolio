@@ -1,0 +1,1356 @@
+,"name": "Chef John&#39;s Salisbury Steak"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "253"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "494 kcal"
+,"carbohydrateContent": "26 g"
+,"cholesterolContent": "156 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "33 g"
+,"saturatedFatContent": "14 g"
+,"sodiumContent": "730 mg"
+,"sugarContent": "9 g"
+,"fatContent": "29 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 pound 85% lean ground beef",
+"0.5 cup plain bread crumbs",
+"1 large egg, beaten",
+"2 tablespoons ketchup",
+"1 tablespoon Worcestershire sauce",
+"1 teaspoon dry mustard",
+"1 teaspoon soy sauce",
+"0.5 teaspoon freshly ground black pepper",
+"1 pinch cayenne pepper, or to taste",
+"2 tablespoons salted butter",
+"2 tablespoons salted butter",
+"12 large white button mushrooms, sliced",
+"1 cup diced onion",
+"salt to taste",
+"2 tablespoons all-purpose flour",
+"3 cups high-quality, low-sodium beef broth",
+"2 tablespoons ketchup",
+"1 tablespoon Worcestershire sauce" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Prepare the steaks: Mix ground beef, bread crumbs, egg, ketchup, Worcestershire sauce, mustard, soy sauce, pepper, and cayenne together in a mixing bowl with a fork or your hands until well combined. Cover with plastic wrap and refrigerate for at least 2 hours or overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "When almost ready to cook the steaks, make the gravy: Melt butter in a large nonstick skillet over high heat. Add mushrooms, onion, and salt; sauté until nicely browned, 5 to 8 minutes. Reduce the heat to medium and add flour; cook and stir for 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in broth, ketchup, and Worcestershire sauce. Increase the heat to high and bring to a simmer. Reduce the heat to medium and cook, stirring occasionally, until gravy thickens slightly and reduces, about 10 minutes. Taste and adjust salt as needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer gravy to a liquid measure. Scrape the pan clean with a spatula."
+} ,{
+"@type": "HowToStep"
+,"text": "Finish the steaks: Remove meat from the refrigerator and divide into four equal portions. Moisten hands and form each portion into a 1/2-inch-thick oval patty. Lightly season both sides of patties with salt."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/VHk_YtQARbtuAZI6ZKEmnmyreG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8327814-5ecdf35360fc42b7bd92850001860756.jpg"
+}
+]
+,"text": "Melt butter in the clean skillet over medium-high heat. Add patties and cook until browned, 2 to 3 minutes per side. Pour in gravy and bring to a simmer. Reduce the heat to medium and continue to cook until gravy is piping hot and steaks are no longer pink in the center, about 5 more minutes. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT155M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "KatieW9908"
+},
+"reviewBody": "My patties were falling apart and the gravy needed a lot of extra help flavor-wise. I also think there are unnecessary steps here, it makes a lot more sense to sear the patties, set them aside, cook the gravy on same pan, re-add the patties to finish. This tasted fine at the end of the day but the recipe has some issues."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We did not like this at all. Had the same trouble. A lot of people had with them crumbling in the pan. I did not like the flavor of the gravy either. Very time consuming. And messy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Elaine Miller"
+},
+"reviewBody": "Not crazy about the ketchup and worcestershire sauce. Gravy was to thin for my liking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tisha"
+},
+"reviewBody": "I like it. I don't like it with ketchup. I use good tomato sauce instead and only in the gravy. I added garlic. I also made it a 'one pot meal' by browning the steaks, taking them up, &amp; making the gravy in the pan. I then put the steaks in with the gravy, cover, and simmer for 10 to 15 minutes. They are great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "D J Loften"
+},
+"reviewBody": "I prefer my own recipe, less the egg"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CALGLAD"
+},
+"reviewBody": "exceptionally tasty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "travers328"
+},
+"reviewBody": "i did add 1/2 cup red wine in the gravy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah L Fraley"
+},
+"reviewBody": "This was delicious and very easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Personally, I didn’t love this. But my elderly dad, who I made it for, thought it was the best thing he’s eaten in years! I tripled the recipe to make enough to freeze for lunches for my dad— par cooked some, put them in containers with compartments made for this along with a vegetable and starch. Instead of tripling the ketchup, I doubled it and then used 2tbls of steak sauce. And didn’t have dry mustard so I used spicy brown. Worked fine. One thing for next time— I will only double the gravy as tripling it excessive, haha!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fred B."
+},
+"reviewBody": "The real magic of John's recipe lies in its \"common sense\" sequence of steps......Here we make the gravy first....then the patties......then pour in the sauce and cook together on the stove top..... Most recipes are the opposite and are placed in the oven to cook.... John's system is much better......"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim OKane"
+},
+"reviewBody": "I used this gravy for cubed steak in the crock pot. It was so good I will use this gravy for many things. Thank you John for this recipe. I will also make the Salisbury steak as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth Moser"
+},
+"reviewBody": "I’ve made this several times and my husband loves it! I use Better than Bullion for the beef broth which I think takes it up a notch. He is not a “fungi” fan but picks them out and doesn’t even complain."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I absolutely love this recipe. I can't get enough of that gravy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This Salisbury steak was fantastic the same day and as leftovers!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bopsens"
+},
+"reviewBody": "Yum! One of my favorite recipes! Don’t change a thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mimisstuff"
+},
+"reviewBody": "I added a can of beef gravy and more mushrooms. Too die for. Wonderful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dirtydishes"
+},
+"reviewBody": "Followed recipe to the T. Tripled for 6 of us. Had to change bread crumbs to ground oatmeal for gluten free. I’ve made before with bread crumbs was just as delicious as before. Because of the quantity I only used 6 cups of beef broth and it was just fine. I totally recommend this recipe very easy but a little time consuming. So worth the time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ecarrabine"
+},
+"reviewBody": "Fabulous recipe. Taste exactly like fabulous Salisbury steak should taste like. Have made this recipe several times."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Looked great watching the video, but I think I should have drained the fat from the meat before adding the gravy or not add the gravy until after the meat was cooked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Silentangel1300"
+},
+"reviewBody": "Did exactly what it said and turned out wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Recipes for Disaster"
+},
+"reviewBody": "Just another killer recipe from Chef John. I have to admit I cheated some. I did not have Beef Stock in my pantry nor did I have Button Mushrooms in the fridge. To the Chef's horror I substituted beef bouillon (3 cubes) and a 4 oz. can of mushroom pieces. WHO CARES? It came out great, Fantastic flavor, lots of gravy. I fully recommend following the steps on the patties carefully. They came out soft and flavorful and did not fall apart."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "neacie73"
+},
+"reviewBody": "I made this for the first time a couple months ago and my family loves it and demands it at least twice a month. Thank you so much for sharing this recipe. It's nice to have something that everybody in the family loves."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "boldm"
+},
+"reviewBody": "Excellent recipe. Followed as specified and it came out delish. Was a hit with the fam."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "No changes. This was the most tender and flavorful Salisbury steaks I have ever had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Wonderful recipe with easy directions, one that I will put into my favorites."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very good! So much better than the frozen dinner Salisbury steak. I would go so far as to say it's restaurant quality. But a little labor intensive for my taste. I didn't chill the beef. Just made the patties and baked them in the oven for 20 minutes (350 degrees) while I cooked the onions &amp; mushrooms. Then I made the gravy all in the same pan (didn't remove the onions and mushrooms) then added the cooked beef patties. Less time, less work."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sue"
+},
+"reviewBody": "I followed the recipe exactly, including the rest time for the meat, and while the finished product looked beautiful, and the patties were moist and tender, both the meat and the sauce had a strong taste of Worcestershire sauce and ketchup. When I checked the expiration date on the Worcestershire sauce, it was 2 years out of code as I don't use much of it in my cooking. That's the only explanation I have for it because most reviews are positive. That, and the fact that two tablespoons of it is a lot more than I've ever seen in a recipe. If I were to make this again, I'd use two teaspoons instead, and perhaps add some mild chopped green chiles for flavor. I did toss out the rest of the bottle of Worcestershire sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daddy"
+},
+"reviewBody": "Love this recipe. It's easy for a quick weekday meal but feels like a weekend meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "WISEREADER"
+},
+"reviewBody": "This is a family favorite! I double the mushrooms, however."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nikki V"
+},
+"reviewBody": "This is going into the regular rotation! The steaks are a bit large for me so I now make eight pieces instead of four. I used baby bella mushrooms."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom MacEgan"
+},
+"reviewBody": "What treat and no I wouldn't make any changes. The meat was fab, the gravy was fab. . . I'm saving this one."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roy Styan"
+},
+"reviewBody": "Love it. I make this regularly. My one addition is to deglaze with a bit of wine before adding the broth."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pg841wild"
+},
+"reviewBody": "A favorite of mine since first having it. I have made your mushroom gravy, which was excellent and when I saw your recipe for Salisbury steaks I knew it would be great and it was!!! Thank you for sharing with us. Phil"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Lefebvre"
+},
+"reviewBody": "Eating this as I write…delicious- even made without any mushrooms. Otherwise I followed the recipe exactly and served with mashed potatoes and string beans. A keeper for chilly weather or “comfort food days”. Thanks again, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Illisil"
+},
+"reviewBody": "I've made this one twice, yummy. Only one small change, other reviewers have mentioned that this comes out sweet rather that savory, so I used tomato paste rather that ketchup. Comes out perfectly, served with mashed potatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jlouis707"
+},
+"reviewBody": "I am a beginner cook. This recipe was so easy to follow and the results were excellent. I tried it for the first time and it tasted delicious. Only change to the recipe was to add a little extra flour to the gravy mix to make it a little thicker and I used canned mushrooms (pre-sliced). I paired it with mash potatoes and maple glazed carrots."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary77"
+},
+"reviewBody": "Not only did everyone love this dinner but I love the way Chef John described our childhood TV dinners. Very rich and delicious. Picky child loves it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kenneth Perkins"
+},
+"reviewBody": "I cook for the worst food critic on this planet, My Wife! Being a diabetic for 47 years, she follows a pretty strict diet that takes some planning. I saw this Salisbury Steak recipe and decided to try it. I followed the recipe to the Tee, and it turned out perfect. To my surprise, my wife loved it. I made enough for meal #2, so all I have to do is make more of the mushroom sauce, and I'm good to go. Defiantly will be making this more often."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry"
+},
+"reviewBody": "Another Chef John winner. . We have not had Salisbury steaks since we were kids. Both hubby and I loved this dish. Served with mashed potatoes. The sauce was over the top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Langlois"
+},
+"reviewBody": "The Steak melts in your mouth and the gravy is wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KB"
+},
+"reviewBody": "I made this for my hubby who loves Salisbury steak. Personally, I’m not a big fan of beef, but the gravy was delicious. Outstanding over creamed potatoes. This will certainly be my go to recipe for gravy (and beef)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Licuadora"
+},
+"reviewBody": "I made this just as Chef John wrote it. Perfect and so nostalgic. Will definitely make this again and again. The husband gave it 2 forks up!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "DennisAndSusan"
+},
+"reviewBody": "This would have been much better if I had listened to my own common sense and NOT put 3 CUPS OF BROTH in the gravy. I just finished fishing out the mushrooms and onions with a slotted spoon and throwing out half the liquid. Had to add a couple tablespoons of tapioca flour to thicken it up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vicki"
+},
+"reviewBody": "I made the recipe as written but added more beef broth as it cooked down. Delicious and received great comments on it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Steve Steed"
+},
+"reviewBody": "Warning: Use regular ground beef, not lean. I was fortunate enough to have a pro chef stay with us and he cooked this w/o modifications. I argued with him at the store that meat with almost no fat would be very dense. It was. The lesser grade of beef would've solved the problem, otherwise it was tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Jeff"
+},
+"reviewBody": "This recipe is a keeper. I would call it the perfect salisbury steak recipe. It was easy to make and everyone loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Krensavage"
+},
+"reviewBody": "This came very good. My meat eaters loved it. Made green beans and creamy mashed as sides. I am the vegetarian in the house so I also made a side of tofu and saved a little of the sauce for my plate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Vivian Sullivan"
+},
+"reviewBody": "It was OK. Not anything to write home about. Too much ketchup (a little sweet)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John Davis"
+},
+"reviewBody": "I followed the recipe as written, except for the mushrooms, which no one likes. We paired it with homemade Mac &amp; Cheese for a comfort food dinner on a cold MI winter night. Thanks for the recipe chef!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dlaymanscience"
+},
+"reviewBody": "Made this today for our family. My husband who loves beefy , savory, and hearty meals took one bite and called this a new favorite for his top 10 meals. Made the recipe as written, and was perfect. I served this with buttered egg noodles and peas."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Lehman"
+},
+"reviewBody": "Really yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mitsi"
+},
+"reviewBody": "We had this for dinner and it was a hit. The recipe was easy and the prep was quick. Thank you for the recipe we will add this to our favorites."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Carrie Harris"
+},
+"reviewBody": "I followed the recipe exactly. The gravy tasted like ketchup and the meat was tastless."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cyndy Beer"
+},
+"reviewBody": "I made this recipe as written and it was so delicious!!! A great comfort meal on a cold snowy day. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emma"
+},
+"reviewBody": "I have tried over a number of years to make the same Salisbury steak my grandmother did. This recipe hit the spot! I love a good gravy with the steak and this gravy has a lot of flavor. I will be using this recipe again. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EdC"
+},
+"reviewBody": "Very tasty. I just added extra broth and a little more flour to make more gravy. But the flavor is excellent and easy to make"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KWPR"
+},
+"reviewBody": "It's a lot easier to buy a TV dinner! Looking at the recipe it doesn't look like it would take much effort but surprisingly it took a long time to make it. Totally worth it though. We served it with mashed potatoes and peas. Husband had one word to say (with a mouth full) GOOD! Only change I made was to use 80/20 ground beef. The store didn't have 85/15. Chef John is right about the gravy. It would be good with any number of meals. This one will go in my recipe book."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "janetbowen"
+},
+"reviewBody": "Amazingly flavorful. Layers of flavors in the meet and if you like mushrooms, the gravy is perfect. I added a tablespoon of sherry to the gravy because I though it needed it. Delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PaulieD"
+},
+"reviewBody": "A classic dinner and the gravy is better than described. I would recommend making twice as much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gonzalesproperties"
+},
+"reviewBody": "It was so good I almost licked the plate!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dst65"
+},
+"reviewBody": "Great recipe. Gravy taste like TV dinner ones Mom used to serve us kids. Thanks Chef John, Bon appetite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tacruf"
+},
+"reviewBody": "This is it!!!!! This is the taste I remember. It took a little longer to make than I thought, but it was definitely worth it, and next time I make it I'm sure it will be faster, because there WILL BE a next time! I didn't have bread crumbs so I soaked some white Italian bread in milk ... which is how I make meatballs ... and that worked great. Upscale Salisbury Steak. Glad I found this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine Gallegos"
+},
+"reviewBody": "My husband and I loved this recipe; We usually don't agree on a 5 star rating. I made the recipe as is except for 3 minor changes. I added 2 chopped garlic cloves when the onions were almost translucent. I used 90% lean ground beef because I had it. Also, the broth seemed too liquidy even after the suggested 10 minutes of boiling. So, I mixed another Tablespoon of flour with about 1/4 cup cream. I whisked this into the broth and it was perfect. We liked the amount of mustard and all other flavors in the recipe. I did let the meat mixture sit in the frig for about 2 hours as suggested, and I was surprised how moist the steaks came out, even with leaner beef. Thanks for this recipe, Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robin Wells"
+},
+"reviewBody": "Like Chef John it's been a while and this was just marvelous. I made one large change. Instead of hamburger I used 85% lean venison! The other change was I had no mushrooms, but gravy was still very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peggy Fusselman"
+},
+"reviewBody": "I ran out of soy sauce so I doubled the Worcestershire. OMG you guys. This is the best. Just the gravy alone is gold star. I prepped 2 lbs hamburger and have 5 patties leftover. They are in the freezer, along with the leftover gravy. I also used canned mushrooms. Don't be hatin'. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Marilyn Janice"
+},
+"reviewBody": "Very disappointed. The meat had too many breadcrumbs which made the meat mealy and fall apart in the pan while cooking. The gravy was orange in color, and was sweet tasting because of the ketchup and Worcestershire sauce.. not brown and savory like it was supposed to be."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl"
+},
+"reviewBody": "Mouth watering and delicious. Everything came together easily, even the gravy. I usually don't make really good gravy. Good middle of the week recipe. Very savory. Glad I came across this one. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Willy P"
+},
+"reviewBody": "Chef John never disappoints. I made this as per the recipe with the exception of adding some extra Worcestershire sauce &amp; red wine to the sauce. I didn't need any additional salt, I served it with mashed potatoes and veggies, and the dish was well received by all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barry D"
+},
+"reviewBody": "Made it for dinner this evening, but we are Vegan so I used impossible beef, vegetable broth and vegan butter. It was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PetieMouse"
+},
+"reviewBody": "This is an amazing recipe everything I have tried from Chef John is but this one is a keeper I have made it many times."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "archspec"
+},
+"reviewBody": "I made this recipe tonight. I put the meat mixture in the fridge yesterday. I served it wilh masked potatoes and steamed vegies. The meal was scrumptious!!! The Salisbury Steak recipe was easy to follow and I had most of the ingredients on hand. I will make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aaron Smith"
+},
+"reviewBody": "I made it tonight for dinner, followed the recipe as written and it came out excellent. I will be making this one again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Debra Streight"
+},
+"reviewBody": "My husband and I thought it was not very good. I try a lot of Allrecipes and usually love them. Not this one! I don't recommend it. The meat broke all apart when added to the broth/mix."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bru2"
+},
+"reviewBody": "I made the recipe following directions and it was so good. There are just the 2 of us so another meal in the freezer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shaesrecipes"
+},
+"reviewBody": "Delicious! This recipe is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Floyd Bickers"
+},
+"reviewBody": "My two grown sons and husband loved it and asked for this recipe to be added to our regular rotation. I don’t keep ketchup so I subbed a teaspoon of apple cider vinegar and a teaspoon of red wine. The gravy was delicious! Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mocos"
+},
+"reviewBody": "Chef John......ohhhh how you brought make memories with the TV dinners. I was in high school in early 60's and loved Swanson's TV dinners, especially the chicken dinner. The skin on the chicken was soggy and greasy and tasted great. Along with the mashed potatoes, string beans that squeaked on your teeth and a pastry that was soggy also, but good. I made your Salisbury Steak and it came out great. Since I am a spicy freak, I added a little heat, I watch you on youtube all the time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nannyg"
+},
+"reviewBody": "I have made this recipe. It’s excellent and a great memory as Chef John says. I didn’t have ketchup one time and used tomato paste. I use the type in the tube now. Chef John’s meatball recipe is excellent too. I’ve been making for a few years . If time allows I agree refrigerating over night. I do with the meatball recipe too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steve"
+},
+"reviewBody": "This was absolutely delicious and I am not much of a meat eater!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kat"
+},
+"reviewBody": "Really, really tasty. My guy, who grew up eating Salisbury steak, very much appreciated that I made this for him. He loved it and licked the plate clean. This was my first time making Salisbury steak and it was very quick and easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lauri Abbott-Marsden"
+},
+"reviewBody": "Absolutely amazingly easy!!!! Mouth watering, although, I did dribble a little merlot into the sauce... Husband is a fan. Will make this again.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pehood4"
+},
+"reviewBody": "All I can say is WOW! This is a yummy recipe. The recipe was easy to make and is full of rich flavors and textures. I will definitely add this to my favorites list!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sunny Jim"
+},
+"reviewBody": "Mini meatloaves with amazing beef and mushroom gravy. What is not to like? I made this per recipe and it was fantastic. \nI will use the gravy recipe alone for many other things. Much better than the Banquet TV Dinners of my childhood. Thanks again Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "markpolito25242"
+},
+"reviewBody": "Outstanding with just a hint of memories. Made for New Year’s Eve and hopefully 2022 will be as good as this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeanie"
+},
+"reviewBody": "It is the BEST!! Tastes amazing and nice to serve to guests."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "B D (nameshift)"
+},
+"reviewBody": "It was really good! The biggest testament to this was my wife... She practically refused to eat it when I told her I was making Salisbury steak. I had to skim out the mushrooms from the gravy (she hates 'em). But she loved it! And kept telling me how good it was! So I could make more, I did add a pound of ground turkey and increased the amount of the steak ingredients 1.5 times. I kept everything else the same and it turned out awesome."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christy Clark Stranc"
+},
+"reviewBody": "I usually use another Salisbury steak recipe with onion/mushroom/gravy on here that my hubby loves, but couldn’t find it. I made this tonight instead and it was BETTER (and hubby agrees). I didn’t change a thing except use ground sirloin instead. I didn’t have any problems with it falling apart."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "ckane429"
+},
+"reviewBody": "Gravy didn’t thicken. Meat crumbled. My family liked it but I found I suggestions on fixing these problems. Disappointed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melzyv"
+},
+"reviewBody": "This was fabulous! Perfect comfort food for sure! The only change I made was adding in 2 tbsp. of beef Better Than Bouillon to give the gravy some extra richness. Otherwise I followed the recipe exactly. This is definitely going into the regular dinner rotation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marsha"
+},
+"reviewBody": "I used yellow onion and added a clove of garlic in the gravy. Outstanding dish will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Damon Davis"
+},
+"reviewBody": "This was delicious. And all 4 of my kids LOVED it. My wife was disgusted with the thought of Salisbury Steak, but she ended up being the first one to have a happy plate :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Camise Harpool"
+},
+"reviewBody": "Oh my, I wanted to love this. I’m a ketchup fiend but apparently not in my Salisbury steak. I threw away the gravy and made my own and hoped the ketchup in the meat was t too noticeable. There’s actually no good take away from this recipe for my taste. \nEveryone is different! Try it for yourself before you decide."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JoAnn McKnight Oxenham"
+},
+"reviewBody": "Amazing comfort food. My husband said where did you buy the Salisbury steak. Lol. I said “I made it” and he couldn’t stop saying mmmhh. The meat texture is moist without being mushy and the gravy is to die for. Perfect as is and I served with basmati rice but mashed potatoes would have been heavenly but then you might want to 1 1/2 or double the gravy as you will want the gravy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anne Barkalow"
+},
+"reviewBody": "Not only did my kids ask me to make it again, they asked for me to make double because they liked it so much!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "britt2684"
+},
+"reviewBody": "Followed exactly, except for adding garlic powder when seasoning the meat before cooking. Agreed with other reviewers, this is definitely sweet, not savory. While it’s different, hubs and I liked it and would probably try again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Connie Courtney"
+},
+"reviewBody": "This came out wonderfully. I didn't taste the sweetness others mentioned. The gravy was exceptional, flavored so well . Hamburger patties came out moist and tender. A winner ! Served with mashed potatoes and corn."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy Bradfield Grandstaff"
+},
+"reviewBody": "I added italian seasoning and garlic powder to the meat mixture and the gravy. used 4 T flour in gravy so it wasn't thin. Good flavor all around."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Scott Morrow"
+},
+"reviewBody": "Love chef John's recipes and this one is no exception. I use Bragg's soy sauce substitute, high quality worstershire, organic ketchup with very low sugar, my own organic ground beef and my own organic bread crumbs. I also use organic brown mushrooms and organic flour (and make sure they are well browned), a few drops of liquid smoke and chipotle seasoning along with regular cayenne. I believe quality ingredients make for a quality dish. It's difficult to keep myself from eating more than one of these at a sitting, delicious!!\nI have made these several times when we feel like having a hamburger and my wife and I love them!!! PS I also mash yellow potatoes for the side and the gravy ??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patrick Taylor"
+},
+"reviewBody": "This was amazing ! I didn't have soy sauce so I used a little more ketchup and a little more wort heater sauce and it's still incredible and tasty and thank you so much Chef ! I binge watch Chef John on YouTube and my lady and myself always talk about what to make for dinner , usually we land on a chef John recipie because she loves watching you cook just as much as I do and this was FABULOUS. I will make this again and make it part of my family's dinner routine except I'll buy some soy sauce before the next cook !"
+}
+]

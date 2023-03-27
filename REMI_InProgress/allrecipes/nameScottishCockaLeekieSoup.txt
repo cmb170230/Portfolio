@@ -1,0 +1,183 @@
+,"name": "Scottish Cock-a-Leekie Soup"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "14"
+}
+,"cookTime": "PT220M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "810 kcal"
+,"carbohydrateContent": "37 g"
+,"cholesterolContent": "227 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "60 g"
+,"saturatedFatContent": "13 g"
+,"sodiumContent": "1225 mg"
+,"fatContent": "46 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"2.5 pounds leeks",
+"1 (4 pound) whole chicken",
+"1 large bay leaf",
+"3 cloves garlic, halved",
+"4 medium pitted prunes",
+"3 quarts cold water, or more as needed",
+"0.25 cup uncooked white rice",
+"1 tablespoon kosher salt, or more to taste",
+"freshly ground black pepper to taste",
+"1 teaspoon fresh thyme leaves" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Cut off the leek tops (the dark green, fibrous parts) and wash well. Set aside the leek bottoms."
+} ,{
+"@type": "HowToStep"
+,"text": "Put clean leak tops in the bottom of a large pot. Place chicken on top and add bay leaf, garlic, dried plums, and 3 quarts water. Set over high heat until it starts to simmer. Reduce heat to medium-low or low and simmer gently, occasionally pushing the chicken under the liquid with tongs, for 1 hour 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, prepare leek bottoms by trimming off the root ends and slicing them in half lengthwise. Turn leeks and cut crosswise into ½-inch slices. Transfer to a large bowl and fill with cold water so leeks are floating. Toss with your hands to loosen dirt. Grab leeks with your hands, shake gently to remove water, and transfer to another bowl. Place in the refrigerator until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Carefully lift chicken with two forks, let liquid drain from the cavity, and place it in a bowl. Separate meat from skin and bones. Tear meat into bite-sized pieces put in the refrigerator until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Place skin and bones back into the pot and gently simmer for 1 more hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Set a colander in a bowl. Use a skimmer spoon to transfer all solids from the broth to the colander. Discard solids and transfer any broth back to the pot."
+} ,{
+"@type": "HowToStep"
+,"text": "Add half of the sliced leeks to the pot with salt, pepper, and rice. Simmer, stirring occasionally, for 1 hour, skimming some fat off if you want and adding more water if it&#39;s reducing down too much."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/pXEdT3FOatmCXrfF3YvZt8z3hQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Scottish-Cock-a-Leekie-Soup-2000-74c2905793df41f9836dcb763155e66b.jpg"
+}
+]
+,"text": "Add remaining sliced leeks, chicken, and thyme. Simmer over medium-low for 20 minutes. Taste and adjust seasonings. Serve."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT250M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made the recipe exactly as written and it was by far the best chicken soup I have ever made. I thought I would miss the carrots and celery and all the other usual ingredients but you don’t. The broth is outstanding. Try not to skip the part where you simmer the bones and skin, that’s where all the flavor lives!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "marty"
+},
+"reviewBody": "Another hit from Chef John. I didn't make any changes, but I did put a little hot sauce in at the table. Simple and delicious! Good weekend recipe. Don't do this on a week night."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason Hall"
+},
+"reviewBody": "I'm not very experienced with soups (or leeks!), but this one grabbed my attention with the simplicity and, honestly, the idea of the prunes. Wish I had a picture! Mine turned out a bit darker and cloudier than Chef John's final product (I think because I didn't bother skimming?), but the taste was absolutely great, and there was a ton of leftover chicken to be used. Also, there's just something magical about using something as green and hearty as the leek tops when starting out. Awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "elliemayormaynot1"
+},
+"reviewBody": "47% of my DNA said \"tis a braw brew that warms ma belly\" 18% of my DNA said \"oy, you should butter some fresh challah to dip in there\" and the rest of my DNA just wanted a wee bit o whiskey or a Guiness. All of me said \"holy cow that's good stuff!\""
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "Followed the recipe and it was just okay at best. I had to use chicken bouillon to give the broth some flavor at the end and it still was lacking. Maybe its because I used larger leeks ( still the required measurements cut smaller) or the leaner fat hen? I even added extra prunes because they were small.....don't know about this one."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharyl"
+},
+"reviewBody": "The broth for this soup is liquid gold! It was not a dark as Chef John's but still delicious. I used barley instead of rice as that felt like a more scottish ingredient. I used 2 lb. of chicken legs rather than a whole chicken and agree with the video recommendation to use less meat in the soup. It was a hearty stand-alone soup for a dinner meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ryantucker1986"
+},
+"reviewBody": "This is one of the most flavorful soups I've had. Having not made many soups in my life, whenever I've had a chicken noodle or something similar, I find myself hunting for the pieces of chicken, noodles, carrots, anything to eat with the broth. This soup was almost opposite. I enjoyed the rich broth more than the protein and the flavor stayed with me for a long time after the last spoonful. Highly recommend this soup! I did end up adding the Thyme and rice options. Which I think both worked really well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "vickidarya"
+},
+"reviewBody": "What a hit! This tasted wonderful to me, to my friends. I actually loved using all the leeks, and building the flavors in layers upon layers. It was so rewarding to make this delicious soup, not just heat something up from a processed form that comes in a can. Thank you for the directions and the video. 'Til next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "juliannacounts"
+},
+"reviewBody": "Followed the recipe word for word and was not disappointed. It only took a single bite to earn it’s place in our top 5 chicken soup recipes. It’s also perfect soup for “I feel sick” season as it seemed to clear my sinuses while simultaneously soothing my very broken tummy. Next time, I want to try it with barley and see which version I like better."
+}
+]

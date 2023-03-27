@@ -1,0 +1,167 @@
+,"name": "Green Onion Garlic Naan Bread"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "10"
+}
+,"cookTime": "PT3M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "282 kcal"
+,"carbohydrateContent": "53 g"
+,"cholesterolContent": "10 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "368 mg"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1.5 cups bread flour, plus more as needed",
+"0.5 teaspoon kosher salt",
+"2 teaspoons baking powder",
+"1 cup plain Greek yogurt",
+"4 cloves garlic, crushed",
+"0.5 cup thinly sliced green onions",
+"2 tablespoons melted butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place bread flour in a bowl. Add salt and baking powder and give it a good whisk until evenly combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Add in Greek yogurt gently, followed by garlic and green onions. Take a wooden spoon and slowly start mixing everything together. Keep mixing, stirring, and pressing until a shaggy dough forms."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough to a work surface and use your hands to press dough together. Knead for a few minutes until dough becomes elastic and a little bit sticky. Add a bit more flour as necessary but try to keep extra flour at an absolute minimum. Knead until dough is a little bit stretchy, 3 to 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Wrap in plastic and allow to rest on the counter for 15 to 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Take a bench scraper and cut into 6 equal pieces. Take 1 portion and roll into a ball. Place onto a generously floured surface. Use a rolling pin to roll out nice and thin, about 1/8 inch or less. It&#39;s ok if the naan is not a perfect circle. You will need extra flour for rolling out as the dough is sticky, but try to use as little as possible."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat a cast iron skillet over medium-high heat until hot. Transfer dough circles into the hot dry skillet and cook until little bubbles form on the surface and the underside is lightly browned, about 1 minute. Flip naan over and cook for 1 more minute. Press down slightly with a spatula to increase the heat during cooking. Flip over twice more and cook for an additional 15 seconds per side, but make sure not to overcook to preserve the texture. Naan should still be flexible when you remove it from the skillet onto a plate."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover with a kitchen towel to keep warm and moist while you cook the other naan breads. Stack all 6 naan breads on top of each other and keep covered with a kitchen towel."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/FjnGuWBtl9Oe9Etl1TPp6G5BwVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Green-Onion-Garlic-Naan-1x1-1-2000-74d1d2d5f5224354990602475103a53d.jpg"
+}
+]
+,"text": "When you are finished cooking all 6 naan breads, unstack breads and brush the first naan bread on both sides with a little bit of melted butter. Stack second piece of naan on top and only brush the top side. Keep stacking and buttering all the naan breads. Fold each naan into a triangle and serve."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT38M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather D. of Florida"
+},
+"reviewBody": "Turned out wonderful! Love the chef here. Reminds me of on Ross- it’s okay- no mistakes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I have no idea what I'm doing wrong. I added more than an extra cup of bread flour, and the dough is still so sticky that it smears across the counter as I knead. When I rolled it out, it stuck both to the counter and the rolling pin. I had to liberally coat each naan with flour just to get it to the pan and ended up having to clean burnt flour out of the pan between naans. I've checked and double checked the recipe and my measurements, and I still have no idea what I'm doing wrong. Note: The final product is still delicious, but getting there is almost impossible."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Meyerdirk"
+},
+"reviewBody": "I used 120 grams of flour weight, that is 180 grams total for the recipe. However, I needed to add quite a bit more flour so I could work with it. But, ultimately, it turned out great. Soft and chewy. Thanks, Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "followed recipe to a T. flavorful and ce out yummy. I suspect I would have to roll out a few hundred of these to get the true thickness. I had good luck brushing off extra flour w a bristle brush. thanks Chef John. you rock! might try next batch w some toasted cumin seeds."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "So I know better but I only had plan yogurt rather that Greek. Had to add a good bit more flour and tossed in some olive oil. Still came out really good and I had more this way. It all got eaten so that's telling."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jcam"
+},
+"reviewBody": "Came out pretty good. I think I didnt knead it long enough as it was quite sticky and didn't rise well in the pan. However the flavor was great and they were still quite enjoyable"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I love it just as it was made in the video"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Love EVERYTHING that Chef John makes"
+}
+]

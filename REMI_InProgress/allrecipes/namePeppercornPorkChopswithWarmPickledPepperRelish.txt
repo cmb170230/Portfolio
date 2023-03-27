@@ -1,0 +1,233 @@
+,"name": "Peppercorn Pork Chops with Warm Pickled Pepper Relish"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "12"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "449 kcal"
+,"carbohydrateContent": "11 g"
+,"cholesterolContent": "109 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "30 g"
+,"saturatedFatContent": "13 g"
+,"sodiumContent": "2657 mg"
+,"sugarContent": "8 g"
+,"fatContent": "31 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 teaspoon black peppercorns",
+"1 teaspoon white peppercorns",
+"1 teaspoon green peppercorns",
+"1 teaspoon pink peppercorns",
+"2 (8 ounce) boneless center-cut pork chops",
+"1.5 teaspoons kosher salt, or to taste",
+"2 teaspoons olive oil",
+"0.33333334326744 cup chicken broth",
+"2 tablespoons cold butter",
+"Quick Pickled Pepper Relish:",
+"0.25 cup diced poblano pepper",
+"2 tablespoons diced orange bell pepper",
+"2 tablespoons diced red bell pepper",
+"2 cloves garlic, minced",
+"0.25 teaspoon kosher salt",
+"3 pinches cayenne pepper",
+"0.25 cup seasoned rice vinegar" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place all peppercorns on a cutting board and use the flat bottom of a heavy pan to crush them as finely or coarsely as you like. Transfer crushed pepper into the pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Make 3 cuts through the fat on each pork chop and season generously with salt. Apply a generous coating of crushed peppercorns to both sides, pressing into the meat firmly as you do, until fully coated."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer chops to a rack set over a pan and let sit out at room temperature for 1 hour, turning halfway through and reapplying crushed peppercorns as necessary. Or, place in the refrigerator for 4 to 12 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, prepare the pepper relish while the chops are dry-brining: combine poblano pepper, orange and red bell peppers, garlic, salt, cayenne, and rice vinegar. Mix to combine and cover with plastic wrap. Leave on the counter for 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a pan over medium-high heat until very hot and starting to shimmer. Add pork chops and sear for 5 minutes per side. Use tongs to turn chops while you brown the edges for another 1 to 2 minutes. Reduce heat to medium if the pan is too hot and begins to smoke. Chops should firm up and spring back to the touch. Do not overcook. An instant-read thermometer inserted into the center should read 140 degrees F (60 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn off the heat and transfer chops to a plate. Cover loosely with foil and let rest."
+} ,{
+"@type": "HowToStep"
+,"text": "Add chicken broth to the hot pan. Turn heat to high and bring to a rolling boil. Add pickled pepper relish and stir with a spoon, scraping all the bits from the bottom of the pan. Cook until liquid in the pan reduces by about half, about 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn off the heat. Add cold butter and any accumulated juices from the plate of pork and stir until butter has melted."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/8GV1UNB83bYddiv8nl7QMo48c_k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-5-911007e4d9284a7c956067f4dea00e05.jpg"
+}
+]
+,"text": "Serve pork chops with plenty of hot pickled pepper relish over top."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT105M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "VALENE"
+},
+"reviewBody": "Made this with fish but I think it would be better with the originally intended pork. I used a whole poblano, red and cubanelle pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurel Anne"
+},
+"reviewBody": "This is the only way I make pork chops now. I don't always make the relish, but the dry brine and pan sear is such a keeper. We used to sous vide/sear pork chops, but Chef John has converted us."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue Moss"
+},
+"reviewBody": "This was wonderful! I usually don't review recipes I have adapted, but I had boneless \"chops\" brined in your molasses brine to grill and it started raining, complete with hail warnings. Even with jarred banana peppers and red onion subbing for poblano, it was great. I can't wait to try it dry \"brined\" with poblano as written. Thanks for saving me from hail-related head injury!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brandi Wilson"
+},
+"reviewBody": "This was delicious! The combo of the peppercorn crust with the tangy relish really makes it. I got the \"melange\" packet that contained all of the 4 different kinds of peppercorns. I crushed the whole packet but didn't use it all. I think I'll use try a steak au poivre with the remainder. I used the little bit of leftover warm pickled pepper relish on my eggs this morning. OMG! ?? Amazing! I may need to make a batch of this stuff for the week!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeri Edwards"
+},
+"reviewBody": "These were so good, even my kids who normally shy away from peppers loved it. Will definitely make again in the future."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharyl"
+},
+"reviewBody": "Made as instructed and was surprised that it was not too peppery with all the peppercorns. The pepper relish worked perfectly with the peppercorn coating. Meat was not dry and although my thermometer didn't reach 140, I could tell it was done by the feel. Served with the truffle cauliflower by Chef John. Very nice meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doug Jeffreys"
+},
+"reviewBody": "This was simple to make and every bit as delicious as Chef John makes it look."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tina"
+},
+"reviewBody": "Tasty! Not as great as the peach stuffed pork chops but still a nice variation for pork chops and something for pepper lovers. I used a pepper blend I had already made for seasoning (black, green, white peppercorns, cubeb and all spice). Worked perfectly. I will try different varieties of peppers in the future and see how it affects taste. Instead of poblano peppers (they are not available were I live) I used some mild chilis. I added a teaspoon of corn starch to the sauce because I wanted it thicker but not cook it longer to avoid getting mushy peppers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "mefishing"
+},
+"reviewBody": "what a waste of some good pork chops. Way too much pepper flavor and I did not distinguish any difference in the rainbow peppercorns from just plain black pepper. What a complete and utter disappointment."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy "
+},
+"reviewBody": "My husband and I loved this dish. Spicy but not too hot. Tender juicy chops cooked just as he instructed (I used a cast iron pan). I followed his recipe exactly. We served with cheesy mashed potatoes with a little roasted red pepper whipped phhily mixed in. I will make these again and I will use his pork chop cooking instructions again for other recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judy"
+},
+"reviewBody": "I did not have Poblano peppers available at our local store ( I live in a remote area with a very small supermarket near by) but pretty much followed the rest of this recipe. Very good! I need to do better at the \"pinch\" of the cayenne pepper part but was great tasting nonetheless and will make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "charlot"
+},
+"reviewBody": "Delicious! Followed recipe and it was perfect. I usually tweak everything, but I left this alone and my husband and I enjoyed it very much"
+}
+]

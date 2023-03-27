@@ -1,0 +1,80 @@
+,"name": "Indian Chaat-Inspired Potato Chip Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "585 kcal"
+,"carbohydrateContent": "58 g"
+,"cholesterolContent": "8 mg"
+,"fiberContent": "6 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "535 mg"
+,"fatContent": "38 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1.5 cups plain Greek yogurt",
+"2 medium limes, juiced",
+"2 teaspoons tamarind paste, or to taste",
+"1.5 teaspoons garam masala",
+"0.5 teaspoon ground cumin",
+"2 teaspoons hot sauce",
+"1 teaspoon white sugar",
+"0.25 cup water, or as needed",
+"12 cups kettle-cooked potato chips",
+"0.5 cup thinly sliced jalapeno pepper",
+"0.5 cup thinly sliced red bell pepper",
+"0.5 cup thinly sliced red onion",
+"0.5 cup thinly sliced green onion",
+"1 cup sliced cooked purple potatoes",
+"1 cup chopped fresh mint leaves",
+"1 cup chopped fresh cilantro leaves",
+"2 medium limes, halved" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine yogurt, lime juice, tamarind paste, garam masala, cumin, hot sauce, and sugar in a bowl with a whisk until combined. Taste and adjust as needed; mix in water as needed to reach desired consistency."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/1SFphApPOOYKumQtTU8w7ovy1Jo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_7533-2000-ff42970ef7e04d5a80d305b1046f2451.jpg"
+}
+]
+,"text": "Layer chips, jalapeno, bell pepper, red and green onions, potatoes, mint, cilantro, and yogurt sauce as desired for individual portions, or this can be served salad bar-style and everyone can make their own plate. Squeeze lime juice from halves over top."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cdcmtht445"
+},
+"reviewBody": "I made this as part of a pan-Asian small plates dinner for my husband's and my anniversary. It was so good and really addictive! Once you start eating it, it's hard to stop! Sadly, I could not find any purple potatoes, but I might add purple cabbage shreds next time, just for color. For the peppers, I used the lovely red and yellow striped Aloha peppers. We will be making this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "If you don't have tamarind you can use equal parts of ketchup and grape jelly and slightly reduce it."
+}
+]
