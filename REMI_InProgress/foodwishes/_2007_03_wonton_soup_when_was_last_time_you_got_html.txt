@@ -1,24 +1,24 @@
 'http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head>
-<link href='https://www.blogger.com/static/v1/widgets/2975350028-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<link href='https://www.blogger.com/static/v1/widgets/3566091532-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
 <meta content='IE=EmulateIE7' http-equiv='X-UA-Compatible'/>
 <meta content='width=1100' name='viewport'/>
 <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
 <meta content='blogger' name='generator'/>
 <link href='https://foodwishes.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
-<link href='https://foodwishes.blogspot.com/2009/01/kernel-porkers-barbecued-pork-stuffed.html' rel='canonical'/>
+<link href='https://foodwishes.blogspot.com/2007/03/wonton-soup-when-was-last-time-you-got.html' rel='canonical'/>
 <link rel="alternate" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://foodwishes.blogspot.com/feeds/posts/default" />
 <link rel="alternate" type="application/rss+xml" title="Food Wishes Video Recipes - RSS" href="https://foodwishes.blogspot.com/feeds/posts/default?alt=rss" />
-<link rel="service.post" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://www.blogger.com/feeds/7173052990851751381/posts/default" />
+<link rel="service.post" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://draft.blogger.com/feeds/7173052990851751381/posts/default" />
 
-<link rel="alternate" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://foodwishes.blogspot.com/feeds/5269555126103684871/comments/default" />
+<link rel="alternate" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://foodwishes.blogspot.com/feeds/4287669992828112288/comments/default" />
 <!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
-<link href='http://2.bp.blogspot.com/_TtjHZtf6vtA/SYIHs6SGdMI/AAAAAAAADqY/JcHQ2nDY5IE/s320/kp2.jpg' rel='image_src'/>
-<meta content='https://foodwishes.blogspot.com/2009/01/kernel-porkers-barbecued-pork-stuffed.html' property='og:url'/>
-<meta content='Kernel Porker&#39;s Barbecued Pork-Stuffed Corn Muffins' property='og:title'/>
-<meta content='One of the comments I received on YouTube, for the beef slider video recipe said, &quot;When I saw you put the meat into the muffins cups, I was ...' property='og:description'/>
-<meta content='//2.bp.blogspot.com/_TtjHZtf6vtA/SYIHs6SGdMI/AAAAAAAADqY/JcHQ2nDY5IE/w1200-h630-p-k-no-nu/kp2.jpg' property='og:image'/>
-<title>Food Wishes Video Recipes: Kernel Porker's Barbecued Pork-Stuffed Corn Muffins</title>
+<link href='http://2.bp.blogspot.com/_TtjHZtf6vtA/RgQOj0B4lDI/AAAAAAAAARo/p_S40jqLoKY/s320/wontonthumb.jpg' rel='image_src'/>
+<meta content='https://foodwishes.blogspot.com/2007/03/wonton-soup-when-was-last-time-you-got.html' property='og:url'/>
+<meta content='Wonton  Soup – When was the last time you got to “swallow clouds?”' property='og:title'/>
+<meta content='Half the fun of doing this blog is the research I do about the various dishes, so I can give you all a little bit of extra info in the posts...' property='og:description'/>
+<meta content='//2.bp.blogspot.com/_TtjHZtf6vtA/RgQOj0B4lDI/AAAAAAAAARo/p_S40jqLoKY/w1200-h630-p-k-no-nu/wontonthumb.jpg' property='og:image'/>
+<title>Food Wishes Video Recipes: Wonton  Soup &#8211; When was the last time you got to &#8220;swallow clouds?&#8221;</title>
 <style id='page-skin-1' type='text/css'><!--
 /*
 -----------------------------------------------
@@ -435,7 +435,7 @@ width: auto;
 
 </script>
 <meta content='XfDQyexKVqWZra8wFSODFO8OMmvfTPxC3Cpy8Us25Xk' name='google-site-verification'/>
-<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7173052990851751381&amp;zx=4fa998b4-1f72-48c1-a678-03fb5694ab92' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7173052990851751381&amp;zx=4fa998b4-1f72-48c1-a678-03fb5694ab92' rel='stylesheet'/></noscript>
+<link href='https://draft.blogger.com/dyn-css/authorization.css?targetBlogID=7173052990851751381&amp;zx=4fa998b4-1f72-48c1-a678-03fb5694ab92' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://draft.blogger.com/dyn-css/authorization.css?targetBlogID=7173052990851751381&amp;zx=4fa998b4-1f72-48c1-a678-03fb5694ab92' rel='stylesheet'/></noscript>
 <meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
 <meta name='google-adsense-platform-domain' content='blogspot.com'/>
 
@@ -461,7 +461,7 @@ width: auto;
       gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
         if (gapi.iframes && gapi.iframes.getContext) {
           gapi.iframes.getContext().openChild({
-              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d7173052990851751381\x26blogName\x3dFood+Wishes+Video+Recipes\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://foodwishes.blogspot.com/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttps://foodwishes.blogspot.com/\x26targetPostID\x3d5269555126103684871\x26blogPostOrPageUrl\x3dhttps://foodwishes.blogspot.com/2009/01/kernel-porkers-barbecued-pork-stuffed.html\x26vt\x3d3350228319926356829',
+              url: 'https://draft.blogger.com/navbar.g?targetBlogID\x3d7173052990851751381\x26blogName\x3dFood+Wishes+Video+Recipes\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://foodwishes.blogspot.com/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttps://foodwishes.blogspot.com/\x26targetPostID\x3d4287669992828112288\x26blogPostOrPageUrl\x3dhttps://foodwishes.blogspot.com/2007/03/wonton-soup-when-was-last-time-you-got.html\x26vt\x3d2759612677277167325',
               where: document.getElementById("navbar-iframe-container"),
               id: "navbar-iframe"
           });
@@ -625,18 +625,18 @@ head.appendChild(script);
 
           <div class="date-outer">
         
-<h2 class='date-header'><span>Thursday, January 29, 2009</span></h2>
+<h2 class='date-header'><span>Friday, March 23, 2007</span></h2>
 
           <div class="date-posts">
         
 <div class='post-outer'>
 <div class='post hentry'>
-<a name='5269555126103684871'></a>
+<a name='4287669992828112288'></a>
 <h3 class='post-title entry-title'>
-<a href='https://foodwishes.blogspot.com/2009/01/kernel-porkers-barbecued-pork-stuffed.html'>Kernel Porker's Barbecued Pork-Stuffed Corn Muffins</a>
+<a href='https://foodwishes.blogspot.com/2007/03/wonton-soup-when-was-last-time-you-got.html'>Wonton  Soup &#8211; When was the last time you got to &#8220;swallow clouds?&#8221;</a>
 </h3>
 <div class='post-header'>
 <div class='post-header-line-1'></div>
 </div>
 <div class='post-body entry-content'>
-<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="//2.bp.blogspot.com/_TtjHZtf6vtA/SYIHs6SGdMI/AAAAAAAADqY/JcHQ2nDY5IE/s1600-h/kp2.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 320px; height: 240px;" src="//2.bp.blogspot.com/_TtjHZtf6vtA/SYIHs6SGdMI/AAAAAAAADqY/JcHQ2nDY5IE/s320/kp2.jpg" alt="" id="BLOGGER_PHOTO_ID_5296804579881940162" border="0"></a><span style=";font-family:verdana;font-size:85%;"  >One of the comments I received on YouTube, for the beef slider video recipe said, <span style="font-style: italic;">"When I saw you put the meat into the muffins cups, I was hoping you were making some kind of meat muffins."</span> My first thought was, "Have another bong hit." My second thought was, "Actually, I could go for a nice meat muffin." So, down to my secret lab I went.<br /><br />A few hours and several adult beverages later, I was starring at a plate of barbecue pork stuffed corn muffins. This new American class</span><span style=";font-family:verdana;font-size:85%;"  >ic - part Chinese pork bun, part corndog - looked good, tasted great, and felt oh-so-right in my hand.<br /><br /></span><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="//1.bp.blogspot.com/_TtjHZtf6vtA/SYIHl73d5GI/AAAAAAAADqQ/YSbfFy_Qff8/s1600-h/kp.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 320px; height: 240px;" src="//1.bp.blogspot.com/_TtjHZtf6vtA/SYIHl73d5GI/AAAAAAAADqQ/YSbfFy_Qff8/s320/kp.jpg" alt="" id="BLOGGER_PHOTO_ID_5296804460048016482" border="0"></a><span style=";font-family:verdana;font-size:85%;"  >Not only did the warm muffin feel good, but also I was eating cornbread with barbecue pork and my fingers were absolutely spotless! Hundreds of years from now, I believe this will be considered the true genius of the recipe.<br /><br /></span><span style=";font-family:verdana;font-size:85%;"  >By the way, I can&#8217;t take credit for the brilliant "Kernel Porker" name. I posted this recipe on <a href="http://americanfood.about.com/">About.com</a> and asked for some name suggestions from the other guides. The working title, "Memphis Meat Muffins" was a bit too disturbing, and sounded more like a Southern punk rock band.<br /><br />My friend Barbara Rolek, About's <a href="http://easteuropeanfood.about.com/">Eastern European Food</a> Guide, submitted this title. If you are ever looking for recipes from that part of the world, check out her great site. Also, if you can't find Jiffy, here is a <a href="http://foodwishes.blogspot.com/2008/01/jalapeno-cornbread-now-with-75-less.html">cornbread recipe video</a>. Enjoy!<br /><br /><object height="430" width="550"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="movie" value="//vimeo.com/moogaloop.swf?clip_id=3006914&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=b5d15a&amp;fullscreen=1"><embed src="//vimeo.com/moogaloop.swf?clip_id=3006914&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=b5d15a&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" height="430" width="550"></embed></object><br /><br />Ingredients:<br />1 cup chopped barbecued pork<br />1 box (8.5-ounce) Jiffy corn muffin mix<br />1 egg<br />1/3 cup milk<br />1/2 cup shredded pepper Jack, or cheddar cheese<br />non-stick vegetable oil spray<br />8 paper baking cups</span><br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.mozoshoes.com/"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 42px; height: 57px;" src="//3.bp.blogspot.com/_TtjHZtf6vtA/STrC73xTG7I/AAAAAAAADMA/URrfrhd6JL0/s200/mozologo.jpg" alt="" id="BLOGGER_PHOTO_ID_5276744247256751026" border="0"></a><span style=";font-family:verdana;font-size:85%;"  >* Please help support free video recipes, and visit my new sponsor, <a style="font-weight: bold;" href="http://www.mozoshoes.com/">MOZO Shoes</a>. Find out why chefs (like me) are buzzing about their great shoes!</span>
+<a href="//2.bp.blogspot.com/_TtjHZtf6vtA/RgQOj0B4lDI/AAAAAAAAARo/p_S40jqLoKY/s1600-h/wontonthumb.jpg"><img id="BLOGGER_PHOTO_ID_5045173490986554418" style="FLOAT: left; MARGIN: 0px 10px 10px 0px; CURSOR: hand" alt="" src="//2.bp.blogspot.com/_TtjHZtf6vtA/RgQOj0B4lDI/AAAAAAAAARo/p_S40jqLoKY/s320/wontonthumb.jpg" border="0"></a><span style="font-family:trebuchet ms;font-size:85%;">Half the fun of doing this blog is the research I do about the various dishes, so I can give you all a little bit of extra info in the posts. Even after so many years of cooking and eating, I&#8217;m still amazed at the new things I learn. Of course, most of it comes from wikipedia, so it may be complete BS, but what the hell, most of it sounds like it could be right. Today&#8217;s clip is a wonderfully easy wonton soup. So, I thought I better find out what exactly a &#8220;wonton&#8221; is and where the term came from. I found two translations, and boy, are they different!<br /><br />The term "wonton" is mostly commonly translated as meaning "irregularly shaped pasta." But, the second translation I found is apparently from a popular Cantonese homonym that literally means "swallowing clouds." So, if given the choice between eating "irregularly shaped pasta," or "swallowing clouds," I&#8217;m going with the clouds every time!<br /><br />When making wonton soup there are two basic approaches; make highly-seasoned, full-flavored wontons and cook them in a fairly plain broth, or make a more plain, subtlety flavored wonton and cook it in a highly-seasoned, full-flavored broth. You know we have to consider that old Yin Yang balance thing. My method, as seen in this clip, is closer to the first style. This is also a great soup to clean out the veggie drawers in the fridge, as almost any thinly sliced vegetables would work in this soup.<br /><br />As you&#8217;ll see, the broth part of this dish is really simple, the pork filling is also extremely easy, but what scares the average cook away from trying this dish is the folding of the wontons. I have you covered! Not only do I show you how to do the basic fold in my clip, but below the ingredient list I&#8217;ve also added another clip, of another cook demonstrating three different wonton folds (and as much as I hate to admit it, he does a much better job!). So, after watching my clip, check out his clip also (he even uses a baseball analogy). Enjoy!<br /><embed src="//www.youtube.com/v/ohm6jrZxsZs" width="425" height="350" type="application/x-shockwave-flash" wmode="transparent"></embed><br />Ingredients:<br />For the Wontons:<br />1 pound ground pork<br />3 minced green onions<br />3 cloves crushed garlic<br />1 1/2 tbl fresh grated ginger or puree<br />1 tbl soy sauce<br />1 tsp fish sauce<br />1 tbl dry sherry wine<br />1 tsp hot sauce<br />1/4 tsp sesame oil<br />square wonton wrappers<br /><br />For the broth<br />1 1/2 quarts chicken stock or broth<br />4 oz sliced fresh shiitake mushrooms<br />sliced bok choy (or any other veggies!)<br />green onion tops to garnish<br />Note: according to your taste, you can add more ginger, onion, soy, hot pepper, cilantro, lime, lemongrass, etc. to customize this broth. I went with a very basic broth for the purposes of this demo.<br /><br /><span style="font-size:100%;color:#ff9900;"><strong>Extra Special Bonus Wonton Folding Demo (thanks to Chris aka cmtoy on YT)</strong></span><br /><embed src="//www.youtube.com/v/cUePDQ966nw" width="425" height="350" type="application/x-shockwave-flash" wmode="transparent"></embed></span>
