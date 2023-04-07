@@ -19,7 +19,7 @@ def main():
         # load list of methods (ordered dict with key [firstletter][number])
         # load recipe 'database'
 
-        # one of: [DialogFlow Setup] or [Import trained model]
+        # one of: [DialogFlow Setup] or [Import trained model] or [Wordnet Traversal Categorization]
         # initialize first user object
         # display welcome/first prompt explaining what REMI can do
             #sub-idea: give sample conversation as demo
