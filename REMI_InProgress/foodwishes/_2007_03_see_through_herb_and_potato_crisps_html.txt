@@ -1,6 +1,6 @@
 'http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head>
-<link href='https://www.blogger.com/static/v1/widgets/2975350028-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<link href='https://www.blogger.com/static/v1/widgets/3566091532-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
 <meta content='IE=EmulateIE7' http-equiv='X-UA-Compatible'/>
 <meta content='width=1100' name='viewport'/>
 <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
@@ -9,7 +9,7 @@
 <link href='https://foodwishes.blogspot.com/2007/03/see-through-herb-and-potato-crisps.html' rel='canonical'/>
 <link rel="alternate" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://foodwishes.blogspot.com/feeds/posts/default" />
 <link rel="alternate" type="application/rss+xml" title="Food Wishes Video Recipes - RSS" href="https://foodwishes.blogspot.com/feeds/posts/default?alt=rss" />
-<link rel="service.post" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://www.blogger.com/feeds/7173052990851751381/posts/default" />
+<link rel="service.post" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://draft.blogger.com/feeds/7173052990851751381/posts/default" />
 
 <link rel="alternate" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://foodwishes.blogspot.com/feeds/2494735418406716090/comments/default" />
 <!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
@@ -435,7 +435,7 @@ width: auto;
 
 </script>
 <meta content='XfDQyexKVqWZra8wFSODFO8OMmvfTPxC3Cpy8Us25Xk' name='google-site-verification'/>
-<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7173052990851751381&amp;zx=ebacfb61-3f35-4abc-94eb-eba35e84d15f' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7173052990851751381&amp;zx=ebacfb61-3f35-4abc-94eb-eba35e84d15f' rel='stylesheet'/></noscript>
+<link href='https://draft.blogger.com/dyn-css/authorization.css?targetBlogID=7173052990851751381&amp;zx=4fa998b4-1f72-48c1-a678-03fb5694ab92' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://draft.blogger.com/dyn-css/authorization.css?targetBlogID=7173052990851751381&amp;zx=4fa998b4-1f72-48c1-a678-03fb5694ab92' rel='stylesheet'/></noscript>
 <meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
 <meta name='google-adsense-platform-domain' content='blogspot.com'/>
 
@@ -461,7 +461,7 @@ width: auto;
       gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
         if (gapi.iframes && gapi.iframes.getContext) {
           gapi.iframes.getContext().openChild({
-              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d7173052990851751381\x26blogName\x3dFood+Wishes+Video+Recipes\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://foodwishes.blogspot.com/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttps://foodwishes.blogspot.com/\x26targetPostID\x3d2494735418406716090\x26blogPostOrPageUrl\x3dhttps://foodwishes.blogspot.com/2007/03/see-through-herb-and-potato-crisps.html\x26vt\x3d6305497089324421412',
+              url: 'https://draft.blogger.com/navbar.g?targetBlogID\x3d7173052990851751381\x26blogName\x3dFood+Wishes+Video+Recipes\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://foodwishes.blogspot.com/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttps://foodwishes.blogspot.com/\x26targetPostID\x3d2494735418406716090\x26blogPostOrPageUrl\x3dhttps://foodwishes.blogspot.com/2007/03/see-through-herb-and-potato-crisps.html\x26vt\x3d6305497089324421412',
               where: document.getElementById("navbar-iframe-container"),
               id: "navbar-iframe"
           });

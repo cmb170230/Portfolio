@@ -1,11 +1,8 @@
 import os
-import queue
 import re
 from urllib import request
 from bs4 import BeautifulSoup
 from torrequest import TorRequest
-from hashlib import sha256
-from time import sleep
 
 def main():
     prevurl = None
@@ -25,7 +22,6 @@ def main():
         soup = BeautifulSoup(site, features="lxml")
         for link in soup.find_all('a'):
             href = link.get('href')
-            #print(link)
             print(href)
             if(href):
                 if(href.find("search?updated-max=") != -1):
@@ -33,8 +29,6 @@ def main():
                         url = href
                 elif(validateLink(href)):
                     foodWishScrape(href) if(href.find("allrecipe") == -1) else allRecipeScrape(href)
-            
-            #print(link)
 
 def foodWishScrape(link):
     grailText = "the-story-of-kismet-and-other-major"
@@ -79,7 +73,6 @@ def allRecipeScrape(link):
     print("allscrape: ", link)
     try:
         arSite = request.urlopen(url= link).read().decode()
-        #arSoup = BeautifulSoup(arSite, features= 'lxml')
 
         #extract the raw recipe from all the boilerplate and save to file
         recipeStart = arSite.find("]\n}\n,\"name\":")
@@ -88,19 +81,10 @@ def allRecipeScrape(link):
         fname = re.sub('[^0-9a-zA-Z]+', '', arSite[:arSite.find('\n')])
         with open("allrecipes\\"+fname+".txt", "w", encoding= "utf8") as f:
             f.write(arSite)
-        #with open("alltestoutSoup.txt", "w", encoding= "utf8") as f2:
-        #    f2.write(str(arSoup))
     except:
         print("Expired Link")
 
     return link
-
-#def arsTinker(arSite):
-#    recipeStart = arSite.find("]\n}\n,\"name\":")
-#    recipeEnd = arSite.find(",\"mainEntityOfPage\":")
-#    tink = arSite[recipeStart+4:recipeEnd]
-#
-#    return tink
 
 
 main()

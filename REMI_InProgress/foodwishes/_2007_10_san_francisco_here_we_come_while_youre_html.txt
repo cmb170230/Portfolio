@@ -9,7 +9,7 @@
 <link href='https://foodwishes.blogspot.com/2007/10/san-francisco-here-we-come-while-youre.html' rel='canonical'/>
 <link rel="alternate" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://foodwishes.blogspot.com/feeds/posts/default" />
 <link rel="alternate" type="application/rss+xml" title="Food Wishes Video Recipes - RSS" href="https://foodwishes.blogspot.com/feeds/posts/default?alt=rss" />
-<link rel="service.post" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://draft.blogger.com/feeds/7173052990851751381/posts/default" />
+<link rel="service.post" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://www.blogger.com/feeds/7173052990851751381/posts/default" />
 
 <link rel="alternate" type="application/atom+xml" title="Food Wishes Video Recipes - Atom" href="https://foodwishes.blogspot.com/feeds/432098499614907985/comments/default" />
 <!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
@@ -435,7 +435,7 @@ width: auto;
 
 </script>
 <meta content='XfDQyexKVqWZra8wFSODFO8OMmvfTPxC3Cpy8Us25Xk' name='google-site-verification'/>
-<link href='https://draft.blogger.com/dyn-css/authorization.css?targetBlogID=7173052990851751381&amp;zx=ebacfb61-3f35-4abc-94eb-eba35e84d15f' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://draft.blogger.com/dyn-css/authorization.css?targetBlogID=7173052990851751381&amp;zx=ebacfb61-3f35-4abc-94eb-eba35e84d15f' rel='stylesheet'/></noscript>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7173052990851751381&amp;zx=4fa998b4-1f72-48c1-a678-03fb5694ab92' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7173052990851751381&amp;zx=4fa998b4-1f72-48c1-a678-03fb5694ab92' rel='stylesheet'/></noscript>
 <meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
 <meta name='google-adsense-platform-domain' content='blogspot.com'/>
 
@@ -461,7 +461,7 @@ width: auto;
       gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
         if (gapi.iframes && gapi.iframes.getContext) {
           gapi.iframes.getContext().openChild({
-              url: 'https://draft.blogger.com/navbar.g?targetBlogID\x3d7173052990851751381\x26blogName\x3dFood+Wishes+Video+Recipes\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://foodwishes.blogspot.com/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttps://foodwishes.blogspot.com/\x26targetPostID\x3d432098499614907985\x26blogPostOrPageUrl\x3dhttps://foodwishes.blogspot.com/2007/10/san-francisco-here-we-come-while-youre.html\x26vt\x3d-3977760326279635809',
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d7173052990851751381\x26blogName\x3dFood+Wishes+Video+Recipes\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://foodwishes.blogspot.com/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttps://foodwishes.blogspot.com/\x26targetPostID\x3d432098499614907985\x26blogPostOrPageUrl\x3dhttps://foodwishes.blogspot.com/2007/10/san-francisco-here-we-come-while-youre.html\x26vt\x3d-3977760326279635809',
               where: document.getElementById("navbar-iframe-container"),
               id: "navbar-iframe"
           });
