@@ -5,26 +5,39 @@ import random
 import pickle
 from quantulum3 import parser
 from collections import OrderedDict
+import spacy
+from nltk.tokenize import word_tokenize
+from nltk.corpus import wordnet2021 as wn
+from unidecode import unidecode
 
 def main():
+    nlp = spacy.load("en_core_web_trf")
     current_directory = os.getcwd()
     dirtyFiles = os.path.join(current_directory, r'allrecipes')
-    emptydict = dict()
+    recipeDictionary = OrderedDict()
+    keyint = -1
     for filename in glob.glob(os.path.join(dirtyFiles, '*.txt')):
+        keyint += 1
         print(filename)
         with open(filename, 'r',  encoding="utf8") as file:
             ugly = file.read()
             ugly = ugly[1:]
             good = '{' + ugly + '}'
-            #print(get_recipe_instructions(good))
-            #print(parse_recipe(good))
-            recipe = parse_recipe(good)
-            emptydict.update({recipe.name:recipe})
-    entry_list = list(emptydict.items())
+            recipe = parse_recipe(good, nlp)
+            """rkey = ''
+            for ingr in recipe.ingredients:
+                ingrtok = word_tokenize(ingr)
+                rkey += ingrtok[-1][0]
+            rkey += '_'
+            for method in recipe.techniques:
+                rkey += method[0]
+            rkey += str(keyint)"""
+            recipeDictionary.update({recipe.name:recipe})
+    entry_list = list(recipeDictionary.items())
     random_entry = random.choice(entry_list)
     print(random_entry[1])
-    dbfile = open('recipeDictPickle', 'ab')
-    pickle.dump(emptydict, dbfile )
+    dbfile = open('recipeData.dat', 'wb')
+    pickle.dump(recipeDictionary, dbfile )
     
             
 
@@ -56,7 +69,14 @@ class Recipe:
         recipe_str += f"Serving Count: {self.servingCount}\n"
         recipe_str += "Ingredients:\n"
         for key, value in self.ingredients.items():
-            recipe_str += f"\t{key}: {value}\n"
+            vals = ''
+            try:
+                for v in value:
+                    vals += v.surface
+            except:
+                print(self.name)
+                vals = value
+            recipe_str += f"\t{key}: {vals}\n"
         recipe_str += "How-to Steps:\n"
         for key, value in self.howToSteps.items():
             recipe_str += f"\t{key}: {value}\n"
@@ -66,13 +86,15 @@ class Recipe:
             recipe_str += f"\t{key}: {value}\n"
         return recipe_str
 
-def parse_recipe(inString):
+def parse_recipe(inString, nlp):
     data = json.loads(inString)
 
     recipe = Recipe()
 
     try:
         recipe.name = data['name']
+        recipe.name.replace('&#39;', '\'')
+        recipe.name.replace('&#34;','')
     except KeyError:
         recipe.name = ''
 
@@ -115,14 +137,22 @@ def parse_recipe(inString):
     except (KeyError, ValueError):
         recipe.servingCount = 0
 
-    recipe.ingredients = {}
+    recipe.ingredients = OrderedDict()
     for ingredient in data.get('recipeIngredient', []):
+        #try:
+        ingredient.replace('(','').replace(')','')
+        ingredient.replace(')','').replace('(','')
+        amount = parser.parse(ingredient)
+        if(amount == []):
+            amount = "to taste"
+            name = ingredient[:-len(amount)] if ingredient.find(amount) != -1 else ingredient
+        else:
+            name = ingredient[amount[-1].span[1]:]
         try:
-            quant = parser.parse(ingredient)
-            name, amount = ingredient.rsplit(' ', 1)
-            recipe.ingredients[name] = amount
-        except (ValueError, TypeError):
-            continue
+            ingr, prep = name.rsplit(',', 1)
+        except (ValueError):
+            ingr = name
+        recipe.ingredients[ingr.lower()] = amount
 
     recipe.howToSteps = {}
     for i, step in enumerate(data.get('recipeInstructions', [])):
@@ -132,11 +162,11 @@ def parse_recipe(inString):
             continue
 
     recipe.techniques = []
+    
     for step in recipe.howToSteps.values():
-        words = step.split()
-        for word in words:
-            if word.endswith('ing'):
-                recipe.techniques.append(word.capitalize())
+        steptechs = parseTechniques(step, nlp)
+        for t in steptechs:
+            recipe.techniques.append(t)
 
     recipe.reviews = {}
     for review in data.get('review', []):
@@ -155,12 +185,33 @@ def get_recipe_instructions(recipe_string):
     recipe_dict = json.loads(recipe_string)
     recipe_instructions = [step['text'] for step in recipe_dict['recipeInstructions']]
     return recipe_instructions
-    
-#def ingredient_key_parse(tempDict):
-#    #parser = spacy.load("en_core_web_sm")
-#    finaldict = tempDict
-#    measurementsList = ("teaspoon, teaspoons, tablespoon, tablespoons, tsp, tbsp, cup, cups, ounces, oz, ounce, ounces")
-#    return finaldict
+
+def parseTechniques(sent, nlp):
+    parsed = nlp(sent)
+    ret = list()
+
+    for tok in parsed:
+        if tok.pos_ == "VERB":
+            if isCookingVerb(unidecode(tok.text)):
+                ret.append(tok.lemma_.lower())
+    retset = set(ret)
+    ret = list(retset)
+    return ret
+
+def isCookingVerb(verb):
+    syn = wn.synsets(verb, pos=wn.VERB)
+    for s in syn:
+        cap = 0
+        while s:
+            cap += 1
+            print(s)
+            if s == wn.synset('cook.v.03') or s == wn.synset('create_from_raw_material.v.01') or s == wn.synset('change.v.01'):
+                return True
+            if cap == 20:
+                break
+            if s.hypernyms():
+                s = s.hypernyms()[0]
+    return False
 
 if __name__ == "__main__":
     main()
