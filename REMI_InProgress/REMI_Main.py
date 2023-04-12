@@ -6,13 +6,15 @@ import pickle
 from collections import OrderedDict
 
 import nltk
-import sklearn
 import spacy
 import eng_spacysentiment
 import numpy as np
 import pandas as pd
 from nltk.corpus import wordnet2021 as wn
 from quantulum3 import parser
+
+from DictBuilder import Recipe
+from DictBuilder import isCookingVerb, parseTechniques, parsefromRecipes
 
 class UserState():
     def __init__(self,
@@ -25,75 +27,29 @@ class UserState():
                  rating = int,
                  time = int
                  ):
-        userName = name #name of the current user
-        userIngredients = ingredients #list of ingredients (potentially tuple of ingredient, quantity object)
-        preferredMethods = pmethods #list of methods preferred
-        dislikedMethods = dmethods #list of methods to avoid
-        recipeCatalog = recipes #keep track of all recipes explored so far
-        nutritionPrefs = nutrition #dict of nutritional attr : value
-        ratingThreshold = rating #cutoff for allowable rating
-        maxCookTime = time #maximum time desired for recipe length
-
-class Recipe:
-    def __init__(self):
-        self.name = '' #Contains the recipe name
-        self.cuisine = '' #Contains what type of food the recipe is
-        self.rating = 0 #Contains the average rating
-        self.ratingCount = 0 #Contains the number of ratings
-        self.prepTime = 0 #The ammount of preptime
-        self.cookTime = 0 #the ammount of time needed to cook
-        self.totalTime = 0
-        self.nutrition = {} #Nutritional values, as a list of tuples.  Eg. ("calories", # of calories)
-        self.servingCount = 0 #Number of servings made
-        self.ingredients = {}# Contains a list of tuples, in the format (ingredient, ammount)
-        self.howToSteps = {} #Contains a list of the steps in the recipe text
-        self.techniques = [] #Contains a list of techniques used, like frying, baking, grilling, etc.
-        self.reviews = {} #Contains a list of reviews people have written for the recipe
-
-    def __str__(self):
-        recipe_str = f"Name: {self.name}\n"
-        recipe_str += f"Cuisine: {self.cuisine}\n"
-        recipe_str += f"Rating: {self.rating}\n"
-        recipe_str += f"Rating Count: {self.ratingCount}\n"
-        recipe_str += f"Time: {self.totalTime}\n"
-        recipe_str += f"prep Time: {self.prepTime}\n"
-        recipe_str += f"cook Time: {self.cookTime}\n"
-        recipe_str += f"Nutrition: {self.nutrition}\n"
-        recipe_str += f"Serving Count: {self.servingCount}\n"
-        recipe_str += "Ingredients:\n"
-        for key, value in self.ingredients.items():
-            vals = ''
-            try:
-                for v in value:
-                    vals += v.surface
-            except:
-                print(self.name)
-                vals = value
-            recipe_str += f"\t{key}: {vals}\n"
-        recipe_str += "How-to Steps:\n"
-        for key, value in self.howToSteps.items():
-            recipe_str += f"\t{key}: {value}\n"
-        recipe_str += f"Techniques: {self.techniques}\n"
-        recipe_str += "Reviews:\n"
-        for key, value in self.reviews.items():
-            recipe_str += f"\t{key}: {value}\n"
-        return recipe_str
+        self.userName = name #name of the current user
+        self.userIngredients = ingredients #list of ingredients (potentially tuple of ingredient, quantity object)
+        self.preferredMethods = pmethods #list of methods preferred
+        self.dislikedMethods = dmethods #list of methods to avoid
+        self.recipeCatalog = recipes #keep track of all recipes explored so far
+        self.nutritionPrefs = nutrition #dict of nutritional attr : value
+        self.ratingThreshold = rating #cutoff for allowable rating
+        self.maxCookTime = time #maximum time desired for recipe length
 
 ##SETUP:
     # load recipe 'database'
 recipeData = pickle.load(open("recipeData.dat", 'rb'))
     # load list of ingredients and methods
-ingredientList = list()
-methodList = list()
-for recipekey, recipevalue in recipeData.items():
-    for ingredientkey, _ in recipevalue.ingredients.items():
-        ingredientList.append(str(ingredientkey))
-    for tech in recipevalue.techniques:
-        methodList.append(tech)
-ingredientSet = set(ingredientList)
-ingredientList = list(ingredientSet)
-methodSet = set(methodList)
-methodList = list(methodSet)
+ingredientData = pickle.load(open("ingredientData.dat", 'rb'))
+methodData = pickle.load(open("methodData.dat", 'rb'))
+    # load previous user states
+try:
+    userList = pickle.load(open("userStates.dat", 'rb'))
+except:
+    userList = list()
+    # Import trained models
+intentRegressor = pickle.load(open("intent_regressor.model", 'rb'))
+intentBayes = pickle.load(open("intent_bayes.model", 'rb'))
 
     # set up default nutritional cases
 healthyDiet = {
@@ -109,9 +65,7 @@ healthyDiet = {
     'unsaturatedFatConent' : parser.parse('15 grams')
 }
 
-    # Import trained models
-intentRegressor = pickle.load(open("intent_regressor.model", 'rb'))
-intentBayes = pickle.load(open("intent_bayes.model", 'rb'))
+    
 
     # Set up spaCy Model
 nlp = spacy.load("en_core_web_trf")
@@ -132,75 +86,114 @@ def main():
     print("Welcome to REMI_V1!")
     print("REMI:\tI’m REMI, the Recipe Exploration and Modification Intelligence!")
     currentUserID = 0
-    userList = list()
     #Parse name from userIn
     foundName = False
     while(not foundName):
         print("REMI:\tTo start, please tell me your name!\n")
-        userIn = input()
+        userIn = input("User:\t")
         nameParse = nlp(userIn)
-        for tok in nameParse:
-            if tok.pos_ == 'PROPN':
-                foundName = True
-                userList.append(UserState(name=tok.text))
-                break
+        if(len(nameParse) == 1):
+            userList.append(UserState(name= nameParse[0].text.capitalize()))
+            foundName = True
+        else:
+            for tok in nameParse:
+                if tok.pos_ == 'PROPN' and tok.text.lower().find('remi') == -1 and not tok.is_stop:
+                    foundName = True
+                    userList.append(UserState(name=tok.text.capitalize()))
+                    break
+    
 
-
+    print("REMI:\tHi " + getattr(userList[currentUserID], 'userName') + "!\n")
 
     while(userIn != "exit"):
-        print("REMI:\tHi " + userList[currentUserID].userName + "!\n")
-        intent = '\0'
-
-        userIn = input("What can I help you with today?")
         #query for intent
-
+        intent = '\0'
+        userIn = input("REMI:\tWhat can I help you with today?\nUSER:\t")
         intent = getUserIntent(userIn)
 
+
+        """
+            Definition Intent:
+                This area provides the mechanism by which REMI provides definitions
+                for ingredients or cooking methods.
+
+                The user's statement is passed in and parsed using spaCy's english language
+                transformer to tag part-of-speech information. All ingredients are nouns,
+                so a list of noun words found in the sentence is constructed, and from there 
+                WordNet is used to check if a form of these nouns are categorized as an ingredient.
+
+
+        """
         if intent == 'd':
-            definitionParse = nlp(userIn)
 
-            defineListIngr = list()
-            defineListMethod = list()
+            ingredientDefs, methodDefs = parseforcooking(userIn)
 
-            for tok in definitionParse:
-                if tok.pos_ == 'NOUN':
-                    defineListIngr.append(tok.text)
-                elif tok.pos_ == 'VERB':
-                    defineListMethod.append(tok.text)
+            defs = ingredientDefs + methodDefs
+            try:
+                outstr = "REMI:\tSure thing, here's a definition for " + defs[0][0]
+                if len(defs) > 1:
+                    if len(defs) > 2:
+                        outstr += ','
+                        for i in range(1,len(defs)-1):
+                            outstr += " " + defs[i][0] + ','
+                    outstr += " and " + defs[-1][0]
+                print(outstr, '\n')
+                for definition in defs:
+                    print(definition[0].capitalize(), ":", definition[1], "\n")
+            except (IndexError):
+                print("REMI:\tHmm... sorry, doesn't seem like I know what that means.")
+
             #retrieve information about a particular ingredient or method
                 #parse relevant info from string
                  #if ingredient or method definition, query wordnet
-                #elif substitution
-                 #determine if ingredient or method
-                 #if ingredient substitution
-                    #query wordnet for lemmas
-                    #if no lemmas
-                        #query hyponyms of hypernym
+                
+                 
             pass
                 
-        elif intent == 'e':
+        """
+            Exploration Intent:
+
+                This is REMI's core functionality: based on what it knows about the user
+                and the incoming request, it will attempt to find a recipe that best matches
+                the user's desire.
+
+        """
+        if intent == 'e':
+            print('e')
                  #if method substitution
                     #query vector space model based on cosine similarity
                     # and pearson correlation coefficient
                     # if agree, then good match,
                     # if not agree, then use cosine but say it might not be good
-                #  
+                #if ingredient substitution
+                    #use current known ingredient database
+                    #find item with highest wu-palmer similarity
             pass
-        elif intent == 'm': 
-            #search database for recipe based on attribute
-            #if nutrition related
-                #if specifics given
-                 #parse/constrain based on given data
+        """
+            Modification Intent:
+                Using the loaded ingredient or method lists, the user's request will be parsed
+                for either a method or ingredient and the next closest term will be given.
 
-                #if more general given
-                 #filter by preset 'healthy' nutritional standards
-
-                 #dietary restrictions??? if time
+                Closeness will be determined by wu-palmer similarity.
+        """
+        if intent == 'm': 
+            print('m')
+            
             pass
-        elif intent == 'u':
+        if intent == 'u':
             ##PRIMARY USE: UNCERTAINTY RESOLUTION
+            print('uncertainty detected')
+            #new user detection
+                #proper noun?
 
-            #REPROMPT USER // PROBABILITY THRESHOLD CUTOFF
+            #refer to something in current recipe
+                #if there's a number
+                #word: step, else ingredient
+
+            #conversion
+                #using quantulum3, if multiple units are detected in a string, 
+                #figure out how to use pint for conversions
+            #genuine uncertainty- reprompt
             pass
         else:
             
@@ -212,19 +205,123 @@ def main():
                 #also leverage quantulum3????
                 #go check recipe class for viability
             pass
+#    pickle.dump(userList, open("userStates.dat", 'wb'))
+
 
 def getUserIntent(userstring):
     intent = ''
     reg = intentRegressor.predict([userstring]), intentRegressor.predict_proba([userstring])
     bayes = intentBayes.predict([userstring]), intentBayes.predict_proba([userstring])
 
-    if bayes == reg:
-        intent = bayes
+    if bayes[0][0] == reg[0][0]:
+        intent = bayes[0][0]
     else:
-        intent = 'u'
+        if(reg[1].max() > 0.8):
+            intent = reg[0][0]
+        elif(bayes[1].max() > 0.8):
+            intent = bayes[0][0]
+        else:
+            intent = 'u'
 
     return intent    
 
 
+"""
+    Parse For Cooking:
+        This function takes in a sentence parsed by spaCy and outputs a list
+        of ingredients (i.e. food nouns) and methods (i.e. cooking related verbs)
+
+"""
+def parseforcooking(inputFromUser):
+    definitionParse = nlp(inputFromUser)
+    ingredientList = list()
+    methodList = parseTechniques(inputFromUser, nlp=nlp)
+
+    defineIngList = list()
+    defineMethodList = list()
+    
+    if len(definitionParse) < 4:
+        for tok in definitionParse:
+            ingredientList.append(tok.text)
+    else:
+        for tok in definitionParse:
+            if tok.pos_ == 'NOUN':
+                ingredientList.append(tok.text)
+
+
+    #if ingredients found,  
+    listind = 0
+    for ingr in ingredientList:
+        #check to see if this is actually an ingredient
+        try:
+            syn = wn.synsets(ingr, pos=wn.NOUN)
+            ingrIndex = -1
+            for s in syn:
+                isIngredientHyponym = False
+                ingrIndex +=1
+                try:
+                    hyp = s.hypernyms()[0]
+                    entity = wn.synset('entity.n.01')
+                    ingredient = wn.synset('ingredient.n.03')
+                    herb = wn.synset('herb.n.01')
+                    food = wn.synset('food.n.02')
+                    while hyp:
+                        #print(bechHyp)
+                        if hyp == ingredient or hyp == herb or hyp == food:
+                            isIngredientHyponym = True
+                            break
+                        if hyp == entity:
+                            break
+                        if hyp.hypernyms():
+                            hyp = hyp.hypernyms()[0]
+                    if isIngredientHyponym:
+                        break
+                except (IndexError):
+                    #print(s, s.definition())
+                    continue
+            if ingrIndex != -1 and isIngredientHyponym:
+                #append word and definition to list
+                defineIngList.append((ingredientList[listind], syn[ingrIndex].definition()))
+        except:
+            continue
+        listind +=1
+
+    listind = 0
+    for method in methodList:
+        try:
+            syn = wn.synsets(method, pos=wn.VERB)
+            mIndex = -1
+            for s in syn:
+                isMethodHyponym = False
+                mIndex +=1
+                try:
+                    hyp = s.hypernyms()[0]
+                    cap = 0
+                    while hyp:
+                        cap +=1
+                        raw = wn.synset('create_from_raw_material.v.01')
+                        cut = wn.synset('cut.v.01')
+                        cook = wn.synset('cook.v.03')
+                        heat = wn.synset('heat.v.01')
+                        if hyp == cook or hyp == raw or hyp == cut or hyp == heat:
+                            isMethodHyponym = True
+                            break
+                        if cap > 10:
+                            break
+                        if hyp.hypernyms():
+                            hyp = hyp.hypernyms()[0]
+                    if isMethodHyponym:
+                        break
+                except (IndexError):
+                    print(s, s.definition())
+                    continue
+            if mIndex != -1 and isMethodHyponym:
+                #append word and definition to list
+                defineIngList.append((methodList[listind], syn[mIndex].definition()))
+        except:
+            continue
+        listind += 1
+
+    return defineIngList, defineMethodList
 
 main()

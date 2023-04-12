@@ -10,11 +10,14 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import wordnet2021 as wn
 from unidecode import unidecode
 
+""""""
+
 def main():
     nlp = spacy.load("en_core_web_trf")
     current_directory = os.getcwd()
+
     dirtyFiles = os.path.join(current_directory, r'allrecipes')
-    recipeDictionary = OrderedDict()
+    recipeData = OrderedDict()
     keyint = -1
     for filename in glob.glob(os.path.join(dirtyFiles, '*.txt')):
         keyint += 1
@@ -24,20 +27,17 @@ def main():
             ugly = ugly[1:]
             good = '{' + ugly + '}'
             recipe = parse_recipe(good, nlp)
-            """rkey = ''
-            for ingr in recipe.ingredients:
-                ingrtok = word_tokenize(ingr)
-                rkey += ingrtok[-1][0]
-            rkey += '_'
-            for method in recipe.techniques:
-                rkey += method[0]
-            rkey += str(keyint)"""
-            recipeDictionary.update({recipe.name:recipe})
-    entry_list = list(recipeDictionary.items())
+            recipeData.update({recipe.name:recipe})
+    entry_list = list(recipeData.items())
     random_entry = random.choice(entry_list)
     print(random_entry[1])
     dbfile = open('recipeData.dat', 'wb')
-    pickle.dump(recipeDictionary, dbfile )
+    pickle.dump(recipeData, dbfile )
+
+    ingredientData, methodData = parsefromRecipes(recipeData, nlp)
+
+    pickle.dump(ingredientData, open("ingredientData.dat", "wb"))
+    pickle.dump(methodData, open("methodData.dat", "wb"))
     
             
 
@@ -204,7 +204,7 @@ def isCookingVerb(verb):
         cap = 0
         while s:
             cap += 1
-            print(s)
+            #print(s)
             if s == wn.synset('cook.v.03') or s == wn.synset('create_from_raw_material.v.01') or s == wn.synset('change.v.01'):
                 return True
             if cap == 20:
@@ -212,6 +212,37 @@ def isCookingVerb(verb):
             if s.hypernyms():
                 s = s.hypernyms()[0]
     return False
+
+def parsefromRecipes(recipeData, nlp):
+    rawingredientList = list()
+    rawmethodList = list()
+    for _, recipevalue in recipeData.items():
+        for ingredientkey, _ in recipevalue.ingredients.items():
+            rawingredientList.append(str(ingredientkey))
+        for tech in recipevalue.techniques:
+            rawmethodList.append(tech)
+
+    ingredientList= list()
+    methodList = list()
+
+    #perform additional ingredient processing
+    for ingr in rawingredientList:
+        parse = nlp(ingr)
+        ingrstr = ''
+        for tok in parse:
+            #print(tok.lemma_, tok.pos_, tok.dep_, tok.head.text)
+            if(tok.dep_ == 'amod' or 
+               tok.dep_ == 'ROOT' or
+               tok.dep_ == 'compound' or
+               tok.dep_ == 'dobj'):
+                ingrstr += tok.text + " " 
+        ingredientList.append(ingrstr)
+
+    ingredientList = list(set(ingredientList))
+    methodList = list(set(rawmethodList))
+
+    return ingredientList, methodList
+
 
 if __name__ == "__main__":
     main()
