@@ -11,6 +11,7 @@ import eng_spacysentiment
 import numpy as np
 import pandas as pd
 from nltk.corpus import wordnet2021 as wn
+from nltk.tokenize import word_tokenize
 from quantulum3 import parser
 
 from DictBuilder import Recipe
@@ -104,13 +105,19 @@ def main():
     
 
     print("REMI:\tHi " + getattr(userList[currentUserID], 'userName') + "!\n")
-
+    handleError = False
     while(userIn != "exit"):
         #query for intent
         intent = '\0'
-        userIn = input("REMI:\tWhat can I help you with today?\nUSER:\t")
-        intent = getUserIntent(userIn)
-
+        if not handleError:
+            userIn = input("REMI:\tWhat can I help you with today?\nUSER:\t")
+            intent = getUserIntent(userIn)
+        else:
+            print("REMI:\tSorry, I don't quite know what you want.\n")
+            intent = 'u'
+            
+        handleError = False
+        
 
         """
             Definition Intent:
@@ -139,16 +146,16 @@ def main():
                     outstr += " and " + defs[-1][0]
                 print(outstr, '\n')
                 for definition in defs:
-                    print(definition[0].capitalize(), ":", definition[1], "\n")
+                    print(definition[0].capitalize(), ":", definition[1].definition(), "\n")
             except (IndexError):
                 print("REMI:\tHmm... sorry, doesn't seem like I know what that means.")
+                intent = 'ud'
+                handleError = True
 
             #retrieve information about a particular ingredient or method
                 #parse relevant info from string
                  #if ingredient or method definition, query wordnet
                 
-                 
-            pass
                 
         """
             Exploration Intent:
@@ -179,10 +186,64 @@ def main():
         if intent == 'm': 
             print('m')
             
+            #retrieve synsets for all methods
+            ingrSyns = methodSyns = list()
+            ingrs, methods = parseforcooking(userIn)
+
+            for ingr in ingrs:
+                ingrSyns.append(ingr[1])
+            for method in methods:
+                methodSyns.append(method[1])
+            
+            similarIngredients = list()
+            similarMethods = list()
+            #find term from relevant master list with highest wup-similarity
+            for ibaseSyn in ingrSyns:
+                imostSimilar = (None, 0)
+                for ingredient in ingredientData:
+                    tokens = word_tokenize(ingredient)
+                    for tok in tokens:
+                        try:
+                            isimilarSyns = wn.synsets(tok, pos= wn.NOUN)
+                            for isyn in isimilarSyns:
+                                iwup = wn.wup_similarity(ibaseSyn, isyn)
+                                if iwup > imostSimilar[1] and iwup != 1.0:
+                                    imostSimilar = (isyn, iwup)
+                        except:
+                            continue
+                print(imostSimilar[0])
+                similarIngredients.append((ibaseSyn, imostSimilar))
+            
+            for mbaseSyn in methodSyns:
+                mmostSimilar = (None, 0)
+                for met in methodData:
+                    tokens = word_tokenize(met)
+                    for tok in tokens:
+                        try:
+                            msimilarSyns = wn.synsets(tok, pos= wn.VERB)
+                            for msyn in msimilarSyns:
+                                mwup = wn.wup_similarity(mbaseSyn, msyn)
+                                if mwup > mmostSimilar[1] and mwup != 1.0:
+                                    mmostSimilar = (msyn, mwup)
+                        except:
+                            continue
+                print(mmostSimilar[0])
+                similarMethods.append((mbaseSyn, mmostSimilar))
+
+            modificationOut = similarIngredients + similarMethods
+            if len(modificationOut) > 1:
+                print("REMI:\tIt appears you wanted me to find some different things for you.")
+                print("REMI:\tDid you want me to avoid recipes containing the following going forward?\n")
+            else:
+                print("REMI:\tIt appears you wanted me to find something different for you.")
+                print("REMI:\tDid you want me to avoid recipes containing it going forward?\n")
+
+            
             pass
         if intent == 'u':
             ##PRIMARY USE: UNCERTAINTY RESOLUTION
             print('uncertainty detected')
+            
             #new user detection
                 #proper noun?
 
@@ -194,16 +255,19 @@ def main():
                 #using quantulum3, if multiple units are detected in a string, 
                 #figure out how to use pint for conversions
             #genuine uncertainty- reprompt
+            intent = 'icd'
             pass
-        else:
-            
-
+        elif intent == 'icd':
+            print("Input corrective domain")
+            print(intent)
+            handleError = False
             #parse/display something specifically in the recipe
             #if ingredient
                 #quantulum3 parser to handle quantities
             #if method/step
                 #also leverage quantulum3????
                 #go check recipe class for viability
+            
             pass
 #    pickle.dump(userList, open("userStates.dat", 'wb'))
 
@@ -216,11 +280,14 @@ def getUserIntent(userstring):
     if bayes[0][0] == reg[0][0]:
         intent = bayes[0][0]
     else:
-        if(reg[1].max() > 0.8):
+        if(reg[1].max() > 0.8 and (np.std(bayes[1]) > 0.2)):
+            #print('reg override', reg[1].max(), np.std(bayes[1]))
             intent = reg[0][0]
-        elif(bayes[1].max() > 0.8):
+        elif(bayes[1].max() > 0.8 and (np.std(reg[1]) > 0.25)):
+            #print('bayes override', bayes[1].max(), np.std(reg[1]))
             intent = bayes[0][0]
         else:
+            #print(np.std(reg[1]), np.std(bayes[1]))
             intent = 'u'
 
     return intent    
@@ -281,7 +348,7 @@ def parseforcooking(inputFromUser):
                     continue
             if ingrIndex != -1 and isIngredientHyponym:
                 #append word and definition to list
-                defineIngList.append((ingredientList[listind], syn[ingrIndex].definition()))
+                defineIngList.append((ingredientList[listind], syn[ingrIndex]))
         except:
             continue
         listind +=1
@@ -317,7 +384,7 @@ def parseforcooking(inputFromUser):
                     continue
             if mIndex != -1 and isMethodHyponym:
                 #append word and definition to list
-                defineIngList.append((methodList[listind], syn[mIndex].definition()))
+                defineIngList.append((methodList[listind], syn[mIndex]))
         except:
             continue
         listind += 1

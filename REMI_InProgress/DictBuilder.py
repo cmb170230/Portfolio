@@ -34,6 +34,8 @@ def main():
     dbfile = open('recipeData.dat', 'wb')
     pickle.dump(recipeData, dbfile )
 
+    recipeData = pickle.load(open('recipeData.dat', 'rb'))
+
     ingredientData, methodData = parsefromRecipes(recipeData, nlp)
 
     pickle.dump(ingredientData, open("ingredientData.dat", "wb"))
@@ -237,8 +239,17 @@ def parsefromRecipes(recipeData, nlp):
                tok.dep_ == 'dobj'):
                 ingrstr += tok.text + " " 
         ingredientList.append(ingrstr)
+    #remove verbs like 'sliced' or 'chopped'
+    ilist = list()
+    for ingr in ingredientList:
+        parsed = nlp(ingr)
+        outstr = ''
+        for tok in parsed:
+            if(tok.pos_ != 'VERB' and tok.pos_ != 'PUNCT'):
+                outstr += tok.text + ' '
+        ilist.append(outstr)
 
-    ingredientList = list(set(ingredientList))
+    ingredientList = list(set(ilist))
     methodList = list(set(rawmethodList))
 
     return ingredientList, methodList
