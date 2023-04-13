@@ -167,21 +167,15 @@ def main():
         """
         if intent == 'e':
             print('e')
-                 #if method substitution
-                    #query vector space model based on cosine similarity
-                    # and pearson correlation coefficient
-                    # if agree, then good match,
-                    # if not agree, then use cosine but say it might not be good
-                #if ingredient substitution
-                    #use current known ingredient database
-                    #find item with highest wu-palmer similarity
+                
             pass
         """
             Modification Intent:
                 Using the loaded ingredient or method lists, the user's request will be parsed
                 for either a method or ingredient and the next closest term will be given.
 
-                Closeness will be determined by wu-palmer similarity.
+                Closeness will be determined by wu-palmer similarity, or if no good
+                match found then look at lemmas.
         """
         if intent == 'm': 
             print('m')
@@ -227,7 +221,7 @@ def main():
                                     mmostSimilar = (msyn, mwup)
                         except:
                             continue
-                print(mmostSimilar[0])
+                print(mmostSimilar[0], mbaseSyn.lemmas())
                 similarMethods.append((mbaseSyn, mmostSimilar))
 
             modificationOut = similarIngredients + similarMethods
