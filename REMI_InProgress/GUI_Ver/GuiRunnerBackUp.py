@@ -1,4 +1,5 @@
 from tkinter import *
+import time
 import os
 import re
 import sys
@@ -41,11 +42,10 @@ class ChatApplication:
     def _setup_main_window(self):
         self.window.title("Chat")
         self.window.resizable(width=False, height=False)
-        self.window.configure(width=470, height=550, bg=BG_COLOR)
+        self.window.configure(width=900, height=550, bg=BG_COLOR)
         
         # head label
-        head_label = Label(self.window, bg=BG_COLOR, fg=TEXT_COLOR,
-                           text="REMI", font=FONT_BOLD, pady=10)
+        head_label = Label(self.window, bg=BG_COLOR, fg=TEXT_COLOR, text="REMI", font=FONT_BOLD, pady=10)
         head_label.place(relwidth=1)
         
         # tiny divider
@@ -98,6 +98,10 @@ class ChatApplication:
         self.text_widget.configure(state=DISABLED)
         
         self.text_widget.see(END)
+
+        if msg2 == f"{REMI}: Thanks for using REMI! Have a good day!\n\n":
+            time.sleep(3)
+            quit()
              
         
 if __name__ == "__main__":

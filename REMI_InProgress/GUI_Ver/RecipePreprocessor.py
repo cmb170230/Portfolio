@@ -76,7 +76,7 @@ class Recipe:
                 for v in value:
                     vals += v.surface
             except:
-                print(self.name)
+                #print(self.name)
                 vals = value
             recipe_str += f"\t{key}: {vals}\n"
         recipe_str += "How-to Steps:\n"

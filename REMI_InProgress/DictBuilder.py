@@ -54,7 +54,7 @@ class Recipe:
         self.totalTime = 0
         self.nutrition = {} #Nutritional values, as a list of tuples.  Eg. ("calories", # of calories)
         self.servingCount = 0 #Number of servings made
-        self.ingredients = {}# Contains a list of tuples, in the format (ingredient, ammount)
+        self.ingredients = {}# Contains a list of tuples, in the format (ingredient, amount)
         self.howToSteps = {} #Contains a list of the steps in the recipe text
         self.techniques = [] #Contains a list of techniques used, like frying, baking, grilling, etc.
         self.reviews = {} #Contains a list of reviews people have written for the recipe
@@ -95,8 +95,8 @@ def parse_recipe(inString, nlp):
 
     try:
         recipe.name = data['name']
-        recipe.name.replace('&#39;', '\'')
-        recipe.name.replace('&#34;','')
+        recipe.name = recipe.name.replace('&#39;', '\'')
+        recipe.name = recipe.name.replace('&#34;','')
     except KeyError:
         recipe.name = ''
 

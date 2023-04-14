@@ -45,16 +45,16 @@ batch_sz = 10
 
 trainds = keras.utils.text_dataset_from_directory(alldata, labels='inferred', 
                                                   label_mode='categorical', batch_size = batch_sz,
-                                                  validation_split = 0.2, subset = 'training',
+                                                  validation_split = 0.1, subset = 'training',
                                                   seed = 170230
                                                   )
 valds = keras.utils.text_dataset_from_directory(alldata, labels='inferred', 
                                                   label_mode='categorical', batch_size = batch_sz,
-                                                  validation_split = 0.2, subset = 'validation',
+                                                  validation_split = 0.1, subset = 'validation',
                                                   seed = 170230
                                                   )
 
-VOCAB_SIZE = 576
+VOCAB_SIZE = 600
 encoder = tf.keras.layers.TextVectorization(max_tokens = VOCAB_SIZE)
 encoder.adapt(trainds.map(lambda text, label: text))
 vocab = np.array(encoder.get_vocabulary())
