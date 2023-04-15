@@ -82,10 +82,10 @@ class Recipe:
         recipe_str += "How-to Steps:\n"
         for key, value in self.howToSteps.items():
             recipe_str += f"\t{key}: {value}\n"
-        recipe_str += f"Techniques: {self.techniques}\n"
+        """recipe_str += f"Techniques: {self.techniques}\n"
         recipe_str += "Reviews:\n"
         for key, value in self.reviews.items():
-            recipe_str += f"\t{key}: {value}\n"
+            recipe_str += f"\t{key}: {value}\n"""
         return recipe_str
 
 def parse_recipe(inString, nlp):

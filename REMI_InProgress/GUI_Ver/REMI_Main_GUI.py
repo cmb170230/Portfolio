@@ -299,44 +299,46 @@ def getResponse(userInput):
                     cols.append(term[0]) 
             defaultdata = np.zeros(len(cols))
             print("Search Terms:", cols)
-            #create dataframe of search results, 1 if term is found, 0 else
-            searchResults = pd.DataFrame(data=[defaultdata],index=["N/A"],columns=cols)
-            for recipekey, recipevalue in userList[currentUserId].recipeCatalog.items():
-                result = pd.DataFrame(data = [defaultdata],index=[recipekey], columns=cols)
-                for term in cols:
-                    if str(recipevalue.ingredients).lower().find(term) != -1:
-                        result[[term]] = 1
-                    else:
-                        result[[term]] = 0
-                searchResults = pd.concat([searchResults, result])
-            
-            maxSearchVal = 0
-            for index, result in searchResults.iterrows():
-                sumval = 0
-                for term in cols:
-                    sumval += result[term]
-                if sumval > maxSearchVal:
-                    maxSearchVal = sumval
-            print("Degree of Match", len(cols), maxSearchVal, maxSearchVal/len(cols))
-            filteredSearch = pd.DataFrame(data = [defaultdata], columns=cols)
-            filteredNames = list()
-            for index, result in searchResults.iterrows():
-                sumval = 0
-                for term in cols:
-                    sumval += result[term]
-                if sumval == maxSearchVal:
-                    print(index)
-                    filteredNames.append(index)
-                    filteredSearch = pd.concat([filteredSearch, result])
-
-            if not filteredSearch.empty:
-                outString += "Here's what I was able to find for you:\n\n"
-                for index in filteredNames:
-                    outString += str(userList[currentUserId].recipeCatalog[index]) + '\n\n'
-            else:
-                outString += "Sorry, I couldn't find anything close to a match :("
-            return outString
+            try:
+                #create dataframe of search results, 1 if term is found, 0 else
+                searchResults = pd.DataFrame(data=[defaultdata],index=["N/A"],columns=cols)
+                for recipekey, recipevalue in userList[currentUserId].recipeCatalog.items():
+                    result = pd.DataFrame(data = [defaultdata],index=[recipekey], columns=cols)
+                    for term in cols:
+                        if (str(recipevalue.ingredients) + str(recipevalue.techniques)).lower().find(term) != -1:
+                            result[[term]] = 1
+                        else:
+                            result[[term]] = 0
+                    searchResults = pd.concat([searchResults, result])
                 
+                maxSearchVal = 0
+                for index, result in searchResults.iterrows():
+                    sumval = 0
+                    for term in cols:
+                        sumval += result[term]
+                    if sumval > maxSearchVal:
+                        maxSearchVal = sumval
+                print("Degree of Match", len(cols), maxSearchVal, maxSearchVal/len(cols))
+                filteredSearch = pd.DataFrame(data = [defaultdata], columns=cols)
+                filteredNames = list()
+                for index, result in searchResults.iterrows():
+                    sumval = 0
+                    for term in cols:
+                        sumval += result[term]
+                    if sumval == maxSearchVal:
+                        print(index)
+                        filteredNames.append(index)
+                        filteredSearch = pd.concat([filteredSearch, result])
+
+                if not filteredSearch.empty:
+                    outString += "Here's what I was able to find for you:\n\n"
+                    for index in filteredNames:
+                        outString += str(userList[currentUserId].recipeCatalog[index]) + '\n\n'
+                else:
+                    outString += "Sorry, I couldn't find anything close to a match :("
+                return outString
+            except:
+                return "Sorry, I couldn't find any matches for you."
 
 
         """
