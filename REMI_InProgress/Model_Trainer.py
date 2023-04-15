@@ -45,12 +45,12 @@ batch_sz = 10
 
 trainds = keras.utils.text_dataset_from_directory(alldata, labels='inferred', 
                                                   label_mode='categorical', batch_size = batch_sz,
-                                                  validation_split = 0.1, subset = 'training',
+                                                  validation_split = 0.015, subset = 'training',
                                                   seed = 170230
                                                   )
 valds = keras.utils.text_dataset_from_directory(alldata, labels='inferred', 
                                                   label_mode='categorical', batch_size = batch_sz,
-                                                  validation_split = 0.1, subset = 'validation',
+                                                  validation_split = 0.015, subset = 'validation',
                                                   seed = 170230
                                                   )
 
@@ -143,9 +143,11 @@ mappings = {'d' : 'define', 'e' : 'explore', 'm' : 'modify'}
 
 # Predict on the test data and print evaluation metrics
 preds = best_nb.predict(X_test)
-print(classification_report(y_test, preds, target_names = mappings.values()))
-ConfusionMatrixDisplay.from_predictions(y_test, preds, display_labels = mappings.values())
-
+try:
+    print(classification_report(y_test, preds, target_names = mappings.values()))
+    ConfusionMatrixDisplay.from_predictions(y_test, preds, display_labels = mappings.values())
+except:
+  pass
 misclassification_count = 0
 correct_disp = 0
 i = 0
@@ -160,16 +162,18 @@ while misclassification_count < 10:
     print("less than 10")
     break
   i += 1
+try:
+    print("CORRECT PREDICTIONS:")
+    i = 0
+    while correct_disp < 10:
+        if (preds[i] == y_test[i]):
+            print('\t"' + str(X_test[i])[2:] + '"')     # [2:-3] to cut off unwanted starting and ending characters
+            print('\tActual Sentiment: {}\t\tPredicted Sentiment: {}\n'.format(mappings.get(y_test[i]), mappings.get(preds[i])))
+            correct_disp += 1
 
-print("CORRECT PREDICTIONS:")
-i = 0
-while correct_disp < 10:
-  if (preds[i] == y_test[i]):
-    print('\t"' + str(X_test[i])[2:] + '"')     # [2:-3] to cut off unwanted starting and ending characters
-    print('\tActual Sentiment: {}\t\tPredicted Sentiment: {}\n'.format(mappings.get(y_test[i]), mappings.get(preds[i])))
-    correct_disp += 1
-
-  i += 1
+        i += 1
+except:
+  pass
 
 from sklearn.linear_model import LogisticRegression
 
@@ -204,9 +208,11 @@ best_linreg.get_params
 
 # Predict on the test data and print evaluation metrics
 preds = best_linreg.predict(X_test)
-print(classification_report(y_test, preds, target_names = mappings.values()))
-ConfusionMatrixDisplay.from_predictions(y_test, preds, display_labels = mappings.values())
-
+try:
+    print(classification_report(y_test, preds, target_names = mappings.values()))
+    ConfusionMatrixDisplay.from_predictions(y_test, preds, display_labels = mappings.values())
+except:
+  pass
 misclassification_count = 0
 correct_disp = 0
 i = 0
@@ -222,15 +228,18 @@ while misclassification_count < 10:
     break
   i += 1
 
-print("CORRECT PREDICTIONS:")
-i = 0
-while correct_disp < 10:
-  if (preds[i] == y_test[i]):
-    print('\t"' + str(X_test[i])[2:] + '"')     # [2:-3] to cut off unwanted starting and ending characters
-    print('\tActual Sentiment: {}\t\tPredicted Sentiment: {}\n'.format(mappings.get(y_test[i]), mappings.get(preds[i])))
-    correct_disp += 1
+try:
+    print("CORRECT PREDICTIONS:")
+    i = 0
+    while correct_disp < 10:
+        if (preds[i] == y_test[i]):
+            print('\t"' + str(X_test[i])[2:] + '"')     # [2:-3] to cut off unwanted starting and ending characters
+            print('\tActual Sentiment: {}\t\tPredicted Sentiment: {}\n'.format(mappings.get(y_test[i]), mappings.get(preds[i])))
+            correct_disp += 1
 
-  i += 1
+        i += 1
+except:
+  pass
 
 import pickle
 

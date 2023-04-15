@@ -141,7 +141,8 @@ global inputState
 inputState = 3 #We initialize the input state to 3 to get the procedural stuff done. 3 Is the welcome state. 2 is the no name state, 1 is how can I help, 0 is I dont understand/handle error.
 global currentUserId
 currentUserId = 0 #Current user needs to be a global variable, so it is remembered between function calls.
-
+global workingRecipe
+workingRecipe = Recipe()
 
 def firstTimeThing():
     global currentUserId
@@ -227,7 +228,7 @@ def getResponse(userInput):
     global currentUserId
     global inputState
     global nlp
-    global senti
+    global workingRecipe
     try:
         print("Current Input State:", inputState)
         if inputState == 3:
@@ -291,7 +292,49 @@ def getResponse(userInput):
         if intent == 'e':
             print("Intent: Explore Reached")
             ingredientsearch, methodsearch = parseforcooking(userIn)
+            search = ingredientsearch + methodsearch
+            cols = list()
+            for term in search:
+                if term[0].find("ingredient") == -1: 
+                    cols.append(term[0]) 
+            defaultdata = np.zeros(len(cols))
+            print("Search Terms:", cols)
+            #create dataframe of search results, 1 if term is found, 0 else
+            searchResults = pd.DataFrame(data=[defaultdata],index=["N/A"],columns=cols)
+            for recipekey, recipevalue in userList[currentUserId].recipeCatalog.items():
+                result = pd.DataFrame(data = [defaultdata],index=[recipekey], columns=cols)
+                for term in cols:
+                    if str(recipevalue.ingredients).lower().find(term) != -1:
+                        result[[term]] = 1
+                    else:
+                        result[[term]] = 0
+                searchResults = pd.concat([searchResults, result])
             
+            maxSearchVal = 0
+            for index, result in searchResults.iterrows():
+                sumval = 0
+                for term in cols:
+                    sumval += result[term]
+                if sumval > maxSearchVal:
+                    maxSearchVal = sumval
+            print("Degree of Match", len(cols), maxSearchVal, maxSearchVal/len(cols))
+            filteredSearch = pd.DataFrame(data = [defaultdata], columns=cols)
+            filteredNames = list()
+            for index, result in searchResults.iterrows():
+                sumval = 0
+                for term in cols:
+                    sumval += result[term]
+                if sumval == maxSearchVal:
+                    print(index)
+                    filteredNames.append(index)
+                    filteredSearch = pd.concat([filteredSearch, result])
+
+            if not filteredSearch.empty:
+                outString += "Here's what I was able to find for you:\n\n"
+                for index in filteredNames:
+                    outString += str(userList[currentUserId].recipeCatalog[index]) + '\n\n'
+            else:
+                outString += "Sorry, I couldn't find anything close to a match :("
             return outString
                 
 
@@ -318,7 +361,8 @@ def getResponse(userInput):
             print("Ingredients Found:", ingrs)
             print("Methods Found:", methods)
             for ingr in ingrs:
-                ingrSyns.append(ingr[1])
+                if str(ingr).find('ingredient') == -1:
+                    ingrSyns.append(ingr[1])
             for method in methods:
                 methodSyns.append(method[1])
             
@@ -464,7 +508,7 @@ def getResponse(userInput):
 
 
 def getUserIntent(userstring):
-    global nlp
+    global workingRecipe
     intent = ''
     reg = intentRegressor.predict([userstring]), intentRegressor.predict_proba([userstring])
     bayes = intentBayes.predict([userstring]), intentBayes.predict_proba([userstring])
@@ -472,7 +516,7 @@ def getUserIntent(userstring):
     if bayes[0][0] == reg[0][0]:
         intent = bayes[0][0]
     else:
-        if(reg[1].max() > 0.8 and (np.std(bayes[1]) > 0.18)) or reg[1].max() > 0.995:
+        if(reg[1].max() > 0.8 and (np.std(bayes[1]) > 0.18)) or reg[1].max() > 0.985:
             print('reg override', reg[1].max(), np.std(bayes[1]))
             intent = reg[0][0]
         elif(bayes[1].max() > 0.7 and (np.std(reg[1]) > 0.25)):
@@ -583,8 +627,3 @@ def parseforcooking(inputFromUser):
         listind += 1
 
     return defineIngList, defineMethodList
-
-
-
-
-
