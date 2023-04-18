@@ -1,0 +1,1333 @@
+,"name": "Creamed Chipped Beef on Toast"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "785"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "197 kcal"
+,"carbohydrateContent": "9 g"
+,"cholesterolContent": "67 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "21 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "1641 mg"
+,"sugarContent": "6 g"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+, "recipeCategory": ["Dinner"]
+,"recipeIngredient": [
+"2 tablespoons butter",
+"2 tablespoons all-purpose flour",
+"1.5 cups warm milk",
+"1 (8 ounce) jar dried beef, chopped",
+"1 pinch cayenne pepper",
+"bread, toasted" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Melt butter in a medium saucepan over low heat. Add flour and whisk until smooth. Add milk a little at a time, whisking well after each addition. Bring to a boil over medium-high heat and cook, stirring, until thickened."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/93EJo2mhCjz6i40x6rmYD0zDdoE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/creamed-chipped-beef-on-toast-9b16b9f6d10b4a0fa78b42e321c46ab1.jpg"
+}
+]
+,"text": "Stir in beef and cayenne; cook until warmed through. Serve over toast."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robert C Dickerson"
+},
+"reviewBody": "Delicious…just like what I ate as a kid!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "William Kline"
+},
+"reviewBody": "This is awesome. I used steak-um meat the first time this time I am going to try using 80/20 ground beef."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hawaiivike"
+},
+"reviewBody": "I don't care what you say, in the Army we called it Sh** on a Shingle, but I still love it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Sunday nite supper USMC"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Classic yummy; missing the \"shingle\"... pokies biscuits and gravy😊"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jan Carkin"
+},
+"reviewBody": "Check your local deli for good dried beef. My local grocery store can't get it but my Amish/Mennonite store can. It is much less salty than Armour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cac60"
+},
+"reviewBody": "Very salty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Because of shrinkflation, 2.5oz jars are all I can find, when I can find. Still effective, very less salty. Use unsalted butter and gently stir fry in butter before making roux God Bless All!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TuttiFrutti"
+},
+"reviewBody": "I have always loved this dish! So Yum-O!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charlz"
+},
+"reviewBody": "The only thing I changed was that I added about a teaspoon of garlic pepper. I enjoyed this dish very much, thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Good stuff, but I wish I would have read the recipe more closely. I am not sensitive to salt; however, I didn’t see the “rinse the beef bit” and I ended up with a salt bomb that I couldn’t eat. Fwiw, I used 5oz of Hormel - so perhaps it’s a vendor thing. Regardless, this has the creaminess that I remember, and otherwise would have been perfect. Will try again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great recipe but I made some changes. The dried beef was FAR too salty out of the bottle for our tastes, so I boiled the salt out of it. I doubled the recipe and added cayenne, a little salt (the boiling took it all out), pepper and some garlic powder. The second go-around was much better without that extreme salt taste in it! This recipe is simple, quick and easy to make! Great comfort food!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Del"
+},
+"reviewBody": "It's very seldom that we have SOS at our house anymore. We all love it, but have you priced Chipped Beef at the grocery store lately??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NAUTILASS"
+},
+"reviewBody": "I make it with Buddigs Beef sold where lunch meats are found. Not salty and delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mz Penne"
+},
+"reviewBody": "Always used the Budding Beef (less Salty), so did my Mom. My Dad Loves the SOS. He learned to love when he went into the Air Force, and Mom made it Every and I Mean Every Saturday for 55 years"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ann K Porter"
+},
+"reviewBody": "This was my dad's favorite, although he had another explanation for SOS. As a child, I was told it was stuff on a shingle, but after I grew up, he let me know that the first S was something else. Dried beef was easily shipped around the world during World War II. My husband was more familiar with the ground beef version from his military experience."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "llauver2017"
+},
+"reviewBody": "Was quick, very simple and tasted great 👍"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Used red pepper instead of cyan pepper. Served with a side od home fried diced potatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jacqueline Peranio"
+},
+"reviewBody": "I don't use butter in my creamed chipped beef. I saute sliced onion in a bit of oil add sliced dried beef and then stir in flour then the milk. But what makes it special is the dough cakes we serve with it. Dough cakes are essentially bread dough that's rolled out, cut then deep fried. You end up with hollow little pillows of bread to scoop chipped beef up with."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Geri DiTella"
+},
+"reviewBody": "LOL we called this SOS in our house too, but it had another name S... on a Shingle."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is a good recipe except I don’t use cayenne pepper. Make it for breakfast over toast squares with cracked black pepper. Dried chip beef has gotten so expensive here ,at grocery stores, meat markets. But still make it with fried potatoes. Love it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bob"
+},
+"reviewBody": "Pretty Sweet SoS Yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "corigoodspeed2021"
+},
+"reviewBody": "Loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "india dillard"
+},
+"reviewBody": "I seasoned my a little different. I added paprika, sea salt and black pepper and I used budding ham but it was delicious! Thanks for the recipe my family love this so I'm always looking to new ones thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This could go to four or five stars if it wasn’t so darn salty. Next time, I will par boil the dried beef"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dhavi4226"
+},
+"reviewBody": "I’ve been making this recipe for many years. I have not used cayenne however. I always sauté some green, red, or yellow peppers and thicken with corn starch. It’s excellent. I may try the cayenne though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jan R "
+},
+"reviewBody": "I am glad I read the reviews as it gave me some helpful hints. My husband turned me onto this after we married 58 years ago. He ate it in the Navy and loved it. Our age has us watching salt now. I tried poaching it in hot water but it took a lot of flavor out with the salt. Next time I will give it a good rinse. I may also try the deli corned beef and see how that turns out. I thank everyone for the comments it really helps me when I'm looking at recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Loved it, its been years since last making this dish and I used ground beef."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made this with Budding beef pkg. for years. I hard boil eggs. Just chopped them up and add to mix. The longer recipe simmers the more flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dianne Reissig-Peabody"
+},
+"reviewBody": "This is an old standby in our house. We usually start by cooking some diced green pepper and onion in the butter before adding the flour. After the beef is added, we toss in a teaspoon or so of Worcestershire sauce for a bit of extra flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Faulkenator"
+},
+"reviewBody": "Everything was correct, technically, except the 8 oz. of dried beef. One large can is 4.5 oz and that's enough for the amount of gravy this recipe makes. Otherwise it's too salty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tazman"
+},
+"reviewBody": "i would double the butter, flour and milk for that much beef. good recipe though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dianne Staples"
+},
+"reviewBody": "It was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "DIANE"
+},
+"reviewBody": "Delicious but needed more milk. Too much flour, you could taste it before I added extra milch"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Icka30"
+},
+"reviewBody": "My grandfather used to eat this in the Navy. He loved it, but my grandmother could never get it just right. She probably didn’t use the cayenne pepper. My grandfather called it SOS 🆘 “shit on a shingle”."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Raymond Dean White"
+},
+"reviewBody": "I'm not fond of Cayenne pepper so I left it out. Also, I used dried beef from a jar (Armour, I think) and I rinsed it to remove the salt as it is WAY too salty otherwise. It came out delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Simon"
+},
+"reviewBody": "This time I rinsed the canned Armour dried beef, much better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Erika Wooley"
+},
+"reviewBody": "My mom made this for me since I was a little girl. Instead of toast, I would tear up 3 pieces of white bread and pour the gravy over the top. We called it Chipped Beef and Gravy. Also, we just used Buddig beef. Not sure why people call it Budding. Its right on the package!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "misty allsup"
+},
+"reviewBody": "I always make recipes exactly as stated the first time and man, was that a mistake here! I bought Armour Sliced Beef in a jar and did as the recipe said: I just dropped and stirred it into the gravy. Holy cow, was it salty! So salty we could barely stand to have one slice of beef with the gravy on bread...so salty it was mostly inedible. So, then I read reviews which say to rinse, or even boil the dried beef, with one reviewer saying this is a CRUCIAL step. I agree! Or, do as others say and use the deli sliced beef sandwich meat instead."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Corannetta"
+},
+"reviewBody": "Loved it!! I made it with deli corned beef; added black pepper, minced onion, garlic powder, and a splash of Worcestershire sauce. Delicious and quick!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tabithashouse"
+},
+"reviewBody": "My family loved it. I did not add the cayenne pepper, however I added a dash of salt &amp; a pinch of pepper and it was perfect for our taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Christina Williams"
+},
+"reviewBody": "My dad used to make this when I was little and I remember it with great fondness! So I tried to make it using this recipe. It turned out ok but definitely not how my dad made it. This recipe was lacking depth, that warm, cozy feeling that comfort flood such as this brings you. My second helping I warned up leftovers with some Worchestershire sauce and a little bit of seasoned salt. There's the depth I was looking for! Mmmm...also, next time I make this I will heed the advice of a previous reviewer that suggested the milk to be warm before adding it to the roux to prevent clumping."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Ann Martina"
+},
+"reviewBody": "This is a pretty standard recipe for a dish I've loved and been making since I was a kid, and it's quite versatile. If you're using jarred dried beef (which is way, way better than the refrigerated packaged stuff like Buddig), you really MUST rinse off the salt before adding it to the sauce. I always add a sliced hard-cooked egg or two. Sometimes I'll add curry powder. My mother used to add peas if she made it for dinner and served it on Holland rusks. I like it on crusty bread, split English muffin or bagel halves, all toasted."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry"
+},
+"reviewBody": "Loved it!! I use the beef in a Jar (Armour Dried Beef) just rinse it off, and then follow the Recipe, put over Toast &amp; when i add the milk i use my wire whip never any lumps easy, easy, easy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Audrey Noyb"
+},
+"reviewBody": "Add a dash of nutmeg, a splash of Worcestershire sauce, no cayenne (use black pepper to taste. Most importantly, BLANCH THE BEEF FIRST or your food will be so salty as to be inedible. All that said, the primary virtues of this dish are that it’s (1) easy, &amp; (2) quick. Can’t even say cheap, given what dried beef usually goes for at my local grocery."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Brooke Walden"
+},
+"reviewBody": "Way too salty. Couldn’t even eat it. Took it away from my baby and gave her yogurt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristen Coleman"
+},
+"reviewBody": "My family loved this! My mom used to make S.O.S and now I do, but the way we make it is with crumbled up hamburger and sausage. It’s really good both ways!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Casey Stratton"
+},
+"reviewBody": "Pretty good, however it tastes like it’s missing something. Maybe more butter? Or salt? Not sure. It might have something to do with the fact that I don’t use beef in mine because I am a vegetarian."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurel Kesling"
+},
+"reviewBody": "Great recipe. We find Chipped beef everywhere in Central PA. \nSOS is not the same thing. It is creamed ground beef."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Claire brown"
+},
+"reviewBody": "Delicious!! I haven’t had This in a long time. It’s great on toasted English muffins."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SJ K"
+},
+"reviewBody": "I loved this recipe. I added some garlic powder, onion powder, black pepper, and a bit more cayenne than the recipe called for, and a little bit of parsley. I also don't have a toaster so I toasted my bread in a pan, (Lewis Texas Toast slices), with 1-2.5 tbsp of butter for each slice. My rule with griddling bread is that you keep it on medium-high heat and know when a side is ready to flip when you push it with the spatula and it is stiff (and the color is right, obviously).\nThe serving size was perfect, and even though it is very filling (due to the milk and butter and meat over bread lol) I could eat this as long as I have it, full or not. So next time I will be making a large pot of it, and also making a ton of toast in the oven so we can have leftovers :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mocha7119"
+},
+"reviewBody": "This hit the spot!!! I did as others suggested and used the Budding beef. It was perfect! I will use 3 packets instead of 4 next time. Delicious recipe! So comforting. Thanks!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "labgirl"
+},
+"reviewBody": "This is a recipe my grandma always made so it brings back memories. I have a couple variations: I used 4, 2 oz pkgs Buddig dried beef, instead of the jarred beef. I also added one very important ingredient: sliced hard boiled eggs (I used 3). That gives the perfect finishing touch. Also I served on a thicker toast, like Pepperidge Farms Sourdough or an English Muffin toast type of bread. A very easy to make and good breakfast!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Jason DeMoe"
+},
+"reviewBody": "I followed the directions to the T and although the execution was fine, the dish was so incredibly salty that I literally could not take more than 1 and 1/2 bites. I believe I could honestly feel my heart seizing up. Sad to waste food but that salt content was obnoxious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jenni Roellig"
+},
+"reviewBody": "It was so easy and tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dustin Johnson"
+},
+"reviewBody": "Is a great recipe. I double the recipe to make sausage gravy and biscuits"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donald Hoffmann"
+},
+"reviewBody": "Wow, this one took me back to my childhood when my mother used to make it for us on Sunday morning before church. Loved it then and love this one just as much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mkasdorf"
+},
+"reviewBody": "Very nostalgic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Azure"
+},
+"reviewBody": "When making a roux you should put cold or room temp liquid into the hot fat/flour mixture to prevent lumps. (or cold fat into hot liquid; regardless, they are supposed to be opposite temperatures)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "dalegodfrey"
+},
+"reviewBody": "I made this with dried beef (glass jar) it was okay. I like cream chip beef had not had it in some time. The dried beef was off. so today I made it with sausage yummy good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Van Horn"
+},
+"reviewBody": "It was very good. The only thing I did was dice my chipped beef and brown it in the butter, then add flour, stir and let flour cook in butter for maybe 1 minute, then add milk and stir to keep it from forming lumps, let come to a boil afer flour has cooked and no lumps and serve on toast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brandy Drobinski"
+},
+"reviewBody": "I have made this recipe so many times and it now a favorite in my house. You do have to rinse the dried beef or it will be very salty. But other than that this is amazing!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "McClaire"
+},
+"reviewBody": "My grandmother introduced us to creamed Chipped Beef when were kids. I've made it for years from a recipe just like this one. Time in the Chipped Beef saddle has given me the chance to play around with the recipe (but not too much! It's a classic, after all). I like to make it a little richer with a splash of half-and half in the milk, and I have changed up the seasonings with a little dried rosemary or a favorite steak seasoning. It serves up very nicely over English muffins or a stout artisanal bread."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nella"
+},
+"reviewBody": "I’ve made this twice and making it again for dinner tonight. I use the Budding deli meat because I have a hard time finding the stuff in the jar. The first time I made it is seemed like it was missing something. I added a little white sugar to it and it turned out awesome. I may try the nutmeg suggestion tonight."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cforesman1970"
+},
+"reviewBody": "Loved this recipe! Only change I made was not adding Cayenne."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "pomplemousse"
+},
+"reviewBody": "I used Buddig brand sliced beef, and used a pizza cutter to slice into smaller pieces. I added a pinch of salt and pepper to make up the flavor difference. This recipe is super easy if you've made a roux before; if not, don't despair abut it not thickening immediately. My experience is that a roux needs to boil then as it cools down, it thickens. Hubs likes this gravy more than I do; I tried it and thought it was palatable, but he really likes this type of gravy and finished it all! I call that a success. Thank you for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Russ Taylor"
+},
+"reviewBody": "Easy to make and tasty. Sometimes I switch the dried beef to spicy ground pork sausage and serve over biscuits."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "AndreaAllenNYC"
+},
+"reviewBody": "Much, much too salty. I had to dilute it to the point of using 1/4 of the chipped beef."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "susan_s"
+},
+"reviewBody": "No substitutions. Just rinsed the dried beef really well. That stuff is salty as is!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jesse W."
+},
+"reviewBody": "Super easy recipe, made a perfect gravy. I used a 4.5oz jar of chipped beef and I did soak it in hot water before I chopped it up and added it to the gravy. I also added a heavy pinch of black pepper. Awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Craig Mayberry"
+},
+"reviewBody": "I saute a diced medium mild white onion and cut the chipped beef into 1/2 inch \"chips\" and saute them as well before adding the flour and some black pepper. No need for any salt. Served over buttered sour dough bread it is delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry Flatt"
+},
+"reviewBody": "Loved it!!! I did alter the recipe a bit. I sautéed 1/4 cup sweet onion &amp; 1 clove of minced garlic in 2.5 Tbls butter. I then added 2 Tbls or so of flour. I added a can of condensed milk plus 1/2 cup milk. Cayenne pepper &amp; a tsp of pepper. Then I added 1 regular sized package of beef lunch meat. Served over mashed potatoes. Delicious! I did not add any salt to the recipe and it was fine. I’m going to add a small can of sliced mushrooms next time. Drained or undrained. Just adjust milk. Enjoy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Hornberger"
+},
+"reviewBody": "Ah, when we had it and called it SOS it was not same old stuff.......in the Army SOS for creamed chipped beef was S...... on a shingle."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bill Hanna"
+},
+"reviewBody": "What a NICE flavor! Made a double batch, using Buddig beef. An extra pack of beef was easy accepted by the white sauce (3 total). Added pepper too - oh my, tasty! I’d say a double batch feeds a fam of 4. Easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Biibii"
+},
+"reviewBody": "This brought back so many childhood memories. We really enjoyed it. I used black pepper instead of cayenne and made sure to rinse the dried beef as suggested by other reviews. Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Elsendiera Scott"
+},
+"reviewBody": "It came out great, but I used a quarter pound of deli meat corned beef and fried it a little in the butter before adding the flour and then the milk."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "keith Leblanc"
+},
+"reviewBody": "Made this for Mark Borezo and the gang. They raved about it ! Great recipe !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "justin phillips"
+},
+"reviewBody": "We've made this twice both times using roast beef from the deli counter. Kids liked it especially because of its name"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Arlene"
+},
+"reviewBody": "Loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Megan Bauer"
+},
+"reviewBody": "as a kid my parents called this on a shingle, its something ive kept with me into adulthood, quick and easy to make :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dale Sharp Sr."
+},
+"reviewBody": "Didn’t make any changes I used budding meat 4 packs was plenty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brian And Michelle"
+},
+"reviewBody": "This recipe is great, but using half of the chipped beef that is recommended is plenty for this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Louis McAlister"
+},
+"reviewBody": "Followed recipe using four packs of Buddings beef (8 oz). Turned out really good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cherry Felts"
+},
+"reviewBody": "I love SOS. Grew up eating it and so did my parents. My Dad grew up in southern WV and this recipe is very similar to his. The only differences being we do not use cayenne and it is much tastier if you fry the beef in the butter. After it starts to curl and darken, remove it from your skillet and make your roux in the flavored butter. Perfection."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kurt Encke"
+},
+"reviewBody": "I love SOS! I use half and half instead of milk, though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lydia Atkinson Bartee"
+},
+"reviewBody": "Didn't have any cayenne pepper...will get some soon because I saw another recipe that calls for it. Still tasted awesome. Even got leftovers :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Janet Kelton"
+},
+"reviewBody": "I will make it again, but will use less dried beef it was too salty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Johnna Stepanek"
+},
+"reviewBody": "This is a family favorite in our house. My mother in law used to put Worcestershire sauce in hers and that's how I make it. I use 1/4 teaspoon of Worcestershire sauce and it gives it a nice flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bill Miller"
+},
+"reviewBody": "This is great stuff. I've been making it for 50 years.\nSome few butcher shops carry \"the real thing\" instead of those little jars, which are okay, but if you find it where they slice it to order, try it!\nThis is also great served over a baked potato, or noodles."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Penny Krc"
+},
+"reviewBody": "I haven't made this in quite a few years. I don't know where it originated but my dad learned it in the army during the Korean war in '50-'51ish. Back then it was also known as SOS but then it was short for Shi£ on a Shingle."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NCgirl17"
+},
+"reviewBody": "Loved it!! Yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Silver Smith"
+},
+"reviewBody": "Garlic powder and onion powder and parsley and chives"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dan Poole"
+},
+"reviewBody": "So, it's a good recipe but I made it a little different because it doesn't make much.\n\nI doubled the milk, butter and flour\nUsed 4 2oz packs of Budding Beef lunch meat (diced)\n\nAnd used about 2 pinches of pepper, crushed red pepper and cayene pepper.\n\nIt tasted amazing. Just will be tripping the ingredients next time instead of doubling."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fyre5r"
+},
+"reviewBody": "Been in the fire department for 20+ years and we used to eat this about once every 3 shifts in my younger years until we started getting more health conscious at work! It’s okay to fall off the wagon every now and again. Turned out great and everyone loved it!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephen Crocker"
+},
+"reviewBody": "I love creamed Chip beef but this recipe is missing a crutial ingredient: a tablespoon of Worcestershire sauce. Makes all the difference in the world. I’d pass on the cayenne pepper as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MeganP"
+},
+"reviewBody": "Very easy to make. I used whole wheat flour and chipped deer. It turned out perfectly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Marilyn Ehrhart De Block"
+},
+"reviewBody": "It had been a long time since I had made chipped beef and, since this recipe didn't mention that you should rinse the meat prior to cooking, I didn't. It also doesn't mention that you should shred the beef before cooking (I did remember that part). My old recipe says to brown the shredded beef in the melted butter before adding the milk/flour ingredients. The bottom line is... it was too salty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jennifer enchaustegui"
+},
+"reviewBody": "MY mother in law made something similar but ground beef instead and peas on top she called it SOS \" on Shingle\" it was the most comfy meal I ever had"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "duboo"
+},
+"reviewBody": "I like salt, but this was too much. The recipe left out a very crucial step of rinsing the beef. The recipe isn't the least bit palatable as written. The meat to \"gravy\" mixture is off too and should have more milk. I will make again with my changes."
+}
+]

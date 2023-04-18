@@ -84,7 +84,8 @@ def allRecipeScrape(link):
     except:
         print("Expired Link")
 
-    return link
+    return fname
 
 
-main()
+if __name__ == "__main__":
+    main()

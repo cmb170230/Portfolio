@@ -1,5 +1,11 @@
 ,"name": "Strawberry Whip in a Black Sesame Tuile"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
 ,"cookTime": "PT10M"
+,"keywords": "Chef John, Foodwishes"
 ,"nutrition": {
 "@type": "NutritionInformation"
 ,"calories": "398 kcal"
@@ -53,7 +59,27 @@
 ,"text": "To finish the whip, add cold heavy cream to the macerated berries and whisk until medium-stiff peaks form."
 } ,{
 "@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/B6g3fz3tiExLz1hCWnA2u5TjZBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/StrawberryWhipinaBlackSesameTuileChefJohn4x3-66f4132c9e5240389dda682174236478.jpg"
+}
+]
 ,"text": "Spoon the whip into the tuile cups and serve immediately."
 } ]
 ,"recipeYield": ["4"]
 ,"totalTime": "PT160M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TreagerGreger"
+},
+"reviewBody": "Absolutely delicious! Very easy recipe but can get challenging when forming the Tuile. You must work quickly and have the right size ramekins. Wife said it tasted and looked like a 5 star restaurant desert. Definitely going to be a summer hit this year! Way to go Chef John, you did it again!!"
+}
+]

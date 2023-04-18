@@ -2,7 +2,7 @@
 ,"aggregateRating": {
 "@type": "AggregateRating",
 "ratingValue": "5",
-"ratingCount": "1"
+"ratingCount": "3"
 }
 ,"cookTime": "PT235M"
 ,"nutrition": {
@@ -88,6 +88,32 @@
 ,"recipeYield": ["4"]
 ,"totalTime": "PT265M"
 ,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LT2010"
+},
+"reviewBody": "Amazing! Chef John does it again. The beef was so tender and amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Just made this in the slow cooker, I followed the sauce recipe but added less water, I removed the beef from the sauce after 4hrs let it rest and added the noodles and stir fry vegetables directly to the sauce in the crockpot. It was incredible soooooo tasty. Thanks x"
+}
+,
 {
 "@type": "Review",
 "reviewRating": {

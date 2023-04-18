@@ -1,0 +1,1338 @@
+,"name": "Slow Cooker Buffalo Chicken Sandwiches"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "2535"
+}
+,"cookTime": "PT360M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "578 kcal"
+,"carbohydrateContent": "81 g"
+,"cholesterolContent": "54 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "31 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "2902 mg"
+,"sugarContent": "5 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+, "recipeCategory": ["Dinner","Lunch"]
+,"recipeIngredient": [
+"4 skinless, boneless chicken breast halves",
+"1 (17.5 fluid ounce) bottle Buffalo wing sauce, divided",
+"0.5 (1 ounce) package dry ranch salad dressing mix",
+"2 tablespoons butter",
+"6 hoagie rolls, split lengthwise" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place chicken breasts into the slow cooker; pour in 3/4 of the wing sauce and ranch dressing mix."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover and cook on Low for 6 to 7 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Shred chicken in the cooker with two forks. Stir in butter."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/U49YOpF4S5OrgjffssPWy0thhag=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1113368-slow-cooker-buffalo-chicken-sandwiches-ReneePaj-1x1-1-f1ab4c11111343f7b88ddbfd9df88771.jpg"
+}
+]
+,"text": "Pile shredded chicken and sauce onto hoagie rolls. Serve with remaining Buffalo sauce."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT370M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "yvonnie_21"
+},
+"reviewBody": "This was easy and delicious! For my picky family it was a big win for me. They all loved it and asked for seconds even wanted thirds. I used SWEET BABY RAY'S BUFFALO WING SAUCE, and it still had a kick to it, but it was more like a child kick verses an adult kick lol Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bender21"
+},
+"reviewBody": "This is my go to recipe for sunday night football dinner. Never disappoints! I top with blue cheese crumbles and chopped celery. Yumm!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Carolina"
+},
+"reviewBody": "For those who like spicy sandwiches this would be good; however, for me, this was way too hot using original Franks hot sauce. I may try again with a milder version."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christy Ratto-Bixby"
+},
+"reviewBody": "Made this for the boys tonight and they just loved it. After shredding the chicken I added some creamy ranch dressing and totally forgot the butter. Put them on hoagie rolls with extra ranch and shredded mozzarella cheese. Delish"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fergy Ferguson"
+},
+"reviewBody": "Very simple very delicious,and I don’t like chicken,that being said Im not one to follow recipe’s to exact but same concept,I used several thigh’s several Brest tenderloins 2-3 tbs of butter pack of the dry ranch dressing mix and a 12oz bottle of Parmesan garlic wing sauce,cook for 5 hrs shredded it up cut up a red onion left them in rings for about 30 mins just to tinder up…added the onion a honey vinegar base slaw and blue cheese crumbles to a homemade sweet hoagie bun.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jharris"
+},
+"reviewBody": "I've made this three times now. Very good and easy. You need to use the lowest sodium buffalo sauce you can find as this makes a big difference. Franks is a good choice. It's just too salty if you use one with a high sodium content."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kt627"
+},
+"reviewBody": "This was so easy and my entire family loved it, it was perfect for Buffalo chicken wraps"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jana"
+},
+"reviewBody": "very good, used a small amount of ranch dressing as I did not have a package of dry ranch seasoning"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Brown"
+},
+"reviewBody": "Made this last night for dinner it was more spicy when I first made. My family devoured the left overs the next day lol. I think next time I will add a tablespoon or two of brown sugar as it would make a great sweet and spicy sauce. One could definitely if they didn’t like the spicy Buffalo sauce could do any flavour Bbq sauce. Thank you for posting this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Deans"
+},
+"reviewBody": "Love it! Simple to make and taste great. Only 4 stars because nothing is perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "awecas"
+},
+"reviewBody": "Good and easy to make. Used Sweet Baby Rays Wing Sauce and it was amazing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "JudiPaVa"
+},
+"reviewBody": "I used Frank's Wing Sauce, low salt broth to start the slow cooker part, and it was soooo salty I had to drain the juices, thin them out, add more chicken and basically start over."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise Small Mellick"
+},
+"reviewBody": "I made this recipe 10/11/20, and it was AWESOME! I couldn’t believe how good it tasted. First of all I cooked mine in a 4 qt. crockpot because it’s only me and so I perfectly guestimated how much of everything to add. But what really shocked me is because the recipe called for the \nRanch Dressing mix, it gave the meat taste as if I had put Cheese in the recipe, but I didn’t. And before I ate it I took a picture and sent it to my daughter in California."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ronwilliams92277"
+},
+"reviewBody": "It was easy to make and we enjoyed it. Four chicken breast makes allot. We used hotdog buns and next time we will use hambuger buns."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Laws"
+},
+"reviewBody": "Too spicy...possibly due to spicy sauce I bought."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "THEBACCHUS"
+},
+"reviewBody": "I didn’t have bottled Buffalo Wing Sauce so made to Buffalo Chicken Wing Sauce from this site without adding additional cayenne or vinegar. Served w iceberg lettuce as a wrap, thinly sliced celery and green onion, and with Ken’s chunky blue cheese dressing. Yummy!Next time I used homemade Buffalo Chicken Wing Sauce from this site using Louisiana Hot Sauce (much more mild than others) - do NOT add cayenne"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CoriLee Martin"
+},
+"reviewBody": "made exactly as written, great recipe thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mamzie"
+},
+"reviewBody": "Other than using skinless chicken thighs, I followed the recipe exactly. It's really super, my family loved it and will now add this to my regular rotation. (I did dice up celery bits and had crumbled blue cheese to put on top.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John"
+},
+"reviewBody": "My kids absolutely love this. It’s simple to set up and make. It’s a great quick meal that I know the kids love. I dip my in blue cheese dressing. And left overs if there are any don’t last more than a day. Family favorite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie Sussman"
+},
+"reviewBody": "I think these stink up the house and I do not like buffalo sauce BUT my husband actually begs me to make these. Literally his favorite sandwich and he loves to bring some to his coworkers too so I cook it if I know I’m going to be gone all day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary"
+},
+"reviewBody": "This is my go to recipe! It’s delicious comfort food with very little preparation \nAlways a hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ZKR BATES"
+},
+"reviewBody": "Easy and great for a crowd for a game day or any other gathering!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robyn Adelman"
+},
+"reviewBody": "I made it using Buffalo and also a mild sauce version. There is regular chicken salad in the background of the picture from a different recipe. This was SUPER spicy and ABSOLUTELY amazing. The smell and the taste. TWO THUMBS UP!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Erin Meister"
+},
+"reviewBody": "Very strong, tangy flavor. Good for buffalo sauce fans. My husband liked it, so will probably make it again for him. Super easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JMac"
+},
+"reviewBody": "I made sure to buy the Frank's WING sauce instead of Frank's HOT sauce. We did not need to add any of the reserved sauce to the sandwiches because the chicken was hot enough with the amount already on it. I may increase the butter a little next time. I made ranch dressing to serve with the sandwiches."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aurora Bauch"
+},
+"reviewBody": "It was absolutely amazing, but if you can’t handle spicy foods make sure you get mild buffalo sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wisconsin Mom"
+},
+"reviewBody": "Love this recipe! I've made it several times and never felt the need to alter it. Cheers"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Britshain"
+},
+"reviewBody": "Super great. Ed said he would eat it again. Might be good with cheese added to the sandwich"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Muller"
+},
+"reviewBody": "Tender, juicy, scrumptious chicken. I didn't add the butter.\nServed over lettuce, tomato and shredded cheese salad. drizzled some of the sauce it cooked in over the shredded chicken. Wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy LaPierre"
+},
+"reviewBody": "This was fabulous!! I used the leftover chicken the next day for chicken nachos and they were the best!! Definitely saving this recipe to add to our meal rotation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy"
+},
+"reviewBody": "I have made this several times - we love it! I always butter and toast the rolls for the sandwiches prior to serving these."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "smvano"
+},
+"reviewBody": "Excellent! My husband and I loved this dinner! I wasn't expecting much because it was super easy, so it was a nice surprise. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Lang Pavey"
+},
+"reviewBody": "This is delicious! I have made it twice and it has been a hit both times. Lots of flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Yvonne C"
+},
+"reviewBody": "Super easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rayma Cogdill"
+},
+"reviewBody": "Used a mixture of breast and thighs,. I did not have a problem with it being dry. I used Moores original buffalo wings sauce. Just the right kick,. Will have again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crumblesnatch Humperdink"
+},
+"reviewBody": "This was an excellent dish. I added a half cup more of buffalo sauce and used the whole packet of ranch seasoning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Momma Joe"
+},
+"reviewBody": "I made these for my restaurant and made wraps instead of sandwiches. My customers are loving them. I changed nothing except how I am serving them. Lettuce, tomato, cheese and ranch dressing. Definitely a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chelcie Pollman"
+},
+"reviewBody": "One of my family’s favorites! We put the chicken on Hawaiian rolls topped with ranch dressing and pickle slices!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ely"
+},
+"reviewBody": "Easy. Yummy. Hot! Made as directed. Severed on a hoagie with celery sticks and blue cheese. Next time will serve on sliders. Great party food."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Taffy Fudge"
+},
+"reviewBody": "Everyone loved them except my husband. He prefers them more when I add barbecue sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bev Brown Baker"
+},
+"reviewBody": "It was a bit salty for me but my husband liked it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "StephB"
+},
+"reviewBody": "Good. Made in the Instant Pot instead of the crockpot. Also toasted the bun in the oven (with cheese) before hand then added the chicken and baked 5 minutes more. Added ranch to top it off. You could really do this with any chicken wing sauce combo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Marissa Marcario"
+},
+"reviewBody": "I made this and the taste was pretty good. But the chicken came out a bit dry and a bit difficult to chew. I expected this to be a melt in your mouth kind of thing and it did not reach my expectations."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Davis"
+},
+"reviewBody": "I've been making this recipe for about two years now and my sons (ages 12 &amp; 15) ask me to make this all the time! My husband enjoys it also. It's so easy and oftentimes I'll just make some rice to go along with it and a vegetable and they like it this way just as much as eating as a sandwich. I'm not crazy about buffalo sauce myself, so when shredding it I will just keep some aside for myself before I add back to the sauce. Great, easy recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Henry Bustamante"
+},
+"reviewBody": "I got tired of using it in sandwiches so I put it over spinach with bleu cheese dressing and came out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EGLFAN"
+},
+"reviewBody": "My husband and I loved this recipe. I follow it exactly and have made it multiple times. It is delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "HCG"
+},
+"reviewBody": "I enjoyed it, but the additional butter was overkill. The butter in the hot sauce is sufficient.\n\nYou may also want to be aware that putting this much hot sauce in a pressure cooker will fill the air with spicy. My partner was coughing up a storm while it cooked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Madison Reasnor"
+},
+"reviewBody": "My fiance and I both love this recipe! You can put it on Hawaiian rolls, in a croissant, or even tacos! I even just eat it plain and its still great as leftovers! We always have some of this in our fridge! You won't be disappointed!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bill Mead"
+},
+"reviewBody": "Outstanding! Easy recipe and excellent flavor. Made enough for 3 meals plus."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jim Henderson"
+},
+"reviewBody": "It was very good &amp; doesn't get much easier than this. I used Hooters wing sauce &amp; Hawaiian hamburger buns."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robert Zill"
+},
+"reviewBody": "Ridiculously easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth Ricks"
+},
+"reviewBody": "Great sandwiches! It freezes well too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kteal143"
+},
+"reviewBody": "These are so easy and so delicious! Just throw everything in and go to work, and come home to dinner!! The only adjustment I made was adding a cup of chicken broth when I added all the other ingredients. The first time I made it, my husband and son found them to be too spicy, so this really helps tone the wing sauce down a bit, but still have a great flavor! I love to pair these with baked mac and cheese and green beans. Make them! Tonight! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mochamom"
+},
+"reviewBody": "Add some ranch dressing instead of ranch powder"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Autumneyes"
+},
+"reviewBody": "Tasty Sandwich, mine was a little strong, in flavor , but I believe that was my fault. My husband love it. I put ours on toasted onion buns . I added chunky blue cheese dressing, my husband used ranch and topped it with celery leaves"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Caitlin Nicole Beaudry"
+},
+"reviewBody": "SO easy to do, and SO tasty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "SilverFox"
+},
+"reviewBody": "Tried this 3 times and got the same result each time.....dry cling to your mouth chicken. Maybe I am doing something wrong but this was just not good, the flavor didn't penetrate the chicken and the sauce breaks down and needed rework after coming out of the crock pot......maybe I am just not a crock pot cooker........time to throw it out"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jessmalally"
+},
+"reviewBody": "Love, Love, Love this recipe! No alterations, delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CONNIE STORLIE"
+},
+"reviewBody": "I made this for dinner yesterday. It’s a fantastic recipe as is. We all devoured it! My only regret is not doubling the recipe for another meal. I will make this again and again! Toasting the buns makes all the difference, along with using a slotted spoon for serving to avoid the juiciness of a sloppy sandwich."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mike dunn"
+},
+"reviewBody": "Oh, muh, GAAAWWWDDD! Best decision you’ll ever make. Make it now!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Billiejo73"
+},
+"reviewBody": "Awesome my whole family LOVED it even my picky eaters definitely make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jan Picerno"
+},
+"reviewBody": "Easy and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Mat Scott"
+},
+"reviewBody": "Okay, pretty bland though with the only two flavors. Tastes like a sandwich that's trying to be a chicken wing but isn't quite succeeding..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "maraia"
+},
+"reviewBody": "I have made this recipe so many times that I decided to finally leave a quick review. This is always a huge hit and you can easily adjust the ingredients to serve 2 or 20!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anthony Miske III"
+},
+"reviewBody": "So simple but oh my god delicious!! I used Texas Pete Buffalo Wing Sauce for the hot sauce and put provolone cheese on the hoagie. WOW!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lauren"
+},
+"reviewBody": "I made a huge batch for a crowd, and they loved it. Super easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Momma Mophead"
+},
+"reviewBody": "I absolutely love buffalo chicken wings. I decided to halve this recipe as it’s only two of us. Instead of using our slow cooker, I decided to cook chicken in my Instant Pot for an hour &amp; 15 mins. I used Franks but realized the 2 bottles I had were different labels. Aghast!! One was wing sauce the other Hot sauce. I had already poured the hot sauce when I realized the difference. So note to self for future reference. I then added the equal amount of Wing sauce. I couldn’t wait to try it, it came out so tender &amp; minimal shredding was needed. I found it to be very spicy for my taste &amp; a bit salty but that could have been my fault due to the Hot sauce confusion. I will update when I use the correct sauce in future. Thank you for an easy meal!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "rthgeorgia"
+},
+"reviewBody": "I think that if we had used another sauce, this would have been a 5 star review."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Renee S"
+},
+"reviewBody": "I like the flavor, but I think I'd like it better with thighs. I like more fat on my chicken and I always had a little bit of a texture problem with breast meat. I'm on a low-carb diet and ate it without a bun, which may have made a big difference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "aimeemarie "
+},
+"reviewBody": "Not my favorite"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ana Diaz-Rosario"
+},
+"reviewBody": "It was the best pulled chicken sandwich.i made this in my Instant Pot, it was done in less then 30 minutes also I used chicken thighs which is much better then breast. I pull on Hawaiian little rolls with homemade cole slaw and avocado. I forgot to take a photo as we were starving. Next time I will do this with pork shoulder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chunkmrmom"
+},
+"reviewBody": "Amazing and so easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MissYankee"
+},
+"reviewBody": "This was pretty good, nothing extraordinary. I have a buffalo chicken pasta and a sloppy joe recipe that would probably get chosen over this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marcie Pfeifer"
+},
+"reviewBody": "I can't give this enough stars! I used four chicken breasts, 3/4 of a bottle of sweet baby rays buffalo sauce and a packet of hidden valley ranch dressing mix, low for six hours, then shredded it and returned it to crock pot (with the rest of the bottle of sauce) for an hour on warm. It was amazing! It has quite a kick but cheese and some ranch or mayo helps cut it back a bit. And I normally hate spicy things. Yum!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "randicooksnow"
+},
+"reviewBody": "this was so yummy! I've made it a ton of times now and I usually can't do spicy but this is just so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Sheehan"
+},
+"reviewBody": "I would have given it 6 stars if I could have!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "sofiaa"
+},
+"reviewBody": "Came out pretty good! Chicken was a bit over cooked"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Billy Bo"
+},
+"reviewBody": "Added a little more Buffalo Chicken Sauce just to give a little bit more kick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "abafia"
+},
+"reviewBody": "My family did not like. The sauce was overpowering."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rox1957"
+},
+"reviewBody": "Made it exactly as suggested! Not too spicy which my husband appreciates. I added extra hot sauce to my sandwich and used crumbled blue cheese on top of chicken. \n\nLater in week I used the shredded buffalo chicken to make a pizza adding onion and crumbled cooked bacon and shredded mozzarella on top of a crust spread with Ranch dressing! Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Flynn"
+},
+"reviewBody": "Sooo good! It is a great and easy dish to make, and it is SPICY!!! I am still going back and forth as to which kind of bun to use, I think I am going to try toasting the buns in the oven next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JATHAT"
+},
+"reviewBody": "Excellent! Made exactly as written and get requests for it often by family and friends. Thank you for an easy, delicious recipe to add to our rotation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ginney Ford"
+},
+"reviewBody": "I made no changes and it was very good. I used the leftover in a buffalo chicken dip. Delish!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Angela Schmidt"
+},
+"reviewBody": "Very good could add any sauce you want"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MommaBear76"
+},
+"reviewBody": "My family loved this dish, we served it on soft tortillas with a smear of cream cheese and rolled it like a burrito. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shannon Horton"
+},
+"reviewBody": "I don’t like buffalo sauce but I made it for my boyfriend and he loved it. It made a lot and he ate the leftovers for days."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrew Chisholm"
+},
+"reviewBody": "Instead of the ranch packet, I offer ranch dressing as a condiment. This is popular at home and parties."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kelsdooger"
+},
+"reviewBody": "So. Frickin'. Good!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Gwen Naumann"
+},
+"reviewBody": "Really good. We top it with cheddar and American cheese slices and some blue cheese dressing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "whachagotcooking"
+},
+"reviewBody": "Really easy recipe to follow with just a few ingredients. The only think I added was a 1/2 cup of chicken stock. I used Frank's Buffalo Wing sauce and it was somewhat spicy. That was OK since we all like spicy. If you don't like spicy just look for a mild Buffalo Wing Sauce. I cooked it at a low setting for 3.5 hours shredded it and returned it to the crock pot and let it simmer in the juices. I simply shredded the chicken breasts with a knife and fork. A few reviewers commented their chicken breasts were dry but just make sure you cook it on low, and there is enough sauce too. My buffalo chicken did not come out dry at all Another reviewer compared the shredded chicken to tuna. It sounds like they used a processor to shred the chicken. Simply use a knife and fork and it will not shred like tuna! My whole family loves this recipe and asks for it over and over again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shannon"
+},
+"reviewBody": "Having made this for many years now, this is one of those failsafe recipes that's easily \"tweakable\" and great for serving a crowd. I always use thighs, as I find they're better suited for the crockpot. A bonus is that my crockpot is a beast and I can have this done from start to finish in 2 hours. I use Frank's Red Hot sauce and serve on toasted onion buns with melted provolone, shredded lettuce, and a side of crispy onion rings. I keep bleu cheese dressing or crumbles on the side for those who want to add extras. Carmelized onions (or even raw for those like me who love raw onions) make excellent toppings as well. This is made often at my house, and will continue on as a game day tradition!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Becca"
+},
+"reviewBody": "It was good but I couldn't really taste the ranch dressing. Maybe I overdid it on the buffalo sauce, or it was too hot. I used Texas Pete's."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leah Salvadori"
+},
+"reviewBody": "Super easy and very yummy! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Swanson"
+},
+"reviewBody": "This was one of my favorite sandwiches at a local restaurant, but they stopped making it, so I was very happy to find this recipe and even happier when I tasted it! I absolutely LOVED it and will definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jeff C"
+},
+"reviewBody": "I added some finely diced red onion during the cooking. After I shredded the chicken I separated the chicken to add some Frank's Kickin' BBQ sauce in one batch, and regular Frank's Chicken Wing sauce in the other. Everyone loved both mixtures."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wendy Laliberte Daniels"
+},
+"reviewBody": "I have made this many many times and it always comes out great! I usually make coleslaw to put on the sandwiches and serve blue cheese dressing with it. You can up the spice value by getting the HOT wing sauce, but make sure it's WON'T sauce, not just Tabasco sauce..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made using Sweet Baby Ray's Buffalo Wing sauce and had people coming back for seconds. This has become a recipe of choice!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lutz_spuddy"
+},
+"reviewBody": "I made using Sweet Baby Ray's Buffalo Wing sauce and had people coming back for seconds. This has become a recipe of choice!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MN Girl"
+},
+"reviewBody": "I made it as stated worth Frank's hot buffalo sauce and served on toasted buns with blue cheese dressing and celery. This was a big hit!"
+}
+]
